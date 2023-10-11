@@ -3,7 +3,6 @@ Configurationed=Configured
 1 Times = 1 Time
 Kochokocho=Tickling
 
-
 ZZMCZ= {{A}}
 ZZMDZ= {{B}}
 ZZMEZ= {{C}}
@@ -56,6 +55,17 @@ ZMMOZ={{M}}
 ZMMPZ={{N}}
 ZMMQZ={{O}}
 ZMMRZ={{P}}
+
+}Z{=} {
+}Z =} 
+}Z=} 
+}{=} {
+
+ ...=...
+  ～=～
+  -=-
+  …=…
+  
 
 Owned Number=Owned
 tiger=Tiger
@@ -373,7 +383,3 @@ Z～=～
 ,y=, y
 ,z=, z
 
-}Z{=} {
-}Z =} 
-}Z=} 
-}{=} {
