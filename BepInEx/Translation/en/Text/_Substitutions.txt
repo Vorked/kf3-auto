@@ -428,6 +428,7 @@ Kari=Kari
 準備良し！=Ready!
 興味津々！=Very Interesting!
 アイテムが足りません=Not Enough Items
+フレームレート=Framerate
 
 ----------RAIDS----------
 累計でイベントクエストを10回クリア=Cleared the Event Quest 10 times
@@ -2699,7 +2700,7 @@ WAVE数= Waves
 アリサ＝サザンクロス=Alisa Southern cross
 エイリやん=Aliyan
 ワニガメ=Alligator Snapping Turtle
-アイベックス=Alpine Ibex
+アイベックス=Ibex
 マーモット=Alpine Marmot
 アマゾンツリーボア=Amazon Tree Boa
 ミシシッピーワニ=American Alligator

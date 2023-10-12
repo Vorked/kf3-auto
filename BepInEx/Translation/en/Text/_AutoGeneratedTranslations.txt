@@ -1,4 +1,5 @@
 ﻿-----REGEX-----
+r:"^あと([0-9]+)/([0-9]+)$"=and $1/$2
 r:"^([0-9]+) left　([0-9]+)/([0-9]+)まで$"=$1 left through $2/$3
 r:"^　([0-9]+)/([0-9]+)まで=　Through 10/19$"=Through $1/$2
 r:"^所持数([0-9]+)$"=Owned - $1
@@ -90,7 +91,7 @@ r:"^無料で([0-9]+)回しょうたいします\\nよろしいですか？$"=I'
 r:"^ぷれみあむ☆([０-９]+)フレンズしょうたい([０-９]+)$"=Premium ☆$1 Friends Invitation $2
 r:"^ぷれみあむ☆([０-９]+)フレンズしょうたい$"=Premium ☆$1 Friends Invitation
 r:"^☆([０-９]+)フレンズしょうたい$"=☆$1 Friends Invitation
-r:"^([0-9]+)倍になる"=$1 Times.
+r:"^([0-9]+)倍になる$"=$1 Times.
 r:"^合計けもステータスを([0-9]+)以上にはじめて到達！$"=Total Kemo status reached over $1 for the first time!
 r:"^シナリオバトル([0-9]+)$"=Scenario Battle $1
 r:"^最終更新　([0-9]+\/[0-9]+\/[0-9]+　[0-9]+:[0-9]+)$"=Last updated $1
@@ -104,19 +105,19 @@ r:"^([0-9]+)コーラス以上のけもコーラスを発生させてクリア$"
 r:"^メインストーリーS([0-9]+) 第([0-9]+)章$"=Main Story S$1 Chapter $2
 r:"^ターン ([0-9]+)$"=Turn $1
 r:"^クラス([0-9]+)$"=Class $1
-r:"^階級([0-9]+)段%"=Grade $1
+r:"^階級([0-9]+)段$"=Grade $1
 r:"^Beat!!!で([0-9]+)コーラスを発生させてクリア$"=Clear $1 choruses with BEAT!!!
 r:"^([0-9]+)ターン以内にクリア$"=Clear within $1 turns
 r:"^ターン ([0-9]+)/([0-9]+)$"=Turn $1/$2
 r:"^ランク([0-9]+)$"=Rank $1
 r:"^とくべつくんれんに([0-9]+)回挑戦$"=Challenge $1 times to Kubetsu Training
 r:"^-([0-9]+)分$"=-$1 minutes
-r:"^([0-9]+)話"=Ep. $1
-r:"^クリアターン数 ([0-9]+)"=Cleared in $1 Turn(s).
-r:"^クリアターン数 <size\=28>([0-9]+)</size>"=Cleared in $1 Turn(s).
+r:"^([0-9]+)話$"=Ep. $1
+r:"^クリアターン数 ([0-9]+)$"=Cleared in $1 Turn(s).
+r:"^クリアターン数 <size\=28>([0-9]+)</size>$"=Cleared in $1 Turn(s).
 r:"^次の回復まで ([0-9]+):([0-9]+)$"=Recovery Time: $1:$2
 r:"^スタンプ([0-9]+)個と電池を受け取りました$"=Received $1 Stamps and Batteries.
-r:"^あと<size\=30><color\=#FF6E00>([0-9]+)</color></size>個入手で効果量アップ"=Get <size\=30><color\=#FF6E00>$1</color></size> to increase the effect!
+r:"^あと<size\=30><color\=#FF6E00>([0-9]+)</color></size>個入手で効果量アップ$"=Get <size\=30><color\=#FF6E00>$1</color></size> to increase the effect!
 r:"^([0-9]+)個$"=$1 Pieces
 r:"^最終ログイン([0-9]+)日前$"=Last Login: $1 Days Ago
 r:"^([0-9]+)話$"=Episode $1
@@ -128,8 +129,8 @@ r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 d
 r:"^残り([0-9]+)日"=$1 Day(s) Remain
 r:"^残り([０-９]+)日"=$1 Day(s) Remain
 r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 days
-r:"^残り([0-9]+)日"=$1 Day(s) Remain
-r:"^残り([０-９]+)日"=$1 Day(s) Remain
+r:"^残り([0-9]+)日$"=$1 Day(s) Remain
+r:"^残り([０-９]+)日$"=$1 Day(s) Remain
 r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Days and $2 Hours To Go
 r:"^お一人様([0-9]+)個まで！$"=Up to $1 per person!
 r:"^あと([0-9]+)個$"=$1 more
@@ -144,7 +145,7 @@ r:"^本日の残り回数が([0-9]+)回となりました$"=Today's remaining co
 r:"^([0-9]+).([0-9]+)周年記念$"=$1.$2th Anniversary
 r:"^([0-9]+)周年記念$"=$1th Anniversary
 r:"^＋おまけ ([0-9]+)個$"=+$1 Bonus
-r:"^×([0-9]+)$$"=x$1
+r:"^×([0-9]+)$"=x$1
 r:"^([0-9]+)勝$"=$1 Win(s)
 r:"^× ([0-9]+) を$" = Accepted x $1
 r:"^獲得状況 ([0-9]+)/([0-9]+)$"= Owned: $1/$2
@@ -169,8 +170,9 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 
 
 ----------FRIEND MOVE REGEX----------
-r:"^相手単体に([0-9]+)％のダメージを与え\n与ダメージを14％減少させる (2ターン)$"
+--r:"^相手単体に([0-9]+)％のダメージを与え\n与ダメージを14％減少させる (2ターン)$"
 
+画面のフレームレートを{{A}}します=Configure the framerate of the game.
 けもステ=KemoPT 
 トド=Steller Sea Lion
 けもステ=KemoPT 
@@ -2724,3 +2726,83 @@ Sサイズのけものオバケのカーペット=S size monster obake carpet
 楽しみすぎて、昨日は\nなかなか眠れなかったでち=I enjoyed it too much and I couldn't sleep well yesterday
 {{A}}たん、\n待ち合わせ場所にもう来てるでちかね～={{A}}-tan, I'm already at the meeting place ～
 キュッキュッキュ～♪=Kyukkukukyu ～ ♪
+「{{A}}に任せるでち！」="Leave it to {{A}}!"
+{{A}}に来たってことは、\nあの子を誘うのね！=When you come to {{A}}, you invite that girl!
+うん！　{{A}}たんなら、\n大人同盟にもピッタリでち！=Yeah!\nIf {{A}}, it's perfect for adult alliance!
+お客たんがいなくなったら、\n声をかけるでち――=When the customer is gone, call out---
+はい、どうぞ\nこちら新作の{{A}}ですよ=Yes, this is the new {{A}}
+あら、いらっしゃいませ\n何をお求めですか？=Oh, what are you looking for?
+むっふっふ…\n{{A}}はとーってもオトナなんでちよ！=Murufufufu... {{A}} is a very adult!
+えいやーっ！=Eya!
+じゃあ、{{A}}は「姉妹」に決まりでちね\nお姉たん役は{{B}}がするでち！=Then, {{A}} is decided to be "sisters" and {{B}} plays the role of Chine's sister!
+{{B}}？　わたしと{{A}}なら、\nわたしの方がお姉ちゃんでしょ？={{B}}?\nIf I and {{A}}, I am my sister, right?
+だからお姉ちゃん役は\nわたしで決まりよ♪=So the role of your sister\nI'm decided by me ♪
+{{A}}に任せるでち！=Leave it to {{A}}!
+ミマキ=Mimaki
+リアルなおままごとの役割を決めるのに、\nピッタリな子がいるんでちか？=Is there a perfect child to decide the role of a realistic manner?
+ああ　お前たちに会う前に\n偶然見かけたんだ=Oh, I saw it by chance before I met you
+勝負をしようと提案したのはオレだが、\n詳しいことは何も考えていなかったな=I suggested to compete, but I didn't think about anything in detail.
+まっすぐ飛び込むなんて…\nこ、子供でちね{{A}}たんは=I jump straight... this is a child {{A}} Tan
+わたしたちはオトナだから、\n飛び込んだりしないの　ね！=We don't jump in because we are adults!
+そぉれ！=That's it!
+キャー♪=Ca ♪
+新たな可能性=New potential
+えへん！\n{{A}}を倒したでちよ！=Ehen!\nI defeated {{A}}!
+妹を守るためだもの\n負けるわけなかったけどね！=I couldn't lose to protect my sister!
+だ～る～ま～さ～ん～が～=Duru～ Ma～
+そろそろ…=gradually…
+この調子で、全員ゲットするでちよー！\nだ～る～ま～…=In this condition, everyone gets everyone!\nDur～ ma～...
+ほ、本当に{{A}}を\nもらっても良いんでちか…？=Ho, can I really get {{A}}...?
+？\nお腹が空いているんだろう？=?\nAre you hungry?
+10/26(木)14:00まで=10/26 (Thursday) until 14:00
+{{A}}\n2023/10/26 14:00まで={{A}}2023/10/26 until 14:00
+いっしょにパオパオ=Paopao together
+{{A}}\n2023/10/29 14:00まで={{A}}2023/10/29 Until 14:00
+10/12～10/26 14:00 まで=10/12-10/26 14:00
+{{A}}　57868={{A}}　57868
+{{A}}　20904={{A}}　20904
+{{A}}　20545={{A}}　20545
+名前は大きさではなく、羽色が青みがかった灰色で「蒼鷹」（アオタカ）と呼ばれていたのが転じたためです。翼を広げても１mちょっとの大きさです。=The name is not the size, but the bluish wing is gray and it was called "Aotaka" (Aotaka).\nEven if the wings are spread, it is a little size of 1m.
+北米\nユーラシア大陸=North America\nEurasia
+「常にクールに、がモットーよ。相手を見つけてもすぐには仕掛け\nず、空からゆっくりと狙いを定めるの。\n何があっても慌てず騒がず、冷静に対処すれば大丈夫。\nさあ、クールに行きましょう？」="Always cool, motto. Even if you find your opponent, you don't set up right away, and slowly determine the aim from the sky.\nlet's go?"
+相手単体に72％×5の{{C}}を与える\r\n対象の{{B}}が{{A}}(黄緑)の場合\n替わりに88％×5の{{C}}を与える=Give a 72 % x 5 {{C}} to the opponent. In the case of {{A}} (yellow-green), give 88 % x 5 {{C}} instead.
+相手単体に21％×5の{{C}}を与える\r\n対象の{{B}}が{{A}}(黄緑)の場合\n替わりに27％×5の{{C}}を与える=Give a 21 % x 5 {{C}} to the opponent alone, give 27 % x 5 {{C}} instead of {{A}} (yellow-green).
+大空は私のテリトリー！=The sky is my territory!
+{{A}}{{B}}（高）が増加する={{A}} {{B}} (high) increases
+いつだってクールに=Always cool
+{{A}}が13％増加し\r\n{{B}}が13％減少する(2ターン)\r\n発動率：50％ 発動回数：∞={{A}} increases by 13 % and {{B}} decreases by 13 % (2 turns) Activation rate: 50 % activated: ∞
+能ある鷹=Noh hawk
+{{D}}の{{B}}が15％増加する\r\nさらに{{C}}全体の{{A}}(黄緑){{E}}の相手に対しての\n{{B}}が15％増加する={{D}} {{B}} increases by 15 %, further increases {{B}} for {{E}} {{E}} opponents of the entire {{C}}.
+白城なお=Nao Shirashiro
+<size\=18><color\=#FF8784></color></size>\nひょいひょいっとね♪<Color\=#967826> </color>=<size\=18><color\=#FF8784></color></size>\nHyohyo<Color\=#967826> </color>
+※表示されている{{E}}は\n　「Lv.」「{{A}}Lv.」「{{C}}」「{{D}}」が{{B}}された状態です\n　（入手時はLv.1および未{{B}}の状態のものとなります)\n※{{E}}アップ効果は対象のイベントでのみ有効です=* The displayed {{E}} is {{B}} with "Lv.", "{{A}}lv.", "{{C}}", and "{{D}}" (when obtaining it will be in the state of Lv.1 and not {{B}}) * {{E}} up effect is eligible.\nValid only at the event
+哺乳綱クジラ偶蹄目ウシ科\nヤギ属ヌビア{{A}}=Mammal rope whale whale caddy caddy nubia nubia {{A}}
+{{B}}の{{C}}が10％減少する(3ターン)\r\nさらに{{B}}の{{A}}が20％{{D}}する\r\n\r\n発動率：80％ 発動回数：1回={{B}} {{C}} decreases by 10 % (3 turns) And {{B}} {{A}} 20 % {{D}}\nActivation rate: 80 % activation number: 1 time
+登りたくなってきたなー！=I want to climb!
+相手単体に55％×2の{{B}}を与え\r\n高確率で{{A}}状態にする(2ターン)=Give a 55 % x 2 {{B}} to the opponent alone and make it {{A}} state with a high probability (turn 2)
+全力ぶんまわし！=All power!
+相手単体に665％の{{C}}を与え\r\n高確率で{{B}}を19％増加させる\r\nさらに{{A}}の{{B}}が24％減少する(2ターン)=Increase {{B}} with a high probability of 665 % {{C}} to the opponent alone, and {{B}} of {{A}} decreases by 24 % (2 turn).
+崖の上のスペシャ{{A}}=Special on the cliff {{A}}
+山巡りでもいこうか！=Let's go around the mountains!
+{{B}}(桃){{H}}の{{F}}の{{A}}{{C}}(高)が増加する\r\nさらに{{G}}の{{E}}と{{D}}が15％増加する={{B}} (peach) {{F}} {{F}} {{A}} {{C}} (high) increases, and {{E}} and {{D}} of {{G}} will increase by 15 %.
+壁登り？たのしいよね=Climbing a wall?\nIt's fun
+{{F}}の{{B}}が10％増加し\r\n{{F}}を除く{{C}}(桃){{G}}の{{E}}の{{H}}が10％減少する\r\nさらに{{F}}の{{A}}が50％以上のとき\r\n{{C}}(桃){{G}}の{{E}}の{{D}}が10％増加する={{F}} {{B}} increases by 10 % and {{G}} {{E}} {{H}} is reduced by 10 %. When {{F}} {{A}} is more than 50 %, {{G}} {{E}} {{D}} {{F}} increases by 10 %.
+Beat!!!{{A}}＋2.0％=Beat!!!{{A}}＋2.0％
+{{A}} +271={{A}} +271
+{{A}}　60811={{A}}　60811
+{{A}}が80%以下のとき{{B}}が14%増加する=When {{A}} is 80%or less, {{B}} increases 14%
+{{E}}の{{A}}が50%以下になったとき\r\n高確率で{{B}}状態になる(3ターン)\r\n(発動回数:1回) \r\nさらに{{E}}が{{B}}状態のとき\r\n{{D}}全体の{{C}}が8%増加する=When {{E}} {{A}} is 50%or less, it becomes a {{B}} state with a high probability (3 turns) (1 time), and when {{E}} is in {{B}}, {{C}} of {{D}} as a whole will increase by 8%.
+{{A}}が60%以下のとき{{B}}が10%増加する=If {{A}} is 60%or less, {{B}} will increase by 10%
+うんしょっ、よいしょっ…=Yeah, good...
+えいっ…ふう！=Eh... wow!
+ういにゃUwU=Uyinya Uwu
+{{A}}進捗状況が進行した際に\nどのインフォを表示するか{{B}}します。={{B}} will be displayed which info will be displayed when the {{A}} progress progresses.
+他プレイヤーの「{{A}}{{B}}による見た目の変化」を\r{{C}}の画面に反映するか{{B}}します。=Other players "Changes in appearance by {{A}} {{B}}"\nReflect or {{B}} on the {{C}} screen.
+他プレイヤーの「{{A}}による見た目の変化」を\r{{C}}の画面に反映するか{{B}}します。=Other players "Changes in appearance by {{A}}"\nReflect or {{B}} on the {{C}} screen.
+メンテナンス情報やアプリのバージョンアップなど、\r\n運営からの各種情報を{{A}}します。=We {{A}} for various information from management, such as maintenance information and app version upgrade.
+{{A}}が全{{C}}した際に{{B}}します。={{B}} when {{A}} has all {{C}}.
+スタミナが全{{B}}した際に{{A}}します。={{A}} when the stamina is all {{B}}.
+あと29/34=And 29/34
+{{A}}3話バトル2をクリア={{A}} 3 Clear Battle 2
+{{A}}3話バトル1をクリア={{A}} 3 Clear Battle 1
+{{A}}2話バトル3をクリア={{A}}2 Clear Battle 3
