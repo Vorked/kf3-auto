@@ -79,6 +79,7 @@ Mr.=Ms.
 ExpeditionLv=<size=7>Expedition</size>Lv
 ExpeditionLv.=<size=7>Expedition</size>Lv
 Â=♪
+guys=girls
 guy=girl
 ZL= 
 .<=. <
