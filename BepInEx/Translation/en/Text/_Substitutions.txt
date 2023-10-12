@@ -31,6 +31,8 @@
 ミッションの報酬=Mission Rewards
 疲れてる時こそ、\n準備運動はしっかりね？=Do warm-up exercises even\nwhen you're tired, okay?
 じゃじゃーん！\n今日はこれだよー！=Ta-da! This is it for today!
+エクストラバトル=Extra Battle
+
 
 ----------RAINBOW TRAITS----------
 野生と知性で最強なのです=Wildest and Most Intelligent
@@ -406,8 +408,14 @@ Kari=Kari
 1日でクエスト8回クリア=Clear 7 Quests Today
 1日でクエスト9回クリア=Clear 9 Quests Today
 
+
+
+
 ----------Mission fixes attempt----------
 「フレンズの小さな輝石」="Friends' Small Pyroxene"
+自主練の効果=Effects of Self-Training
+練習は大切=Practice is important
+品物の取り違え=Mixed Goods
 
 ----------Menu Fixes (again again)----------
 称号変更=Change Title
@@ -1819,6 +1827,7 @@ PPPのプリンセス=PPP's Princess
 
 ----------Status Effect Descriptions----------
 ダメージアップ=Damage Up
+命中率アップ=Accuracy Up
 与えるダメージが上昇=Increases Damage Dealt
 被ダメージ軽減=Damage Reduction
 受けるダメージを軽減=Reduceses Damage Received
@@ -3133,7 +3142,7 @@ HAW-206=HAW-206
 トピ=Topi
 トランスバールライオン=Transvaal Lion
 ツチノコ=Tsuchinoko
-ツクヨミノシンシ=Tsukuyomi-No-Shinshi
+ツクヨミノシンシ=Tsukuyomino Shinshi
 ツシマヤマネコ=Tsushima Leopard Cat
 エトピリカ=Tufted Puffin
 コハクチョウ=Tundra Swan
@@ -3390,6 +3399,7 @@ EN：絶滅危惧=EN: Endangered
 パーティ=Party
 ハブ=Habu
 その他=Misc.
+回復=Recovery
 
 ----------TERMS AND ONOMOTOPEA MUST BE AT THE END----------
 くんくん=sniff sniff
@@ -3426,6 +3436,11 @@ EN：絶滅危惧=EN: Endangered
 ウミウ=Japanese Cormorant
 ガチャ=Gacha
 カァッ=Kyah
+
+ダメージ=Damage
+ジョフ=Geoff
+ちゃーん=chan
+
 
 ----------NPC Names------------
 ハンチョウ=Hancho

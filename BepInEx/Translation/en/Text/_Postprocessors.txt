@@ -61,13 +61,17 @@ ZMMRZ={{P}}
 }Z=} 
 }{=} {
 
+ ～=～
  ...=...
-  ～=～
-  -=-
-  …=…
-  
-
-
+ ～=～
+ -=-
+ …=…
+ ~=~
+ ～=～
+ 
+Joff=Geoff
+joff=Geoff
+ 
 Owned Number=Owned
 tiger=Tiger
  his = her 
@@ -79,7 +83,6 @@ Mr.=Ms.
 ExpeditionLv=<size=7>Expedition</size>Lv
 ExpeditionLv.=<size=7>Expedition</size>Lv
 Â=♪
-guys=girls
 guy=girl
 ZL= 
 .<=. <
