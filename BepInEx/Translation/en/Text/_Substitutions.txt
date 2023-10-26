@@ -1,4 +1,7 @@
-﻿----------Loading Screen Tooltips----------
+﻿----------Friendship Level Up Quotes----------
+あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?
+
+----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
 フレンズの衣装を変更することが出来る\n特別な衣装は所持しているだけでステータスが上昇します=Special outfits can change the appearance of a Friend and will increase their stats by owning the.
 命中とかいひ=Hit and Evade
@@ -350,7 +353,7 @@ Kari=Kari
 ----------TITLES----------
 再始動=Reset
 未所持=Unowned
-所持=Owned
+
 
 
 
@@ -3182,6 +3185,7 @@ HAW-206=HAW-206
 メンダコ=Mendako
 
 ----------NAME FIXES MUST BE AT THE END----------
+所持=Owned
 トキ=Toki
 ヒョウ=Leopard
 ジャガー=Jaguar
@@ -3400,7 +3404,7 @@ EN：絶滅危惧=EN: Endangered
 パーティ=Party
 ハブ=Habu
 その他=Misc.
-回復=Recovery
+
 
 ----------TERMS AND ONOMOTOPEA MUST BE AT THE END----------
 くんくん=sniff sniff
