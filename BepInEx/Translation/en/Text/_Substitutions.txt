@@ -1,5 +1,10 @@
 ﻿----------Friendship Level Up Quotes----------
 あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?
+あんたといると、楽しくて…\n気づいたら会いに行っちゃってるのよね……なにその顔=I have so much fun with you...\nI find myself coming to see you... what's with that face?
+私の苦手なことは、隊長の得意なこと…\n私たちが力を合わせたら、最強になっちゃうかも！=What I am not good at, the captain is good at...\nIf we join forces, we could be the strongest!
+わたしたち、いいコンビだと思うんですよ\n隊長さんも名探偵を目指してみませんか？=I think we make a good team.
+隊長！　いつも踊り見てくれてありがとー！\nほら、お面もお礼言ってるよ！　「感謝じゃ　フォフォフォ…」　なーんて！=Captain! Thanks for always watching me dance!\nLook, the masks are thanking you too! "Thank you, fo fo fo...!
+
 
 ----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -3091,7 +3096,7 @@ HAW-206=HAW-206
 マイルカ=Short-Beaked  Dolphin
 シマリス=Siberian Chipmunk
 シベリアン・ハスキー=Siberian Husky
-アムールトラ=Siberian Tiger
+アムールトラ=Amur Tiger
 ニホンジカ=Sika Deer
 ヒメアリクイ=Silky Anteater
 ギンギツネ=Silver Fox
