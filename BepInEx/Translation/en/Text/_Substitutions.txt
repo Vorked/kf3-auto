@@ -4,7 +4,9 @@
 私の苦手なことは、隊長の得意なこと…\n私たちが力を合わせたら、最強になっちゃうかも！=What I am not good at, the captain is good at...\nIf we join forces, we could be the strongest!
 わたしたち、いいコンビだと思うんですよ\n隊長さんも名探偵を目指してみませんか？=I think we make a good team.
 隊長！　いつも踊り見てくれてありがとー！\nほら、お面もお礼言ってるよ！　「感謝じゃ　フォフォフォ…」　なーんて！=Captain! Thanks for always watching me dance!\nLook, the masks are thanking you too! "Thank you, fo fo fo...!
-
+きみといっしょにいれば\nいつか他の仲間たちにも会える気がするの=I feel that if I stay with you,\nI will be able to meet the rest of my new Friends someday.
+こどもたちと仲良くしてくれて、とてもうれしい\nこれからも、いっしょにみんなを見守っていきたい、な=I'm very glad that you get along with the children,\nand I hope we can continue to work together to watch over everyone.
+隊長と洗い物するのは、とっても楽しいのさ\nおかげでカニさんがピッカピカなのさ♪=It's a lot of fun washing dishes with the captain,\nand it keeps the crabs shiny and clean.
 
 ----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -52,6 +54,7 @@
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES----------
+ふわふわ落ち葉にジャンプなの=Jumping On Fluffy Leaves
 仲間とともに真夜中の狩りへ=Midnight Hunt With Friends
 トラブル発生？あたしにお任せ！=Trouble? Leave it to me!
 ツイツイ♪ジャパまんだう？=Twi-twi♪ Japari Bun?
@@ -720,6 +723,7 @@ Kari=Kari
 隊長さんが入れるくらい大きな穴を掘ったの\nいっしょに入って、のんびりしよう=I dug a hole big enough for the captain and me,\nso let's go in together and relax.
 
 ----------BEATS----------
+がぶっとやり返し！=I'll Fight Back!
 グレークロスハント=Gray Cross Hunt
 スラッシュ・アウト=Slash Out
 きらめく☆ドリームレイン=Sparkling☆Dream Rain
@@ -3379,7 +3383,6 @@ HAW-206=HAW-206
 動物画像提供元=Animal images courtesy of
 フォロワー=Followers
 フォロー=Following
-みんな=Everyone
 ジャングル=Jungle
 さばく=Desert
 みずべ=Water Bank
@@ -3450,7 +3453,7 @@ EN：絶滅危惧=EN: Endangered
 ダメージ=Damage
 ジョフ=Geoff
 ちゃーん=chan
-
+マメジカ=Mamejika
 
 ----------NPC Names------------
 ハンチョウ=Hancho
