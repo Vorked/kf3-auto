@@ -2429,7 +2429,6 @@ G・ロードランナー=G. Roadrunner
 ジャージ=Tracksuit
 カフェ制服＜リウキウ・イエロー＞=Yellow Cafe Uniform
 カフェ制服=Cafe Uniform
-こうげき=Attack
 フィルターと一致するフレンズがいません\R\N※フィルターの設定を変更してください※\N=There Are No Friends That Match The Filter \NPlease Change The Filter Settings.
 フィルターと一致するフォトがありません\N※フィルターの設定を変更してください※=No Photos Match The Filter.\NPlease Change The Filter Settings.
 フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\NPlease Change Your Filter Settings.
@@ -2457,7 +2456,6 @@ OR検索=OR Search
 減少！=Down!
 まとめて選択=Select All
 獲得量アップ！=Rate Up!
-まもり=Defense
 小輝石=Small Pyroxene
 SSRインテリアボーナス=SSR Interior Bonus
 AND検索=AND Search
@@ -3354,6 +3352,8 @@ HAW-206=HAW-206
 ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
 けもステータス=Kemo-Status
 ステータス=Status
+こうげき=Attack
+まもり=Defense
 すてっぷあっぷ=Step-Up
 しょうたい=Invitation
 配置=Place
@@ -3454,6 +3454,28 @@ EN：絶滅危惧=EN: Endangered
 ジョフ=Geoff
 ちゃーん=chan
 マメジカ=Mamejika
+
+オカエリ=Welcome Home
+
+えくすとら=Extra
+職場のポーズぅ=Intimidation Pose
+感謝のポーズぅ=Gratitute Pose
+威嚇のポーズゥ=Menacing Pose
+謝罪のポーズぅ=Apologize Pose
+ポーズゥ=Pose
+ぐるるるるるるるるる…=GRRRRRRRRR…
+アカガウ=Akagao
+ハナリアン=Hanalien
+ホルスの目セル=Eye of Horuscell
+ケペシュセル=Khopeshcell
+セネトセル=Senetcell
+グリードセル=Greedcell
+オルマー=Olma
+エリー=Elly
+メリィ=Mary
+アンジー=Angie
+ポムポム=Pom-Pom
+
 
 ----------NPC Names------------
 ハンチョウ=Hancho
