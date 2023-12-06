@@ -7,6 +7,7 @@
 きみといっしょにいれば\nいつか他の仲間たちにも会える気がするの=I feel that if I stay with you,\nI will be able to meet the rest of my new Friends someday.
 こどもたちと仲良くしてくれて、とてもうれしい\nこれからも、いっしょにみんなを見守っていきたい、な=I'm very glad that you get along with the children,\nand I hope we can continue to work together to watch over everyone.
 隊長と洗い物するのは、とっても楽しいのさ\nおかげでカニさんがピッカピカなのさ♪=It's a lot of fun washing dishes with the captain,\nand it keeps the crabs shiny and clean.
+あなたのおかげでみんな毎日楽しそうにしてるわ\nこれからもよろしくね　…わたしとも=Everyone seems to be having fun every day thanks to you.\n...Please continue to be kind to me as well.
 
 ----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -3480,4 +3481,4 @@ EN：絶滅危惧=EN: Endangered
 ----------NPC Names------------
 ハンチョウ=Hancho
 ハートのゆびわ=Heart Ring
-
+皓皓=Growth
