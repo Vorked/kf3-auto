@@ -8,6 +8,8 @@
 こどもたちと仲良くしてくれて、とてもうれしい\nこれからも、いっしょにみんなを見守っていきたい、な=I'm very glad that you get along with the children,\nand I hope we can continue to work together to watch over everyone.
 隊長と洗い物するのは、とっても楽しいのさ\nおかげでカニさんがピッカピカなのさ♪=It's a lot of fun washing dishes with the captain,\nand it keeps the crabs shiny and clean.
 あなたのおかげでみんな毎日楽しそうにしてるわ\nこれからもよろしくね　…わたしとも=Everyone seems to be having fun every day thanks to you.\n...Please continue to be kind to me as well.
+隊長、今度ふたりきりで踊りませんこと…？\nきっと楽しいと思いますわ♪=Captain, maybe you and I should have a private\ndance sometime... I'm sure it would be a lot of fun...
+隊長さんと仲良くなれて、うれしいよ　\nこれからももっとパオパオしよう！=I'm glad you and the captain got to know each other so\nwell... Let's do more Pao Pao in the future!
 
 ----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -3388,7 +3390,6 @@ HAW-206=HAW-206
 さばく=Desert
 みずべ=Water Bank
 寒冷地=Arctic
-敵=Enemy
 効果対象=Who is effected
 効果内容=Effects
 発動条件=Activation Conditions
@@ -3411,11 +3412,14 @@ EN：絶滅危惧=EN: Endangered
 成長=Growth
 助っ人=Helper
 パーティ=Party
-ハブ=Habu
 その他=Misc.
 
 
 ----------TERMS AND ONOMOTOPEA MUST BE AT THE END----------
+…えへへ=…ehehe
+えへへ…=ehehe…
+はっ！AH!
+くんくんくん=sniff sniff sniff
 くんくん=sniff sniff
 アルル=Alulu
 しょっぴんぐせんた=Shopping Center
@@ -3423,10 +3427,17 @@ EN：絶滅危惧=EN: Endangered
 みゃ〜お=mya～o
 ドヤ=doya
 ぐるるるるるるる…！=GRRRRRRR…!
+うーん？=Huh?
 ダメだって=No good
+あっ、=Oh,
 ん？=Hm?
-えっ=Huh
+えーと…=Uuuhh…
+えっと…=Uuh…
+…あ！=…OH!
+…あ=…Oh
 ああ！=Ooh!
+へ～=Eh～
+え、えっと…=U-um…
 いっぱい頼ってね！=Count on me!
 ごくらくごくらく=Absolute heaven
 ごくらく、ごくらくぅ=Absolute heaven
@@ -3457,7 +3468,7 @@ EN：絶滅危惧=EN: Endangered
 マメジカ=Mamejika
 
 オカエリ=Welcome Home
-
+ハブ=Habu
 えくすとら=Extra
 職場のポーズぅ=Intimidation Pose
 感謝のポーズぅ=Gratitute Pose
