@@ -10,6 +10,21 @@
 あなたのおかげでみんな毎日楽しそうにしてるわ\nこれからもよろしくね　…わたしとも=Everyone seems to be having fun every day thanks to you.\n...Please continue to be kind to me as well.
 隊長、今度ふたりきりで踊りませんこと…？\nきっと楽しいと思いますわ♪=Captain, maybe you and I should have a private\ndance sometime... I'm sure it would be a lot of fun...
 隊長さんと仲良くなれて、うれしいよ　\nこれからももっとパオパオしよう！=I'm glad you and the captain got to know each other so\nwell... Let's do more Pao Pao in the future!
+今度、隊長も一緒にパンを焼いてみない？\nきっとおいしいのができると思うな♪=Next time, why don't you bake a loaf of bread\nwith me, I'm sure it will be delicious...
+
+----------Friend Home Screen Speech----------
+どこかにお困りのフレンズさんは\nいないでしょうか…=I wonder if there are any Friends\nout there who are having trouble...
+じゃぱりぱあくはどこもかしこも修行できる場が\nあって飽きないぜ！　次はどこに行こっかな=Japari Park has training grounds\neverywhere, and I never get tired of it!
+「真実はいつだってパークの中に！」\n…うーん、もっとかっこよく言えないかなぁ="The truth is always in the park!"... hmmm, could you say it any cooler?
+ここの拠点にあるもんは、気がつくとすぐ\n壊れちまうからな…優しく…優しく…=Things in this base can break as\nsoon as you touch them... gently... gently...
+これは…事件のにおい…\n現場はカフェですかね=This... smells like a crime scene...\nis the cafe a crime scene?
+ひと泳ぎしたい気分！=I feel like taking a swim!
+木登りが得意な子はたくさんいるのさ\nだから、なかなか１番になれないのさ…=There are a lot of girls who\nare good at climbing trees, so it's hard to be number one...
+砂浴びでもしてこようかなぁー=I think I'll go take a bath in the sand!
+みんながちゃんとごはんを食べて寝ているか\nついつい気になっちゃうんだよねー=I'm always wondering if everyone\nis eating and sleeping properly!
+なにか物を運びたいの？\n重たくっても大丈夫だよ=Do you want me to carry something,\neven if it's heavy?
+今日運んだ荷物はかなーり重かったけど…\n何が入っていたのかな？=The package we carried today was\nquite heavy... but what was in it?
+
 
 ----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -1758,6 +1773,8 @@ MP増加量半減=MP increase halved
 1日でクエスト9回クリア！=Clear 9 quests today!
 好きなしょうたいで1日10回しょうたいしよう！=Make 10 Invitations today!
 ジャパリパーク=Japari Park
+じゃぱりぱあく=Japari Park
+ジャパリバス=Japari Bus
 
 ----------TRIAL QUESTS----------
 腕試しクエスト1=Trial Quest 1
@@ -1953,7 +1970,9 @@ SSRインテリアボーナス=SSR Interior Bonus
 待機フレンズ設定=Standby Friend Configuration
 待機フレンズに設定されたフレンズは\nホーム画面で固定で登場するようになります\n設定しますか？=Friends set as Standby Friends\nwill appear permanently on the home screen.\nWould you like to set them?
 プロフィール設定=Profile
+おでかけようの服=Going Out Clothes
 着替えへ=Clothes
+着替え=Change\nClothes
 ガチャピン=Gachapin
 不正な起動です=Launch the game with DMM Player.
 ジャパリパーク立ち入り禁止区域・解除開始=Japari Park Off-Limits Area
@@ -1963,7 +1982,6 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 自己ベスト\nスコア=Personal\nBest
 獲得\n報酬=Earned\nReward
 バチバチ百幻脚=Bachibachi Hundred Phantom Legs
-おでかけようの服=Going Out Clothes
 フレンズプロフィールから確認できます=You can see it in Friend Details!
 リトライしますか？=Would you like to retry?
 通信エラーです=Communication Error.
@@ -2102,7 +2120,6 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ショップ=Store
 家具=Furniture
 家具配置=Arrange Furniture
-着替え=Change Clothes
 ふれあい=Contact
 詳細=Details
 成長へ=Growth
@@ -2490,7 +2507,6 @@ IDをコピー=Copy ID
 登録年齢変更=Age Verification
 データ連携・引き継ぎ=Data Transfer
 追加ダウンロード=Full Downloads
-思い出=Memories
 所持アイテム一覧=Item Log
 データ連携=Data Linking
 年齢認証が必要です=Age Verification Required.
@@ -2516,7 +2532,6 @@ IDをコピー=Copy ID
 自動=Auto
 標準=Normal
 ボイス=Voice
-速い=Fast
 瞬時=Instant
 全て表示=Show all
 達成時のみ=Achieved
@@ -2576,7 +2591,6 @@ OPムービー=OP Movie
 キセキとくさい=Miracle Traits
 けものミラクル=Miracle
 くらくら=Stun
-どく=Poison
 すやすや=Sleep
 くたくた=Exhaustion
 ひやひや=Freeze
@@ -2628,7 +2642,7 @@ OPムービー=OP Movie
 スタンプ履歴=Stamp History
 スタンプ=Stamp
 
-わくわく=Exciting
+
 訪問=Visit
 編集=Edit
 充電=Charge
@@ -2670,7 +2684,6 @@ WAVE数= Waves
 ステップ10=Step 10
 フレンズ成長 大=Friend Growth
 超成功率UP=Rate Up
-げんき=Energy
 補充=Replenish
 そらとぶ！=I'm Flyin!
 カコ=Kako
@@ -3275,6 +3288,7 @@ HAW-206=HAW-206
 コモモ=Komomo
 コディアック=Kodiak
 カムチャマ=Kamchama
+アルル=Alulu
 ルル=Lulu
 ラビラビ=Rabi Rabi
 タマちゃん=Tama-chan
@@ -3396,8 +3410,6 @@ HAW-206=HAW-206
 耐性=Resistence
 攻撃命中率=Hit Accuracy
 与ダメージ=Damage
-味方=Ally
-自身=Self
 敵全体=All Enemies
 敵単体=One Enemy
 ミラクル効果=Miracle Effect
@@ -3413,6 +3425,7 @@ EN：絶滅危惧=EN: Endangered
 助っ人=Helper
 パーティ=Party
 その他=Misc.
+たしかに…=Certainly...
 
 
 ----------TERMS AND ONOMOTOPEA MUST BE AT THE END----------
@@ -3433,8 +3446,8 @@ EN：絶滅危惧=EN: Endangered
 ん？=Hm?
 えーと…=Uuuhh…
 えっと…=Uuh…
+…あ…=…Oh…
 …あ！=…OH!
-…あ=…Oh
 ああ！=Ooh!
 へ～=Eh～
 え、えっと…=U-um…
@@ -3487,7 +3500,22 @@ EN：絶滅危惧=EN: Endangered
 メリィ=Mary
 アンジー=Angie
 ポムポム=Pom-Pom
+すー…　すー…=Zzz… Zzz…
+すー…=Zzz…
+スキップ=Skip
+停止=Stop
+終了=Exit
+【選択肢】=[Choice]
+わお――――ん！！=WAAAAOOHH!!
+ぐぅうぅぅ～=GuuUuu
 
+
+
+
+----------SLANG----------
+ガマン=patient
+じゅるり=Gulp
+ホクホク=Roasted Potato
 
 ----------NPC Names------------
 ハンチョウ=Hancho

@@ -1,4 +1,9 @@
-﻿　= 
+﻿<color\=#990000FF>= 
+</color>= 
+<color=990000FF>= 
+</color>= 
+ふふふ=Fufufu
+　= 
 　= 
 ZZMCZ= {{A}}
 ZZMDZ= {{B}}
