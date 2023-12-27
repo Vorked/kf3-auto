@@ -1990,7 +1990,6 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 もう一度回す=Pull Again
 終盤戦=Final Battle
 変換可能数=Converting
-もう一度=Play Again
 ぼっくす確認=Box Info
 すぺしゃるぴっくあっぷしょうたい=Special Pickup Invitation
 フレンズ獲得経験値=Friend Experience Gained
@@ -2147,6 +2146,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ためこみ上手=MP Hoard
 
 ----------FRIENDS AND MISC
+インドシナウォータードラゴン=Chinese Water Dragon
 シンリンオオカミ=Eastern Wolf
 イエイヌ（シベリアンハスキー）=Siberian Husky
 ワシミミズク=Eurasian Eagle Owl
@@ -2627,11 +2627,6 @@ OPムービー=OP Movie
 まんぞく=Complete
 旅犬=Traveling Dog
 獲得数=Owned
-むちゃ=Rough
-げきむず=Feeling Sore
-むずい=Difficult
-やさしい=Gentle
-ふつう=Normal
 既読ストーリー再生=Story Playback
 情報切り替え=Switch Info
 コンティニュー不可=No Continues
@@ -2701,6 +2696,7 @@ WAVE数= Waves
 はねかえしむし Reflect Small
 
 -------------------FRIEND FUTURE-PROOFING----------------------
+キットギツネ=Kit Fox
 ブラックサーバル=Black Serval
 カイウサギ=Domestic Rabbit
 ツチブタ=Aardvark
