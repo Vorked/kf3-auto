@@ -173,6 +173,7 @@ r:"^獲得状況 ([0-9]+)/([0-9]+)$"= Owned: $1/$2
 やさしい=Gentle
 ふつう=Normal
 もう一度=Play Again
+スリ=Suri
 
 -----UNTESTED REGEX-----
 r:"^([0-9]+：[0-9]+～[0-9]+：[0-9]+)の時間にホームにアクセス！$"=Access The Home Between $1!
@@ -9846,3 +9847,1199 @@ AZU坊=Azu boy
 自身の{{B}}が10％増加し、毎ターン{{A}}が2％回復する\r\nさらに自身の{{A}}が100％のとき\r\n自身の強敵への{{C}}が20％増加する=Increases own {{B}} by 10% and recovers {{A}} by 2% each turn, and when own {{A}} is 100%, increases own {{C}} to powerful enemies by 20%.
 中里望=Nakasato Nozomu
 「ドラゴンってかっこいい名前でしょ。\n伝説の生き物だって聞いたわ。パークにはほかにも\nドラゴンを名乗る子がいるそうじゃない。会ってみたいわね。\nえ？ 本物のドラゴンもいるって？ ウソでしょ！？\nび、ビビるわぁ。おどかさないでよぉ\n（ホントは臆病なんだから……）」=I heard there are other kids in the park who call themselves dragons, and I'd love to meet them. What? There are real dragons? You're kidding! You're scaring me.
+{{A}}\n2024/01/07 14:00まで={{A}}2024/01/07 until 14:00
+ビビらずいくぞ！　年末煩悩大暴走！☆4{{A}}！チケット{{B}}=Let's not be scared!
+ビビらずいくぞ！　年末煩悩大暴走！チケット{{A}}=Let's not be scared!
+<size\=18><color\=#FF8784></color></size>\n隊長さんお手製の！<Color\=#967826> </color>=<size\=18><color\=#FF8784></color></size>\nHandmade by the captain!<Color\=#967826> </color>
+☆4インドシナウォータードラゴン{{A}}！チケット{{B}}=☆4 Indochina Water Dragon {{A}}! Ticket {{B}}!
+{{C}}{{A}}イベントSP{{B}}チケットを\n10消費して1回{{B}}します\nよろしいですか？={{C}} {{A}} event SP {{B}} ticket 10 consumed to {{B}} once, is that correct?
+インドシナウォータードラゴンよ　本物の\nドラゴンみたいでかっこいいでしょ？　…え\nパークには本物がいるの？　ウ、ウソよね？=Indochina water dragons. Aren't they cool because they look like real dragons?... Oh, they have real dragons in the park?
+{{A}}　17438={{A}}　17438
+{{A}}　18829={{A}}　18829
+{{A}} +1622={{A}} +1622
+{{A}}  +592={{A}}  +592
+ビビらずいくぞ！　年末煩悩大暴走！=Let's not be afraid to go for it!
+{{A}}結び紐交換所={{A}} Knot String Exchange
+招き龍のお守り=Beckoning Dragon Charm
+　1/11まで=　Through 1/11
+インドシナウォータードラゴン{{A}}セットその２=Indochina Water Dragon {{A}} Set #2
+インドシナウォータードラゴン{{A}}セットその１=Indochina Water Dragon {{A}} Set #1
+おみくじのカーペット=Carpet of fortune
+12/27～1/4 14:00 まで=12/27～1/4 until 14:00
+12/27 ～ 1/4 14:00 まで=12/27- 1/4 until 14:00
+ハードクリア\n12/31 12:00 以降=Hard clear 12/31 after 12:00
+ノーマル1話クリア\n12/27 14:00 以降=Normal 1 episode cleared 12/27 14:00 or later
+スゲー！　インドシナウォータードラゴン、\n泳ぐのもとくいなんだな！=Amazing! Indochina Water Dragon, you're a good swimmer, aren't you?
+「願いごとのウワサ」=Wishful Rumor."
+願いごとのウワサ=Wishful Rumors
+自身の{{A}}が50％以上のとき\r\n自身の{{C}}が8％増加し\r\n自身を除く味方全体の{{B}}が3％増加する=When her {{A}} is over 50%, her {{C}} is increased by 8% and the {{B}} of all all allies except herself is increased by 3%.
+隊長さんお手製の！=Handmade by the captain!
+{{A}}最大を初めて達成したため\n『川のせせらぎ』のポスター\nを獲得しました！=We won the poster for "A Stream of Rivers" for being the first to achieve the {{A}} maximum!
+1/11(木)23:59まで=Until 23:59 on 1/11(Thu.)
+スゲー！　{{A}}、\n泳ぐのもとくいなんだな！=Amazing! {{A}}, you're a good swimmer too!
+自身の{{A}}が15%減少し\r\nさらに味方全体の{{A}}が8%減少する=Reduces own {{A}} by 15% and all allies' {{A}} by 8%.
+自身の{{B}}が5％増加し\r\n毎ターン{{A}}が1％回復する=Increases own {{B}} by 5% and recovers {{A}} by 1% each turn
+<color\=#990000FF><size\="40">おお～</size></color>=<color\=#990000FF><size\="40">Oh～</size></color>
+はいっ　こうやって…こう！=Yes, like this... like this!
+うん、こんな感じかしらね=Yeah, something like this.
+カッケー！\n木の枝から枝へぴょんぴょんってスゲーな！=That's cool! Jumping from branch to branch is awesome!
+そうでござるな…　でも、それなら\n拙者だって負けてないでござるよ=Yes... but then, I'm no slouch either, that I am.
+ふふっ、そうね\nじゃあ、これはどうかしら？=Hmmm... okay, how about this then?
+<color\=#990000FF><size\="40">パシャン！</size></color>=<color\=#990000FF><size\="40">Pashan!</size></color>
+う～ん、水の中って本当に気持ちいいわ～=Mmmm, it's really nice to be in the water!
+<color\=#990000FF>す～い、す～い…</color>=<color\=#990000FF>Soooooooooooooo...</color>
+な、なんと見事なすいとんの術…！\n拙者はまだまだでござる…=What a brilliant art of making suiton...!
+…ふふっ、どうだったかしら？=... Hmmm... how did I do?
+すっごくカッコよかったぞ！=That was really cool!
+いいな～　あれくらい泳げたら、\nもっといろんないたずらができるよな～=If I could swim like that, I could do all kinds of mischief!
+そうでござるなぁ…　あれくらい泳げたら\n忍者にまた１歩近づくでござるなぁ…=Yes... if I could swim like that, I would be one step closer to becoming a ninja...
+拙者もがんばるでござる！=I will do my best, that I will!
+いいわね、応援するわ\nでも、あんまり無理はしちゃダメよ？=Okay, I'm rooting for you, but don't take it too hard, okay?
+わかったでござる！=I understand, that I do!
+なあなあ、{{A}}に\n泳ぎを教えてもらうってのはどうだ？=Hey, how about having {{A}} teach you how to swim?
+おお！　それはいい考えでござるな=Oh! That's a good idea.
+あら？　わたしでいいの？=Oh, you're sure it's me?
+もちろんでござる！\nぜひともお願いしたいでござる=Of course, that I would like to ask you, that I would like to ask you.
+{{A}}殿からは\nたよりになる気配を感じるでござるからな=I have a feeling that {{A}} will be a great help to us, that I can feel.
+わかるわかる！\n名前もドラゴンでカッコいいしな！=I know, I know, and the name is cool with dragons!
+あら、なにそれ？=Oh, what's that?
+ドラゴンっていうのはな！\n悪魔と同じくらいすごいんだぞー！=Dragons are as great as demons!
+へえ…？　悪魔がどれくらいすごいのかは\nわたしにはよくわからないけど…=I don't know how great the devil is, but...
+でもまぁ、たよられるのは嫌いじゃないわ\n今からでも泳ぎの練習、してみる？=But, well, I don't mind being leaned on, so why don't you practice your swimming now?
+<color\=#990000FF><size\="40">やったー！　やるやるー！</size></color>=<color\=#990000FF><size\="40">Yay! I'll do it!</size></color>
+<color\=#990000FF><size\="40">ザザザッ！</size></color>=<color\=#990000FF><size\="40">Zzzzzz!</size></color>
+<color\=#990000FF><size\="40">…はっ！？</size></color>=<color\=#990000FF><size\="40">... Ha!</size></color>
+ななな、なんだ～！？\n今、そこで何か動かなかったか！？=Didn't you see something move there just now?
+そうでござるな\n何かいるみたいでござる！=That's right.\nThere seems to be something here, that there is!
+もしかして、悪魔とか…！？=Maybe it's the devil or something...!
+ちがうでござるよ…この気配は――=No, that it is not, that it is not... this presence...
+{{A}}殿でござるな！=You must be {{A}}!
+正解だ\nなかなかやるな、{{A}}=You're right, {{A}}.
+おー、なんだ　オマエだったのか\nどうしたんだよ、そんなところで隠れてさ=Oh, my God, it's you! What's wrong with you, hiding in there?
+もしかして、\nオレ様たちをおどろかすつもりだったのか？=Perhaps you were trying to scare us?
+<size\=15><color\=#00000000></color>いな<color\=#00000000></color></size>\n否\n<size\=15><color\=#00000000></color>それがし<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n某はパンサ―カメレオンを呼びに来たのだ=<size\=15><color\=#00000000></color>no<color\=#00000000></color></size>\nno\n<size\=15><color\=#00000000></color>it does<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\na man has come to call a panser turtle Leo n!
+修行の約束をしていたのに\nどれだけ待っても来ないのでな=I had promised her a training session, but no matter how long I waited, she never showed up.
+あー！　申し訳ないでござる…！\nすっかり忘れていたでござる！！=Ah! I am sorry, that I forgot all about it, that I did!
+大丈夫だ　今からでも遅くない\n修行の場に向かうぞ=It's okay, it's not too late, we're on our way to the training ground.
+承知でござる！=I am aware of it, that I am aware of it!
+{{A}}殿\n申し訳ないでござるが、泳ぎの修行は…=I am sorry, Ms. {{A}}, that I am not trained to swim, that I am not trained to...
+おや…？\n{{A}}殿…？=Oh, Misses {{A}}...?
+<color\=#990000FF>あれっ？\nいなくなってる！？</color>=<color\=#990000FF>Huh?\nShe's gone!</color>
+{{A}}結び紐を累計10個獲得=Obtained a total of 10 {{A}} knotted strings
+{{A}}結び紐を累計30個獲得=Obtained a total of 30 {{A}} knotted cords
+{{A}}結び紐を累計150個獲得=Acquired a total of 150 {{A}} knotted cords
+12/28(木)23:59まで=Until 12/28 (Thu.) 23:59
+{{A}}結び紐を累計10000個獲得=Obtained a total of 10000 {{A}} knotted cords
+{{A}}結び紐を累計300個獲得=Obtained a total of 300 {{A}} knotted cords
+{{A}}\n2023/12/28 23:59まで={{A}}2023/12/28 until 23:59
+年末カウントダウン{{A}}{{B}}1=Year-end countdown {{A}} {{B}}1
+「ビビらずいくぞ！　年末煩悩大暴走！」{{A}}=Let's not be scared!
+{{A}}日時：2023/12/27　01:24={{A}} Date: 12/27/2023 01:24
+{{A}}日時：2023/12/27　02:21={{A}} Date: 2023/12/27 02:21
+{{A}}日時：2023/12/26　23:27={{A}} Date: 12/26/2023 23:27
+（{{A}}　638）=（{{A}}　638）
+{{A}}殿ー\nどこにいるでござるか～？={{A}}, where are you, that you are?
+いついなくなったんだろ？\nおどろかそうと思ってかくれてんのかな…？=I wonder if she's hiding to scare you...?
+ぽちゃん…=Pow...
+むっ！　そこか！=Mwah! There you are!
+ホントだ！　{{A}}\nみっけ～！=I see the {{A}}!
+…あら、バレちゃった？=... Oh, did I give you away?
+急にいなくなったから\nビックリしたでござるよー！=I was surprised to see you suddenly disappear, that I was!
+そんなところで何をしていたでござるか？=What were you doing in such a place, that you were?
+<color\=#990000FF>えっ！</color>\nえっと、そうね…それは…=<color\=#990000FF>Eh!</color>\nUh, well... that's...
+<color\=#990000FF>セ、セルリアンよ</color>　セルリアンがいたから\nちょっとやっつけてきたの=<color\=#990000FF>Se, it's the Cerulean.</color>　Cerulean was here, so I took care of her a little bit.
+なんだよ、そうだったのか！\nありがとなー！=What the heck, I didn't know that, thanks!
+ふふっ、どうってことないわよ\nそれで、泳ぎの練習だけど…=Hmmm... no big deal... so, about the swimming lesson...
+そうでござる！　すまないでござるよ、\n{{A}}殿…=I'm sorry, that I am, Misses {{A}}...
+拙者、{{A}}殿と\n修行の約束をしていたでござる…=I had promised to train with Misses {{A}}, that I would...
+あら、そうだったのね\nじゃあ、泳ぎの練習はまた今度にしましょ=Oh, I see... well, let's practice swimming some other time.
+わたしはいつでも大丈夫だから=I'm always okay.
+かたじけないでござる…！=I'm sorry, that I am...!
+話はまとまったようだな\nそれでは行くとしようか=Well, it looks like we've come to an agreement, so let's get going.
+はいでござる！=Yes, that it is!
+じゃあ、オレ様も途中までついてこうかな=Well, I guess I'll just follow you on the way.
+{{A}}\nばいばーい！={{A}} Bye-bye!
+ええ、ばいばい\n{{A}}も　修行がんばってね=Yeah, yeah, yeah, {{A}}. Good luck with your training.
+ふぅ…なんとかバレずにすんだわ…=Phew... we managed to avoid being found out...
+ぽちゃん=with a thump
+あのとき、ビビッて逃げたなんてバレたら\nあの子たち、どう思うかしら…=I wonder what they would think if they found out that I got scared and ran away...
+すごくがっかりさせちゃうわよね…=I'm going to be very disappointed...
+でも、このままじゃいつかバレちゃいそう\nわたしがとってもビビり屋だってこと…=But if I don't do this, they're going to find out someday that I'm a very timid person...
+たよれるお姉さんでいるために、\nなんとかしないとダメよね…=I have to do something to be the sister you can lean on...
+<size\="40">なにをなんとかするんだー？</size>=<size\="40">What are you going to do about it?</size>
+ひゃあっ！？\n…って、{{A}}？=Hiya!... and {{A}}?
+どどど、{{A}}\nみんなと行ったんじゃなかったの？=Dodo, didn't you go with the {{A}} girls?
+うん、そのつもりだったんだけどなー\nちょっと思い出したことがあって！=Yeah, I was going to- I just remembered something!
+{{A}}に\n相談に来たんだー！=I came to {{A}} for advice!
+あら、そうだったのね\nわたしでよければ話してちょうだい=Oh, I see... you can talk to me if you like.
+さすが、{{A}}！\nたよりになる～♪=You're right, {{A}}!
+それでな、相談っていうのは…\n最近聞いた<color\=#990000FF>不思議なウワサ</color>についてなんだ=So, you know, I'm asking for advice...\nI recently heard<color\=#990000FF>I've recently heard a strange rumor</color>I've been hearing lately.
+そうそう！　えっとな、最近\n<color\=#990000FF>お願いごとが叶う子が増えてる</color>んだって=Yeah, yeah, yeah! You know what?\n<color\=#990000FF>More and more kids are getting their wishes granted.</color>that their wishes are coming true.
+お願いごと？\n例えばどんなのかしら=A favor?\nLike what, for example?
+えーっとなー…=Let's see...
+疲れてた子が「もっと遊びたい」って\n願ったら、すっごく元気になったりとか！=A child who was tired may become very energetic when she or she wishes to play more!
+ケンカしちゃった子が「仲直りしたい」って\n願ったら、仲直りできたりとか！=If a child who has gotten into a fight wishes to make up with someone, they can make up!
+へぇ…なんだかステキね\n本当になんでも叶うならすごいことよ=Well... that's kind of cool... if you can really make anything come true, that's great.
+だろ？　でもな、オレ様が気になるのは\nここから先なんだ=But I'm interested in what happens from here on out.
+なんでも、お願いが叶った子の近くには\n<color\=#990000FF>だれかがいた</color>みたいなんだよ=Anything, the child whose request was granted was near\n<color\=#990000FF>Someone was there.</color>Someone was near the child whose request was granted.
+オレ様は、その子がみんなの願いを\n叶えてくれたんじゃないかって思うんだ=I think she might have granted everyone's wishes.
+だれかがお願いごとを？\nそんなこと、できるのかしら…=Someone did a favor for me?
+<size\="40">できるさ！　悪魔ならな！</size>=<size\="40">You can do it, if you're the devil!</size>
+<size\="40">あ、悪魔！？</size>=<size\="40">Oh, the devil!</size>
+{{A}}　みんなのお願いを叶えるなんて\n悪魔にちがいないだろ？={{A}} It must be the devil to grant everyone's wishes, right?
+…{{B}}\nどうした、{{A}}？=...{{B}} what's up, {{A}}?
+な、なんでもないわ！\n悪魔にビビってなんかいないわよ？=I'm not scared of the devil, okay?
+そりゃそうだろー！\n悪魔はカッコいいからな～♪=That's right, because the devil is cool!
+ん…？　それで、あなたの相談って\n結局なんなのかしら？=So, what is it that you want to discuss?
+おう！　オレ様、悪魔に会ってみたいんだ！\nだから、探すの手伝ってほしいんだよー！=I want to meet the devil, so I need your help to find her!
+う～ん、悪魔ねぇ…\nそういう子、このあたりにいたかしら…？=Hmmm... demons... I wonder if there is such a girl around here...?
+探してみるのはいいけど\nその子は悪魔じゃないかもしれないわよ？=You can try to find her, but that kid might not be the devil, okay?
+それでもいいぞ！　そしたら、\n「悪魔に会いたい」ってお願いするから！=That's still good, then I'll ask to see the devil!
+なあ、どうだ？\nその不思議な子、探してくれないか？=Hey, what do you say, you look for that wonder kid?
+ふぅ…\nまぁ、そこまでたのまれたらしょうがないわ=Hmmm... well, if they ask that much of me, I guess I'll just have to do it.
+いいわよ\nここはたよりになるお姉さんに任せなさい=All right, I'll leave this to your trusty sister.
+やったぁー！！　ありがとっ、\n{{A}}！！=Yay!!! Thanks, {{A}}!
+お礼はまだいいわよ\n見つかったわけじゃないしね=You can thank me yet, I haven't been found.
+わかった！\nがんばって探そうなー！=Okay, I'll try to find it!\nI'll do my best to find it!
+（…悪魔がいるかどうかはわからないけど、\n　お願いごとが叶ったというのは本当よね）=(... I don't know if there is a devil or not, but it's true what they say about requests coming true)
+（それなら、わたしのビビり屋なところも\n　なんとかしてもらえたりするかしら？）=(Then maybe they can do something about my timidness?)
+じゃあ、オレ様は\n向こうの方を探してみるからな！=Well, I'm going to look for them over there!
+それならわたしは…\nまずは聞き込みから始めようかしら=Then I'll start by asking around.
+じっさいに願いを叶えてもらったって子が\nどこにいるか、教えてくれる？=Can you tell me where I can find the girl who actually had her wish granted?
+12/28 12:00 以降=12/28 12:00 or later
+「謎の子を追って」="In Pursuit of the Mystery Child."
+{{A}}結び紐を累計500個獲得=Acquired a total of 500 {{A}} knotted cords
+あなたがいれば、どんなに怖いことでも\n勇気が出るの　ふふっ不思議よね=With you, even the scariest things become braver.
+{{A}}結び紐を累計750個獲得=Acquired a total of 750 {{A}} knotted cords
+{{A}}結び紐を累計1000個獲得=Acquired a total of 1,000 {{A}} knotted cords
+{{A}}結び紐を累計1500個獲得=Acquired a total of 1,500 {{A}} knotted strings
+招き龍のお守りを累計300個獲得=Obtained a total of 300 beckoning dragon amulets
+招き龍のお守りを累計2000個獲得=Obtained a total of 2,000 beckoning dragon amulets
+招き龍のお守りを累計3500個獲得=Obtained a total of 3,500 beckoning dragon amulets
+招き龍のお守りを累計10000個獲得=Obtained a total of 10000 beckoning dragon amulets
+招き龍のお守りを累計5000個獲得=Obtained a total of 5,000 beckoning dragon amulets
+招き龍のお守りを累計30000個獲得=Obtained a total of 3,000 beckoning dragon amulets
+{{A}}聞いた話だと\nあの子たちはこっちの方に…={{A}} I heard that the girls were here...
+<color\=#990000FF><size\="40">あ、いたわ！</size></color>=<color\=#990000FF><size\="40">Oh, there they are!</size></color>
+今日のごちそうもおいしかった…！\n{{A}}って本当にステキなところね=Today's feast was delicious... {{A}} is a really nice place!
+あ！　き、気に入ってくれました？=Oh! Did you like it?
+あのケーキは私と{{A}}さんで\n作ってみたんです=I made that cake with me and Ms. {{A}}.
+そうだったんだ　私もあれ、好きだな\nえっと、なんだっけ…ケーキに使ってたの=Oh, that's right, I like that one too, uh, what was it... they used it for cakes.
+カニステルですよ♪　私のすみかの\n近くの森でよく見つけるんです=It's Kanister... I often find it in the woods near my place of residence.
+カニステルケーキ…\nすごくまろやかだったなぁ…=Crabstel cake... it was so mellow...
+あなたたち、ちょっといいかしら？=You girls have a minute?
+あ、{{A}}ちゃん=Oh, {{A}}.
+こんにちは…\n私たちに、なにか用事？=Hello...\nYou wanted to see us?
+実はお願いごとのウワサを\n調べているところなの=I'm actually trying to find out the rumors of your request.
+お願いごと…！\nあぁ、そのことですね！=A request...!\nAh, about that!
+いろんな子が聞いてくるね\n私たち、ゆーめーなのかも=I'm hearing all kinds of kids asking about us, maybe we're yummy.
+私以外にも興味を持ってる子がいるのね=I see there are other kids interested in this besides me.
+まあ、お願いごとが叶うんだもの\n当然と言えば、当然か…=Well, it's only natural that one's wishes come true...
+お願いごとをしたときに\n近くにだれかがいたっていうのは本当なの？=Is it true that someone was nearby when you made your request?
+あら、聞きたいのはそっちのウワサなの？\nそのことも知ってるわよ　ねえ？=Oh, you want to hear the rumors over there, I know about that too.
+はい！　それなら…私、見ました！\nちらっとしか見えなかったんですけど…=Yes! Then... I saw it... I only caught a glimpse...
+{{A}}ちゃんが\nはじめに気づいたんだよね={{A}} was the first to notice.
+だれかいるって言われて\n私たちもそっちを見て見たんだけど=They said there was someone there, so we looked over there and looked.
+あんまりよく見えなかったのよ\nなんか<color\=#990000FF>黒っぽかった</color>のは覚えてるわ=I didn't get a good look at it.\nI don't know.<color\=#990000FF>It was kind of blackish.</color>I remember.
+なるほど、黒っぽい子…=I see... black girl...
+うーん…だけどそのときは、\nお日様がかくれて、暗くなってきてた…=Hmmm... but then the sun was hiding and it was getting dark...
+それはそうね…\nだから黒っぽく見えたのかも=That's true... maybe that's why it looked black.
+あ！　それと、もうひとつ！\nその子にはシッポがありました！=Oh! And one more thing! The boy had a tail!
+シッポ！　それってモフモフしていた？=Tails! Was that fluffy?
+{{A}}モフモフはしてなかったかも…\nどんな感じかで言うと――={{A}}Maybe it wasn't mofo... in terms of what it looked like--
+インドシナウォータードラゴンさんみたいな\n<color\=#990000FF>シッポ</color>でした！=Like Ms. Chinese Water Dragon.\n<color\=#990000FF>Tail</color>It was!
+わたしみたいなシッポ？\nだとすると、トカゲの子かしら？=If so, is it a lizard child?
+どうでしょう…私がわかるのは\nこれくらいですね…すみません！=I don't know... that's about all I can figure out... sorry!
+いいえ、すごく助かったわ=No, you've been very helpful.
+黒っぽくて、わたしみたいなシッポがある…\nこれだけわかれば、見つけられるかも=It's black and has a tail like mine... if I can find it, maybe I can find it.
+そうだ！\nその子を見たのって、どのあたりかしら？=Yes! I wonder where I saw that girl?
+それなら、こっちをずっと行った場所だよ\n近くに神社があるの=Then it's all the way down this way, and there's a shrine nearby.
+あのあたりはね、晴れてるとお日様が\nポカポカしていて気持ちいいんだ～=When the sun is shining, it's nice and warm in that area.
+ありがとう、ちょっとそこに行ってみるわね=Thanks, I'll try to get over there in a bit.
+<color\=#990000FF><size\="40">バイバーイ</size></color>=<color\=#990000FF><size\="40">bye-bye</size></color>
+謎の子を追って=Chasing the mystery child
+あの子たちが言っていたのは\nたしかこのあたりよね…？=I think it was around here that those girls were talking about...?
+お願いごとを叶えてくれるって子、\nぜったいに見つけてみせるわよ！=I'll definitely find the girl who can make my wish come true!
+さてと…\nだれかいるかしら？=Well...\nIs anyone here?
+…うーん\nだれもいないわね=... hmm.\nI don't see anyone.
+それじゃあ、手がかりになりそうなもの\n何か落ちてないかしら？=Well then, is there anything down there that might give us a clue?
+ダメ、何も見つからないわ！=No, I can't find anything!
+このあたりにいる子なら、\nすぐに見つかると思ったのに…=I thought I'd be able to find a girl around here in no time...
+もう少し、みんなの話を\n聞いてきた方がいいのかしら――=I wonder if I should go and listen to everyone a little more--I'm not sure.
+<color\=#990000FF><size\="40">ガサガサッ！</size></color>=<color\=#990000FF><size\="40">Rustling!</size></color>
+<size\="40">ひぃっ！？　なになに！？</size>=<size\="40">What is it?</size>
+えっ…ただの風？\nもう、おどろかせないでよ…=What... it's just the wind?
+いえっ！\n<color\=#990000FF>おどろいてなんかいないけどね！？</color>=No!\n<color\=#990000FF>I'm not surprised!</color>
+<color\=#990000FF><size\="40">ガサッ！</size></color>=<color\=#990000FF><size\="40">(sound of a door slamming shut)!</size></color>
+<color\=#990000FF><size\="40">ひぃ～～～っ！？</size></color>=<color\=#990000FF><size\="40">Hee～～!</size></color>
+も、もうっ！　なんなのよ！\n今日は風が強いわね！=What the heck, it's windy today!
+はぁ…いったん帰ろうかしら？\nだれかいっしょじゃないと、心細いわ=I'm going home... I'm not sure I can go home without someone with me...
+でも、ダメだわ　だれかがいたら\nわたしがビビり屋だってバレちゃうし=But I can't. If someone were here, they'd know I'm a scaredy-cat.
+やっぱり、わたしだけでがんばらなくちゃ！=I have to do my best on my own!
+そして、こういうビビり屋なところを\nなおしてもらうようお願いするのよ！=And then ask them to fix this kind of scaredy-cat!
+<size\="35">おーい、願いを叶えてくれる不思議な子～\n出てきなさ～い</size>=<size\="35">Hey, the wonder child who makes wishes come true- come on out!</size>
+<size\="25">それ以外の怖いのは\n出てこなくていいわよ～</size>=<size\="25">Other than that, you don't have to come up with anything scary～!</size>
+…！？\nまた、風？=...!\nWind again?
+…ちがう！\nあっちにだれかいたわ！=No... no!\nThere was someone over there!
+ちらっとしか見えなかったけど…\nわたしみたいなシッポだった！=I only caught a glimpse of it... but it was a tail like mine!
+{{A}}おこめ={{A}} rice
+うん、まちがいないわ\nやっぱり、シッポがわたしにそっくり=Yes, I'm sure of it.
+この森にいるってことは、\nあの子が願いを叶えてくれる子ね　でも――=If she's in these woods, then she's the one who's gonna get her wish, but--
+本当に悪魔…じゃないわよね？=You're not really a demon... are you?
+もし悪魔だったら…\n食べられちゃったりしないかしら…=If it were a demon... would it eat me or...
+<color\=#990000FF>ひ、ひぃい～っ！！</color>=<color\=#990000FF>Hi, hi～!</color>
+ここはゆ～っくり後をつけることにしましょ=Let's take our time to follow.
+（本当に悪魔だったら、\n　すぐ逃げられるようにしないとね…）=(If it really is the devil, we should be able to escape right away...)
+…って、あれ！？\nあの子がいなくなってる…！=But... that girl is gone...!
+あ～ん、見失っちゃったわ！\nもう、わたしのバ{{A}}カ！=Oh no, I've lost her! All because of my stupidity!
+ううん、まだ遠くには行ってないはずよね\n今から探せば、すぐに――=No, she can't have gone far yet, because if we look for her now, we'll soon find--
+<color\=#990000FF>あの～</color>=<color\=#990000FF>You know what?</color>
+<color\=#990000FF><size\="40">きゃあ―――っ！？</size></color>=<color\=#990000FF><size\="40">Kyaaa--～!</size></color>
+あら、ごめんなさい\nおどろかせるつもりはなかったんですのよ=Oh, I'm sorry, I didn't mean to scare you.
+ただ、さっきからあなたがついてくるので\nわたくしに何か用があるのかと思って…=I just thought since you were following me earlier that you wanted something from me...
+え？　なんのこと？\n別にわたしはあなたを――=What do you mean?
+あ、その<color\=#990000FF>シッポ</color>！=Oh, you know, the<color\=#990000FF>Tail</color>！
+え？\nわたくしのシッポが、なにか？=What?\nMy tail, what is it?
+あ、{{A}}たしかにわたしは\nさっきからそのシッポを追いかけていたの=Oh, {{A}} , I've been chasing that tail for a while now.
+ねえ！　もしかして、あなたが\nお願いごとを叶えてくれるって子なの？=Hey! Could it be that you're the girl who said you'd make my wish come true?
+お願いごと…なるほど\nあなたも、あのウワサを調べてますのね=I see that you are also looking into the rumors.
+先に言いますと、\nわたくしは願いを叶える子ではありませんわ=Before I go any further, let me tell you that I am not a wish-granting child.
+わたくしもあなたと同じように、\nウワサを聞いてその<color\=#990000FF>謎の子</color>を探してましたの=I, like you, heard the rumors and<color\=#990000FF>I was looking for the mystery child</color>I was looking for her.
+いろんな子に話を聞いたのでしたら、\n謎の子についていくつかご存知ですわよね=If you've talked to a lot of kids, you must know a few things about our mystery child.
+え、ええ…\n黒っぽくて、シッポがあるって聞いたわ=Yeah, yeah... they told me it was black and had a tail.
+わたくしは黒っぽくはありませんわ=I am not black.
+そう言えばそうね\nあなたはどちらかと言うと青っぽいわ=Speaking of which, yes, you do look rather blue.
+ええ、あなたもいいシッポをお持ちですが\n緑っぽいですし、謎の子ではありませんわね=Yes, you have a nice tail too, but it's greenish, and you're no mystery child.
+な～んだ　そうだったのね\nまた最初から探さなきゃ…=Oh, well, that's right, I'll have to start looking again from the beginning...
+ごめんなさいね\nメイワクかけちゃったみたい=I'm sorry, but I think I put a maywak on you.
+いいえ\nむしろいいところに来てくださいました=No, you came to a rather nice place.
+いいところに？　どういうことかしら=In a good place? I don't understand.
+実はわたくし、先ほど\n黒っぽい子を見かけたのです=Actually, I saw a blackish girl a few minutes ago.
+わたくしたちのような、\nステキなシッポもありましたわ=There were some nice tails, like ours.
+え！=Eh!
+よろしければ、その子を追いかけるのを\n手伝ってくださいませんか？=If you don't mind, would you please help me chase the boy?
+<size\="40">もちろん手伝うわよ！</size>=<size\="40">Of course I can help!</size>
+ふふっ　ありがとうございます\nたよりにしていますわよ=Thank you very much.
+そこの子、待ちなさーい！=Hey, wait for me!
+「不思議な黒い玉」=The Mysterious Black Ball.
+不思議な黒い玉=Mysterious black ball
+それで？　その謎の子は\nどこで見かけたのかしら？=So, where did I see this mystery child?
+最初に見たのは、向こうの方ですわ=I saw it first over there.
+ですが、あちこちに{{A}}しているようで\n今どこにいるかはわかりませんの=But I don't know where she is now, as she seems to be {{A}}'d all over the place.
+う～ん…でもこのあたりにいるってことよね\nそれじゃあ、手分けして探しましょ=Well... but it means they're around here somewhere, so let's split up and look for them.
+いえ！\nお話は最後までお聞きになって=No, I'm not!\nPlease hear me out.
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n実はわたくし、ささやかながら\n<size\=15><color\=#00000000></color>わな<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n罠を仕掛けましたの=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nIn fact, I have been working on a small\n<size\=15><color\=#00000000></color>Wana<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nI set a trap.
+<size\="40">わ、罠！？</size>=<size\="40">Wow, a trap!</size>
+いろんな場所に{{A}}を置いておいて\nだれかが手を出したら音が鳴るんですのよ=You put the {{A}} in different places, and if someone touches it, it makes a sound.
+<color\=#990000FF><size\="40">ガラガラッ…</size></color>=<color\=#990000FF><size\="40">Rattling...</size></color>
+ええ、こんなふうに――=Yeah, like this--
+さっそくかかりましたわね=I'm glad to see you're getting on with it.
+そうみたいね\nあっちから聞こえたわ！=Yeah, I guess you're right.\nI heard it from over there!
+たしかこのあたりから音が…=I think the sound started around here...
+まあ！　ここに置いておいた{{A}}が\nなくなってますわ！=Well! The {{A}} I left here is gone!
+見えた！　あっちにいたわよ=I see her! He was over there!
+まちがいない！　黒っぽかったし\nわたしみたいなシッポもあった！=It was black and had a tail like mine!
+わ、罠！？=Wow, a trap!
+追いかけましょう！=Let's go after it!
+大丈夫ですわよ\n取って食おうというわけではありませんの=Don't worry, we're not going to take it and eat it.
+こうなったら…{{A}}\n二手にわかれましょう！=If this happens... let's split into two {{A}}s!
+はぁ…はぁ…！\n全然追いつけないわね…！=Huh... huh...!\nI can't catch up with you at all..!
+ただちょーっと、お願いごとを\n叶えてくれればいいだけですわ～♪=I just need a little bit of a favor from you!
+わかりましたわ\nでしたら、わたくしがこのまま追いかけます=If you understand, I'll go after her.
+{{A}}さんは\n回り道をして待ち伏せしていてほしいですわ=I hope Ms. {{A}} takes a detour and stays in ambush.
+いいわ\nそれじゃあ、よろしくね=All right.\nOkay, well, nice to meet you.
+そこのかた…\nお待ちください！=Hey there...\nPlease wait!
+はぁ…はぁ…\nまだ追ってくるのね…！=Huh... huh...!\nThey're still after me...!
+うふふ、作戦成功ですわね=Ummmmm....................... a successful plan.
+<color\=#990000>そこまでよ！</color>=<color\=#990000>That's enough!</color>
+えっと、こっちは木があってジャマだから…\nこっちに行きましょ――=Well, there's a tree over here that's blocking the way, so... let's go this way...
+<color\=#990000>こっ、怖ぁい！</color>\nぜったいに何かありそう…！=<color\=#990000>Oh, my God, that's scary!</color>\nThere's definitely something going on...!
+何も怖いことはありませんわよ～\nうふふふふ…=There's nothing to be afraid of～ufufuufuufu...
+えっと、この子は…=Let's see, this girl...
+う、うぅ…\nもう、なんなのよ！=Ugh, ugh...\nOh, my God!
+このあたしとやろうっての？\nふたりとも、いい度胸してるじゃない！=You two have got some nerve, don't you?
+これ以上近づいたら…\nか、噛みついちゃうんだから！=If I get any closer... well, I'll bite you!
+ピクニックで{{A}}を16650個獲得！=16650 {{A}} were obtained at the picnic!
+{{A}}\n2023/12/30 23:59まで={{A}}2023/12/30 until 23:59
+年末カウントダウン{{A}}{{B}}3=Year-end countdown {{A}} {{B}}3
+12/30(土)23:59まで=Until 12/30 (Sat.) 23:59
+{{B}}復刻{{A}}にて獲得=Acquired at {{B}} reprint {{A}}
+年末カウントダウン{{A}}{{B}}3にて獲得=Acquired at year-end countdown {{A}} {{B}}3
+{{B}}に{{C}}できるインテリア\nインテリア{{A}}を5獲得できる=You can earn 5 Interior Interior {{A}} that can be {{C}} to {{B}}.
+3日間連続でインテリアを{{A}}♪1日目の{{A}}です={{A}} for 3 consecutive days {{A}} ♪ {{A}} on the first day
+メガドライブのパッケージ=Mega Drive package
+{{A}}日時：2023/12/28　21:18={{A}} Date: 21:18, 12/28/2023
+{{A}}日時：2023/12/30　00:55={{A}} Day Time: 2023/12/30 00:55
+{{A}}日時：2023/12/29　22:09={{A}} Day Time: 2023/12/29 22:09
+{{A}}日時：2023/12/29　13:52={{A}} Date: 12/29/2023 13:52
+{{A}}日時：2023/12/28　22:27={{A}} Date: 2023/12/28 22:27
+{{A}}日時：2023/12/29　00:40={{A}} Date: 2023/12/29 00:40
+<size\="40">わーっ！</size>=<size\="40">Wow!</size>
+ほら、どう？　怖いでしょ？\n逃げるなら、今のうちよ！=See, how's that? You're scared, and if you want to run away, now's the time!
+な、なに？　なんで逃げないのよ…\n<size\="25">はっ、もしやなにかやろうとしてる…！？</size>=What? Why aren't you running...?\n<size\="25">Are you trying to do something...?</size>
+ふ、ふ～ん…じゃあ、あたしはこのあたりで\n失礼させてもらおうかしら～…=Hmmm... well, I guess I'll leave you to it...
+まあまあ、お待ちになってください=Well, well, well. Please wait.
+そうよ、ちょっと落ち着いて=Yeah, just calm down.
+あなたに聞きたいことがあるだけなの=I just have a question for you.
+聞きたいこと？　{{A}}を勝手に\n食べたから追ってきたんじゃないの…？=What you want to ask? I thought you were after me because I ate {{A}} without your permission...?
+ちがいますわよ=No, ma'am.
+じゃあ、どうして\nあんな音が鳴る仕掛けなんて…=Then how did you come up with a contraption that makes that noise?
+それは、あなたにどうしても\nお会いしたかったからですわ=That's because I really wanted to meet you.
+ねぇ、あなたがウワサになっていた\n<color\=#990000FF>お願いごとを叶えてくれる子</color>なのよね？=Hey, you know that girl you've been hearing so much about?\n<color\=#990000FF>The girl who makes your wishes come true.</color>Right?
+黒っぽいお姿ですし、\nわたくしたちみたいなシッポもお持ちですし=You look black, and you have a tail like ours.
+<color\=#990000FF>え？</color>　う～ん…えっと…=<color\=#990000FF>Eh?</color>　Ummm...Uuh…
+ちょっと待ってね…\nたぶんそうだけど、ちがうと思うの…=Wait a minute... maybe yes, maybe no...
+なによ、そのよくわからない答えは…\nお願いは叶えてくれないってこと？=What's that unfamiliar answer... that you won't grant my request?
+無理よ　だって、あたしも\nお願いを叶えてもらった方なんだから=I can't, because I'm the one who got my wish.
+まあ…そうなんですの？=Well... is that so?
+うん…でも、他の子が見た子っていうのは\nあたしのことかもしれなくて…=Yeah... but the girl that the other girl saw could have been me...
+ど、どういうこと…？=What do you mean...?
+えっとね――=You know...
+あたしはね、<color\=#990000FF>悩みを解決してくれる神社</color>の\nウワサを聞いて、そこに行ったんだ=I am,<color\=#990000FF>I heard a rumor of a shrine</color>I heard a rumor of a shrine\nI went there because I heard a rumor
+そして、神社でお願いをしてたら、\n<color\=#990000FF>黒い玉</color>が落ちてるのを見つけたの=And if you were at the shrine asking for a favor,\n<color\=#990000FF>I found a black ball</color>I found a black ball on the ground.
+<color\=#990000FF>黒い玉？</color>\nだれかの落とし物かしら=<color\=#990000FF>A black ball?</color>\nSomeone must have dropped it.
+たぶん…そうだと思う\nすごくキレイなんだもん=I think it's... it's so beautiful.
+よくわからないし、ちょっと怖いから\nそのまま、ほうっておこうと思ったんだけど=I'm not sure, and I'm a little scared, so I thought I'd just leave it at that.
+その黒い玉をずっと見てたら、なんだか\nお願いごとがきいてきた感じがしたの=I kept looking at that black ball, and I felt like I was getting what I was asking for.
+なんていうか、こう…\nうまく言えないんだけど、勇気が出て…=I don't know how to say this... I don't know how to say this... but I got the courage to...
+その黒い玉が\nお願いごとを叶えてくれたってこと…！？=You mean that black ball made your wish come true...!
+それは…わかんないけど\nでも、なんとなくそうなのかもって思ったの=I don't know, but I thought it might be something like that.
+お願いごとを叶えるすごいものを\n落としたなら、持ち主は困ってるはずだし=And if you've dropped something amazing that grants wishes, the owner must be in trouble.
+この黒い玉を落とした子を探しだして\n届けようって決めたの！=I decided to find the kid who dropped this black ball and deliver it to her!
+それで、いろんなところに行ったけど\n玉の持ち主は見つからなくて…=So I went to a lot of places, but I couldn't find the owner of the jade...
+たぶん、その途中で他の子があたしを見て\n勘違いしちゃったんじゃないかな？=Maybe the other kids saw me on the way there and misunderstood me.
+な、なるほど…\nそうだったのね…=Oh, I see...\nI see...
+はぁ…\n謎の子探しは、また最初からね=Huh...\nI'll start the search for the mystery child all over again.
+せっかく追いかけてくれたのに、ごめんね\n{{A}}も食べちゃったし…=I'm sorry you had to chase after me, but I ate {{A}} too...
+ううん、いいのよ\nかんちがいしたのは、わたしたちの方だから=No, it's okay. We're the ones who made the mistake.
+あ、そう言えば！　あなた、途中で\nお願いごとがきいてきたって言ったわよね=Oh, by the way! You said you had a favor to ask me on the way.
+あなたのお願いって何だったの？=What was your request?
+えっ、それは…=What? It's...
+…………あの、実はあたしね\n小さなことでもすぐおどろいちゃうの…=............ Actually, I'm easily startled by the smallest things...
+だから、<color\=#990000FF>ビビらないように勇気をください</color>\nってお願いしたんだ=So,<color\=#990000FF>Please give me the courage not to be scared.</color>\nI asked for it.
+とるむ=attend (to business)
+神社でそのお願いをしたら、\nどんどん勇気がわいてきちゃってね=When I made that request at the shrine, I got more and more courageous.
+落とし物をしちゃった子に、\nこの黒い玉を届けたいって思ったわけよ=I wanted to deliver this black ball to a child who had lost something.
+それで、あちこち歩きまわっていたの=So I was walking around all over the place.
+な、な…=Hey, na...
+<color\=#990000FF><size\="40">なんていい子なの…！</size></color>=<color\=#990000FF><size\="40">What a good girl...!</size></color>
+あなた、えらいわ！\n勇気を出して行動するなんて！=You're so brave, you're so brave to do what you did!
+う～ん、ほめてあげたくなっちゃう！\n本当にすごいわー！=Well, I want to praise you, you really are amazing!
+{{A}}\nうれしいけど、なんだかむずがゆい…={{A}} I'm happy, but kind of itchy...
+うん…よし！\nわたしもその勇気を見習わなきゃ=I must learn from your courage.
+ねえ、その黒い玉を落とした子を探すの\nわたしにも手伝わせてくれないかしら？=Hey, will you let me help you find the girl who dropped that black ball?
+いっしょに探してくれるの？\nそれはすっごく助かるわ！=That would be very helpful!
+手がかりが全然なくて\n困ってたところだから=I'm just having a hard time finding any leads at all.
+任せなさい\nみんなで探せば、それだけ早く見つかるわよ=I'll take care of it, and if we all search together, we'll find them that much faster.
+それに、落とした子も探してるだろうし、\nきっとすぐに見つかるわ=Besides, the kid who dropped it off is probably looking for it, and I'm sure he'll find it soon.
+そっか…！\nうん、そうよね！=I see..!\nYeah, that's right!
+ふふっ、あんたってたよりになるわね\nもっと勇気がわいてきたわ=You're so helpful, and now I'm feeling braver.
+ありがと　でも、わたしに勇気が\nわいてきたのはあなたのおかげよ=Thanks, but you're the one who gave me the courage to do it.
+ねえ、{{A}}\nあなたも手伝ってくれないかしら？=Hey, {{A}}, maybe you can help us out too?
+{{B}}　{{A}}…？\nどうかした？={{B}} {{A}}...?\nWhat's wrong?
+…さっきからしゃべらないけど\nなにか気になることでもあるの？=... You haven't talked for a while now, is there something on your mind?
+ええ、ちょっと考えていたのですが…\n先ほどの話を聞いた感じですと――=Yeah, I was just thinking about that for a minute... from what I just heard--
+<color\=#990000FF>その玉にお願いすれば叶う</color>\nということでしょうか…？=<color\=#990000FF>If you ask for that ball, it will come true.</color>\nI wonder if that's what you mean...?
+<size\="40">え、そうなの！？</size>=<size\="40">Oh, really!</size>
+{{A}}さんがお願いをしたとき\n黒い玉が近くにあったのですわよね？=When Ms. {{A}} made her request, the black ball was nearby, wasn't it?
+そして、他の子がお願いしたときも\nその玉を持った{{A}}さんがいた…=And when the other kids asked for it, Ms. {{A}} was there with those balls...
+まぁ…そう言われれば、そうなるけど…\nたまたまじゃないかしら？=Well... if you put it that way... maybe it's just a coincidence.
+そうかもしれませんけど…あの、\n黒い玉を見せてもらってもよろしいですか？=Maybe so, but... um, may I see your black balls?
+もちろんよ　はい、これ\n落とさないように気をつけてね=Of course. Yes, ma'am. Be careful not to drop this.
+ええ、もちろん\n<color\=#990000FF>ふ～む…</color>=Yes, of course.\n<color\=#990000FF>Hmmm...</color>
+黒い玉は{{A}}に任せて、\nこれからどうするか考えましょっか=Let's leave the black ball to {{A}} and figure out what to do with it.
+あたしは神社の近くを\n探していたところよ=I was just looking for a place near the shrine.\nI was just looking for a place near a shrine.
+川の方にはもう行ったから、\n次は向こうの山に行くつもりだったの=I'd already been to the river, so I was going to go to the mountains over there next.
+わかったわ\nじゃあ私もついていって…=Okay. Okay.\nThen I'll go with you...
+ううん、わかれてそれぞれ探した方が\nいいのかしら？=No. Should we split up and look for each other?
+{{A}}、どう思う？={{A}}, what do you think?
+…どうしたの、{{A}}？=... What's up, {{A}}?
+ふふっ　ふふふ…=Fufufu...
+<color\=#990000FF><size\="40">うふふふふふ…！</size></color>=<color\=#990000FF><size\="40">UFufufufufu...!</size></color>
+12/30 12:00 以降=12/30 12:00 or later
+「{{A}}の暴走」=The {{A}} Runaway."
+{{A}}　49622={{A}}　49622
+{{A}}　49958={{A}}　49958
+{{A}}　50028={{A}}　50028
+{{A}}　50121={{A}}　50121
+爬虫綱有鱗目アガマ科\nウォータードラゴン属\n{{A}}=Reptilia, Reptilia, Scales, Agamidae, Water Dragon, {{A}}
+緑の体色が目を引く、半樹上性のトカゲの仲間です。首から尾にかけてクレストと呼ばれるたてがみ状の突起があり、{{A}}したオスのものは発達しています。短い距離ですが、地上では後ろ足で立って走ることができるんです。泳ぎも得意で、危険を察知すると水に飛び込み逃げてしまいます。=A semi-arboreal lizard with an eye-catching green body color, it has a mane-like projection from neck to tail called a crest, which is well developed in {{A}} males; it can run on its hind legs on the ground for short distances; it is a good swimmer and will jump into the water to escape when it senses danger; it is also a good swimmer and will run away when it senses danger.
+森林・湿地=Forests and wetlands
+招き龍のお守り交換所=Beckoning Dragon Amulet Exchange
+またコラボの為に{{A}}貯めなくては=I need to save my {{A}} for another collaboration.
+{{A}}さン={{A}} ({{A}})
+食べないでくださぁ～い！(´・ω・`)=Please don't eat it!
+{{A}}日時：2023/12/30　12:42={{A}} Day Time: 2023/12/30 12:42
+わたくしの望みは、いつだってひとつですわ=I always want one thing.
+{{A}}の暴走={{A}} out of control
+コ、{{A}}…？\nどうしたの、急に…？={{A}}... what's wrong, suddenly...?
+うふふ　インドシナウォータードラゴンさん\nやっぱり、この玉は<color\=#990000FF>本物</color>だと思いますわ=Ummm... Ms. Chinese Water Dragon... I knew it... these balls are<color\=#990000FF>I think it's real.</color>I think it's the real deal.
+だって、こんなにも\n気持ちがあふれてくるんですもの…！=Because I feel so full of feelings...!
+本物って、なんのこと？\nまさか、さっき言ってた――=What do you mean, "real"?
+<color\=#990000FF>その玉がお願いごとを叶えてくれる</color>\n…ってこと？=<color\=#990000FF>That ball will make your wishes come true.</color>\nYou mean...?
+<color\=#990000FF>ええ、そうですわ！</color>\nうふふふふ…=<color\=#990000FF>Yes, it is!</color>\nFufufufu...
+ちょっと待って！\nあなたはなにをお願いしたの？=Wait a minute, what did you ask for?
+<color\=#990000FF>Vorkedさんと\nず～っといっしょにいること…</color>=<color\=#990000FF>Being with Ms. Vorked all the time...</color>
+<color\=#990000FF>ずっとずっと、いつまでもいっしょに…</color>=<color\=#990000FF>We will be together forever and ever...</color>
+Vorkedって、\nたしか、{{A}}の隊長をやってるヒトだっけ=Vorked, I think, is the captain of the {{A}}.
+ええ、そうなんですの\nあの方は隊長ですからいつも忙しくて…=Yes, she's the captain, so she's always busy...
+無理を言って困らせてはいけないと\nずっと気持ちをおさえてきましたわ=I've been trying to hold back my feelings so as not to embarrass you by asking too much of you.
+でも、わたくしの胸の内からは、今！\n波のように気持ちが押し寄せていますの！=But now, from my heart, feelings are surging like a wave!
+<color\=#990000FF><size\="40">隊長といっしょに暮らしたい！</size></color>=<color\=#990000FF><size\="40">I want to live with the captain!</size></color>
+<color\=#990000FF><size\="40">この気持ちはもう止められませんわ！</size></color>=<color\=#990000FF><size\="40">I'm not going to stop feeling this way!</size></color>
+お、落ち着きなさいって！=Oh, calm down!
+そ、そうよ！\nほら！　黒い玉を返して、ね！=Yes, that's right! Give me back my black ball, okay?
+ああ…Vorkedさん！\nわたくしといっしょに暮らしましょう…=Oh... Ms. Vorked! Come live with me...
+森の奥に、ステキな小屋があるんです\nふたりのために用意したんですのよ…=There's a beautiful cabin deep in the woods that I've set aside for the two of you...
+玉を返してもらったのに\nテンションが変わらない…！=I got my balls back and the tension is still the same...!
+{{A}}！\n深呼吸してみましょ！　ねっ！={{A}}! Let's take a deep breath!
+そもそも、{{A}}の拠点はここから遠いし\nここでアツくなったところで…=To begin with, the {{A}} base is a long way from here, and when you get hot here...
+ふんふふ、ふ～ん♪=Mmm-hmm. Mmm-hmm. ♪
+{{A}}　よぉ、お前たち、元気かー\nこんなところで会うなんてな={{A}} Hey you girls, how are you girls doing- can't believe I'm seeing you here!
+うふふふふふ…隊長…=Fufufufufu... captain...
+ん、なんだぁ？\n隊長を探してんのか？=Hmm, what is it?\nYou looking for the captain?
+それなら、さっき向こうで見かけたぜ\nみんなでどこかに行くんだとよ=Well, I saw her over there a while ago, and she said we're all going somewhere together.
+<color\=#990000FF><size\="40">まあっ！？</size></color>=<color\=#990000FF><size\="40">Maaah!</size></color>
+なんだ？　どうかし――=What's wrong?
+Vorkedさんが近くにいる…！\nこれはもはや運命ですわ！=Ms. Vorked is nearby...! This is now fate!
+Vorkedさん！\nわたくしといっしょに暮らしましょう～！=Vorked, come and live with me!
+<color\=#990000FF><size\="40">あぁー！？\nちょっと待ってー！！</size></color>=<color\=#990000FF><size\="40">Aah!\nWait a minute!</size></color>
+あはは！　すげーな、アイツ！\n見たかよ、今の速さ！=Wow, did you see how fast she just went?
+どうしましょう…このままだとあの子、\nなにをするかわからないわ=What should we do... we don't know what she'll do if we don't.
+そうよね…あんなテンションだもの\n隊長をそのまま連れ去っちゃいそう…=I know... with that kind of tension, they'll just take the captain away...
+ここは…追いかけるしかない！！=This is the place... we have to chase it!
+ええ　わたしたちの話を聞いてくれるかは\nわからないけど、落ち着かせなきゃ！=Yes, I don't know if they will listen to us, but we have to calm them down!
+ちょっと待てよ　話がよく見えないけど、\nお前たちはアイツを止める気なのか？=Wait a minute, I'm not really seeing the story here. Are you girls trying to stop her?
+う、うん！\nそうなのよ！=Uh-huh!\nThat's right!
+なら、オレも手伝おうか？\n話しても無理なら力でおさえるしかないだろ=If you can't talk them out of it, you're going to have to use force.
+あ、たしかにそうよね\nお願いできるかしら？=Oh, yes, I'm sure you're right.
+ああ、問題ないぜ\nヒマしてたから、ぶらぶら散歩してたんだしな=Yeah, it's no problem, I've been out walking around in my spare time.
+あ、でもそれなら\n他の子も連れてきたほうがよさそうだな=Oh, but then I guess I'd better bring the other kids.
+このあたりに手伝ってくれそうな子は\n他にいないのか？=Are there any other kids around here who might be willing to help?
+う～ん…それは…=Ummm... that's...
+<color\=#990000FF><size\="40">ゴーン…</size></color>=<color\=#990000FF><size\="40">Gone...</size></color>
+な、なに？　今の音…=What? What? That sound...
+なんだか体にひびく音だったわね…=It was a sound that kind of cracked me up...
+また聞こえた！=I heard it again!
+あっちからね\n…何かしてるのかしら？=From over there.\n... what are they doing?
+だれかいるならちょうどいい\n手伝ってもらえないか、話しに行こうぜ=If there's anyone out there that could help me out, let's go talk to them.
+ほ～、なかなかいいパンチじゃねーか！\nちゃんと鍛えてるな=You've got a pretty good punch, you've been training properly.
+だな　なんだか鐘の音も\nさっきより体にひびいてくるぜ=I guess so. The sound of the bells is getting to me even more than before.
+このくらい、まだまだ肩慣らしさ\n次はもっと強くいく！=This is just a little more getting used to it, but next time we'll go harder!
+<color\=#990000FF><size\="40">おおっ！</size></color>=<color\=#990000FF><size\="40">Oh, wow!</size></color>
+{{A}}に負けてられねぇ！\n次はオレに叩かせろ={{A}} can't beat me! Let me beat you next time!
+いくぞ～…<color\=#990000FF><size\="40">てやっ！</size></color>=Here we go...<color\=#990000FF><size\="40">I'm coming..!</size></color>
+見つけた…けど、\nあの子たち、何をやってるのかしら…？=I found them... but what are those kids doing...?
+モリノひでちまサーン=Morino Hidetima Saan
+よしっ　次は俺の番だ！\nよ～く見てろよ～っ=Okay, now it's my turn!
+ふ～…=Hmmm...
+<color\=#990000FF><size\="40">おりゃあああっ！</size></color>=<color\=#990000FF><size\="40">Oh, yeah!</size></color>
+うん、いい音だ！=Yeah, it sounds good!
+はっはーっ！\n{{A}}もやるじゃねぇか！=Hahaha, {{A}} does it too!
+おーい、だれかと思えば\n{{A}}たちじゃねぇか　何してんだ？=Hey, look who's here. It's the {{A}}s. What are you doing?
+おお、{{A}}か\nひさしぶりだな！=Oh, {{A}}, it's been a while!
+それと、{{A}}に\n{{B}}か　ふたりとも元気そうだな=And {{A}} and {{B}}. They both look good.
+オレらが何をやっていたかって？\n見ての通り…特訓だよ特訓っ！=As you can see, we were training, training, training!
+<color\=#990000FF><size\="40">やああぁぁっ！</size></color>=<color\=#990000FF><size\="40">Hey ah!</size></color>
+すごい音…\nこれが叩かれて鳴っていたのね=That's a hell of a sound...\nSo this is what it sounded like when it was struck.
+これって、なんなの？=What is this?
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐</color>つりがね<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nこいつは、釣鐘っていうものらしいぜ=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐</color>hanging bell<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nI heard this one's called a Tsurigane.
+叩き心地がよくてさ\nときどきこうやって特訓してるんだ=It's very comfortable, and sometimes I train like this.
+いい音だな…=Sounds great...
+あぁ、いい音だぁ…=Oh, that sounds great...
+どうだ？\nお前たちも１回叩いてみないか=What do you think?\nWhy don't you girls give it a whack?
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>つりがね<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n何も考えず、ただ釣鐘だけを見て…\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n己の力を全力でぶつける！=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>hanging bell<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nDon't think about it, just look at the fishing bells...\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nHit it with everything you've got!
+筋肉にひびく、最高の体験だぜ？=It's a great experience that cracks the muscles, you know?
+おもしろそうだな、やるやる！=Sounds interesting, I'll do it!
+<color\=#990000FF><size\="40">はぁ――っ！！</size></color>=<color\=#990000FF><size\="40">Huh-～!</size></color>
+おっ！　{{A}}の言った通りだな\nなんか気持ちいい！=Whoa, {{A}} was right, something feels good!
+そうだよな！\nお前もわかるやつじゃねーか=That's right!\nYou're one of those girls who knows what she's talking about, aren't you?
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>つりがね<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nそれに、釣鐘のもようもおもしろいな\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n今度、描いてみようかな…=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>hanging bell<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nPlus, the fishing bell thing is interesting too.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nMaybe I'll try drawing one next time...
+ほら、ふたりもどうだ？=Here, how about you two?
+ど、どうする…？\n{{A}}…=What are you going to do...?
+う～ん、叩くより先に\nやらないといけないことがあるんだけど…=Hmmm... I have something I need to do before I hit...
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>つりがね<color\=#00000000>‐‐‐‐‐‐‐‐‐‐</color></size>\n安心しろ　この釣鐘はデカいが\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nおそってくることはない　怖くはないぜ？=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>hanging bell<color\=#00000000>‐‐‐‐‐‐‐‐‐‐</color></size>\nRest assured, these fishing bells are huge, but\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nI'm not afraid of it. I'm not afraid of it, okay?
+はぁ？　別に怖がってなんかないわよ！=I'm not scared of you!
+この鐘を叩けばいいんでしょ？\nそれくらいカンタンよ=All I have to do is strike this bell, right?
+<size\=15><color\=#00000000>‐‐‐‐‐‐</color>つりがね<color\=#00000000>‐‐</color></size>\n<size\="40">ナイス釣鐘！</size>=<size\=15><color\=#00000000>‐‐‐‐‐‐</color>hanging bell<color\=#00000000>‐‐</color></size>\n<size\="40">Nice fishing bell!</size>
+さあ、{{A}}もいってみようか！=Let's see what {{A}} has to offer!
+わ、わかったわよ…<size\="40">えいっ！</size>=Okay, okay...<size\="40">Yeah!</size>
+<size\="40">ひびいてる！\nひびいてるぞ！</size>=<size\="40">It's cracking!\nIt's cracking!</size>
+まぁ、これくらいわね？=Well, this is about as good as it gets, right?
+ねえ、{{A}}…\nなんだか、スッキリしない？=Hey, {{A}}... doesn't that kind of clear things up?
+わかるわ　体を動かすのもそうだけど、\nこの鐘の音がいいのよね…=I know what you mean, it's all about the physical activity, but I love the sound of those bells...
+だよな！　いい感じだよな～=I know, right? It's so nice!
+なんかモヤモヤしてるときも\nこいつを叩くとスッキリするんだぜ=Whenever I'm feeling a little fuzzy, I just slap this girl and it clears my head.
+わかる気がするわ=I think I know what you mean.
+{{A}}　モヤモヤ…スッキリ…={{A}} Moya Moya... clear...
+ねえ、{{B}}　もしかして、\nこの鐘を{{A}}に叩いてもらえば…=Hey, {{B}}, maybe if we could get {{A}} to strike this bell...
+あたしも同じこと考えてた！\nあの子を落ち着かせられるかも…！=I was thinking the same thing!
+12/31 12:00 以降=After 12/31 12:00
+「さよなら煩悩」=Good-bye, vexations."
+年末カウントダウン{{A}}{{B}}4=Year-end countdown {{A}} {{B}}4
+今回もいろいろあったけど、\nみんなが楽しそうでよかったよ=Again, a lot happened, but I'm glad everyone seemed to be having a good time.
+招き龍のお守りを累計15000個獲得=Obtained a total of 15,000 beckoning dragon amulets
+招き龍のお守りを累計20000個獲得=Obtained a total of 2,000 beckoning dragon amulets
+1000日おめでとうなのだ(オール以外は各種ヒール＆バッファー{{A}})=Happy 1000th (except for all but various heal & buffer {{A}}).
+じーっ・・・・・・=Jeez. ・・・・・・
+3日間連続でインテリアを{{A}}♪2日目の{{A}}です={{A}} the interior for three days in a row... this is day 2 of {{A}}!
+ドリームキャストのパッケージ=Dreamcast package
+期間：2023年1{{B}}27日～2024年{{A}}10日=Period: 1 {{B}}27, 2023- {{A}}10, 2024
+累計ログイン1540日目！=Cumulative log in day 1540!
+期間：2024年{{A}}1日～2024年{{A}}8日=Period: {{A}} 1, 2024- {{A}} 8, 2024
+福よこいこい！=Come on, Fukuyo koi koi!
+1/11(木)14:00まで=Until 1/11(Thu.) 14:00
+新年の{{A}}です=It's a New Year {{A}}!
+謹賀新年{{A}}にて入手=Obtained at the Happy New Year {{A}}
+3日間連続でインテリアを{{A}}♪3日目の{{A}}です={{A}} the interior for three consecutive days... this is day three of {{A}}!
+セガサターンのパッケージ=Sega Saturn package
+新年の{{B}}です\n「すごい!!{{A}}クエスト」で使用できます！=It's a New Year's {{B}}, available for the "Awesome!!!{{A}} Quest"!
+EXPの上限を超えた分の素材{{B}}と{{A}}は\n使用を取り消しました！=The use of materials {{B}} and {{A}} for the amount exceeding the EXP limit has been canceled!
+{{A}}\n2019/1{{B}}12日まで={{A}}\nUntil 2019/1 {{B}}12
+{{A}}\n2024/01/01 23:59まで={{A}}2024/01/01 until 23:59
+謹賀新年！無料10回{{A}}=Happy New Year! Free 10 {{A}}!
+{{A}}\n2024/01/11 14:00まで={{A}}2024/01/11 until 14:00
+ビビらずいくぞ！　年末煩悩大暴走！{{B}}{{A}}=Let's not be scared!
+12/27～1/11 14:00 まで=12/27～1/11 until 14:00
+12/27 ～ 1/11 14:00 まで=12/27～ 1/11 until 14:00
+自身の{{A}}が5％増加する\r\nさらに自身がギブアップ状態でない時\r\n自身を除く味方全体の{{B}}が2％減少する=Increases her {{A}} by 5% and reduces the {{B}} of all allies except herself by 2% when she is not in a give-up state.
+{{A}}結び紐を累計2500個獲得=Acquired a total of 2,500 {{A}} knotted cords
+いつの間にか動物に詳しくなった=When did I become so familiar with animals?
+{{A}}結び紐を累計3500個獲得=Obtained a total of 3,500 {{A}} knotted cords
+招き龍のお守りを累計1000個獲得=Obtained a total of 1,000 beckoning dragon amulets
+招き龍のお守りを累計150個獲得=Obtained a total of 150 beckoning dragon amulets
+あにゅす=young man (who has recently undergone her manhood ceremony)
+いたわ！\n{{A}}、見つけたわよ！！=There she is! {{A}}, I found her!
+さよなら煩悩=Good-bye, annoyance.
+あぁ…Vorkedさん\n愛しのあなたは今どこにいらっしゃるの…？=Ahhh... Ms. Vorked, where are you now, my beloved...?
+このあたりに来ているんですわよね？\nなにをしに来てくださいましたの？=You are in the area, aren't you, and what are you doing here?
+まさか、わたくしに会いに！？=No way, to see me!
+う・ふ・ふ♪\nそうだとしたら…うれしすぎますわ～♪=Ummmmm... if that's the case... I'm too happy～!
+でも…わたくしに会いに来たわけじゃ\nないかもしれませんわね…=But... maybe you didn't come here to see me...
+だとしたら、わたくしたちは\n知らずに引かれあう運命なのですわ～=If so, we are destined to be drawn to each other without knowing it!
+<color\=#990000FF><size\="40">Vorkedさ～ん！</size></color>=<color\=#990000FF><size\="40">Vorked～!</size></color>
+大きな声を出してくれて助かったわね\n迷わずここまで来れたわ=Thank goodness you spoke out loud so I could get here without getting lost.
+あら？　おふたりとも、そんなにあわてて\nどうかなさいました？=What's wrong with you two, are you in such a rush?
+もう少し落ち着かれるといいですわ♪=I hope you can calm down a little more.
+<size\="40">落ち着くのはあなたの方でしょ！</size>=<size\="40">You're the one who needs to settle down!</size>
+{{A}}！\nちょっと来てほしいところがあるの！={{A}}! I have some places I need you to come!
+わたくし、いそがしいんですの\n早く隊長に会いに行かないと…=I'm very busy, I have to go see the captain as soon as possible...
+あぁっ！　向こうからかすかに\nVorkedさんの匂いが！？=Aah! A faint smell of Ms. Vorked from over there!
+<color\=#990000FF><size\="40">コモドドラゴーン！</size></color>=<color\=#990000FF><size\="40">Komodo Dragoons!</size></color>
+おっと、やっぱり話して来てもらうことは\n無理だったみたいだな=Oops, I guess I couldn't talk her into coming after all.
+そうね…しかたないわ=Well... we'll see.
+それじゃあ、ここからは作戦その２よ=Okay, here's strategy number two.
+<color\=#990000FF><size\="40">力ずくで止める！</size></color>=<color\=#990000FF><size\="40">Stop by force!</size></color>
+ああ、Vorkedさん\nどこにいらっしゃるの～！=Oh, Ms. Vorked, where are you～?
+{{A}}、そこまでよ！\n止まりなさいっ！={{A}}, that's enough!
+<size\="40">バッシャーン！</size>=<size\="40">Bashan!</size>
+さあ、大人しくなさい？\nこれでもわたし、水の中はとくいなの=Now, be quiet, I'm still good in the water.
+ふふふ…関係ありませんわ=Fufufu... it doesn't matter.
+わたくしの燃える思いは\n水の中に入っても消えないんですの！=My burning desire doesn't disappear when I go into the water!
+う、うぅ…なんて強い力なの…\nおさえきれないぃ…！=Ugh, ugh... what a strong force... I can't hold it back...!
+でも…ここまでよ\n{{A}}=But... that's it.\n{{A}}.
+<color\=#990000FF><size\="40">みんな、お願い！</size></color>=<color\=#990000FF><size\="40">Everyone, please!</size></color>
+<color\=#990000FF><size\="40">任せろ！</size></color>=<color\=#990000FF><size\="40">Got it!</size></color>
+<color\=#990000FF><size\="40">マッスルパワー！！</size></color>=<color\=#990000FF><size\="40">Muscle power!</size></color>
+どう、{{A}}\n水の中に入って、少しは落ち着いた？=How's it going, {{A}}, now that you're in the water, have you calmed down a bit?
+ええ　ご心配をおかけしました\n少しずつ落ち着いてきましたわ…=Yes, I'm sorry for the trouble I've caused you, but things are starting to calm down a little bit...
+でも、やっぱり\nVorkedさんに会いたいですわー！=But I still miss Vorked!
+<color\=#990000FF><size\="40">落ち着いてないじゃない！</size></color>=<color\=#990000FF><size\="40">You're not calm!</size></color>
+すみません…なんだかおかしいんですの\nこんな気持ちになるなんて、初めてですわ=I'm sorry... there's something wrong with me, I've never felt this way before.
+わたくし、なにか飲んでしまったかしら…？\nどうしても、思いが止まりませんわ…！=I wonder if I have drunk something... I just can't stop thinking about it..!
+なにか…この気持ちを止める\nいい方法はありませんの！？=Is there any way to stop this feeling?
+安心して\nそれをあなたに教えに来たのよ=Don't worry.\nThat's what I'm here to tell you.
+あたしたちについてきて？\nためしてもらいたいことがあるから=Would you follow us, please, because we have something we'd like you to try.
+{{A}}よくわからないのですけれど\nこれを叩けばいいんですの？={{A}} I don't understand, am I supposed to hit this?
+ええ、そうよ\n思いっきり叩いちゃて=Yeah, that's right.\nHit her as hard as you can.
+これを叩いても\n何も変わらないような気もしますが…=I have a feeling that beating this up won't change anything...
+まあまあ！\n叩いてみればわかるから！=Oh well!\nBecause you'll know it when you hit it!
+…わかりましたわ=... Okay.
+えいっ=Hya
+<size\="40">弱い弱い！</size>=<size\="40">Weak, weak, weak!</size>
+もっと力いっぱい叩いて！=Tap more forcefully!
+えいっ！=Yeah!
+<size\="40">まだまだいける！</size>=<size\="40">It can still be done!</size>
+えーいっ！=Yeah!
+<size\="40">いいよ！　その調子で！</size>=<size\="40">Okay! Keep it up!</size>
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>つりがね<color\=#00000000>‐‐</color></size>\n<size\="40">よっ！　ナイス釣鐘！</size>=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>hanging bell<color\=#00000000>‐‐</color></size>\n<size\="40">Yo! Nice fishing bell!</size>
+いい音ですわね…=Sounds great...
+もう少し、叩いてもよろしくて？=Can I slap you a little more?
+みなさん、ありがとうございました\nなんだかとっても気持ちが落ち着きましたわ=Thank you very much, everyone, for making me feel so much more at ease.
+どうやら、うまくいったみたいだな=Well, apparently it worked.
+ええ！　みんな…ありがとう！=Yes! Thank you girls... thank you!
+さきほどまでのわたくしは\nどうかしていましたわ…=I was out of my mind a few minutes ago...
+いいのいいの\n何事もなく終わったんだし、オッケーよ=It's okay, it's okay. Everything's fine.
+そう言っていただけると助かります=I appreciate you saying so.
+いやー、お前らやるじゃん！\nカッコよかったぜ=Well, you girls did it, that was cool!
+ああ、あのときの{{A}}の威嚇！\nあれはなかなか迫力があったぜ=Oh, that {{A}} threat!
+<size\="40">ナイス威嚇！</size>=<size\="40">Nice intimidation!</size>
+え…そ、そう？\nまあ、あたしならあれくらい当然だけどね！=Well, I would have done the same thing!
+{{A}}も\nすごかったぞ={{A}} was awesome, too.
+ああ　水の中でもすいすい動けるんだな！=Yeah, they can move easily in water!
+<color\=#990000FF><size\="40">いったいどんな特訓してんだ！？</size></color>=<color\=#990000FF><size\="40">What the hell kind of training are you doing!</size></color>
+べ、別にあれくらい普通よ、普通=It's normal. It's normal.
+…もう、そんなにほめても\nなんにもしてあげられないわよ？=... I can't do anything for you anymore, even if you praise me so much, can I?
+{{A}}ったら、\nてれちゃってる？={{A}}, are you getting all hot and bothered?
+そういう{{A}}こそ…！=That's the kind of {{A}}...!
+あのとき、ビビっちゃわないかって\n心配してたんだからね=I was worried you'd freak out.
+まあ、正直少しビビってたけど…\nあんたから勇気をもらったからね=Well, to be honest, I was a little freaked out... but you gave me the courage to do it.
+え？　わたしから…？=What?
+当然でしょ？　あんなにがんばってる\nあんたの姿を見たら…=Of course not, seeing you working so hard...
+あたしもがんばろうって気持ちになれるのよ=It makes me feel like I'm doing my best, too.
+<color\=#990000FF>ナイス勇気！</color>=<color\=#990000FF>Nice courage!</color>
+そっか…\nわたし、ビビらずにいれたんだ…=I see...\nI was able to get in without freaking out...
+なんだか、願いが叶っちゃったわね=I kind of got my wish.
+{{A}}　願い…？={{A}} Wish...?
+そう言えば、結局あの<color\=#990000FF>黒い玉</color>って――=Speaking of which, I ended up with that<color\=#990000FF>I found a black ball</color>is...
+あ、みんながいるー！=Oh, everyone is here!
+おっ、隊長に{{B}}のみんな…\nそれに{{A}}も！=Whoa, Captain and everyone at {{B}}... and {{A}} too!
+こんばんは=good evening
+こんばんは\nこんな夜に、どうしたんだ？=Good evening.\nWhat are you doing here on a night like this?
+{{A}}の活動中…ってわけじゃねぇな\nなんだかみんな楽しそうだし=It's not like {{A}} is in the middle of a {{A}} activity... because everyone seems to be having a good time.
+はい！\n今日はみんなでお参りに来たんです！=Yes! We all came to visit today!
+二年参り、と言われているものですわ=It's called "Nien-mairi," or "two-year visitation.
+{{A}}さんに教えていただいて、せっかくなら\nみんなでやってみることにしたんですの={{A}} told us about it and we decided to give it a try together!
+今日はねー\n夜もずーっとここにいるんだよ！=Today- I'm here all night long!
+みんなは除夜の鐘を叩いてたの？\nいい音がずーっと聞こえてたよ=Did you girls strike the bell for the New Year's Eve, I could hear the nice sound all the way through.
+…あれ？　でも、神社に鐘…？\n普通、鐘ってお寺にあるものだよね…=But, a bell in a shrine...? Bells are usually found in temples...
+ま、まあ…いいのかな？\nそういうの、あんまり詳しくないんだよねぇ=Well... I don't know much about that kind of thing.
+ジョヤノカネ…？\nそれはなにかしら=Joya money...?\nWhat is it?
+ちょうど今みたいな日に、<color\=#990000FF>鐘を鳴らして\n煩悩をなくす</color>…って話があるんだよ=On a day just like now,<color\=#990000FF>Ring the bells\nto eliminate all worldly desires</color>to eliminate your vexations.
+ぼんのう…？=Bonnos...?
+うーん…簡単に言うと、\n悩みとか心配事とかかな=Hmmm... simply put, worries, concerns...
+そういう、自分を迷わせる気持ちが\n除夜の鐘とともに消えていくんだって=He said those feelings that lead you astray disappear with the New Year's bell.
+<color\=#990000FF>そっか、じゃあコモドドラゴンが\n元に戻ったのも…</color>=<color\=#990000FF>I see, so Komodo Dragon is back to normal...</color>
+<color\=#990000FF>除夜の鐘のおかげかもしれないわね</color>=<color\=#990000FF>Maybe it's the New Year's bell.</color>
+{{A}}の？={{A}}'s?
+そう、聞いてよ\nさっきは大変だったんだから…=Yeah, listen, I know it was hard earlier, so...
+{{A}}が急に…ね？={{A}} is suddenly... right?
+ええ、そうですわね\n少し取り乱してしまいましたの…=Yes, I know, I'm a little distraught...
+でも、もう平気ですわ=But I'm fine now.
+もう…=Already...
+…………うふ、うふふふふ=............ Ufu, uufufufu
+隊長さん！　私、今年も副隊長として\nもっともっとも～っと、がんばりますね！=I will do my best as the vice captain this year, too!
+「煩悩は消えず」="The vexation remains."
+煩悩は消えず=Vexation does not disappear
+ピッ、ピッ、ピッ…=Beep, beep, beep...
+<color\=#990000FF>ポーン！</color>=<color\=#990000FF>Pawn!</color>
+日付が変わったヨ\n今日は１月１日　１月1日=The date has changed yo today is January 1, January 1.
+みんな～！　せ～の…=Everybody!
+<color\=#990000FF><size\="40">明けまして、おめでとうございます！</size></color>=<color\=#990000FF><size\="40">Happy New Year!</size></color>
+隊長さん\n去年は本当にお世話になりました=Captain.\nThank you so much for all your help last year.
+今年もよろしくねー、たいちょー！=Happy New Year to you too, Taicho!
+今年もよろしく！=Best wishes for the year ahead!
+ですから…これからも私のこと――=So... please keep me--
+うふふ、うふふふ…=Ufufu, ufufu...
+わっ！　{{A}}さん！？=Wow, Ms. {{A}}!
+な、なんですか！　今は私が\n隊長さんにあいさつしてるところですよ！=What, what is it? I'm the one greeting the captain now!
+うふふ…\nVorkedさん…=Hmmm...\nMs. Vorked...
+ねえ、{{A}}のあの様子…\nわたし、なんか嫌な予感がするんだけど…=Hey, I have a bad feeling about {{A}}...
+いやいや　除夜の鐘で煩悩が消えたんだし\nそんなわけないじゃない=No, my earthly desires disappeared with the Nea Year's Bell.\nIt can't be true.
+そうよね…？=Right...?
+あの、Vorkedさん\n…お願いがありますの=Um, Ms. Vorked... I have a favor to ask you.
+なにかな？=What is it?
+お願い？=Please?
+<color\=#990000FF><size\="40">わたくしと…\nいっしょに暮らしてください！</size></color>=<color\=#990000FF><size\="40">Please live with me!</size></color>
+<color\=#990000FF><size\="40">え！？</size></color>=<color\=#990000FF><size\="40">What?</size></color>
+な、な、何を言ってるんですか！\nダメですよ、ダメ　<color\=#990000FF>ばってんです！</color>=No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!　<color\=#990000FF>No, no, no, no, no, no, no, no, no, no, no, no, no!</color>
+{{A}}、気持ちはわかりますけれど\n落ち着きなさい={{A}}, I know how you feel, but calm down.
+{{A}}さんもですわ\nあまり隊長さんを困らせないで――=And {{A}}, don't embarrass your captain too much--
+<color\=#990000FF><size\="40">ぼふんっ</size></color>=<color\=#990000FF><size\="40">poof</size></color>
+けほっ、けほっ…！\nなにこれ！　けむりで前が見えないわ…！=I can't see anything in front of me because of the smoke...!
+みなさん、落ち着いて！\nむやみに動いたらぶつかってキケンですわ=Everyone, calm down!
+ごほっごほっ…=Gohohoho...
+どうだ？　少し晴れてきたと思うが=How's it looking? I think it's clearing up a bit.
+ありがとう　みんな、大丈夫！？\nケガしたり、体調がわるい子はいない？=Is anyone injured or sick?
+<color\=#990000FF><size\="40">あーっ！？</size></color>=<color\=#990000FF><size\="40">Aah!</size></color>
+{{A}}！？\n{{B}}　ケガしちゃったの？={{A}}!
+<size\="40">ちがいます！\n隊長さんがいません！</size>=<size\="40">No, ma'am, there is no captain!\nThere is no captain!</size>
+<size\="40">コモドドラゴンもだわ！</size>=<size\="40">So is the Komodo Dragon!</size>
+もしかしてあの子…\n隊長を連れていっちゃったの！？=Maybe that girl... she took the captain!
+イベント{{A}}6話のバトル1をクリア=Clear Battle 1 of Event {{A}} Episode 6
+謹賀新年！{{A}}=Happy New Year, {{A}}!
+{{A}}結び紐を累計5000個獲得=Obtained a total of 5,000 {{A}} knotted cords
+イベント{{A}}6話のバトル3をクリア=Clear Battle 3 of Event {{A}} Episode 6
+イベント{{A}}6話のバトル2をクリア=Clear Battle 2 of Event {{A}} Episode 6
+隊長さんが連れていかれたって…\nどういうことですか！？=What do you mean the captain was taken... what do you mean!
+{{A}}さん、\nどうしてそんなことを…！？={{A}}, why did you do that...!
+…いえ、{{A}}さんは以前も\n似たようなことをしてましたわね…=... No, {{A}}, you have done something similar before...
+でも、どうして\n突然こんなこと…=But why?\nAll of a sudden this...
+あっ！　{{A}}！！\nもしかして、あの黒い玉をまだ持ってる？=Ah! {{A}}! Maybe you still have that black ball?
+う、うん\n落とさないように持ってるけど…？=Umm, yeah, I'm holding it so I don't drop it, but...?
+そのせいかもしれないわ！=Maybe that's why!
+だってあの子…\nさっき、<color\=#990000FF>お願い</color>してたじゃない=Because that girl...\nJust now,<color\=#990000FF>I asked for help.</color>She was begging you.
+あー！　近くにあったから、黒い玉が\nまたお願いを叶えちゃったってこと？=Ah! So you're saying that the black ball made your request come true again because it was so close by?
+ん…？　お願い？　黒い玉？\nそれってどういうこと…？=Hmm...? Please? Black ball, what does that mean...?
+<color\=#990000FF><size\="40">そんなことより、隊長さんです！</size></color>=<color\=#990000FF><size\="40">That's not what I'm talking about, Ms. Captain!</size></color>
+このままだと、隊長さんが…隊長さんが…=If we don't do this, the captain... the captain...
+<color\=#990000FF><size\="40">隊長さんを\n助けに行きましょう！</size></color>=<color\=#990000FF><size\="40">Ms. Captain.\nLet's go help!</size></color>
+クンクン…匂いはこっちに続いています！\n隊長さん、待っててくださいっ！=Kun Kun Kun... the smell continues this way! Captain, please wait for me!
+ちょっと、{{A}}！\nひとりで先走るのはあぶないですわ！=Hey, {{A}}! It's not safe to run ahead by yourself!
+{{A}}さん、わたくしたちも行きましょう={{A}}, we should go too.
+うん！　行く行く～！=I'm going to go!
+あー、ちょっと！\nみんなーっ！！=Oh, hey!\nHey, girls!
+ボヤボヤしてるヒマなんてないわよ\nわたしたちも追いましょう！=We don't have time to dilly-dally, we have to go after them!
+ちょ、ちょっと待ってってば！=Hey, wait a minute!
+なにがなんだかわからないんだけど\n黒い玉とか、願いごとってどういうこと？=I don't know what's going on, but what do you mean by black balls or wishes?
+{{A}}カンタンに言うとね――={{A}}, in a nutshell--
+ふんふん…　{{A}}が持っている\nその黒い玉は願いごとを叶えてくれる…=Hmmm... that black ball that {{A}} is holding will make your wish come true...
+{{A}}のお願いは、\nVorkedと暮らすこと…={{A}}'s request to live with Vorked...
+それで、{{A}}が興奮しちゃって、\nVorkedを連れていった…と=So {{A}} got excited and took Vorked....
+そうなの…=I see...
+除夜の鐘を叩いて、\n落ち着いてくれたと思ったのに！=I thought they had calmed down after striking the bell for the New Year's Eve!
+あの子を捕まえて、\nまた除夜の鐘を叩かせましょ！=Let's get that boy and make her ring the bell again!
+…っていうことは、だ\nまたアイツを捕まえに行くんだな=So I guess that means we're going to get her.
+ええ、そういうこと！=Yeah, that's what I meant!
+問題ないぜ\n何度だって手伝ってやるよ=No problem.\nI'll help you out as many times as I can.
+みんな、ありがとう\nまた力を借りることになりそうだわ=Thanks girls, I'm sure I'll need all the help I can get again.
+どうしたの、{{A}}？\nまだ気になることでもあるの?=What's wrong, {{A}}, is something still bothering you?
+<color\=#990000FF><size\="40">大アリだよ！</size></color>=<color\=#990000FF><size\="40">It's a big ant!</size></color>
+ううん、そうじゃなくて…\nいや、叶えたい願いごとはあるけどね=No, not that... no, I have a wish I'd like to make come true.
+もちろんいいけど…{{B}}\n{{A}}も叶えたいお願いごとがあるの？=Sure, fine... but do you have a wish you'd like to make come true for {{B}} {{A}} too?
+その黒い玉っていうの、\nちょっと見せてくれる？=Can you show me that black ball?
+ああ、そんなこと考えもしなかったぜ！=Yeah, I didn't even think of that, man!
+なるほど！\n{{A}}、頭いいな！=I see!\n{{A}}, you're a smart girl!
+それに、<color\=#990000>コモドドラゴンに落ちついてほしい</color>\nってお願いすりゃいいんじゃねぇか？=Besides,<color\=#990000>Why don't you just ask the Komodo Dragon to settle down?</color>\nI'm sure he'd be happy to help.
+もし本物なら、願いが叶って元通りだしな=And if they're real, they'll get their wish and get back to normal.
+でもそれ、結局この玉が何なのかは\nわからないままってことよね…？=But that means we still don't know what this ball is after all...?
+っつーか、もう玉の近くで願いごと\n言っちゃってるけどな！　ハハハッ=I mean, I've already made a wish near the ball!
+フワッ=fluffy
+でも、よくわからねぇなら\nとりあえずやってみたらいいんじゃねぇか？=But if you're not sure, why don't you just try it anyway?
+黒い玉が…浮いた！？=The black ball... floats!
+あら？　やけに騒がしいと思ったら\nこんなに集まっていたのね=I thought I heard a lot of noise, but I didn't realize how many people had gathered here.
+「玉の持ち主」=The Bearer of Balls."
+イベント{{A}}7話のバトル2をクリア=Clear Battle 2 of Event {{A}} Episode 7
+イベント{{A}}7話のバトル1をクリア=Clear Battle 1 of Event {{A}} Episode 7
+{{B}}の{{D}}\n8個を\n{{A}}\n32個に{{C}}しました={{C}}ed 8 {{D}}s in {{B}} to 32 {{A}}s
+相手全体に522％の{{B}}を対象の数で均等割で与え\r\n自身のMPを11増加する\r\nさらに強敵出現waveの場合、自身の{{A}}が11％増加する(5ターン)=It gives 522% {{B}} to the entire opponent, divided equally by the number of targets, and increases its own MP by 11.
+相手全体に475％の{{B}}を対象の数で均等割で与え\r\n自身のMPを10増加する\r\nさらに強敵出現waveの場合、自身の{{A}}が10％増加する(5ターン)=It gives 475% {{B}} to the entire opponent, divided equally by the number of targets, and increases its own MP by 10.
+ミラクルLvをアップしよう　312回目！=Let's up the Miracle Lv. 312 times!
+相手全体に570％の{{B}}を対象の数で均等割で与え\r\n自身のMPを12増加する\r\nさらに強敵出現waveの場合、自身の{{A}}が12％増加する(5ターン)=It gives 570% {{B}} to the entire opponent, divided equally by the number of targets, and increases its own MP by 12.
+小さな{{D}}の{{C}}\n16個を\n{{A}}\n16個に{{B}}しました=16 small {{D}}'s {{C}}'s {{B}}'d into 16 {{A}}'s
+{{B}}の{{D}}\n4個を\n{{A}}\n80個に{{C}}しました={{C}}ed 4 {{D}}s of {{B}} to 80 {{A}}s
+{{A}}　573回目！={{A}} 573rd!
+哺乳綱有毛目{{B}}科\nコアリクイ属{{A}}=Mammaliaformes {{B}} (Mammaliaformes: Mammaliaformes) {{A}} (Coleoptera: Coleoptera)
+{{A}}　20679={{A}}　20679
+小さな{{A}}の{{D}}\n16個を\n{{B}}\n16個に{{C}}しました=16 small {{A}}'s {{D}}'s {{C}}'d into 16 {{B}}'s
+小さな{{A}}の{{D}}\n25個を\n{{B}}\n25個に{{C}}しました=25 small {{A}}'s {{D}}'s {{C}}'d into 25 {{B}}'s
+年始{{A}}=New Year's {{A}}
+今年もよろしく！{{A}}=Happy New Year, {{A}}!
+{{A}}　38384={{A}}　38384
+{{A}} +488={{A}} +488
+{{A}}　59427={{A}}　59427
+本日{{A}}8回={{A}} 8 times today
+　1/18まで=　Until 1/18
+おみくじを模した　いいことが起きそうなカーペット\n拠点に{{A}}することができる=You can {{A}} to a carpeted base where good things are likely to happen.
+{{A}}を集めよう　99個目！=Collect {{A}}. 99th piece!
+{{A}}  +818={{A}}  +818
+{{A}}　664回目！={{A}} 664th!
+{{A}}  +533={{A}}  +533
+{{A}}\n2024/01/14 14:00まで={{A}}2024/01/14 until 14:00
+新年早々グレートなHC=Great HC at the beginning of the New Year
+イベント{{A}}10話のバトル2をクリア=Clear Battle 2 of Event {{A}} Episode 10
+イベント{{A}}10話のバトル3をクリア=Clear Battle 3 of Event {{A}} Episode 10
+1/31(水)23:59まで=Until 23:59 on 1/31(Wed.)
+{{A}}\n2024/01/02 23:59まで={{A}}2024/01/02 until 23:59
+{{C}}{{A}}目{{B}}科\n{{B}}属={{C}} {{A}}, order {{B}} , family {{B}}
+わたしは{{A}}\nこの頭のつんつんはわたしの誇りなの\nどう？　オシャレでしょ？=I'm {{A}} and I'm proud of this head poke.
+みいた{{A}}=Mita {{A}}
+玉の持ち主=The owner of the ball
+ちょっと見て！\n黒い玉がふわふわ～って、あっちに行くわ=Hey look, a black ball is fluffing up and going that way!
+おもしれー！　どうなってんだ？=Oh my goodness! What's going on here?
+<color\=#990000FF>なに、これ…\n超常現象…？　未確認飛行物体…？</color>=<color\=#990000FF>What is this... paranormal...? Un Confirmation flying object...?</color>
+ラッキービースト！\nちょっとこの映像を撮っておいて=Lucky Beast, just take this footage for a second.
+了解　録画を開始するヨ=Copy that. Recording will begin.
+{{A}}さんが見たら喜びそうだなぁ\nそれとも、おどろいて倒れちゃうかな…？=I wonder if {{A}} would be pleased to see it, or if she would collapse in fright...?
+ちょっと！\n見てないで追いかけましょ！=Hey!\nDon't look at them, let's go after them!
+そうね　{{A}}を元に戻すのに、\nあの玉が必要かもしれないんだし=Well, I might need those balls to put the {{A}} back together.
+あ！　それもそうだね――=Oh! That's true, too--
+――って、わあぁ！？=What do you mean by-- wow!
+これだったら、\n別の場所に行った方がよかったかしら？=Would it have been better to go somewhere else?
+{{A}}…\nそれに…={{A}}...\nAnd...
+やあ、{{A}}　それにみんな\nあけましておめでとう=Hey {{A}} and Happy New Year to all!
+{{A}}だ…！\nど、どうしてこんなところにいるの！？=It's {{A}}...!
+ま、まさかまた知らない間に\nとんでもないことが起きてるんじゃ…！？=Don't tell me something outrageous is happening again without my knowledge...!
+なに、この子…\nなんだか、すごい圧を感じるわね…=What is this girl... I feel so much pressure...
+わかるわ…\nビ、ビビってなんかないけどね！=I know... I'm not freaked out, though!
+いやいや、たいしたことではないよ=No, no, no, it's no big deal.
+わらわの<color\=#990000FF>キョウダイ</color>を案内するために\nパークのいろいろな場所をめぐっていたんだ=bracken<color\=#990000FF>Kyodai</color>I was going around the park to show the
+まぁ、新年だしね\nついでに神社に顔を出そうとしたのよ=Well, it's the New Year, and I wanted to pay a visit to the shrine.
+キョウダイって…=Kyodai...
+赤龍=red dragon (an auspicious creature in Chinese mythology)
+こんにちは！　いや、こんばんはですね！\nみんな元気ですか？　ボクは元気です！=Hello!
+ちょっと赤龍姉さん…あいさつするなら\nまず名前を名乗ってください！=Hey red dragon sister... if you want to say hello, please say your name first!
+あ、そうですよね！\nごめんなさい、ついうっかりしてました=Oh, that's right! Sorry, I was so careless!
+ボクは赤龍です、{{A}}ね！\nそして、こっちが白龍と黒龍=I'm Red Dragon, {{A}}, and this is White Dragon and Black Dragon.
+白龍=white dragon
+よぉ、白龍だ　よろしくだぞ=Hey, I'm Shiryu. Nice to meet you.
+ふ～ん…しっかりしてそうなヤツもいるけど\nまだまだ頼りなさそうだぞ=Well... some of them look solid, but they still look unreliable.
+アンタら、強くなりたかったら相談に乗るぞ\nいつでもぶつかってこいだぞ！=If you girls want to get stronger, I'm here to help you, so just bump into me anytime!
+白龍姉さん、あんまりこの子たちを\n甘やかさないでください=Sister Bailong, please don't spoil them too much.
+{{A}}っていうのはもっと\nゆっくりと積み上げていくものでしょ={{A}} is something you build up more slowly.
+黒龍=black dragon
+もぅ…{{A}}ちゃん、そうカッカしない\n具合が悪いの？　診てあげよっか={{A}}, don't be so cocky, are you sick? Let me take a look at you.
+私はどこも悪くないわ　いたって健康です\n子供扱いしないでよ、黒龍姉さん=There's nothing wrong with me, I'm perfectly healthy, so don't treat me like a child, Sister Kuroryu.
+あ、ごめんね…　えっと、他の子はどう？\n悩んでることとかない？=Oh, sorry... Um, what about the other kids, do they have any problems?
+ん～っと…なんだか、困ってそう？\nよかったら、話してくれない…？=Well... you seem to be in some kind of trouble, if you don't mind me asking...?
+そう言えば、隊長はいっしょではないんだね\nもしいたら、あいさつしたかったんだけど…=Speaking of which, I know the captain isn't with us, but I wanted to say hi if she was...
+あーっ！　それ！！\n今、そのことで困ってるの！=Aah! That's it! I'm having trouble with that right now!
+{{A}}が\nVorkedを――={{A}} is pleased to announce the release of\nVorked.
+<color\=#990000FF><size\="40">あぁーっ！？</size></color>=<color\=#990000FF><size\="40">Aaah!</size></color>
+な、なに！？\n急に大きな声なんか出して…=What?\nYou suddenly started shouting...
+ほら、あの子！\nあの子の髪のところを見て！=Look, that girl, look at her hair!
+<color\=#990000FF><size\="40">黒い玉だぁー！！</size></color>=<color\=#990000FF><size\="40">It's a black ball!</size></color>
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nえ、なぁに…？\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>ほうじゅ<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nアタシの宝珠がどうかしたの…？=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nWhat, what...?\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>Houju<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nWhat's wrong with Atashi's jewelry...?
+えっとね…\n実はその玉が神社に落ちてたみたいで…=Well... actually, it looks like that ball fell into the shrine...
+それで、{{A}}が\n隊長を連れていっちゃったの！！=So {{A}} took the captain!
+やや、隊長がいないと思ったら\nそんなことが起こっていたんだね=Ya, that's what happened when I thought the captain was gone.
+その玉って、あなたのだったの？=Were those balls yours?
+ええ、そうだけど――=Yeah, I know, but--
+<color\=#990000FF><size\="40">あ――！！</size></color>=<color\=#990000FF><size\="40">Ah-～!</size></color>
+な、なに？　もぅ、なんなのよぉ…=What? What? Oh, my God...
+ねえ、{{A}}！\nこの子たちのシッポ、よく見てよ！=Hey, {{A}}! Take a good look at the tails of these kids!
+え？\nボクたちのシッポがどうかしましたか？=What's wrong with our tails?
+<color\=#990000FF><size\="40">わたしたちのシッポと似てる…！</size></color>=<color\=#990000FF><size\="40">Similar to our tails...!</size></color>
+それに、この子は黒っぽい！\nということは…=Besides, this girl is blackish!
+お願いごとが叶った子の近くにいた子って、\nもしかしてあなたのことだったの！？=Maybe you were the one who was near the child whose wish was granted!
+なんだ、黒龍\n私たちに黙ってなにかしてたのか？=What, Black Dragon, did you do something without telling us?
+えーっと…そうね=Uh... yeah.
+お願いごとを叶えるとは\nちょっとちがうんだけど…=It's a little different from granting wishes, but...
+困っている子を勇気づけたり、\n元気にしたりは…してたというか…=I did encourage and cheer up children in need... or rather...
+ちょっと、黒龍！　ずるいですよ！\nボクもみんなのお悩み解決したいです！=Hey, Black Dragon! That's not fair! I want to solve everyone's problems, too!
+勝負に勝ちたかったり、\n勉強をがんばりたい子はいませんか？=Do you have a child who wants to win or study hard?
+<color\=#990000FF>ボクの炎で、全部解決してみせますよ！</color>=<color\=#990000FF>I'll solve everything with my flame!</color>
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nはぁ…私からいちおう補足するわ\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>つかさど<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n私たちにはそれぞれ司っているものがあるの=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nHaha... I'll add one more thing for you.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>Ministry of Land, Infrastructure, Transport and Tourism<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nWe each have our own governors.
+健康とか心身に関すること…\n家内安全に夫婦円満なら、アタシに任せて=If you need help with your health, your physical and mental well being... if you need to keep your home safe and your marriage happy, leave it to me.
+はいはい\nそういう話はまた後でしましょう=Yes, yes, yes.\nLet's talk about this later.
+みんな、とくいなお願いごとが\nちがうってこと？　だから…=So everyone has a different favorite request?
+そうね…困っている子を見かけたら、\nどうしても気になっちゃって…=Well... when I see a child in trouble, I just can't help but be concerned...
+騒ぎにならないように隠れてしてたけど…\nよけいに話がややこしくなっちゃったみたい=I was trying to hide behind the scenes so as not to cause a scene, but... it just made things more complicated.
+というか、わざわざ助けなくてもいいのよ\n黒龍姉さんは甘やかしすぎです=I mean, you don't have to go out of your way to help her, Sister Black Dragon is too indulgent.
+だってぇ…みんな、かわいかったから…=They were all so cute...
+そうだったのね…=Oh, right...
+ウワサの答えが、ようやくわかったわ…=I finally figured out the answer to the rumors...
+それで、その玉はなんなの？=So what are those balls?
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>ほうじゅ<color\=#00000000>‐‐‐‐</color></size>\nん…この宝珠には\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nアタシの力が込められているの…=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>Houju<color\=#00000000>‐‐‐‐</color></size>\nHmmm.... for this treasure.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nIt contains my power...
+たくさんの子を診たあと、\n疲れたから休もうと思ったのよ=After seeing so many kids, I was tired and figured I'd take a break.
+でも…休んでいる間も困った子が\n来るかもしれないでしょ？=But... you know, some troubled kids might come to you while you're resting, right?
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐</color>ほうじゅ<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nだから、この宝珠を置いておくことにしたの=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐</color>Houju<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nSo I decided to leave this treasured gem here.
+<size\=15><color\=#00000000>‐‐‐‐‐‐-</color>きがん<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nこれに祈願すれば、アタシの力ほどでは\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐-</color>りやく<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nなくても、ご利益はあるから…=<size\=15><color\=#00000000>‐‐‐‐‐‐-</color>strangely shaped rocks<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nIf you pray to this one, it's not as powerful as an athi\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐-</color>Rikaku (Japanese translation of the Japanese original)<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nEven if you don't, you'll get the benefit of the doubt...
+ってことは、本当に黒い玉に\nお願いごとを叶える力があったのね…=So the black balls really did have the power to make wishes come true...
+でも、戻ってきたらなくなっていたから、\n探していたのよね=But when we came back, it was gone, so we were looking for it.
+ごめんなさい　落とし物かと思って\nあたしが持ち出しちゃったの=I'm sorry. I thought you lost it, so I took it.
+ううん、大丈夫よ…\n大切に持っていてくれてありがとう=No, I'm fine... thanks for taking care of it.
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>ほうじゅ<color\=#00000000>‐‐‐‐-</color>りやく<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐</color></size>\nしかし…宝珠のご利益でやる気が\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n強くなりすぎてしまうのも困りものだね=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐</color>Houju<color\=#00000000>‐‐‐‐-</color>Rikaku (Japanese translation of the Japanese original)<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐</color></size>\nBut.... the benefits of the treasured beads motivate me.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nYou can't have too much strength, can you?
+ええ、勇気をもらったおかげで、\n想いがあふれちゃったのかも=Yeah, I guess the courage you gave me made me overflow with feelings.
+このままじゃ、Vorkedが\nどうなっちゃうのかわからないよ！=I don't know what will happen to Vorked if this doesn't change!
+助けに行った{{A}}たちも\n無事だといいんだけど…=I hope {{A}} and the others who went to help are okay...
+ごめんねぇ…\nまさか、こんなことになるなんて…=I'm sorry... I never thought this would happen...
+あ、ちょっと…そんな顔しないで\n大丈夫、アタシに任せて…？=Oh, hey... don't make that face, it's ok, I'll take care of it...?
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>つかさど<color\=#00000000>‐‐</color></size>\nいえいえ、こういうときは情熱を司る\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nボクの出番ですよ！=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>Ministry of Land, Infrastructure, Transport and Tourism<color\=#00000000>‐‐</color></size>\nNo, no, in times like this, passion governs.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nI'm in charge of passion!
+ボクに任せてください！\nみんな燃えればお悩みも解決です！=Let me take care of it! If everyone burns, your problems will be solved!
+燃やしてどうするのよ\n却下です、却下=What are you going to do, burn it?\nRejected. Rejected.
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>つかさど<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nそれなら、良縁を司る私の出番ってことだぞ\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nドーンとぶつかっていくぞー！=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color>Ministry of Land, Infrastructure, Transport and Tourism<color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nThen that means it's my turn to preside over a good marriage.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nI'm going to bump into Dawn!
+ちょっと…恋の問題は繊細なのよ？\nアナタには無理だと思う…=I'm sorry, but... love is a sensitive subject, and I don't think you're up to it...
+そうだね\nここはやっぱり、黒龍に任せてみようよ=I agree, let's let the Black Dragon take care of it here after all.
+今回、こういうことが起きたのも\n黒龍が始まりだからね=This time, it's the Black Dragon that started all this.
+…それもそうですね=... that's true too.
+えぇ、わかったわ…\nうん　じっくりその子を治してあげる=Yeah, okay... yeah. I'll take my time fixing that kid up.
+それでは、解決のために動こうか\nせっかくの正月だ　みんなで祝いたい=Well, then, let's get to work on a solution, because it's New Year's and we all want to celebrate.
+ありがとう！　本当に助かるわ=Thank you! That's really helpful.
+なに、これくらいは当然の行いだよ=What? It's the least you can do.
+それで、{{A}}って子は\nどこにいるの？=So where is this {{A}} kid?
+その子はたぶん、あふれる気持ちを\n整理しきれていないだけなのかも…=Maybe the boy just can't sort through her overflowing feelings...
+アタシがきちんと話を聞いて\n落ち着かせてみせるわ=I will listen to you and calm you down.
+{{B}}{{A}}がどこに行ったか\nだれか見てない？=Has anyone seen where {{B}} {{A}} went?
+見てないわ\nまわりがけむりでいっぱいだったから…=I didn't see it because there was so much smoke around...
+{{A}}たちは向こうに行ったんだ\nあっちにいるんじゃないか？={{A}} and the others went over there, so maybe they're over there.
+あっちって言っても、\nちょっと範囲が広いね…=When I say over there, that's a bit of a broad area...
+ねえ、{{A}}\n向こうの方に、小屋とかない？=Hey, {{A}}.\nYou got a shack or something over there?
+あの子、隊長と暮らすための小屋がある\nって言ってたの=That girl said she had a cabin to live in with the captain.
+向こう側にある小屋だね\nラッキービースト、どう？=That's the shed on the other side, isn't it, Lucky Beast?
+ここから１キロ先\n森の中に小屋が１軒あるヨ=There is a hut in the woods about a kilometer from here.
+よし！\nそこまで案内して=All right!\nTake us there.
+まかせて=Leave it to me.
+イベント{{A}}7話のバトル3をクリア=Clear Battle 3 of Event {{A}} Episode 7
+1/2 12:00 以降=1/2 12:00 or later
+「{{A}}の煩悩」=The {{A}}'s Complaints."
+イベント{{A}}8話のバトル3をクリア=Clear Battle 3 of Event {{A}} Episode 8
+イベント{{A}}8話のバトル2をクリア=Clear Battle 2 of Event {{A}} Episode 8
+イベント{{A}}8話のバトル1をクリア=Clear Battle 1 of Event {{A}} Episode 8
+ここは…そうですわね\nわたくしたちの愛の巣ですわ…きゃっ♡=This is... well... our love nest... ♡♡♡
+{{A}}の煩悩={{A}} Complaints
+うふ、うふふふふ…=Ufufufu, uufufu...
+ああ、Vorkedさん、\n目が覚めたのですね=Ah, Ms. Vorked, you are awake.
+ここは？=Where is this place?
+わたくしたち、これからここで\nずっといっしょに暮らしていくんです=We are going to live here together from now on.
+そうですわ　Vorkedさん\nお腹は空いていませんか？=Yes, Ms. Vorked, are you hungry?
+わたくし、腕によりをかけて\nおいしいスープを作りましたの=I put all my skill into making this delicious soup.
+ぜひ、いただいてほしいですわ\nお口に合うといいんですけれど…=I hope you'll try it, and I hope it will please your palate.
+ああ、そうですわ！\n食事の前に遊ぶのもいいですわね=Oh yes, it's nice to play before dinner!
+{{A}}さんから、\nいろいろなゲームをお借りしていますの=We have borrowed various games from {{A}}.
+きっと、楽しんでいただけると思いますわ=I'm sure you'll enjoy it.
+無理してない？=Are you sure you're not pushing yourself too hard?
+大丈夫？=Are you okay?
+もう、何をおっしゃっるんですの？\nわたくしはいつも通りですわ=What are you talking about?
+でも、心配していただいて\nありがとうございます=But thank you for your concern.
+そういう優しいところも\nVorkedさんの美点ですわ=That kindness is one of the beauties of Ms. Vorked.
+あっ！　でも焦る必要はないですわね\nわたくしたちは<color\=#990000FF>始まったばかり</color>なんですから=But there's no need to rush.<color\=#990000FF>We've just started</color>We have just begun.
+じゃあ、今はゆっくりお休みして――=Well, now you get some rest--
+クンクン…=Kun-kun-kun...
+…………匂いますわ\nどなたか、この小屋に近づいてきますわね=............ I smell someone approaching the cabin.
+この匂いは――=That smell--
+<color\=#990000FF><size\="40">コモドドラゴンさーん！</size></color>=<color\=#990000FF><size\="40">Komodo Dragon!</size></color>
+<color\=#990000FF><size\="40">隊長さんを返してください！！</size></color>=<color\=#990000FF><size\="40">Please give me back my captain!</size></color>
+<color\=#990000FF><size\="40">大人しく出て来てくださーい！</size></color>=<color\=#990000FF><size\="40">Please come out maturely!</size></color>
+<color\=#990000>コモドドラゴンさーん！\n聞こえてますかー！？</color>=<color\=#990000>Ms. Komodo Dragon, can you hear me!</color>
+<color\=#990000FF><size\="40">そこにいるのは、\n匂いでわかってますからねー</size></color>=<color\=#990000FF><size\="40">I know you're there because I can smell you!</size></color>
+<color\=#990000FF><size\="40">かくれてもムダですよー！！</size></color>=<color\=#990000FF><size\="40">It's no use hiding!</size></color>
+ぜーんぜん答えてくれないねー？\nもう寝ちゃったのかな？=I wonder if she's already gone to bed?
+隊長さんとふたりっきりで寝るだなんて\n<color\=#990000FF>うらやま…</color>許されないですよ！=Sleeping alone with the captain...\n<color\=#990000FF>I'm jealous...</color>It's unforgivable!
+<color\=#990000FF><size\="40">こうなったら正面突破です！</size></color>=<color\=#990000FF><size\="40">If this happens, it's a frontal attack!</size></color>
+<color\=#990000FF><size\="40">しょーめんとっぱ！\nわっふーい！</size></color>=<color\=#990000FF><size\="40">Shomen toppa!\nWahui!</size></color>
+<color\=#990000FF><size\="40">ふとりとも、落ち着きなさーい！</size></color>=<color\=#990000FF><size\="40">Futori, calm down!</size></color>
+いいですか！　{{A}}さんは\nいろいろな薬を使うのがお上手ですわ=Listen, {{A}}, you're very good with all kinds of drugs.
+何も考えずに刺激してしまっては\n隊長さんがどうなるか、わかりませんわ！=I don't know what will happen to the captain if we provoke her without thinking!
+そっか！\nカチンコチンにされちゃうかもだよね=I see, I might get clobbered.
+ええ\nですからここは慎重に行くべきです=Yeah, I know.\nSo we should be very careful here.
+うぅ…でも…\n早くしないと、隊長さんが…=Ugh... but...\nIf we don't hurry, the captain will...
+{{A}}…気持ちはわかりますが\n焦りは禁物ですわ={{A}}... I understand how you feel, but don't be hasty.
+指示を出すときに\n冷静さを失ってはいけませんわ=We mustn't lose our cool when giving instructions.
+なるべく{{A}}さんを\n刺激しないよう話し合いましょう=Let's discuss this so as not to irritate Ms. {{A}} as much as possible.
+うぅ…わ、わかりました=Uh... okay.
+えっと…\n<size\="40">コモドドラゴンさーん</size>=Uuh…\n<size\="40">Komodo Dragon.</size>
+<color\=#990000FF><size\="35">こっちにおいしい食べ物があるんです\nいっしょに食べませんかー？</size></color>=<color\=#990000FF><size\="35">I have some delicious food over here.</size></color>
+お正月と言ったら、おもちだよね！=New Year's is all about mochi, isn't it?
+<size\="35">あと、羽根つきやカルタもありますよー\nいっしょに遊びましょう！</size>=<size\="35">We also have shuttlecock and karuta (Japanese playing cards) for you to play with!</size>
+福笑いも楽しいよ！=Fukuro is fun, too!
+いいえ、けっこうですわー=No, thank you.
+わたくし、隊長とお食事をして\n隊長と遊びますのでー=I will dine with the captain and play with her.
+<color\=#990000FF><size\="40">ドール！\n落ち着きなさい！</size></color>=<color\=#990000FF><size\="40">Dhole!\nCalm down!</size></color>
+でも、ミーア先生！\n私も隊長さんといっしょに遊びたいです！=But, Dr. Mia! I want to play with you, too!
+あぁ、もう…\n目的がいろいろズレてますわ…=Oh, God... all kinds of purposes are misplaced...
+どうすればいいんだろうねー=I don't know what to do!
+ふたりとも\nわたくしにいいアイデアがありますわ=I have an idea for both of you.
+うわへへ=upward turn
+あら？\n{{A}}さんたちが静かになりましたわね=Oh my, {{A}} and the others have gone quiet.
+クンクン…\n匂いはまだ近くにありますわね…=Kun Kun... the smell is still very close...
+ん～…何をなさるおつもりなのかしら？=Hmmm... what are you going to do?
+ふふっ　でも、関係ありませんわ=But it doesn't matter.
+運命で結ばれたわたくしたちを\n引き離すことなんて、できませんわよ？=We are bound by fate, and there is no way you can separate us, right?
+そうですわよね\nVorkedさ{{A}}=Yes, I know.\nVorked {{A}}
+それはどうかな…？=I don't know about that...?
+あぁ、そうだね=Yeah, I know.
+もう…イジワルを言っちゃイヤですわ\nでも、そういうところも好き…！=I don't want to tease you, but I like that too...!
+夢のようですわ…\n目の前にVorkedさんがいる…=It's like a dream... Ms. Vorked is right in front of me...
+わたくし、ずっと願っていましたの\nあなたとこうやっていられることを…=I have always wished that I could be like this with you...
+Vorkedさん…\nいっしょにゆっくりしましょう…？=Ms. Vorked... let's relax together...?
+ふふっ、なんだか眠くなってきましたわ…\n安心できるからでしょうか=Hmmm, I'm feeling sleepy... maybe because I feel safe.
+隊長もおやすみなさいませ\nわたくしがいい夢を見させてあげますわ=Good night, Captain, and may I give you good dreams.
+さぁ、わたくしの膝に頭をのせてください\nそしていっしょに…=Now, lay your head in my lap and join me...
+寝てる…？=Sleeping...?
+すぅ…すぅ…むにゃむにゃ\nクスクス…Vorkedさん…=Soooo... soooo... mmmmmm... couscous... Ms. Vorked...
+ミーア先生！　作戦成功です！\n{{A}}さんが眠ってます！=Dr. Mia! The operation was a success, {{A}} is sleeping!
+{{B}}、しーっですわよ\n{{A}}さんが起きてしまいますわ={{B}}, shhhh, you'll wake up {{A}}.
+あ、たいちょーはっけーん！=Ah, Taicho Hakken!
+隊長さん、大丈夫でしたか！？\nカチンコチンになったりしてませんか=Captain, are you all right, are you all right, are you all right, are you all right, are you all right?
+大丈夫だよ=It's okay.
+よかったです…！=Good...!
+1/3 12:00 以降=1/3 12:00 or later
+「煩悩退散！」="Out of trouble!"
+どこまでも！=Everywhere!
+レディー・アフター=lady after
+{{A}}　58126={{A}}　58126
+{{A}}最大を初めて達成したため\n『福よこいこい！』のポスター\nを獲得しました！=We won the "Fukuyo Koi Koi!" poster for achieving the {{A}} maximum for the first time!
+クエストをプレイする際に\n<color\=red>一度見たストーリーを再生しない設定</color>に変更します。=When playing a quest\n<color\=red>Configuration not to replay the story once seen</color>to Change.
+イベント{{A}}9話のバトル3をクリア=Clear Battle 3 of Event {{A}} Episode 9
+イベント{{A}}9話のバトル2をクリア=Clear Battle 2 of Event {{A}} Episode 9
+イベント{{A}}9話のバトル1をクリア=Clear Battle 1 of Event {{A}} Episode 9
+☆4【夏の日の思い出は毒とともに】{{A}}{{B}}！チケット{{C}}=☆4 [Memories of summer days with poison] {{A}} {{B}}! Ticket {{C}}!
+{{A}}の力を{{B}}する\n野性味あふれるセット=A wild set of {{A}}'s power to {{B}}
+【夏の日の思い出は毒とともに】{{A}}の力を{{B}}する\n野性味あふれるセット=Memories of summer days with poison] A wild set to {{B}} the power of {{A}}.
+{{A}}たちの思い出が刻まれた結晶\n{{C}}の{{B}}に使用します=Used for {{B}} of crystals {{C}} with the memories of {{A}} and others engraved on them
+を7000個交換しました=We have exchanged 7,000
+{{A}}\n2024/01/03 23:59まで={{A}}2024/01/03 until 23:59
+これからも優秀な博士が隊長を引っ張ってやるのです\nよーく感謝するのですよ=The good doctor will continue to lead the captain, and you will thank her for it.
+ほよ=the other world
+今度、一緒に遊ぼうね？　約束だよ？=We'll play together next time, okay? Promise?
+{{A}}デビルの{{B}}のぼりを獲得しました={{A}} Devil's {{B}} streamers have been awarded
+隊長さん、本当に大丈夫ですか？\nどこかケガしちゃったりしてませんか？=Captain, are you sure you are okay?
+煩悩退散！=Dissipation of troubles!
+具合わるくなってませんか？\nしょんぼり気分になってませんか？=Are you feeling sick or depressed?
+あと――=And--
+{{A}}、落ち着きなさい\n隊長さんが困ってますわ={{A}}, calm down, your captain is in trouble.
+あぁ、ごめんなさい！\nでも、でも…！=Oh, I'm sorry!\nBut, but..!
+ちょっと寒いかな…=A little cold...
+なんともないよ=I'm fine.
+本当ですか！\nそれならよかったです…！=Is that true?\nI'm glad to hear that...!
+すぅ…すぅ…\nむにゃむにゃ…=Soo... soo...\nMushy... mushy...
+{{B}}、{{C}}だ～\n{{A}}の作戦、大成功だね！=It's {{B}} and {{C}}- {{A}}'s operation, a great success!
+{{A}}さんは\n寒いのが苦手みたいなんです=Ms. {{A}} doesn't seem to like the cold.
+なので、こちらの小屋の電気を\n止めてもらうようお願いしてきたんですの=So I asked her to turn off the electricity in our shack.
+デンキってのが止まると、\n部屋をあったかくできないんだよね～！=I can't keep a room warm when the "denki" stops!
+まぁ、暖炉を使えばあったかくできますが\n火を使える子はあまりいませんからね=Well, you can use a fireplace to keep warm, but not many kids can use a fire.
+うふふふ…Vorkedさん…=UFufufu... Ms. Vorked...
+お疲れだったでしょうからね…\n寒くなればウトウトしちゃうと思いましたわ=You must have been tired... and I thought you would fall asleep when it got cold.
+ミーア先生　隊長さんも助けましたし\nそろそろ戻してもらってもよくないですか？=Dr. Mia, now that you've helped the captain, shouldn't we have her back by now?
+隊長さんも寒そうですし…=And the captain looks cold too...
+{{A}}さんが起きないように、\nしばらくこのままにしておくのがいいですわ=I suggest we leave this up for a while so Ms. {{A}} doesn't wake up.
+すみませんが、隊長さんももうしばらく\n{{A}}をお願いします=I'm sorry, Captain, but I'm going to have to ask for {{A}} for a while longer.
+{{A}}\n2024/01/04 23:59まで={{A}}2024/01/04 until 23:59
+フハハハ…我が名は{{A}}\n月照らす夜に舞い降りし闇の使い！\nさあ、同胞の契りを交わそうではないか=My name is {{A}}, the messenger of darkness who descended on the moonlit night!
+ピクニックで{{A}}を16700個獲得！=16700 {{A}} were obtained at the picnic!
+キミがたくさん遊んでくれるおかげで、\n毎日面白いことばっかりだよ！=Thanks to you, I have a lot of fun every day!
+レアなわたしのように\n特別なんだゾっと♪=Like a rare me\nI'm special
+イベント{{A}}10話のバトル1をクリア=Clear Battle 1 of Event {{A}} Episode 10
+{{A}}だー！\nそれに、みんなもいるよー？={{A}}!\nAnd there's everyone else, too!
+みなさん、よく隊長さんたちが\nここにいるとわかりましたわね…=Gentlemen, how did you know the captains were here...
+わたしがコモドドラゴンから聞いてたの\n<color\=#990000FF>このあたりの小屋で暮らしたい</color>って=I've been hearing from Komodo Dragon.\n<color\=#990000FF>"I want to live in a hut around here.</color>So
+Vorkedは無事みたいだね\n{{A}}はどうなったの？=So it looks like Vorked is safe, what happened to {{A}}?
+眠ってるよ=She's sleeping.
+大変なことになる前に\n無事に解決できましたっ！=We were able to solve the problem before it became a big problem!
+部屋の中を寒くしたら、\n{{A}}がねむってくれたんだー=I made the room colder and {{A}} was sleeping for me...
+茶色い角砂糖=Brown sugar cube
+さて、黒龍\nここからはお主の出番だよ=Well, Black Dragon.\nThis is where you come in.
+ちゃんと責任もって\nあの子のことを導いてくださいね=Please lead that child properly and responsibly.
+もぅ…わかってるわよぉ…=Oh... I know...
+無理だと思ったら、すぐに私を頼るんだぞ\nガツーンと解決してやるんだぞ！=As soon as you think you can't, you turn to me, Gutsy, and we'll figure it out!
+ええ！　寒いのが苦手な子でしたら\nボクの炎であたためますからね！=If she doesn't like the cold, I'll warm her up with my flame!
+大丈夫よぉ…もう、心配しないでよ\nアタシが治してあげるから…=It's okay... don't worry now, I'll fix you up...
+そうですか…残念です　情熱にあふれた\n子なので、ボクが診てあげたかったんですが=I'm sorry to hear that. She's a very passionate girl, and I would have loved to have been able to see her.
+ああ、ガーンとぶつかっていける鋼の心を\n持ってる子なんだぞ=Yeah, she's a kid with a heart of steel that can hit the gurney.
+<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐-</color>りやく<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐</color></size>\nそうね…アタシのご利益があっても\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\n動けるかどうかはその子次第なワケだし…=<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐-</color>Rikaku (Japanese translation of the Japanese original)<color\=#00000000>-‐‐‐‐‐‐‐‐‐‐</color></size>\nWell... even with the blessings of Atashi.\n<size\=15><color\=#00000000>‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐</color></size>\nIt's up to the girl to decide if she can move or not...
+ねえ、あなた…\nあの子は本当に大丈夫なのよね…？=Hey, you... you sure she's OK...?
+もちろんよ=Of course.
+もしかして、あなたが\nお願いごとを叶えてくれる子ですの？=Perhaps you are the girl who grants wishes?
+「これからも一緒に」=We will continue to work together."
+これからも一緒に=We will continue to work together
+{{A}}\n2024/01/05 23:59まで={{A}}2024/01/05 until 23:59
+むにゃむにゃ…う～ん…=Mushy... mmmm...
+あら…？\n{{A}}わたくしはたしか…=Oh...?\n{{A}}, did I say...
+そうですわ…！\nVorkedさん！=Yes..!\nMs. Vorked!
+Vorkedさんはどこに…！？=Where is Ms. Vorked...!
+あら…？\n夢だったのかしら…？=Oh...?\nDid I dream that...?
+もしそうなら、とても幸せな夢でしたわ…=If so, it was a very happy dream...
+ん…夢じゃないかな…=Hmm... maybe it's just a dream...
+あら？　どなたでしょうか…？=Oh, who are you...?
+はじめまして\nわたくしは{{A}}ですわ=Nice to meet you, my name is {{A}}.
+ご丁寧にどうも…アタシは黒龍よ…=Thank you very much for your kindness... I am Black Dragon...
+黒龍さんとおっしゃるのですね…=You say you are Ms. Black Dragon...
+あっ！\nその黒い玉は…=Ah!\nThat black ball...
+見た目も黒っぽいですし、\nわたくしみたいなシッポもある…=It looks black and has a tail like mine...
+ええ、そうね…うん\nアタシがその子ってことになるかも=Yeah, well... yeah, I guess I could be that girl.
+本当ですのね！\nわたくし、どうしても叶えてもらいたい――=It's true, isn't it! I really want it to come true...
+<color\=#990000FF>待って</color>=<color\=#990000FF>Wait.</color>
+勘違いしているみたいだけど、\nアタシはお願いごとを叶えるわけじゃない=I think you're mistaken. I don't grant wishes.
+みんなが元気でいられるように\n力を分けてあげてるだけ…=I'm just sharing my strength to keep everyone healthy...
+だから、アナタのお願いごとは\nアナタ自身で叶えなきゃいけない…=So, you have to fulfill your own requests...
+そうなんですの…？=Is that so...?
+それでは今からVorkedさんに\n会いに行ってきますわ！=Okay, I'm off to see Ms. Vorked now!
+そして、\nず～っといっしょに暮らすんですの…！=And we will live together forever...!
+ううん、もう少し待って…そのままじゃ\nいつまでたっても願いは叶わない…=No, wait a little longer... your wish will never come true...
+今だって、失敗したばかりでしょ…？=Even now, you just failed... right?
+あっ…それは…=Oh... that's...
+きっと、わたくしの想いが\n足りなかったからですわ！=It must be because I didn't have enough feelings for them!
+もっともっと気持ちが大きくなれば\n必ず願いを叶えることができますもの！=If you feel more and more, you will surely be able to make your wish come true!
+かわいいね…\nでも、それじゃダメかな…=Cute...\nBut I guess that's not good enough...
+どうしてですの！？=Why is that?
+アナタの願いは\nアナタだけのものじゃないから=Because your wish is not only yours.
+っ…！？=What the...!
+わたくしだけの願いじゃない…？=It's not just my wish...?
+ええ、だってそのお願いは\n隊長も関係してるんでしょ？=Yeah, because that request involves the captain, right?
+それなら、隊長の想いも考えないと…=Then you have to consider the thoughts of the captain...
+アナタの想いは充分よ…\nそれはアタシが太鼓判を押したげる…=Your feelings are enough... and I can assure you that...
+だから、あとは隊長の想いを\n考えてあげられるようになること…=So all we need to do is to be able to think about the captain's thoughts...
+隊長の想いを…？=Captain's thoughts...?
+そう…=So...
+それは、どうすればいいんですの…？=How can that be...?
+それがわからなければ、わたくしは\n隊長のそばにいられないんですの…？=If I don't know that, I can't stay with the captain...?
+いいえ、そんなことない…=No, it's not...
+むしろ、あのヒトの近くにいて\nだれかを想う気持ちを学ぶといいと思う…=I'd rather be near that human being and learn to think of someone else...
+だれかを想う気持ち…=The feeling of thinking about someone...
+そう　あの子はいろんな子を気にかける\n優しい思いの持ち主だから…=Yes, she's a kind soul who cares about all kinds of kids...
+そのそばで、アナタも学ぶのがいい=And you can learn alongside them.
+そうしているうちに、アナタにも\n隊長の想いがわかるようになるから…=In the meantime, you will understand the captain's feelings...
+どう…？　できそう？=How...? You think you can do it?
+Vorkedさんのそばで\nVorkedさんの想いを学ぶ…=Learn about Ms. Vorked's thoughts by Ms. Vorked's side...
+もちろん、できますわ！=Of course you can!
+うん、よかった…=Yeah, good...
+べるべるる=lubbering
+{{A}}、大丈夫かしら…={{A}}, I hope you are ok...
+そうそう\n結局止めきれなかったわけだし…=Yeah, yeah, yeah.\nAnd in the end, we couldn't stop it...
+いいのよ、そんなこと=It's okay. It's okay.
+わたくしを止めようとしてくれて\nありがとうございます=Thank you for trying to stop me.
+はい、みなさんには\nごめいわくをおかけしました…=Yes, I apologize for the inconvenience to everyone...
+{{A}}…落ち着いた？={{A}}... have you calmed down?
+もぅ…心配しないでって言ったでしょ…？\nもちろん、ちゃんとケアしておいたわ=I told you not to worry... of course I took care of it.
+ど、どうだったの…？=How did you...?
+あ、ふたりが出てきたよ！=Ah, there they are, the two of them!
+心配しなくていい\n黒龍はきっと助けてくれるよ=Don't worry, I'm sure the Black Dragon will help you.
+そんなことありませんわ=That's not true.
+この方を説得して連れてきてくれたのも\nおふたりじゃありませんか=It was the two of you who persuaded her to come here, wasn't it?
+それと…Vorkedさん=And... Ms. Vorked.
+それでは、腕によりをかけた\nお料理を用意しておきますわね=Then, I will prepare a dish with my best skills.
+はい、わかりましたわ=Yes, I understand.
+そうそう　おいしいもの用意してくれたら\nそれでオッケーってことにしてあげる=Yes, yes, if you prepare something tasty, I'll be okay with that.
+まあ、そこまで言うなら…\n今度いっしょに遊びましょ？=Well, if you insist... let's play together sometime, shall we?
+Vorkedさん…！=Ms. Vorked...!
+慣れてるから=I'm used to it.
+許してくれますの…？\n無理やり連れて来てしまったのに…=Will you forgive me... for forcing you to bring her here?
+本当にごめんなさい…\nきっとイヤなおもいをさせてしまいましたわ=I'm so sorry... I'm sure I gave you a bad time.
+<color\=#990000>（やっぱり、ステキ…！）</color>=<color\=#990000>(I knew it! It's beautiful...!)</color>
+<color\=#990000>ス、ストップ！</color>=<color\=#990000>Su, stop!</color>
+あぁ、Vorkedさん…！\nあなたの愛を感じますわ…！=Oh, Ms. Vorked...! I feel your love...!
+よーし　無事に解決したところで\nみんなで初詣に行こー！=All right, now that we've resolved the problem safely, let's all go to Hatsumode together!
+あらあら…\n願いごとが叶うまで先は長そうね…=Oh dear... it's going to be a long time before my wish comes true...
+はっ、すみません\nわたくしったら、また…=I'm sorry.\nI'm sorry I'm... again.
+かーわーいーいー=so cute!
+さあ、みんな\n手を合わせて目をつぶって～=Come on, girls.\nPut your hands together and close your eyes.
+無事に過ごせてありがとうってお礼と\nお願いごとをするんだよ=You know, thanking them for their safety and asking them for a favor.
+あと、{{A}}たちにも\nきっとおどろくでしょうね…=Also, I'm sure the {{A}}'s will be thrilled...
+戻ったら、{{A}}に\n黒い子のことを教えてあげないとね=When I get back, I'll have to tell {{A}} about the black kid.
+もう明るくなってきましたものね=It's getting light already, isn't it?
+そうね…ふぅ…\nあたし、ちょっと眠いかも…=Well... I'm a little sleepy...
+ふぅ…いろいろあったけど、\n楽しかったわね=Whew... a lot happened, but it was fun.
+はい、お疲れさまっ！=Yes, thank you!
+ねえねえ！\nみんなはどんなお願いしたー？=Hey, hey!\nWhat did you girls ask for?
+あら、いい返事ですわね\n今年の{{A}}はやる気がちがいますわ=Well, that's a good answer, and the {{A}} is very motivated this year.
+が、がんばります！=But I will do my best!
+あと、<color\=#990000>ドールがもっと勉強しますように…</color>\nですかね=Also,<color\=#990000>May Dhole learn more...</color>\nI guess.
+わたくしは、みなさんが健康で\nいられますようにとお願いしましたわ=I asked for your continued good health.
+わたしはねー、みんなとた～っくさん\n遊べますようにってお願いしたよ！=I asked for a lot of fun with everyone!
+はい！　隊長さんとずっといられるように\nお願いしましたからね=Yes, ma'am! I asked to be with the captain all the time.
+<color\=#990000>これから、もっといそがしくなりますね\n今年も張り切っていきますわよ！</color>=<color\=#990000>I'm sure things are going to get even busier from now on, but I'll keep working hard this year!</color>
+そうだね　パークが無事オープンできる\nように、私たちもがんばらなきゃ！=Yes, we must do our best so that the Park can open successfully!
+パークのオープン=Opening of the Park
+隊長さんは\nどんなお願いをしたんですか？=Ms. Captain.\nWhat kind of request did you make?
+勉強も{{A}}も\nう～んとがんばっちゃいますよ！=I will study hard at {{A}} again!
+隊長…わたくしのお願いごとは\nなんだと思います…？=Captain... what do you think my request is...?
+それはですね――=That's--
+わー！　{{A}}さん、ダメです！\n隊長さんは、いそがしいんです！=Wow! Ms. {{A}}, no! The captain is very busy!
+はぁ…{{A}}してるかと思いましたのに、\nやっぱり、まだまだですわね…=Huh... I thought I was doing {{A}}, but I guess I'm not quite there yet...
+その…うしろのフレンズさんたちは\nいったいだれなのでしょうか=Who are those... Friends in the back?
+<color\=#990000>ぐるるるぅ～～～…！</color>=<color\=#990000>Gururururu～～～...!</color>
+…あっ！　あの…\n{{A}}さんに{{B}}さん！=... Oh! Um...{{A}} and {{B}}!
+ハゥ…アナタも大変ね…=Huh... you're in a lot of trouble...
+やあ、隊長　お疲れ様\nあらためて、明けましておめでとう=Hey Captain, good job and again, Happy New Year!
+{{A}}たちとちょっと似てるけど\nみんな{{B}}みたいなシッポがあるね=A little like the {{A}}s, but they all have tails like {{B}}s.
+ふたりのおともだち？=Two Friends?
+…姉たちよ\nあなたたちにはまだ紹介していなかったわね=... my sisters, I haven't introduced you girls yet.
+{{A}}にお姉さんがいたなんて\nビックリだねー！=I'm surprised {{A}} had a sister!
+お姉さま…ですの？=Sister...?
+おっと！　そういう大事なコトは\nきちんと場を設けて話したいな=Oops! I'd like to set up a proper place to talk about such important matters.
+どうして、突然…？=Why, all of a sudden...?
+むぅ…わかりました…！=Mmmm.... okay...!
+新年を祝う空気を乱したくはないからね\nいずれまた…ということでいかがかな=I don't want to disturb the New Year's celebration, so we'll see you soon... how about that?
+でも、気をつけるんだぞ\n優しいだけじゃ、生きてけないぞ！=But be careful, being nice isn't enough to survive!
+ふふっ　アナタのおかげで、\nみんなもどんどん{{A}}できているみたい…=Thanks to you, everyone seems to be getting more and more {{A}}'d...
+うんうん！\nそれでいい！=Mm-hmm!\nThat's good!
+ボクだって相談に乗りますよ！\nさあ、いっしょに熱くなりましょう！=I'm here to help you, too!
+時には鋼の心が必要なんだぞ\nぶつかりたくなったら、いつでもこいだぞ！=Sometimes you need a heart of steel, and if you ever feel like bumping into one, you can always come to me!
+はぁ…悪いわね\n姉たちがうるさくて…=Huh... sorry about that.\nMy sisters were being so loud...
+そうだね、隊長\nこれからも、いっしょにがんばっていこう=Yes, Captain, let's continue to work together.
+でも、みんなあなたとパークのことを\n思ってるの　それだけは忘れないで=But we're all thinking of you and the park. Don't forget that.
+Vorked～\nそろそろ戻ろ～！=Vorked～!\nIt's time to go back～!
+拠点に戻ったら、一休みして、\nそのあとはお餅を食べましょうか=When we get back to the base, let's take a break and then we can have some rice cakes.
+<color\=#990000>みんなが待ってますよ～！\nさぁ、いきましょう！</color>=<color\=#990000>Everyone is waiting for you!</color>
+やったー！\nおもち～おもち～♪　もっちもち～♪=Yay! Mochi～Mochi～Mochi～Mochi～Mochi!
