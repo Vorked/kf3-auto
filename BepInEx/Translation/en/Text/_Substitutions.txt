@@ -12,6 +12,11 @@
 隊長さんと仲良くなれて、うれしいよ　\nこれからももっとパオパオしよう！=I'm glad you and the captain got to know each other so\nwell... Let's do more Pao Pao in the future!
 今度、隊長も一緒にパンを焼いてみない？\nきっとおいしいのができると思うな♪=Next time, why don't you bake a loaf of bread\nwith me, I'm sure it will be delicious...
 あなたがいれば、どんなに怖いことでも\n勇気が出るの　ふふっ不思議よね=If you are there, I will have courage no\nmatter how scary it is! Haha, strange, isn't it?
+我々の計画は至極順調だ\nこれからも共に世を闇に染めゆこう=Our plan is going extremely well,\nand together we will continue to darken the world.
+隊長さんとのご縁がより深まったようです\nこれからもパークによい風を吹かせましょう！=It seems that you and I have become more closely\nconnected, let's continue to bring good winds to the Park!
+もうこれで全部だから大丈夫だよ\n手伝ってくれてありがとう！=That's all I have now, so I'm\ngood to go, thanks for helping me out!
+ファッションをもっと極めたいし、ほかにもやって\nみたいことがたくさん！　付き合ってね、隊長♪=I want to master fashion even more,\nand there are so many other things I want to try!
+
 
 ----------Friend Home Screen Speech----------
 どこかにお困りのフレンズさんは\nいないでしょうか…=I wonder if there are any Friends\nout there who are having trouble...
@@ -1697,6 +1702,7 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 MP増加量半減=MP increase halved
 
 ----------DOJO PERSONAL BEST----------
+バトル\n開始=Start\nBattle
 達成時のパーティ=Personal Best Party
 木曜日ベストスコア=Thursday's Top Score
 達成日時=Earned: 
