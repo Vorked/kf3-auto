@@ -382,6 +382,144 @@ Kari=Kari
 夢のじゃぱり城だモン！=Japari Castle Of Dreams!
 サイキョーの石垣だモーン=Great Stone Wall Morn
 
+
+----------Friends Title----------
+4周年 立ち入り禁止区域・解除開始=4th Anniversary Restricted Zone・Ban Lifted
+笑顔をよぶトラブルメーカー=Troublemaker with a smile
+みんなのたいせつなオトモダチ=Everyone's precious Friends
+はなまるの副隊長！=Vice Captain of Hanamaru!
+届け、はなまるの想い！=Deliver, Hanamaru's thoughts!
+ みんなの頼れる先生=Everyone's reliable teacher
+きっちりしっかり指導ですわ=I will give you proper guidance
+だいすきとたのしいの気持ち=Feelings of love and fun
+のんびり行こうねー=Let's take it easy!
+きらりと光るキセキの星=The Shining Star of Miracles
+突き進む正義のスカイヒーロー=Sky hero of justice advancing
+クールにいきましょ♪=♪ Let's be cool ♪
+じーっ・・・・・・=Stare・・・・・・
+あなたに…ミャーオ♡=Darling... meow♡
+わたしのトリコにしてあげる♡=I'll make you fall for me♡
+愛、それは禁断の毒=Love is a forbidden poison
+これは、解毒のキス=This is a detoxifying kiss
+あなたも可愛がってあげるわよ=I will cherish you too
+加速する友情=Accelerating Friendship
+ちゅらうみゃみゃ～！=Churaumyamya～!
+ふたりきりの探検もいいよね=It's nice to explore just the two of us
+おまえはなかなか賢いですね=You are pretty smart
+天才助手なのです=I am genius assistant
+助手の助手に任命なのです=Appointed as assistant's assistant
+参りますわよ！=Here I come!
+姫の魅力を語り合おう!=Let's talk about the charm of Princess!
+カリスマ・リーダー=Charismatic leader
+あなたと夢のその先へ!=With you, beyond the dream!
+大きな母の愛で抱きしめて=Embrace me with great motherly love
+一緒にじゃ～んぷ！=Let's Ju～mp!
+勇気をくれた親愛なるヒトへ=To my beloved who gave me courage
+一曲うたってあげますよ=I'll sing you a song.
+最高でサイキョー=The absolute strongest
+彼を知り己を知る=Know your enemy, know yourself
+可愛い子いっぱいパラダイス♡=A paradise full of cute girls♡
+あたいが面倒みてあげる！=I'll look after you!
+暗き夜の後、太陽は輝く=After the dark night, the sun shines
+舞い降りた闇夜の使い=The Descending Emissary of the Dark Night
+いでよ！漆黒の力！！=Come on! Jet-black power!!
+闇と光の二重奏=Duet of darkness and light
+こわーい悪魔のお通りだ！=The scary devil is on her way!
+ウタってオドってヤミをテらす=Sing and dance, illuminate the darkness
+どうしてわたしにかまう？=Why do you care about me?
+すべて置き去りにしてあげる！=I'll leave everything behind!
+共に走ろう、いつまでも=Let's run together forever
+激走！爆走！レッツGO！=Racing! Racing! Let's GO!
+永遠のたずねけもの=Eternal Kemono search
+ステキな旅をお約束します=We promise you a wonderful trip
+小さくてかわいいですねぇ…=It's small and cute...
+おっきーラブを{{A}}♡=Big love as a present♡
+漆黒の従者=Jet-black Servant
+自然の恵みを分けてあげる=Sharing the blessings of nature
+清澄なる青龍の恵み=Seiryu's Clear Blessings
+まずはシャンプーから=Start with shampoo
+おしとやかな聞き上手=Gentle listener
+果敢なる白虎の攻め=Byakko's Daring Attack
+堅固なる玄武の護り=Genbu's Solid Protection
+熾烈なる朱雀の熱意=Suzaku's Blazing Passion
+なでなで☆開運パワー！=Pat pat☆Good luck power!
+ふたりでダンスレッスン…♪=Dance lessons for two of us...♪
+あのこに似てる？=Do I looks like her?
+いっしょに出かけましょ！=Let's go out together!
+この歌をおまえのために！=This song is for you!
+修行をつけてやろう=I will train you
+広がれ！パークのえんため！=Expand! Park entertainment!
+みんなで奏でる友情のメロディ=Friendship's Melody Played by All
+オトナ同士なかよくするでち♪=♪ Adults, let's be friends♪
+ぷっくりほっぺのたっぷりおやつ=Plenty of snacks with plump cheeks
+キ！なんでも聞こえましゅ！=I can hear everything!
+ただのキャットじゃないです！=I'm not just a cat!
+みなぎる！ライブ参戦=Overflowing! Live participation
+想い伝える絵=Picture that convey feelings
+お住いをお探しですか？=Looking for a place to live?
+天才発明家のひらめき！=The inspiration of a genius inventor!
+隊長はわたしのアシュ！=The captain is my ace!
+みんなの視線をひとりじめ=Capture everyone's attention
+隊長もまだまだコドモね♪=The captain is still a kid♪
+たぎる心の持ち主=The owner of a strong heart
+シマシマでとびきりのおしゃれ=Striped and extraordinarily fashionable
+笑顔は最高のオシャレ=Smile is the best fashion
+お、おしょっちゃうじょ～！=Oh, I see let me tell you～!
+隊長のお願いごとだう♪=It's the captain's request♪
+ステキなパークを広めたい=I want to spread the word\nabout the wonderful park
+な、仲良くなりたいです！=I would like to be Friends with you!
+大切な「今」の仲間=My precious "present" is a friend
+１等賞はアタシがもらうわ！=I'll take the first prize!
+私を占ってみてください=Please tell my fortune
+未知で満ち満ちている！=Full of unknowns!
+私と隊長で新記録♪=Me and the captain set a new record♪
+名探偵のバディに任命です!=Appointed as the Great Detective's partner!
+大事な群れの一員=Important pack member
+あなたのしっぽも見せて=Show me your tail too
+武芸を極めし達人=Master of martial arts
+くっつくと温かいですよ=It's warm when we stick together
+古代料理研究家=Ancient cuisine researcher
+強く美しいけものたちと共に!=Together with strong and beautiful beasts!
+トリは地上最強なんだよ！=Bird is the strongest on earth!
+愛と平和がいちばん大事=Love and peace are the most important
+あたたかなこえがきこえるほうへ=Towards a warm voice
+隊長さんにハグハグ！=Hugs and hugs to the captain!
+最高のダムっスよ！=It's the best dam!
+新しいおやつ、隊長ともぐもぐ♪=New snack, mooching with the Captain ♪
+君が私の戦う理由=You are my reason to fight
+森の王がついているよ=The king of the forest is with you
+私のベルを鳴らして♪=♪ Ring my bell ♪
+キキキ♪イタズラ大成功=Kiki Kiki ♪ Prank a success!
+大切なダチとシマ=My precious buddy and territory
+すりすり…ごろごろ…=Rubbing... Purring...
+聞かせて、あなたのリクエスト=Let me hear it, your request
+あんまり見ないで…=Don't look too much...
+早起き１等賞=Early riser 1st prize
+地獄の門のあちらとこちら=Both sides of the gates of hell
+ハムハムしてやるぞ！=I'll hamu hamu!
+闇に潜み、その時を待つ=Hiding in the dark\nwaiting for the right moment
+いつまでも何度でも=Forever, again, and again
+大好きのポーズぅ！=My favorite pose!
+あなたとのフォトトは宝物=Your photo is a treasure
+パークのみなに笑顔を！=Smiles for everyone in the park!
+そちと共に舞う幻惑の舞=Dancing with you, the illusion dance
+シマゾエメンバー募集中=Looking for Shimazoe members
+パッションダンサー=Passion dancer
+いつかビッグになるの！=One day I'm going to be big!
+お昼寝のじゃましないで…！=Don't disturb my nap...!
+たまには会いにいくから=I'll see you once in a while
+砂漠のみんなは私の家族♪=Everyone in the desert is my family♪
+げんきに、ぬー！=Cheer up, Nuu!
+まったり、ぬぅ～♪=Relaxing, Nuu～♪
+
+ハデに、豪華に、きらびやかに！=Splendidly, luxuriously, and dazzlingly!
+あなたの期待にこたえます=I will meet your expectations
+隊長とハウろう♪アオ〜ンッ！=Let's howl with the captain! AWOOOO〜!
+キミの色で描く私の絵=My painting with your colors
+目指せ、パークのヒーロー！=Aim to be a hero of the park!
+
+
+
 ----------TITLES----------
 再始動=Reset
 未所持=Unowned
@@ -408,6 +546,7 @@ Kari=Kari
 
 
 ----------ITEMS THAT NEED TO GO FIRST (GOES FIRST)----------
+挑戦する=Challenge
 けもコーラス=Kemo-Chorus
 クエスト選択=Quest Selection
 フォトアルバム=Photo Album
@@ -444,8 +583,76 @@ Kari=Kari
 1日でクエスト8回クリア=Clear 7 Quests Today
 1日でクエスト9回クリア=Clear 9 Quests Today
 
+----------Friend Upgrade Page----------
+使用アイテム=Items used
+レベル上限＋11=Level Cap +11
+レベル上限＋10=Level Cap +10
+レベル上限＋3=Level Cap +3
+レベル上限=Level Cap
+使用するアイテム=Items to be used
+使用アイテム個数選択=Select the number of items to use
+レベル上限解放確認=Level Cap Release Confirmation
+四神玉を使ってレベル上限を解放します=Use Shinjindama to increase the level cap
 
 
+----------Events and Daily Quests---------
+「むちゃ」=Mucha
+スケジュール=Schedule
+「経験値クエスト」="Experience Quest"
+「さぁ、測りますよ～」="Now, Let's Measure～"
+「次はこちらをお願いします」=Next, This Way, Please"
+外伝=Side Story
+隊長不在=Captain's Absence
+隊長さんセレクト=Captain's Selection
+チュートリアルクリア=Clear Tutorial
+ミライさんセレクト=Mirai's Selection
+連戦！　連戦！=Continuous Battles!
+
+「レベルとっくん！（月曜）」=Level Quest! (Monday)
+「レベルとっくん！（火曜）」=Level Quest! (Tuesday)
+「レベルとっくん！（水曜）」=Level Quest! (Wendesday)
+「レベルとっくん！（木曜）」=Level Quest! (Thursday)
+「レベルとっくん！（金曜）」=Level Quest! (Friday)
+「レベルとっくん！（土曜）」=Level Quest! (Saturday)
+「レベルとっくん！（日曜）」=Level Quest! (Sunday)
+
+「野生解放とっくん！（月曜）」=Wild Release! (Monday)
+「野生解放とっくん！（火曜）」=Wild Release! (Tuesday)
+「野生解放とっくん！（水曜）」=Wild Release! (Wednesday)
+「野生解放とっくん！（木曜）」=Wild Release! (Thursday)
+「野生解放とっくん！（金曜）」=Wild Release! (Friday)
+「野生解放とっくん！（土曜）」=Wild Release! (Saturday)
+「野生解放とっくん！（日曜）」=Wild Release! (Sunday)
+
+「けものミラクルとっくん！（月曜）」=Kemono Level Quest! (Monday)
+「けものミラクルとっくん！（火曜）」=Kemono Level Quest! (Tuesday)
+「けものミラクルとっくん！（水曜）」=Kemono Level Quest! (Wednesday)
+「けものミラクルとっくん！（木曜）」=Kemono Level Quest! (Thursday)
+「けものミラクルとっくん！（金曜）」=Kemono Level Quest! (Friday)
+「けものミラクルとっくん！（土曜）」=Kemono Level Quest! (Saturday)
+「けものミラクルとっくん！（日曜）」=Kemono Level Quest! (Sunday)
+
+「ゴールドあつめ！（月曜）」=Collect Gold! (Monday)
+「ゴールドあつめ！（火曜）」=Collect Gold! (Tuesday)
+「ゴールドあつめ！（水曜）」=Collect Gold! (Wednesday)
+「ゴールドあつめ！（木曜）」=Collect Gold! (Thursday)
+「ゴールドあつめ！（金曜）」=Collect Gold! (Friday)
+「ゴールドあつめ！（土曜）」=Collect Gold! (Satday)
+「ゴールドあつめ！（日曜）」=Collect Gold! (Sunday)
+
+ミラクルとっくん！=Miracle Quest!
+獲得スケジュール=Event Schedule
+レベルとっくん=Level Growth Quest
+野生解放とっくん=Wild Release Growth Quest
+けものミラクルとっくん=Kemono Miracle Growth Quest
+
+（月曜）=Monday
+（火曜）=Tuesday
+（水曜）=Wednesday
+（木曜）=Thursday
+（金曜）=Friday
+（土曜）=Saturday
+（日曜）=Sunday
 
 ----------Mission fixes attempt----------
 「フレンズの小さな輝石」="Friends' Small Pyroxene"
@@ -620,7 +827,7 @@ Kari=Kari
 11月後半!!すごい!!どれすあっぷしょうたい=Late November!! Wow!! Dress-Up Invitation
 12月後半!!すごい!!どれすあっぷしょうたい=Late December!! Wow!! Dress-Up Invitation
 
-復刻PU確定チケットしょうたい= Reprint Pull Rate Confirmed
+復刻PU確定チケットしょうたい= Reprint Pull Rate Up Confirmed
 ペンギンフレンズショップしょうたい=Penguin Friend Shop Invitation
 1月フォト交換所January Photo Exchange
 2月フォト交換所February Photo Exchange
@@ -650,6 +857,8 @@ Kari=Kari
 期間限定10月しょうたい=Limited Time October Shop
 期間限定11月しょうたい=Limited Time November Shop
 期間限定12月しょうたい=Limited Time December Shop
+期間限定=Limited\nTime
+限定復刻=Rerun
 1月ショップしょうたい券=January Limited Ticket
 2月ショップしょうたい券=February Limited Ticket
 3月ショップしょうたい券=March Limited Ticket
@@ -692,6 +901,7 @@ Kari=Kari
 開催期間=Event Period
 
 ----------FRIEND MENUS----------
+フレンズ情報=Friend Info
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
 ジャパまんを使ってフレンズを強化します=Japari Buns Strengthen Friends!
 ※アイコン長押しで一括選択ができます=Select a batch by pressing or holding an icon.
@@ -742,6 +952,9 @@ Kari=Kari
 
 
 ----------IN-GAME CAPTAIN SKILL USES----------
+本日残り3回=3 Use Left
+本日残り2回=2 Use Left
+本日残り1回=1 Use Left
 残り=Uses: 
 
 ----------FRIENDSHIP LEVEL----------
@@ -1191,6 +1404,7 @@ kari=Kari
 秘めた野性を解き放つ秘密の小瓶\nブラックジャガーの野生解放の強化に使用します=A secret vial that unleashes hidden wildness. Used to enhance Black Jaguar's Wild Release.
 
 ----------HELP MENUS----------
+ゴールド貯金箱とは=What is the Gold Piggy Bank?
 攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。=Hit Rate is determined by the Attacker's Accuracy and the Defender's Evasion.
 攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。=Hit Rate is determined by the Attacker's Accuracy and the Defender's Evasion.
 ※かいひ率が100％でも攻撃側の攻撃命中率によっては攻撃を受けることがあります。=※100% Hit Rate may still miss depending on the Defender's Evasion.
@@ -1908,6 +2122,7 @@ Beat!!!アップ=Beat!!! Up
 どく、すやすや、くたくた、びりびり耐性が上昇=Increased Resistance to Poison, Sleep, and Exhaustion.
 
 ----------MENU FIXES----------
+クエスト\nスキップ=Quest\nSkip
 グラフィック描画のクオリティを設定します=Configure in-game graphics quality.
 無料あり！=Free Pull!
 高画質=HD
@@ -2008,19 +2223,15 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 セルリアン大掃除=Cerulean Cleanup
 難易度切り替え=Difficulty
 オーダーチェンジ=Change Order
-おかわりポイント増加=Increase Refill Points
-みんなでアタック=Attack With Everyone
+おかわりポイント増加=Increase Refill
+みんなでアタック=Everyone Attack
+もーっとプラズム=More Plasma
 隊長スキル効果=Captain Skill Effects
 隊長スキル成長=Captain Growth
 成長ボーナス=Growth Bonus
-おかわりポイント増加=Increase Refill Points
-1ターン、獲得おかわりポイントが=For 1 turn refill points earned
+1ターン、獲得おかわりポイントが=Refill increased for 1 Turn
 5倍になる=5 times.
 装着フォト一括解除=Remove All Photos
-レベルとっくん=Level Growth Quest
-野生解放とっくん=Wild Release Growth Quest
-けものミラクルとっくん=Kemono Miracle Growth Quest
-ゴールドあつめ=Collect Gold
 準備OK=Ready
 げんき補充=Energy Replenish
 道場ミッション=Dojo Mission
@@ -2153,6 +2364,21 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 外す=Remove
 通算=Total
 ためこみ上手=MP Hoard
+
+----------Captain Skill Menu----------
+隊長スキル発動！=Activation the Captain's Skill!
+交換するフラッグを選んでください=Please select the flag you wish to exchange.
+コンティニューする=Continue
+プラズムをチャージ=Charge Plasm
+プラズムチャージ=Plasm Charge
+行動順バフ=Order of Action Buff
+獲得ＭＰ=Gained MP
+ＭＰ増加=MP Increase
+獲得ポイント２.０倍=2.0x Points Earned
+ミラクルポイントを獲得=Earn Miracle Points
+バトル情報=Battle Information
+フレンズ情報=Friends Information
+隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
 インドシナウォータードラゴン=Chinese Water Dragon
@@ -2646,7 +2872,6 @@ OPムービー=OP Movie
 スタンプ履歴=Stamp History
 スタンプ=Stamp
 
-
 訪問=Visit
 編集=Edit
 充電=Charge
@@ -2658,7 +2883,7 @@ OPムービー=OP Movie
 月1パック=Monthly
 パック=Pack
 排出率=Drop Rate
-
+WAVE=Wave
 検索=Search
 WAVE数= Waves
 ヘラジカ=Elk
@@ -3208,6 +3433,7 @@ HAW-206=HAW-206
 メンダコ=Mendako
 
 ----------NAME FIXES MUST BE AT THE END----------
+リタイア=Retire
 所持=Owned
 トキ=Toki
 ヒョウ=Leopard
@@ -3393,6 +3619,7 @@ HAW-206=HAW-206
 日曜日=Sunday
 
 
+
 ----------GAME MECHANIC TERMS THAT MUST BE AT END----------
 動物画像提供元=Animal images courtesy of
 フォロワー=Followers
@@ -3477,6 +3704,7 @@ EN：絶滅危惧=EN: Endangered
 ちゃーん=chan
 マメジカ=Chevrotain
 
+スキップ=Skip
 オカエリ=Welcome Home
 ハブ=Habu
 えくすとら=Extra
@@ -3499,7 +3727,6 @@ EN：絶滅危惧=EN: Endangered
 ポムポム=Pom-Pom
 すー…　すー…=Zzz… Zzz…
 すー…=Zzz…
-スキップ=Skip
 停止=Stop
 終了=Exit
 【選択肢】=[Choice]
@@ -3512,7 +3739,8 @@ EN：絶滅危惧=EN: Endangered
 ----------ATTEMPTED FIX OF DEEPL REPEATING LINES----------
 いやいや=No no
 な、な、何=Wh-wh-what
-
+カンザシ=Kanzashi
+カタカケ=Katakake
 
 ----------SLANG----------
 ガマン=patient
