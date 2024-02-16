@@ -16,7 +16,23 @@
 隊長さんとのご縁がより深まったようです\nこれからもパークによい風を吹かせましょう！=It seems that you and I have become more closely\nconnected, let's continue to bring good winds to the Park!
 もうこれで全部だから大丈夫だよ\n手伝ってくれてありがとう！=That's all I have now, so I'm\ngood to go, thanks for helping me out!
 ファッションをもっと極めたいし、ほかにもやって\nみたいことがたくさん！　付き合ってね、隊長♪=I want to master fashion even more,\nand there are so many other things I want to try!
+いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
 
+
+----------ShiServals Dojo Quotes----------
+今日はこれだよー！=This is it for today!
+頑張れ頑張れー！=Do your best, do your best!
+大丈夫大丈夫！=No problem, no problem!
+ゆっくり行こうね！=Take your time!
+
+
+----------ERROR CODES----------
+メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
+再起動=Restart
+お知らせ=Notice
+メンテナンス中=Under Maintenance
+表示ON=Display ON
+表示OFF=Display OFF
 
 ----------Friend Home Screen Speech----------
 どこかにお困りのフレンズさんは\nいないでしょうか…=I wonder if there are any Friends\nout there who are having trouble...
@@ -384,12 +400,16 @@ Kari=Kari
 
 
 ----------Friends Title----------
+楽しい砂漠で遊びましょう=Let's play in the fun desert!
+あなたとわたしでサンドイッチ♪=Sandwiches for you and me ♪
+あなたの輪っかにジャンプ！=Jump through your hoop!
+隊長君とわたくしの記録=My Diary With the Captain
 4周年 立ち入り禁止区域・解除開始=4th Anniversary Restricted Zone・Ban Lifted
 笑顔をよぶトラブルメーカー=Troublemaker with a smile
 みんなのたいせつなオトモダチ=Everyone's precious Friends
 はなまるの副隊長！=Vice Captain of Hanamaru!
 届け、はなまるの想い！=Deliver, Hanamaru's thoughts!
- みんなの頼れる先生=Everyone's reliable teacher
+みんなの頼れる先生=Everyone's reliable teacher
 きっちりしっかり指導ですわ=I will give you proper guidance
 だいすきとたのしいの気持ち=Feelings of love and fun
 のんびり行こうねー=Let's take it easy!
@@ -560,11 +580,6 @@ Kari=Kari
 パーティ編成=Party Organize
 スタミナ回復速度2倍=Recovery Doubled
 けものミラクル＋が解放されました！=Kemono Miracle+ Unlocked!
-「決定！　ジャパリパークの１等賞！」ミッションの\n報酬を受け取りました=Reward received for\n"First Prize at Japari Park!"
-ボーナスくんれんPt.=Bonus Training Pt.
-前シーズンのくんれんクラス=Previous Season Training Class
-・新シーズン開始に合わせて、くんれんクラスがリセットされました=New season begins, Training Classes reset.
-・前シーズン結果に合わせて、ボーナスくんれんポイントが付与されました。=Bonus Training Points were assigned based on previous season.
 新シーズン開始のお知らせ=New season begins!
 衣装の対象フレンズが未加入です=Owner of this Costume has not yet arrived.
 運動場=Playground
@@ -596,6 +611,7 @@ Kari=Kari
 
 
 ----------Events and Daily Quests---------
+「みなさん、すばらしいですっ！」="You girls are amazing!"
 「むちゃ」=Mucha
 スケジュール=Schedule
 「経験値クエスト」="Experience Quest"
@@ -659,6 +675,8 @@ Kari=Kari
 自主練の効果=Effects of Self-Training
 練習は大切=Practice is important
 品物の取り違え=Mixed Goods
+フォロー申請確認=Confirm Follow Request
+フォローしますか？=Would you like to follow?
 
 ----------Menu Fixes (again again)----------
 称号変更=Change Title
@@ -672,6 +690,8 @@ Kari=Kari
 興味津々！=Very Interesting!
 アイテムが足りません=Not Enough Items
 フレームレート=Framerate
+同タブ内で=Within same part
+本日残り1回=1 Use left
 
 ----------RAIDS----------
 累計でイベントクエストを10回クリア=Cleared the Event Quest 10 times
@@ -755,6 +775,23 @@ Kari=Kari
 
 
 ----------STORE FIXES----------
+特商法について=About the Special\nCommercial Code
+お掃除開始！=Start cleaning!
+お掃除完了！=Cleaning is complete!
+大掃除に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for spring cleaning!
+けもけも弁当セット（緑色）=Kemokemo Bento Set (Green)
+けもけも弁当セット（水色）=Kemokemo Bento Set (Light Blue)
+けもけも弁当セット（黄緑色）=Kemokemo Bento Set (Yellow-Green)
+けもけも弁当セット（桃色）=Kemokemo Bento Set (Light Red)
+けもけも弁当セット（赤色）=Kemokemo Bento Set (Red)
+
+大掃除準備セット（水色）=Cleaning Preparation Set (light blue)
+大掃除準備セット（黄緑色）=Cleaning preparation set (yellow-green)
+大掃除準備セット（桃色）=Cleaning Preparation Set (peach color)
+大掃除準備セット（青色）=Cleaning preparation set (blue)
+大掃除準備セット（緑色）=Cleaning preparation set (green)
+大掃除準備セット（赤色）=Cleaning preparation set (red)
+
 ジャパリコイン交換所=Japari Coin Exchange
 売り切れ=Sold Out
 がおーっ！ライオンショップしょうたい=Roar! Lion Shop Invitation
@@ -900,7 +937,25 @@ Kari=Kari
 ショップしょうたい=Store Invitation
 開催期間=Event Period
 
+----------MAIN Menu----------
+最新話をアプリでチェック！=Check out the latest story on the app!
+～絶賛配信中～=～Streaming with rave reviews～!
+ワクワクけものバトル！\n～クリスマスアレンジ～=Exciting Kemono Battle!\nChristmas Arrangement
+強そうなの来たぁ～！\n～クリスマスアレンジ～=Here comes the strong one～\nChristmas Arrangement～!
+公式HP=Official HP
+あんいんちほーとせるりあん=Cerulean Tower
+
 ----------FRIEND MENUS----------
+なかよしLv.10=Friendship Lv.10
+なかよしLv.9=Friendship Lv.9
+なかよしLv.8=Friendship Lv.8
+なかよしLv.7=Friendship Lv.7
+なかよしLv.6=Friendship Lv.6
+なかよしLv.5=Friendship Lv.5
+なかよしLv.4=Friendship Lv.4
+なかよしLv.3=Friendship Lv.3
+なかよしLv.2=Friendship Lv.2
+なかよしLv.1=Friendship Lv.1
 フレンズ情報=Friend Info
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
 ジャパまんを使ってフレンズを強化します=Japari Buns Strengthen Friends!
@@ -952,13 +1007,15 @@ Kari=Kari
 
 
 ----------IN-GAME CAPTAIN SKILL USES----------
-本日残り3回=3 Use Left
-本日残り2回=2 Use Left
+本日残り3回=3 Uses Left
+本日残り2回=2 Uses Left
 本日残り1回=1 Use Left
 残り=Uses: 
+なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x2</color></size>!
 
 ----------FRIENDSHIP LEVEL----------
 隊長さんが入れるくらい大きな穴を掘ったの\nいっしょに入って、のんびりしよう=I dug a hole big enough for the captain and me,\nso let's go in together and relax.
+現在のなかよし=Current Friendship
 
 ----------BEATS----------
 がぶっとやり返し！=I'll Fight Back!
@@ -1558,7 +1615,6 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 (けものミラクル、とくいわざ、とくせい、キセキとくせい、なないろとくせい、フォト全て)=(Kemono Miracle, Traits,Rainbow Traits, and all Photos.)
 
 
-
 ----------PLAY----------
 てもちバルーン（オール）=Handheld Balloon (All)
 虹色のてもちバルーン。風にのってふわふわ浮かぶよ。ピクニックであそぶことができる=Rainbow colored balloons that float in the wind. Using this will drop Rainbow Japari Bun (All) Large. Can be used at Picnics.
@@ -1566,6 +1622,8 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 みんなでいっしょに高山におでかけ! ピクニックであそぶことができる=Let's go to the Alpines and have a picnic!
 獲得量2倍=Rate x2
 げんきが最大値を超えて回復します\nこのままじゃぱりフードを使用してもよろしいですか？=Your energy will recover beyond the maximum value. Are you sure you want to continue using this Japari Food?
+プラズムチャージ=Plasma Charge
+すこし不利=Slight disadvantage
 
 
 ----------BENTO----------
@@ -1864,6 +1922,20 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 パーティ全体のHP90％以上でクリア=Clear with the entire party at 90% or more HP.
 
 ----------Special Training----------
+くんれんショップ=Training Store
+くんれんポイント=Training Points
+「決定！　ジャパリパークの１等賞！」ミッションの\n報酬を受け取りました=Reward received for\n"First Prize at Japari Park!"
+くんれんランク=Training Rank
+くんれんpt=Training pt.
+くんれんクラス=Training Class
+ボーナスくんれんPt.=Bonus Training Pt.
+前シーズンのくんれんクラス=Previous Season Training Class
+・新シーズン開始に合わせて、くんれんクラスがリセットされました=New season begins, Training Classes reset.
+・前シーズン結果に合わせて、ボーナスくんれんポイントが付与されました。=Bonus Training Points were assigned based on previous season.
+とくべつくんれん=Special Training
+獲得くんれんメダル=Earned Training Medals
+くんれんメダル=Training Medal
+くんれん=Training
 作戦変更=Change Strategy
 Ａｃｔｉｏｎ!強化=Stronger Action!
 Ｔｒｙ!!強化=Stronger Try!!
@@ -2054,9 +2126,16 @@ PPPのプリンセス=PPP's Princess
 占いのその先へ=In addition, Than My Visions
 優秀な助手の出番なのです=The brilliant Assistant
 どこでも突撃！えんため隊=Attack Anywhere! Entame Corps
+天才博士が通りますよ=Genius Doctor Coming Through
 
 
 ----------GACHA AND REAL MONEY STORE ITEMS----------
+を6個交換しました=Exchanged for 6 items.
+を5個交換しました=Exchanged for 5 items.
+を4個交換しました=Exchanged for 4 item.
+を3個交換しました=Exchanged for 3 items.
+を2個交換しました=Exchanged for 2 items.
+を1個交換しました=Exchanged for 1 item.
 しょうたい（ガチャ）で使用できます=Can be used to pull in gachas.
 このアイテムは\n売り切れです=SOLD OUT
 おひとり様1個まで=One per person
@@ -2081,7 +2160,9 @@ PPPのプリンセス=PPP's Princess
 カメラモード\n終了=Exit\nCamera Mode
 次の獲得まで=Next Drop:
 
+
 ----------Status Effect Descriptions----------
+たいりょく回復=HP Recovery
 ダメージアップ=Damage Up
 命中率アップ=Accuracy Up
 与えるダメージが上昇=Increases Damage Dealt
@@ -2201,7 +2282,7 @@ SSRインテリアボーナス=SSR Interior Bonus
 不正な起動です=Launch the game with DMM Player.
 ジャパリパーク立ち入り禁止区域・解除開始=Japari Park Off-Limits Area
 野生大解放チャレンジ=Wild Release Challenge
-とくべつくんれん=Special Training
+
 MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Friends)
 自己ベスト\nスコア=Personal\nBest
 獲得\n報酬=Earned\nReward
@@ -2273,7 +2354,6 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 アイテムを使ってスタミナを回復します=So I'll use items to restore my Stamina
 スタミナを回復しました=Stamina Restored
 なかよしpt=Friendship Pt.
-なかよし=Friendship
 助っ人フレンズ=Helper Friends
 1週間で=In 1 Week
 ☆3以上確定時=Over ☆3
@@ -2281,7 +2361,6 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 エクストラ=Extra
 5回しょうたいのおまけ=5 Time Pull Bonus
 わくわく訪問のスタンプ+Exciting Visit Stamp
-なかよし=Friendship
 セルリアン=Cerulean
 トラフレンズ=Tiger Friends 
 集合PU確定チケットしょうたい=Gathering PU Confirm Ticket
@@ -2369,8 +2448,8 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル発動！=Activation the Captain's Skill!
 交換するフラッグを選んでください=Please select the flag you wish to exchange.
 コンティニューする=Continue
-プラズムをチャージ=Charge Plasm
-プラズムチャージ=Plasm Charge
+プラズムをチャージ=Charge Plasma
+プラズムチャージ=Plasma Charge
 行動順バフ=Order of Action Buff
 獲得ＭＰ=Gained MP
 ＭＰ増加=MP Increase
@@ -2381,6 +2460,9 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+日向夏美=Natsumi Hinata
+ギロロ=Giroro
+夏美=Natsumi
 インドシナウォータードラゴン=Chinese Water Dragon
 シンリンオオカミ=Eastern Wolf
 イエイヌ（シベリアンハスキー）=Siberian Husky
@@ -2643,14 +2725,12 @@ G・ロードランナー=G. Roadrunner
 タッチして\N次のTipsへ=Touch\NShow the Next Tip
 ホワイトライオン=White Lion
 フレンズ成長 大・超成功率UP!=Friends Growth Success Rate UP!
-たいりょく=HP
 おかわり=Refill
 四神玉=Shijindama
 入手方法=Where To Get
 強化=Strengthen
 所持ゴールド=Gold Owned
 けも級=Kemo-Class
-なかよし=Friendship
 輝きの欠片交換所=Sparkling Shard Exchange
 小さな輝石獲得=Acquisition Of Small Pyroxene
 マカミの輝石=Makami's Pyroxene
@@ -2689,8 +2769,6 @@ G・ロードランナー=G. Roadrunner
 フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\NPlease Change Your Filter Settings.
 おしゃれアクセを所持していません\R\N※おしゃれアクセは「すぺしゃるクエスト」などで獲得できます※=Does Not Possess A Fashionable Accessory\NFashionable Accessories Can Be Obtained Through The "Supesharu Quest" And Other Means.
 表示サイズ=Size
-かいひ=Evade
-ぷらずむ=Plasma
 オーダーフラッグ=Order Flag
 ずかん=Zoology
 主な分布域=Location
@@ -2793,7 +2871,6 @@ IDをコピー=Copy ID
 キラキラ（無償）=Glitter (Free)
 キラキラ（有償）=Glitter (Paid)
 キラキラ=Glitter
-くんれんメダル=Training Medal
 おしゃれメダル=Fashion Medal
 スターグラス=Star Glass
 ラッキーメダル=Lucky Medal
@@ -3496,6 +3573,7 @@ HAW-206=HAW-206
 変異種セルリアン=Rulercell
 ぶちょリアン=Bucholien
 変異種セルリアン=Mutant Cerulean
+ユメリアン=Yumelien
 セルリアン女王=Cerulean Queen
 コウテイ=Koutei
 フルル=Hululu
@@ -3590,10 +3668,8 @@ HAW-206=HAW-206
 高山=Alpines
 
 ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
-けもステータス=Kemo-Status
-ステータス=Status
-こうげき=Attack
-まもり=Defense
+
+
 すてっぷあっぷ=Step-Up
 しょうたい=Invitation
 配置=Place
@@ -3668,11 +3744,10 @@ EN：絶滅危惧=EN: Endangered
 ダメだって=No good
 あっ、=Oh,
 
-えーと…=Uuuhh…
+えーと…=Uuhh…
 えっと…=Uuh…
 …あ…=…Oh…
 …あ！=…OH!
-ああ！=Ooh!
 へ～=Eh～
 え、えっと…=U-um…
 いっぱい頼ってね！=Count on me!
@@ -3751,3 +3826,9 @@ EN：絶滅危惧=EN: Endangered
 ハンチョウ=Hancho
 ハートのゆびわ=Heart Ring
 皓皓=Growth
+マサシ(NPC)=Masashi(NPC)
+ヨシノリ(NPC)=Yoshinori(NPC)
+ともや(NPC)=Tomoya(NPC)
+パンジー(NPC)=Pansy(NPC)
+ハヤト(NPC)=Hayato(NPC)
+ブラウン(NPC)=Brown(NPC)

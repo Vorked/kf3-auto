@@ -112,7 +112,7 @@ r:"^Beat!!!で([0-9]+)コーラスを発生させてクリア$"=Clear $1 choruse
 r:"^([0-9]+)ターン以内にクリア$"=Clear within $1 turns
 r:"^ターン ([0-9]+)/([0-9]+)$"=Turn $1/$2
 r:"^ランク([0-9]+)$"=Rank $1
-r:"^とくべつくんれんに([0-9]+)回挑戦$"=Challenge $1 times to Kubetsu Training
+r:"^とくべつくんれんに([0-9]+)回挑戦$"=Challenge Special Training $1 times
 r:"^-([0-9]+)分$"=-$1 minutes
 r:"^([0-9]+)話$"=Ep. $1
 r:"^クリアターン数 ([0-9]+)$"=Cleared in $1 Turn(s).
@@ -151,9 +151,20 @@ r:"^×([0-9]+)$"=x$1
 r:"^([0-9]+)勝$"=$1 Win(s)
 r:"^× ([0-9]+) を$" = Accepted x $1
 r:"^獲得状況 ([0-9]+)/([0-9]+)$"= Owned: $1/$2
+r:"^バトル([0-9]+)$"=Battle $1
+r:"^けもステータス　([0-9]+)$"=Kemo-Status　$1
+r:"^たいりょく　([0-9]+)$"=HP　$1
+r:"^こうげき　([0-9]+)$"=Attack　$1
+r:"^ぷらずむ　([0-9]+)$"=Plasma　$1
+r:"^かいひ　([0-9]+)$"=Evade　$1
+r:"^まもり　([0-9]+)$"=Defense　$1
+r:"^なかよしLv.([0-9]+)/([0-9]+)$"=Friendship $1/$2
+r:"^ハード　その([0-9]+)$"=Hard Part $1
+
 
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
+2=2
 もう一度=Once Again
 けもステータス=Kemo-Status
 ステータス=Status
@@ -188,9 +199,28 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 <size\=12>たいき </size> 2=<size\=12>Standby</size> 2
 <size\=12>たいき </size> 3=<size\=12>Standby</size> 3
 <size\=12>たいき </size> 4=<size\=12>Standby</size> 4
-
+太陽の恵みクエスト　{{A}}！=Sun's Blessing {{A}} Quest!
+太陽の恵みクエスト　おしゃれ！=Sun's Blessing Stylish Quest!
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
+
+ぷらずむ順=Plasma Order
+かいひ順=Evade Order
+まもり順=Defense Order
+こうげき順=Attack Order
+たいりょく順=HP Order
+
+なかよし=Friendship
+ぷらずむ=Plasma
+かいひ=Evade
+たいりょく=HP
+なかよし=Friendship
+こうげき=Attack
+まもり=Defense
+けもステータス=Kemo-Status
+ステータス=Status
+並び順の基準とする条件を{{A}}できます=You can select the sort order
+{{A}}しますか？=Do you want to follow?
 {{A}}のポーズぅ！={{A}} pose!
 あなたと{{A}}と思い出づくり♪=Making memories with you and {{A}}♪
 キミとボクで最強{{A}}=You and I are the strongest {{A}}
@@ -200,10 +230,21 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 きれいにお手入れ{{A}}の羽=Clean and care sparkling feathers
 {{A}}とたくさん遊びたい！=I want to play a lot with {{A}}!
 {{A}}を見守る優しい瞳=Kind eyes watching over {{A}}
+{{A}}条件={{A}} Conditions
+本日{{A}}0回=No uses left
+{{A}}する={{A}}
+{{A}}使用個数選択=Select the number of {{A}} to use.
+このクエストは、{{A}}{{B}}可能です=This quest has {{A}}.
+「購入と{{A}}」を有効にする=Enable "Purchase and Replenish"
 
+----------Training----------
 全解除=Full Release
 強化=Strengthen
 確認=Confirm
+とんとん=Normal
+てごわい=Difficult
+次の回復まで Param01=Until recovery: Param01
+
 
 効果=Effect
 敵=Enemy
@@ -226,11 +267,12 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 <size\=12>たいき </size> 2=<size\=12>Standby</size> 2
 <size\=12>たいき </size> 3=<size\=12>Standby</size> 3
 <size\=12>たいき </size> 4=<size\=12>Standby</size> 4
-なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x2</color></size>!
+
 探検隊Lv.=<size\=10>Expedition</size>Lv.
 <size\=24>探検隊</size>=Expedition
 探検隊=Expedition
 探検隊=<size\=10>Expedition</size>
+以下の{{A}}が完了しました=The following has been completed
 ぷれみあむ☆４{{A}}{{B}}２=Premium ☆4 {{A}} {{B}} 2
 ぷれみあむ☆４{{A}}{{B}}３=Premium ☆4 {{A}} {{B}} 3
 ぷれみあむ☆４{{A}}{{B}}1=Premium ☆4 {{A}} {{B}} 1
@@ -316,13 +358,22 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 ヤク=Yak
 ココ=Coco
 クエスト\n{{A}}=Quest\n{{A}}
+{{B}}：カメラ{{A}}={{B}}: Camera {{A}}
+{{B}}クエスト\n{{A}}={{B}} Quest\n{{A}}
+{{A}}クエスト={{A}} Quest
+{{A}}隊長日誌={{A}} Captain's Journal
+リセット=Reset
+フレンズの名前=Friend's Name
 
 
+----------Variable Combinations----------
+【{{A}}】=【{{A}}】
+{{A}}の{{B}}={{A}} {{B}}
+【{{A}}】{{B}}=【{{A}}】{{B}}
+「{{B}}」{{A}}=「{{B}}」{{A}}
+{{B}}ット{{A}}{{C}}={{B}} at {{A}} {{C}}
 
 ----------SCHEDULE DATES (SIMPLE)----------
-【{{A}}】=【{{A}}】
-「{{B}}」{{A}}=「{{B}}」{{A}}
-
 
 本日{{A}}3回={{A}} 3 Times
 本日{{A}}2回={{A}} 2 Times
@@ -341,6 +392,8 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 表示タイプ=Display Type
 ウィークリー=Weekly
 入手したアイテム=Items obtained
+更新=Refresh
+<size\=15>くんれんpt</size><size\=19>×Param01</size>=<size\=15>Training pt.</size><size\=19>×Param01</size>
 
 ----------New Translations For Autotranslation Only----------
 チケット=Ticket
@@ -3046,16 +3099,7 @@ TaichouCptn\nいずれ『時』が来る…来てしまうのでしょう=Taicho
 
 
 
-
-
-
-
-
-
 ------------------------------------------------------------------------------------------
-
-
-
 
 
 
