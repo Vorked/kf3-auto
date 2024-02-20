@@ -18,13 +18,11 @@
 ファッションをもっと極めたいし、ほかにもやって\nみたいことがたくさん！　付き合ってね、隊長♪=I want to master fashion even more,\nand there are so many other things I want to try!
 いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
 
-
 ----------ShiServals Dojo Quotes----------
 今日はこれだよー！=This is it for today!
 頑張れ頑張れー！=Do your best, do your best!
 大丈夫大丈夫！=No problem, no problem!
 ゆっくり行こうね！=Take your time!
-
 
 ----------ERROR CODES----------
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
@@ -46,7 +44,6 @@
 みんながちゃんとごはんを食べて寝ているか\nついつい気になっちゃうんだよねー=I'm always wondering if everyone\nis eating and sleeping properly!
 なにか物を運びたいの？\n重たくっても大丈夫だよ=Do you want me to carry something,\neven if it's heavy?
 今日運んだ荷物はかなーり重かったけど…\n何が入っていたのかな？=The package we carried today was\nquite heavy... but what was in it?
-
 
 ----------Loading Screen Tooltips----------
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -82,7 +79,8 @@
 疲れてる時こそ、\n準備運動はしっかりね？=Do warm-up exercises even\nwhen you're tired, okay?
 じゃじゃーん！\n今日はこれだよー！=Ta-da! This is it for today!
 エクストラバトル=Extra Battle
-
+待機フレンズ設定時と解除時で\nホーム画面で聞けるボイスが変化します=The voices you can hear on the home screen will change depending on whether you set a Friend to standby or not. 
+Lv.強化=Lv. Enhancement
 
 ----------RAINBOW TRAITS----------
 野生と知性で最強なのです=Wildest and Most Intelligent
@@ -531,21 +529,15 @@ Kari=Kari
 砂漠のみんなは私の家族♪=Everyone in the desert is my family♪
 げんきに、ぬー！=Cheer up, Nuu!
 まったり、ぬぅ～♪=Relaxing, Nuu～♪
-
 ハデに、豪華に、きらびやかに！=Splendidly, luxuriously, and dazzlingly!
 あなたの期待にこたえます=I will meet your expectations
 隊長とハウろう♪アオ〜ンッ！=Let's howl with the captain! AWOOOO〜!
 キミの色で描く私の絵=My painting with your colors
 目指せ、パークのヒーロー！=Aim to be a hero of the park!
 
-
-
 ----------TITLES----------
 再始動=Reset
 未所持=Unowned
-
-
-
 
 ----------Scenarios----------
 チュートリアル　Welcome! ジャパリパーク=Welcome To Japari Park! Tutorial
@@ -564,10 +556,9 @@ Kari=Kari
 美味♡じゅるりバレンタイン=Delicious♡Slurp Valentines Day
 イベントストーリー=Event Story
 
-
 ----------ITEMS THAT NEED TO GO FIRST (GOES FIRST)----------
-挑戦する=Challenge
-けもコーラス=Kemo-Chorus
+フォト整理(売却)=Sell Photos
+成長\n・\n強化=Growth\n・\nStrength
 クエスト選択=Quest Selection
 フォトアルバム=Photo Album
 ※一定の件数を超えた履歴は古い方から順に削除されます=※History that exceeds a certain number will be deleted in order from oldest to newest.
@@ -608,7 +599,6 @@ Kari=Kari
 使用アイテム個数選択=Select the number of items to use
 レベル上限解放確認=Level Cap Release Confirmation
 四神玉を使ってレベル上限を解放します=Use Shinjindama to increase the level cap
-
 
 ----------Events and Daily Quests---------
 「みなさん、すばらしいですっ！」="You girls are amazing!"
@@ -677,6 +667,7 @@ Kari=Kari
 品物の取り違え=Mixed Goods
 フォロー申請確認=Confirm Follow Request
 フォローしますか？=Would you like to follow?
+使う数を選んでください=Choose the amount you want to use.
 
 ----------Menu Fixes (again again)----------
 称号変更=Change Title
@@ -690,7 +681,7 @@ Kari=Kari
 興味津々！=Very Interesting!
 アイテムが足りません=Not Enough Items
 フレームレート=Framerate
-同タブ内で=Within same part
+同タブ内で=Within Quest Tab
 本日残り1回=1 Use left
 
 ----------RAIDS----------
@@ -772,9 +763,10 @@ Kari=Kari
 秋応援！すてっぷあっぷしょうたい=Fall Cheer! Step-Up Invitation
 夏応援！すてっぷあっぷしょうたい=Summer Cheer! Step-Up Invitation
 冬応援！すてっぷあっぷしょうたい=Winter Cheer! Step-Up Invitation
-
+すごい!!なかよしクエスト=Amazing Friendship Quest
 
 ----------STORE FIXES----------
+対象フレンズ一覧=List of target Friends
 特商法について=About the Special\nCommercial Code
 お掃除開始！=Start cleaning!
 お掃除完了！=Cleaning is complete!
@@ -798,6 +790,7 @@ Kari=Kari
 すぺしゃるショップしょうたい=Super Shop Invitation
 古代のフレンズショップしょうたい=Ancient Friends Invitation
 トリフレンズショップしょうたい=Bird Friends Shop
+
 1月前半!!どれすあっぷショップしょうたい=Early January!! Dress-up Store
 2月前半!!どれすあっぷショップしょうたい=Early February!! Dress-up Store
 3月前半!!どれすあっぷショップしょうたい=Early March!! Dress-up Store
@@ -935,7 +928,6 @@ Kari=Kari
 12月中に集められるしょうたい券=Shop Coupons collected during the month of December.
 とくべつショップしょうたい=Special Store Invitation
 ショップしょうたい=Store Invitation
-開催期間=Event Period
 
 ----------MAIN Menu----------
 最新話をアプリでチェック！=Check out the latest story on the app!
@@ -946,6 +938,52 @@ Kari=Kari
 あんいんちほーとせるりあん=Cerulean Tower
 
 ----------FRIEND MENUS----------
+使用アイテム選択=Select the items to use
+ジャパまん手作りセットを使ってなかよしレベル上限を解放します=Unlock the Friendship Level Cap by using Handmade Japari Bun Set!
+なかよしレベル上限は最大まで強化されています=Friendship Level Limit Reached
+
+現在のなかよしレベル上限：10=Current Friendship Level Cap: 10
+現在のなかよしレベル上限：9=Current Friendship Level Cap: 9
+現在のなかよしレベル上限：8=Current Friendship Level Cap: 8
+現在のなかよしレベル上限：7=Current Friendship Level Cap: 7
+現在のなかよしレベル上限：6=Current Friendship Level Cap: 6
+現在のなかよしレベル上限：6=Current Friendship Level Cap: 5
+現在のなかよしレベル上限：4=Current Friendship Level Cap: 4
+現在のなかよしレベル上限：3=Current Friendship Level Cap: 3
+現在のなかよしレベル上限：2=Current Friendship Level Cap: 2
+現在のなかよしレベル上限：1=Current Friendship Level Cap: 1
+
+強化には「なかよしLv.10」以上が必要 =Requires Friendship Lv.10. 
+強化には「なかよしLv.9」以上が必要 =Requires Friendship Lv.9. 
+強化には「なかよしLv.8」以上が必要 =Requires Friendship Lv.8. 
+強化には「なかよしLv.7」以上が必要 =Requires Friendship Lv.7. 
+強化には「なかよしLv.6」以上が必要 =Requires Friendship Lv.6. 
+強化には「なかよしLv.5」以上が必要 =Requires Friendship Lv.5. 
+強化には「なかよしLv.4」以上が必要 =Requires Friendship Lv.4. 
+強化には「なかよしLv.3」以上が必要 =Requires Friendship Lv.3. 
+強化には「なかよしLv.2」以上が必要 =Requires Friendship Lv.2. 
+
+解放には「なかよしLv.10」が必要 =Friendship Lv.10 required. 
+解放には「なかよしLv.9」が必要 =Friendship Lv.9 required. 
+解放には「なかよしLv.8」が必要 =Friendship Lv.8 required. 
+解放には「なかよしLv.7」が必要 =Friendship Lv.7 required. 
+解放には「なかよしLv.6」が必要 =Friendship Lv.6 required. 
+解放には「なかよしLv.5」が必要 =Friendship Lv.5 required. 
+解放には「なかよしLv.4」が必要 =Friendship Lv.4 required. 
+解放には「なかよしLv.3」が必要 =Friendship Lv.3 required. 
+解放には「なかよしLv.2」が必要 =Friendship Lv.2 required. 
+
+(現在「なかよしLv.10」)=(Current Friendship Lv.10)
+(現在「なかよしLv.9」)=(Current Friendship Lv.9)
+(現在「なかよしLv.8」)=(Current Friendship Lv.8)
+(現在「なかよしLv.7」)=(Current Friendship Lv.7)
+(現在「なかよしLv.6」)=(Current Friendship Lv.6)
+(現在「なかよしLv.5」)=(Current Friendship Lv.5)
+(現在「なかよしLv.4」)=(Current Friendship Lv.4)
+(現在「なかよしLv.3」)=(Current Friendship Lv.3)
+(現在「なかよしLv.2」)=(Current Friendship Lv.2)
+(現在「なかよしLv.1」)=(Current Friendship Lv.1)
+
 なかよしLv.10=Friendship Lv.10
 なかよしLv.9=Friendship Lv.9
 なかよしLv.8=Friendship Lv.8
@@ -956,55 +994,30 @@ Kari=Kari
 なかよしLv.3=Friendship Lv.3
 なかよしLv.2=Friendship Lv.2
 なかよしLv.1=Friendship Lv.1
-フレンズ情報=Friend Info
+
+なかよしレベル上限＋1=Friendship Level Limit +1
+なかよしレベル上限=Friendship Level Limit
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
 ジャパまんを使ってフレンズを強化します=Japari Buns Strengthen Friends!
 ※アイコン長押しで一括選択ができます=Select a batch by pressing or holding an icon.
 野生解放素材を使ってフレンズのステータスを強化します=Use Wild Release materials to enhance a Friends' Status.
-小さな輝石を使ってフレンズのけも級(★)を上げます=Use Small Pyroxene to raise a Friend's Kemo-Class!
+小さな輝石を使ってフレンズのけも級(★)を上げます=Use Small Pyroxene to raise a Friend's Kemono Class(★)!
 ミラクル強化素材を使ってけものミラクルを強化します=Use Miracle materials to enhance a Friends' Kemono Miracle!
 輝石を使ってフォトポケランクを強化します=Use Pyroxene to increase a Friend's Photo Pocket Rank!
-ジャパまん手作りセットを使ってなかよしレベル上限を解放します=Unlock the Friendship Level Cap by using Japari Bun Handmade Set!
-ジャパまん手作りセット=Japari Bun Handmade Set
-現在のなかよしレベル上限：7=Current Friendship Level Cap: 7
-現在のなかよしレベル上限：6=Current Friendship Level Cap: 6
-現在のなかよしレベル上限：6=Current Friendship Level Cap: 5
-現在のなかよしレベル上限：4=Current Friendship Level Cap: 4
-現在のなかよしレベル上限：3=Current Friendship Level Cap: 3
-現在のなかよしレベル上限：2=Current Friendship Level Cap: 2
-現在のなかよしレベル上限：1=Current Friendship Level Cap: 1
-なかよしレベル上限=Friendship Level Limit
-強化には「なかよしLv.7」以上が必要 =Requires Friendship Lv.7. 
-強化には「なかよしLv.6」以上が必要 =Requires Friendship Lv.6. 
-強化には「なかよしLv.5」以上が必要 =Requires Friendship Lv.5. 
-強化には「なかよしLv.4」以上が必要 =Requires Friendship Lv.4. 
-強化には「なかよしLv.3」以上が必要 =Requires Friendship Lv.3. 
-強化には「なかよしLv.2」以上が必要 =Requires Friendship Lv.2. 
-解放には「なかよしLv.7」が必要 =Friendship Lv.7 required. 
-解放には「なかよしLv.6」が必要 =Friendship Lv.6 required. 
-解放には「なかよしLv.5」が必要 =Friendship Lv.5 required. 
-解放には「なかよしLv.4」が必要 =Friendship Lv.4 required. 
-解放には「なかよしLv.3」が必要 =Friendship Lv.3 required. 
-解放には「なかよしLv.2」が必要 =Friendship Lv.2 required. 
-(現在「なかよしLv.6」)=(Current Friendship Lv.6)
-(現在「なかよしLv.5」)=(Current Friendship Lv.5)
-(現在「なかよしLv.4」)=(Current Friendship Lv.4)
-(現在「なかよしLv.3」)=(Current Friendship Lv.3)
-(現在「なかよしLv.2」)=(Current Friendship Lv.2)
-(現在「なかよしLv.1」)=(Current Friendship Lv.1)
+ジャパまん手作りセット=Handmade Japari Bun Set
 フォトポケランクは最大まで強化されています=Photo Pocket Rank Limit Reached
 四神玉を使ってレベル上限を解放します=Shijindama increases a Friend's level limit.
 野生解放は最大まで強化されています=Wild Release Limit Reached
 けも級は最大まで強化されています=Kemo-Class Limit Reached
 けものミラクルは最大まで強化されています=Kemono Miracle Limit Reached
-なかよしレベル上限は最大まで強化されています=Friendship Level Limit Reached
-補充=Replenish
 挑戦回数が不足しています=Out of tries.
 対戦相手選択=Select Opponent
 バトル中=During Battle
 セーラー学生服=Sailor Student
 おそろい服=Matching Outfit
-
+フレンズ情報=Friend Info
+補充=Replenish
+フォト整理（売却）=Sell Photos
 
 ----------IN-GAME CAPTAIN SKILL USES----------
 本日残り3回=3 Uses Left
@@ -1346,11 +1359,11 @@ kari=Kari
 お前を食ってやる=I Will Eat You
 トラぱーんち！=Tiger Punch!
 
-
 ----------STORY/MISSION FIXES----------
 後日公開！=Coming Soon!
 かがやき の ふるところ=The home of Sparkle
 私は…\nアライグマじゃないのさーっ！！=I'm... NOT ARAI-SAN!!
+お待ちしてました、隊長さん！=We've been waiting for you, Captain!
 
 ----------FRIEND MOVE LISTS----------
 ---DHOLE---
@@ -1888,6 +1901,7 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 太陽の烏石 大=Sun Stone Large
 
 ----------CLEAR CONDITIONS----------
+
 ギブアップ4人以内でクリア=Clear with less than 3 Friends giving up.
 ギブアップ3人以内でクリア=Clear with less than 3 Friends giving up.
 ギブアップ2人以内でクリア=Clear with less than 3 Friends giving up.
@@ -1895,6 +1909,7 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 パーティ全体のHP30%以上でクリア=Clear with all party's HP above 30%.
 パーティ全体のHP50%以上でクリア=Clear with all party's HP above 50%.
 パーティ全体のHP1%以上でクリア=Clear with all party's HP above 1%.
+3コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 3 or more.
 4コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 4 or more.
 3コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 3 or more.
 2コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 2 or more.
@@ -1925,7 +1940,6 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 くんれんショップ=Training Store
 くんれんポイント=Training Points
 「決定！　ジャパリパークの１等賞！」ミッションの\n報酬を受け取りました=Reward received for\n"First Prize at Japari Park!"
-くんれんランク=Training Rank
 くんれんpt=Training pt.
 くんれんクラス=Training Class
 ボーナスくんれんPt.=Bonus Training Pt.
@@ -1952,6 +1966,7 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 味方のギブアップ回数1回につき回復割合が15％増加する。=The recovery rate is increased by 15% for each Friend who Gave Up.
 おうえんボーナスを獲得しました=Earned a Support Bonus
 おうえんボーナス=Support Bonus
+輝石の変換=Pyroxene Conversion
 
 ----------DOJO BOSS ATTACK EFFECTS----------
 毎ターンMP増加量半減=MP Halved each turn
@@ -1995,6 +2010,31 @@ MP増加量半減=MP increase halved
 自己ベストスコア= Personal Best Score
 与えたダメージ=Damage Made
 
+----------PICNIC----------
+獲得量2倍=Earn 2x
+購入確認=Purchase Confirmation
+げんき補充=Energy Recharge
+げんきが最大値を超えて回復します\nこのままじゃぱりフードを使用してもよろしいですか？=Energy recovered beyond the maximum value.\nDo you still want to use the Japari Food?
+ずっしりみっしり何よりおいしい！=It's hearty and delicious!
+これがなくっちゃ始まらない！=I can't start without it!
+フワッフワのパンに甘～いチョコがた～っぷり=Fluffy bread with plenty of sweet chocolate.
+形もキュートっ！=The shape is cute, too!
+キンキンに冷えた１本をどうぞ=Enjoy a chilled bottle of soda.
+土に還るエコペットボトル採用=Uses eco-friendly plastic bottles that return to the soil.
+ポリポリつまめるお手軽おやつ=A quick and easy snack to take.
+人気のヒミツはあまじょっぱさ=The secret of it's popularity is its sweet taste.
+パリッとおいしい定番おやつ=A classic crispy and delicious snack.
+食べはじめると止まらない…！=Once you start eating, you can't stop...!
+ピクニックであそべる時間を240分補充できます=You can refill your picnic time by 240 minutes.
+ピクニックであそべる時間を120分補充できます=You can refill your picnic time by 120 minutes.
+ピクニックであそべる時間を60分補充できます=You can refill your picnic time by 60 minutes.
+ピクニックであそべる時間を30分補充できます=You can refill your picnic time by 30 minutes.
+ピクニックであそべる時間を15分補充できます=You can refill your picnic time by 15 minutes.
+
+----------GACHA----------
+無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
+
+
 ----------Passport and shop----------
 月間パスポートの購入が可能になりました。\nショップへ移動しますか？=Monthly Passports are now available for purchase.\nDo you want to go to the Shop?
 継続購入すると以下の特典が獲得できます。=You'll get the following benefits:
@@ -2033,7 +2073,6 @@ MP増加量半減=MP increase halved
 ----------SORTING ORDER FIXES----------
 なかよし順=Friendship
 フォトポケ順=Pocket Photo
-野生解放順=Wild Release
 
 ----------MIRACLES----------
 天狗飛礫=Tengu Flying Stones
@@ -2044,6 +2083,7 @@ MP増加量半減=MP increase halved
 1週間でちからくらべに20回挑戦！=Challenge Power Comparison 20 times this week!
 1週間でシーサーバル道場に4回挑戦！=Challenge the Shiserval Dojo 3 times this week!
 1週間でシーサーバル道場に8回挑戦！=Challenge the Shiserval Dojo 8 times this week!
+1週間でちからくらべに20回挑戦！=Challenge Strength Comparison 20 times this week!
 1週間でフォトを1回強化しよう！=Strengthen a photo one time this week!
 1週間でフォトを10回強化しよう！=Strengthen photos 10 times this week!
 ピクニックから1週間で「小さな輝石」を5個獲得！=Get 5 Small Pyroxene from the Picnic this week!
@@ -2070,18 +2110,6 @@ MP増加量半減=MP increase halved
 ジャパリパーク=Japari Park
 じゃぱりぱあく=Japari Park
 ジャパリバス=Japari Bus
-
-----------TRIAL QUESTS----------
-腕試しクエスト1=Trial Quest 1
-腕試しクエスト2=Trial Quest 2
-腕試しクエスト3=Trial Quest 3
-腕試しクエスト4=Trial Quest 4
-腕試しクエスト5=Trial Quest 5
-腕試しクエスト6=Trial Quest 6
-腕試しクエスト7=Trial Quest 7
-腕試しクエスト8=Trial Quest 8
-腕試しクエスト9=Trial Quest 9
-腕試しクエスト10=Trial Quest 10
 
 ----------MESSAGE BOXES----------
 挑戦中のバトルがあります\nバトルを再開しますか？=You have a battle in progress, would you like to resume?
@@ -2159,6 +2187,49 @@ PPPのプリンセス=PPP's Princess
 ちょこっと\nVR=Little\nVR
 カメラモード\n終了=Exit\nCamera Mode
 次の獲得まで=Next Drop:
+まだまだこれから！=There's more to come!
+がんがんすすめ！=Highly recommended!
+ごゆ～っくり、ご覧くださいな=Please take your time and have a look.
+こころ穏やかに=Peace of mind
+いつだってはなまる=Always Perfect
+どたばた！=Slapstick!
+やさしいしらべ=Easy Exam
+のんびりピクニック=Leisurely picnic
+準備はバッチリ=Perfect Preperation
+いざ！じんじょーに！=Here we go! To Jinno!
+おつかれさま！=Good Work!
+まだまだどんどん！=More and more!
+つよくなる！=Become stronger!
+近づくなにか=Something approaching
+秘めたる輝き=Hidden brilliance
+木漏れ日のなか=in the sunlight filtering through trees
+時はゆったりと=Time is relaxing
+こっちのターン！=Our turn!
+よくない気配=Not a good sign
+輝き始めるカルテット=A quartet begining to shine
+ひな祭りお楽しみテーブル=Girl's Day Fun Table
+みずたまもようのボールまとあて=Polkadot Matte Ball
+団らんテーブル=Gathering Table
+ロックマイク=Rock Microphone
+イースターエッグスタンドミラー=Easter egg stand mirror
+
+----------BATTLES, EVENTS, QUESTS (unknown)----------
+ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
+強そうなの来たぁ～！～ハロウィンver.～=Here comes something that looks strong! ～Halloween ver.～
+強そうなの来たぁ～！～メルヘンver.～=Here comes the strong one～!
+ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle!
+ステキな運命=A beautiful destiny.
+ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle!
+強そうなの来たぁ～！～クリスマスver.～=Here comes the strong one～～ Christmas ver.
+ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle!
+強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～!
+強そうなの来たぁ～！～メルヘンver.～=Here comes a strong one～ Merchant Ver.～
+ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle～ Merchant Ver.～
+ステキな運命=Wonderful Fate
+ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle～ Christmas Ver.～
+強そうなの来たぁ～！～クリスマスver.～=Here comes a strong one～ Christmas Ver.～
+ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle～ Japanese Ver.～
+強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～ Japanese Ver.～
 
 
 ----------Status Effect Descriptions----------
@@ -2203,6 +2274,7 @@ Beat!!!アップ=Beat!!! Up
 どく、すやすや、くたくた、びりびり耐性が上昇=Increased Resistance to Poison, Sleep, and Exhaustion.
 
 ----------MENU FIXES----------
+同一クエストタブ=Same Quest Tab
 クエスト\nスキップ=Quest\nSkip
 グラフィック描画のクオリティを設定します=Configure in-game graphics quality.
 無料あり！=Free Pull!
@@ -2266,6 +2338,7 @@ SSRインテリアボーナス=SSR Interior Bonus
 すごい！！！=Wow!!!
 限界突破=Limit Break
 ソート順の設定=Configure Sorting Order
+整理(売却)=Sell Photos
 巫女服=Shrine Maiden
 探検隊Lv.=Expdn Lv.
 あそべる時間=Playtime
@@ -2339,11 +2412,8 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 たいきスキル設定=Standby
 隊長スキル変更=Captain Skill
 おまかせ編成=Auto Formation
-探検隊レベル=Expidition Level
 友達のID= Friend's ID
-野生解放しよう=Let's Wild Release
 敵の情報=Enemy Info
-フォトポケを増やそう=Let's Increase Photo Pockets
 エクストラクエストのむちゃをクリア=Clear The Extra Quest
 挑戦回数=# of Tries
 しょうたい確認=Invitation Confirmation
@@ -2414,9 +2484,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ジャパまん=Japari Bun
 ホーム=Home
 状態変化=State Change
-ちからくらべ=Strength Contest
 ショップ=Store
-家具=Furniture
 家具配置=Arrange Furniture
 ふれあい=Contact
 詳細=Details
@@ -2715,27 +2783,21 @@ G・ロードランナー=G. Roadrunner
 月間パス効果中！=Passport Active!
 フレンズ成長 大・超成功率UP!=Friends Growth Success Rate UP!
 ※所持数上限※=*Limit Reached*.
-受け取る=Receive
 アイテム獲得履歴=Item History
 プレゼント=Gifts
-探検！迷宮ゾーン=Labyrinth Zone
 フレンズ・フォト\nおしゃれアクセ 一覧=Photos\nAccessories
-フォト整理(売却)=Sell Photos
 おしゃれアクセ=Accessories
 タッチして\N次のTipsへ=Touch\NShow the Next Tip
 ホワイトライオン=White Lion
 フレンズ成長 大・超成功率UP!=Friends Growth Success Rate UP!
 おかわり=Refill
 四神玉=Shijindama
-入手方法=Where To Get
-強化=Strengthen
 所持ゴールド=Gold Owned
 けも級=Kemo-Class
 輝きの欠片交換所=Sparkling Shard Exchange
 小さな輝石獲得=Acquisition Of Small Pyroxene
 マカミの輝石=Makami's Pyroxene
 フォトポケット解放=Photo Release
-野生解放=Wild Release
 大・超成功率UP！=Success Rate Up!
 フレンズ成長 大・超成功率UP!=Friends Success Rate UP!
 フォト強化 大・超成功率UP!=Photo Success Rates UP!
@@ -2745,7 +2807,6 @@ G・ロードランナー=G. Roadrunner
 「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\N*Rewards that exceeded the maximum number owned have been moved to the Present Box.
 ※所持数上限※=*Limit On The Number Owned*.
 あいうえお=AIUEO
-フォトポケ=Photo Pocket
 輝きの結晶交換所=Pyroxene Exchange
 挑戦可能！=Challenge!
 タッチして\n次のTipsへ=Touch.\nShow Next Tips
@@ -2764,6 +2825,7 @@ G・ロードランナー=G. Roadrunner
 ジャージ=Tracksuit
 カフェ制服＜リウキウ・イエロー＞=Yellow Cafe Uniform
 カフェ制服=Cafe Uniform
+フィルターと一致するフレンズがいません\n※フィルターの設定を変更してください※=There is no Friend that matches the filter./nPlease change the Filter settings.
 フィルターと一致するフレンズがいません\R\N※フィルターの設定を変更してください※\N=There Are No Friends That Match The Filter \NPlease Change The Filter Settings.
 フィルターと一致するフォトがありません\N※フィルターの設定を変更してください※=No Photos Match The Filter.\NPlease Change The Filter Settings.
 フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\NPlease Change Your Filter Settings.
@@ -2799,16 +2861,12 @@ VU：危急=VU: Vulnerable
 ガオガオ・スクラッチ=Gao Gao Scratch
 キセキとくせい=Miracle-Trait
 ページ=Page
-フォト=Photo
 フォトアルバム=Photo Album
 選択中アイテム=Selected Item(s)
-ミラクルLv.=Miracle Lv.
 ☆順=Star Order
 画面をタップすると終了します=Tap the screen to exit.
 レアリティ順=Rarity Order
 レベル上限+3=Level Limit +3
-解放=Release
-レベル=Level
 アシスタント=Assistant
 いきごみ=Spirit
 IDをコピー=Copy ID
@@ -3509,6 +3567,7 @@ HAW-206=HAW-206
 シーラカンス=Coelacanth
 メンダコ=Mendako
 
+
 ----------NAME FIXES MUST BE AT THE END----------
 リタイア=Retire
 所持=Owned
@@ -3593,7 +3652,6 @@ HAW-206=HAW-206
 ルル=Lulu
 ラビラビ=Rabi Rabi
 タマちゃん=Tama-chan
-
 ヒメ=Hime
 フリシアン=Friesian
 ルビー=Ruby
@@ -3604,7 +3662,6 @@ HAW-206=HAW-206
 ケープ=Cape
 バリー=Barry
 アプー=Apu
-探検隊=Expedition
 ジャパリパーク探検隊= Japari Park Expedition
 ジャパリ団=Japari Dan
 ばってんジャパリ団=Batten Japari Dan
@@ -3664,7 +3721,6 @@ HAW-206=HAW-206
 ピラミッド=Pyramid
 ジャパリファーム=Japari Farm
 ジャパまん製造工場=Japari Bun Factory
-称号=Title
 高山=Alpines
 
 ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
@@ -3773,12 +3829,10 @@ EN：絶滅危惧=EN: Endangered
 ウミウ=Japanese Cormorant
 ガチャ=Gacha
 カァッ=Kaah
-
 ダメージ=Damage
 ジョフ=Geoff
 ちゃーん=chan
 マメジカ=Chevrotain
-
 スキップ=Skip
 オカエリ=Welcome Home
 ハブ=Habu
@@ -3810,6 +3864,9 @@ EN：絶滅危惧=EN: Endangered
 ダイオウ=Daioh
 ミーア先生=Meer-sensei
 ジョヤノカネ=New Year's Eve bell
+オシオキされ=punished
+入手方法=Where To Get
+けもコーラス=Kemo-Chorus
 
 ----------ATTEMPTED FIX OF DEEPL REPEATING LINES----------
 いやいや=No no

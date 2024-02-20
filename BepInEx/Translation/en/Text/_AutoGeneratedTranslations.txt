@@ -1,17 +1,17 @@
 ﻿-----REGEX-----  
-r:"^([0-9]+) left　([0-9]+)/([0-9]+)まで$"=$1 left through $2/$3
+r:"^([0-9]+) left　([0-9]+)\/([0-9]+)まで$"=$1 left through $2/$3
 r:"^　([0-9]+)/([0-9]+)まで=　Through 10/19$"=Through $1/$2
 r:"^所持数([0-9]+)$"=Owned - $1
 r:"^所持数 ([0-9]+)$"=Owned - $1
 r:"^([0-9]+)体$"=$1 Defeats
 r:"^けもステータス　([0-9]+)$"=<size\/=10>Kemo-Status</size> $1
-r:"^1 left　([0-9]+)/([0-9]+)まで$"=1 left until $1/$2
+r:"^1 left　([0-9]+)\/([0-9]+)まで$"=1 left until $1/$2
 r:"^電池 ([0-9]+)$"=Batteries: $1
-r:"^獲得日時:([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)$"=Acquired: $1/$2/$3 $4:$5
+r:"^獲得日時:([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+)$"=Acquired: $1/$2/$3 $4:$5
 r:"^([0-9]+)章([0-9]+)話クリアバトル\n開始$"=Chapter $1, Episode $2 Battle Clear/n Start
 r:"^メインストーリー\n([0-9]+)章([0-9]+)話クリア$"=Main Story\nChapter $1, Episode $2 cleared
 r:"^([0-9]+) More To Go.　([0-9]+)/([0-9]+)まで$"=$1 left until $2/$3
-r:"^あと([0-9]+)回　([0-9]+)/([0-9]+)まで$"=$1 left until $2/$3
+r:"^あと([0-9]+)回　([0-9]+)\/([0-9]+)まで$"=$1 left until $2/$3
 r:"^あと([0-9]+)回$"=$1 left
 r:"^ ([0-9]+)話 バトル([0-9]+) クリア$"= Episode $1 Battle $2 Cleared
 r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Days and $2 Hours left
@@ -19,11 +19,9 @@ r:"^[ ]?しょうたい券パック([ .,!。、！]*)"=" $1 Invitation Pack"
 r:"^[ ]?しょうたい券付き([ .,!。、！]*)"=" $1 Shop Ticket"
 r:"^次のLvまで([0-9]+)$"=$1 Exp to the next level.
 r:"^([0-9]+)日目$"=Day $1
-r:"^累計ログイン([0-9]+)日目$"=Cumulative login day $1!
 r:"^あと([0-9]+)日$"=$1 Day(s) left
 r:"^あと([0-9]+)時間$"=$1 Hour(s) left
 r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Day(s), $2 Hour(s) left
-r:"^開催期間\\n([0-9]+\/[0-9]+\/[0-9]+) ([0-9]+:[0-9]+)まで$"=Available until\n$1 $2
 r:"^まもり＋([0-9]+)$"=Defense +$1
 r:"^現在のなかよしレベル上限：([0-9]+)$"=Current Max Friendship Level: $1
 r:"^解放には「なかよしLv.([0-9]+)」が必要 (現在「なかよしLv.([0-9]+)」)$"=Friendship Lv. $1 is needed for Release (Current Friendship Lv. $2)
@@ -48,16 +46,12 @@ r:"^最終ログイン([0-9]+)分前$"=Online $1 minute(s) ago
 r:"^探検隊Lv.([0-9]+)で解放$"=Released at Expedition Lv. $1
 r:"^そうじチケットを([0-9]+)個獲得$"=Earned $1 Cleaning Tickets
 r:"^腕試しクエスト([0-9]+)のバトル([0-9]+)をクリア"= Cleared Battle $1 of Quest $2
-r:"^☆([0-9]+)のフレンズが加入！([0-9]+)人目！"=Get ☆$1 Friends $2 Times!
-r:"^フレンズが加入！ ([0-9]+)人目！"=Get Friends to join $1 Times!
 r:"^ピクニックで 「フレンズの小さな石 ([0-9]+)個獲得!"=Get $1 Small Friend Pyroxene at the Picnic.
 r:"^次のLvまで([0-9]+)$"=$1 to the next lvl.
 r:"^([0-9]+)日目$"=Day $1
-r:"^累計ログイン([0-9]+)日目$"=Cumulative login day $1!
 r:"^あと([0-9]+)日$"=$1 Day(s) left
 r:"^あと([0-9]+)時間$"=$1 Hour(s) left
 r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Day(s), $2 Hour(s) left
-r:"^開催期間\\n([0-9]+\/[0-9]+\/[0-9]+) ([0-9]+:[0-9]+)まで$"=Available until\n$1 $2
 r:"^まもり　([0-9]+)$"=Defense $1
 r:"^まもり＋([0-9]+)$"=Defense +$1
 r:"^現在のなかよしレベル上限：([0-9]+)$"=Current Max Friendship Level: $1
@@ -94,7 +88,6 @@ r:"^ぷれみあむ☆([０-９]+)フレンズしょうたい([０-９]+)$"=Prem
 r:"^ぷれみあむ☆([０-９]+)フレンズしょうたい$"=Premium ☆$1 Friends Invitation
 r:"^☆([０-９]+)フレンズしょうたい$"=☆$1 Friends Invitation
 r:"^([0-9]+)倍になる$"=$1 Times.
-r:"^合計けもステータスを([0-9]+)以上にはじめて到達！$"=Total Kemo status reached over $1 for the first time!
 r:"^シナリオバトル([0-9]+)$"=Scenario Battle $1
 r:"^最終更新　([0-9]+\/[0-9]+\/[0-9]+　[0-9]+:[0-9]+)$"=Last updated $1
 r:"^（所持数　([0-9]+)）$"=($1 Owned)
@@ -158,12 +151,62 @@ r:"^こうげき　([0-9]+)$"=Attack　$1
 r:"^ぷらずむ　([0-9]+)$"=Plasma　$1
 r:"^かいひ　([0-9]+)$"=Evade　$1
 r:"^まもり　([0-9]+)$"=Defense　$1
-r:"^なかよしLv.([0-9]+)/([0-9]+)$"=Friendship $1/$2
+r:"^なかよしLv.([0-9]+)\/([0-9]+)$"=Friendship $1/$2
+r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^ハード　その([0-9]+)$"=Hard Part $1
+r:"^マス：([0-9]+)X([0-9]+)$"=Size: $1X$2
+r:"^([0-9]+)\/([0-9]+)\(木\)(:[01]?\d|2[0-3])(:[0-5]\d){1,2}まで$"=Ends $1/$2 (Thu) $3:$4
+r:"^を([0-9]+)個交換しました$"=Exchanged $1 items
+r:"^こうげき　([0-9]+)$"=Attack  $1
+r:"^たいりょく　([0-9]+)$"=HP  $1
+r:"^かいひ　([0-9]+)$"=Evade  $1
+r:"^まもり　([0-9]+)$"=Defense  $1
+r:"^たいりょく  \+([0-9]+).([0-9]+)\%$"=HP  +$1.$2%
+r:"^かいひ  \+([0-9]+).([0-9]+)\%$"=Evade  +$1.$2%
+r:"^まもり  \+([0-9]+).([0-9]+)\%$"=Defense  +$1.$2%
+r:"^こうげき  \+([0-9]+).([0-9]+)\%$"=Attack  +$1.$2%
+r:"^ぷらずむ  \+([0-9]+).([0-9]+)\%$"=Plasma  +$1.$2%
+r:"^まもり  \+([0-9]+)$"=Defense +$1
+r:"^かいひ  \+([0-9]+)%$"=Evade +$1%
+r:"^たいりょく  \+([0-9]+)$"=HP +$1
+r:"^たいりょく  \+([0-9]+)$"=HP  +$1
+r:"^かいひ  \+([0-9]+)$"=Evade  +$1
+r:"^まもり  \+([0-9]+)$"=Defense  +$1
+r:"^こうげき  \+([0-9]+)$"=Attack  +$1
+r:"^ぷらずむ  \+([0-9]+)$"=Plasma  +$1
+r:"^開催期間\\n([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)まで$"=Event Period\nTill $1/$2/$3  $4:$5
+r:"^([0-9]+：[0-9]+～[0-9]+：[0-9]+)の時間にホームにアクセス！$"=Access The Home Between $1!
+r:"^<size\\=18>あと<\/size>([0-9]+)日$"=<size\=18>after</size>$1 days
+r:"^<size\\=16>残り<\/size>([0-9]+)日$"=$1 Day(s) remain
+r:"^\+([0-9]+)分$"=+$1 min.
+r:"^受け取り日時：([0-9]+\/[0-9]+\/[0-9]+　[0-9]+:[0-9]+)$"=Reception date and time: $1
+r:"^☆([０-９]+)以上しょうたい$"=☆$1 or better
+r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 
-
+----------REGEX MISSIONS----------
+r:"^累計ログイン([0-9]+)日目！$"=Cumulative login day $1!
+r:"^フォトポケを増やそう　([0-9]+)回目！$"=Let's increase Photo Pocket $1 times!
+r:"^家具を集めよう　([0-9]+)個目！$"=Let's collect $1 furniture!
+r:"^称号を獲得しよう　([0-9]+)個目！$"=Get $1 titles!
+r:"^探検！迷宮ゾーン ([0-9]+)マス解放！$"=Unlock $1 Labyrinth zones!
+r:"^([0-9]+)：([0-9]+)～([0-9]+)：([0-9]+)の時間にホームにアクセス！$"=Access the home between $1:$2 to $3:$4
+r:"^探検隊レベルを([0-9]+)にしよう！$"=Let's raise the Expedition Team Level to $1!
+r:"^ミラクルLvをアップしよう　([0-9]+)回目！$"=Let's improve Miracle Levels $1 times!
+r:"^ちからくらべで「くんれんランク([0-9]+)」にはじめて到達！$"=Reach Training Rank $1 for the first time in Strength Comparison!
+r:"^ピクニックで「フレンズの小さな輝石」を([0-9]+)個獲得！$"=Obtain $1 Friends' Small Pyroxene at the picnic!
+r:"^フレンズが加入！ ([0-9]+)人目！$"=$1 Friends joined!
+r:"^☆([0-9]+)のフレンズが加入！([0-9]+)人目！$"$2 ☆$1 Friends have joined!
+r:"^累計ログイン([0-9]+)日目！$"=Cumulative Login Day $1
+r:"^あと([0-9]+)\/([0-9]+)$"=$1/$2 left
+r:"^1週間でフォトを([0-9]+)回強化しよう！$"=Strengthen your Photos $1 times in one week!
+r:"^合計けもステータスを([0-9]+)以上にはじめて到達！$"=Achieve a total of $1 Kemono Status for the first time!
+r:"^野生解放しよう　([0-9]+)回目！$"=Let's Wild Release $1 times!
+r:"^腕試しクエスト([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 of Skill Test Quest $2
+r:"^☆([0-9]+)のフレンズが加入！([0-9]+)人目！$"=☆$1 Friend joined $2 times!
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
+野生解放=Wild Release
+野生解放=Wild Release
 2=2
 もう一度=Once Again
 けもステータス=Kemo-Status
@@ -186,30 +229,44 @@ r:"^ハード　その([0-9]+)$"=Hard Part $1
 ふつう=Normal
 もう一度=Play Again
 スリ=Suri
-
------UNTESTED REGEX-----
-r:"^([0-9]+：[0-9]+～[0-9]+：[0-9]+)の時間にホームにアクセス！$"=Access The Home Between $1!
-r:"^<size\\=18>あと<\/size>([0-9]+)日$"=<size\=18>after</size>$1 days
-r:"^<size\\=16>残り<\/size>([0-9]+)日$"=$1 Day(s) remain
-r:"^\+([0-9]+)分$"=+$1 min.
-r:"^受け取り日時：([0-9]+\/[0-9]+\/[0-9]+　[0-9]+:[0-9]+)$"=Reception date and time: $1
-r:"^☆([０-９]+)以上しょうたい$"=☆$1 or better
-r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
+太陽の恵みクエスト　{{A}}！=Sun's Blessing {{A}} Quest!
+太陽の恵みクエスト　おしゃれ！=Sun's Blessing Stylish Quest!
 <size\=12>たいき </size> 1=<size\=12>Standby</size> 1
 <size\=12>たいき </size> 2=<size\=12>Standby</size> 2
 <size\=12>たいき </size> 3=<size\=12>Standby</size> 3
 <size\=12>たいき </size> 4=<size\=12>Standby</size> 4
-太陽の恵みクエスト　{{A}}！=Sun's Blessing {{A}} Quest!
-太陽の恵みクエスト　おしゃれ！=Sun's Blessing Stylish Quest!
+
+----------New replacement translations (Missions)----------
+フォトポケを増やそう=Let's Increase Photo Pockets
+フォトポケ=Photo Pocket
+家具=Furniture
+称号=Title
+効果=Effect
+解放=Release
+探検！迷宮ゾーン=Labyrinth Zone
+挑戦する=Challenge
+受け取る=Receive
+探検隊レベル=Expedition Level
+探検隊=Expedition
+ミラクルLv.=Miracle Lv.
+ミラクル=Miracle
+くんれんランク=Training Rank
+ちからくらべ=Strength Contest
+トータルミッション=Total Missions
+フォト=Photo
+けもコーラス=Kemo-Chorus
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
-
 ぷらずむ順=Plasma Order
 かいひ順=Evade Order
 まもり順=Defense Order
 こうげき順=Attack Order
 たいりょく順=HP Order
-
+個=#
+以下のアイテムの入手場所です <size\=18>※クリア済みのクエストのみ利用可能</size>=Where to get the following items. <size\=18> *Only available for completed quests.</size>
+入手場所 <size\=16>※クリア済みのクエストのみ利用可能</size>=Where to get it <size\=16>*Only available for completed quests.</size>
+次回アプリ起動までこのウィンドウを表示しない=Do not show this window until the next launch.
+野生解放順=Wild Release
 なかよし=Friendship
 ぷらずむ=Plasma
 かいひ=Evade
@@ -236,6 +293,13 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 {{A}}使用個数選択=Select the number of {{A}} to use.
 このクエストは、{{A}}{{B}}可能です=This quest has {{A}}.
 「購入と{{A}}」を有効にする=Enable "Purchase and Replenish"
+交換{{A}}=Exchange {{A}}
+{{A}}の小瓶=Vials of {{A}}
+【{{A}}】{{B}}の小瓶=[{{A}}] Vials of {{B}}
+ミラクル{{A}}=Miracle {{A}}
+Beat!!!{{A}}　+1.0%=Beat!!! {{A}}　+1.0%
+Action!{{A}}　+1.0%=Action! {{A}}　+1.0%
+Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 
 ----------Training----------
 全解除=Full Release
@@ -244,8 +308,7 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 とんとん=Normal
 てごわい=Difficult
 次の回復まで Param01=Until recovery: Param01
-
-
+{{A}}量=Stamina Recovery Gained
 効果=Effect
 敵=Enemy
 みんな=Everyone
@@ -283,8 +346,7 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 {{B}}上限{{A}}{{C}}={{B}} upper limit {{A}} {{C}}
 {{A}}・ワカイヤの小瓶=Vial of {{A}}
 {{A}}・ワカイヤの野生解放の強化に使用します=Used to enhance {{A}}'s Wild Release.
-{{A}} {{B}}の{{D}}の{{C}}に使用します=Used to enhance {{D}}'s {{A}}.
-{{A}} ブラック{{B}}の{{D}}の{{C}}に使用します=Used to enhance {{A}}'s{{B}} {{D}} {{C}}.
+{{A}}完了={{A}} completed
 遊び=Play
 {{A}}へ={{A}}
 {{A}}{{B}}={{A}} {{B}}
@@ -312,9 +374,9 @@ Try!!アップ=Try!!! Up
 いいえ=No
 はい=Yes
 常時=Always
+戻る=Cancel
 エラー=Error
 提供割合=Drop Rates
-開催期間=Ends: 
 トラ=Tiger
 クエスト=Quest
 バトル=Battle
@@ -364,7 +426,7 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 {{A}}隊長日誌={{A}} Captain's Journal
 リセット=Reset
 フレンズの名前=Friend's Name
-
+アップする=Upgrade
 
 ----------Variable Combinations----------
 【{{A}}】=【{{A}}】
@@ -372,6 +434,21 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 【{{A}}】{{B}}=【{{A}}】{{B}}
 「{{B}}」{{A}}=「{{B}}」{{A}}
 {{B}}ット{{A}}{{C}}={{B}} at {{A}} {{C}}
+{{B}}：{{A}}={{B}}：{{A}}
+{{A}}です。={{A}}.
+{{B}}の{{A}}={{B}} {{A}}
+{{A}}!={{A}}!
+{{B}}する{{A}}={{A}} to {{B}}
+{{B}}（{{A}}）={{B}}（{{A}}）
+
+----------Specific Variable Combinations----------
+{{A}} {{B}}の{{D}}の{{C}}に使用します=Used to enhance {{D}}'s {{A}}.
+{{A}} ブラック{{B}}の{{D}}の{{C}}に使用します=Used to enhance {{A}}'s {{B}} {{D}} {{C}}.
+なかよし{{A}}＋1=Friendship {{A}} + 1
+{{B}} 1 個 → {{A}} 4 個=1 {{B}} → 4 {{A}}
+{{B}} 1 個 → {{A}} 20 個=1 {{B}} → 20 {{A}}
+{{B}} 1 個 → {{A}} 60 個=1 {{B}} → 60 {{A}}
+【{{A}}】{{B}}の{{C}}=[{{A}}] {{C}} of {{B}}
 
 ----------SCHEDULE DATES (SIMPLE)----------
 
@@ -411,6 +488,10 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 素直じゃない思い=Unsophisticated Thoughts
 Exp 1.5倍=Exp 1.5x
 釘宮理恵=Rie Kugimiya
+強化=Strengthen
+なかよしLv.=Friendship Lv.
+解放する=Liberate
+解放アイテム=Release Items
 
 ----------Autotranslate Basic Terms----------
 完了=Completion
@@ -420,6 +501,21 @@ Exp 1.5倍=Exp 1.5x
 ターン=Turn
 Ｌｖ順=Lv Order
 キャンセル=Cancel
+探検隊レベル=Expidition Level
+解放=Release
+レベル=Level
+
+----------TRIAL QUESTS----------
+腕試しクエスト1=Trial Quest 1
+腕試しクエスト2=Trial Quest 2
+腕試しクエスト3=Trial Quest 3
+腕試しクエスト4=Trial Quest 4
+腕試しクエスト5=Trial Quest 5
+腕試しクエスト6=Trial Quest 6
+腕試しクエスト7=Trial Quest 7
+腕試しクエスト8=Trial Quest 8
+腕試しクエスト9=Trial Quest 9
+腕試しクエスト10=Trial Quest 10
 
 ---------------Friend Base Lines---------------
 
@@ -839,7 +935,7 @@ Exp 1.5倍=Exp 1.5x
 ----------Engine Text Testing, necessary but annoying----------
 <size\=16><color\=#FF8784>アイウエオカキクケコアイウエオ</color></size>\nアイウエオカキクケコアイウエオ=<size\=16><color\=#FF8784>iueo-kaki-kukeko iueo</color></size>\nIueo-kakikukeko iueo
 {{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko
-{{B}}（{{A}}）={{B}}（{{A}}）
+
 がうがうがうがうが\nがうがうがうがうが=gargling
 {{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} {{A}} {{A}} {{A}}
 {{A}}かきくけこ{{A}}かきくけこ{{A}}\n{{A}}かきくけこ{{A}}かきくけこ{{A}}={{A}} kakikukeko {{A}} kakikukeko {{A}} {{A}} kakikukeko {{A}}
@@ -3097,9 +3193,89 @@ TaichouCptn\nいずれ『時』が来る…来てしまうのでしょう=Taicho
 その時までに更に力を高めておくことです=Until then, you need to increase your strength even further.
 そして我らも同じく、だね\nまた会おう、TaichouCptn=And so do we.\nSee you again, TaichouCptn.
 
+------------------------------------------------------------------------------------------------------------------------
 
 
-------------------------------------------------------------------------------------------
-
-
-
+ 
+タイトルが入るよ=The title will be in there.
+次の探検隊Lvまで=Until the next expedition lv.
+獲得アイテム<size\=24><color\=#FFEE00>1.5</color></size>倍=Items Earned<size\=24><color\=#FFEE00>1.5</color></size>1.5x
+{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko
+ああああああああああああああああああああ=ahhhhhhh!
+あああああああああああああああ\rああああああああああああああああああああああああああああああ\rああああああああああああああああああああああああああああああ=Ahhhhhhhh!\rahhhhhhh!\rahhhhhhhhhhh!
+イベント「{{A}}かきくけこ{{A}}かきくけこ」=Event "{{A}} Kakiku Keko {{A}} Kakiku Keko"
+{{A}}時と解除時で\n{{B}}画面で聞ける{{C}}が変化します=The {{C}} that can be heard on the {{B}} screen changes when {{A}} is on and when {{A}} is off.
+{{A}}（{{B}}）={{A}}（{{B}}）
+タイトルタイトルタイトル=title title title
+ニューギニアワイルドハイランドドッグ=New Guinea Wild Highland Dog
+Param01<size\=30>人</size>=Param01<size\=30>man</size>
+{{B}}を行ったことで、\n{{A}}を獲得しました！={{A}} was earned by performing {{B}}!
+{{A}}かきくけこさしすせそたちつてと={{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}}.
+（フレンズ名） の\nフレンズストーリー\n○話クリアで解放=(Friends' name)'s Friends' Story is released after completing Episode XX.
+今日はどこに行こうか？=Where shall we go today?
+全員集合！　{{A}}=All together! {{A}}
+せーので飛び出せっ！=Let's jump out!
+準備運動、いち・に・さん！=Preparatory exercise, one, two, three!
+木漏れ日=sunlight filtering through trees
+次は何が起こるかな？=What happens next?
+{{A}}デビル={{A}} Devil
+危険な予感=A Dangerous Premonition
+手と手をつなごう=Hand in hand.
+あたらしい出会い=new acquaintance
+ワクワクけものバトル！=Exciting Kemono Battles!
+強そうなの来たぁ～！=Here comes the strong one!
+けもの達の{{A}}\n～まずはここから～={{A}} of the Beasts- Start Here
+勢い止めずに=with unabated vigor
+前兆=harbinger
+その手の先には=At the end of her hand.
+こころの輝き=Radiance of the Heart
+しょうりのハイタッチ！=Shouri's high-five!
+みんなでまったり=Everyone just hangs out.
+呼んでないよ～！=I didn't call you!
+なんとかなったね=You managed it.
+これで仕上げだー！=This is the finishing touch!
+ほめて、ほめてっ！=Praise, praise!
+{{A}}輝くクリスマス={{A}} Shining Christmas
+3/3(木)14:00まで=Until 3/3(Thu.) 14:00
+3/3(日)14:00まで=Until 3/3(Sun.) 14:00
+カードの印刷についての{{B}}は公式{{A}}ぺージで{{C}}してね={{C}} the official {{A}} page for {{B}} about printing cards.
+<size\=32>アーケードゲーム</size>「けものフレンズ3 プラネットツアーズ」\n<size\=40>の筐体カメラにQRコードをかざしてね</size>=<size\=32>Arcade Games</size>Kemono Friends 3: Planet Tours\n<size\=40>Hold up the QR code to the camera of the arcade game "KEMONO'S FRIENDS 3 PLANET TOURS".</size>
+Beat!!!{{A}}＋2.0％=Beat!!!{{A}}＋2.0％
+強化する{{A}}=Reinforcing {{A}}
+レベルは最大まで強化されています=Levels are enhanced to the max.
+{{A}}かきくけこさしすせそたちつてとなにぬね={{A}}, Kik-Keko, Sisu-Sesu, Tachi-Tsutsu, Nan-Nu-Ne
+{{A}}かきくけこ={{A}}, {{A}}, kaki-kake-kake-koke-koke.
+{{A}}を{{C}}していません\r\n※{{A}}は「{{B}}クエスト」などで獲得できます※={{A}} is not {{C}}ed* {{A}} can be obtained through "{{B}} Quests" and other means*.
+{{B}}と一致する{{A}}がありません\r\n※{{B}}の{{C}}を{{D}}してください※=There is no {{A}} that matches {{B}}* Please {{D}} the {{C}} of {{B}}*.
+未加入フレンズ(※{{A}}で表示)=Unsubscribed Friends (* Indicated by {{A}})
+{{A}}と一致するフォトがありません\n※{{A}}の{{B}}を{{C}}してください※=No photo matching {{A}} *Please {{C}} the {{B}} of the {{A}}*.
+強化するフォト=Photo to enhance
+フォトポケットが解放されました！=Photo pocket has been released!
+項目は最大まで強化されています=Items are enhanced to the maximum
+{{A}}選択={{A}} Selection
+まとめて\n解放=All in one place\nRelease
+インフォメーションが入ります=Information comes in.
+<size\=16><color\=#FF8784>【アイウエオカキクケコあいう】</color></size>\nアイウエオカキクケコ=<size\=16><color\=#FF8784>Aiueo kakikukeko aiueo kakikukeko aiueo kakikukeko aiueo kakikukeko</color></size>\nAiueo kakikukeko aiueo kakikukeko
+{{A}}と一致するフレンズがいません\r\n※{{A}}の{{B}}を{{C}}してください※=No Friends matching {{A}} *Please {{C}} the {{B}} of {{A}}*.
+{{A}} 大・{{B}}!={{A}} Large and {{B}}!
+{{B}}を使って{{A}}を解放します=Use {{B}} to release {{A}}
+{{A}}状態={{A}} State
+<color\=#FFFF94>ステータスアップ</color>「Param01」=<color\=#FFFF94>Status Update</color>「Param01」
+<size\=18><color\=#FF8784>【アイウエオカキクケコアイウエオ】</color></size>\nアイウエオカキクケコアイウ=<size\=18><color\=#FF8784>Aiueo kakikukeko aiueo</color></size>\n[iueo kakikukeko iueo
+{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}}
+爬虫綱有鱗目アガマ科\nウォータードラゴン属\n{{A}}=Reptilia, Reptilia, Scales, Agamidae, Water Dragon, {{A}}
+{{A}}後のステータス=Status after {{A}}
+緑の体色が目を引く、半樹上性のトカゲの仲間です。首から尾にかけてクレストと呼ばれるたてがみ状の突起があり、{{A}}したオスのものは発達しています。短い距離ですが、地上では後ろ足で立って走ることができるんです。泳ぎも得意で、危険を察知すると水に飛び込み逃げてしまいます。=A semi-arboreal lizard with an eye-catching green body color, it has a mane-like projection from neck to tail called a crest, which is well developed in {{A}} males; it can run on its hind legs on the ground for short distances; it is a good swimmer and will jump into the water to escape when it senses danger; it is also a good swimmer and will run away when it senses danger.
+レッド{{A}}=Red {{A}}
+東南アジア=Southeast Asia
+森林・湿地=Forests and wetlands
+{{A}}不可={{A}} not available
+アイコン{{A}}=Icon {{A}}
+「ドラゴンってかっこいい名前でしょ。\n伝説の生き物だって聞いたわ。パークにはほかにも\nドラゴンを名乗る子がいるそうじゃない。会ってみたいわね。\nえ？ 本物のドラゴンもいるって？ ウソでしょ！？\nび、ビビるわぁ。おどかさないでよぉ\n（ホントは臆病なんだから……）」=I heard there are other kids in the park who call themselves dragons, and I'd love to meet them. What? There are real dragons? You're kidding! You're scaring me.
+強く、たくましく？=Strong and resilient?
+ちょっと驚いただけよ！=I'm just a little surprised!
+ゆっくり過ごすのが好き=I like to take my time.
+相手単体に55％×2の{{B}}を与え\r\n自身の{{A}}を3％増加する(9ターン)\r\nさらに強敵出現waveの場合、自身が狙われにくくなる(2ターン)=Inflicts 55% x 2 {{B}} on a single opponent and increases its own {{A}} by 3% (9 turns).
+わたしのおも～い一撃！=My heavy blow!
+相手全体に665％の{{B}}を対象の数で均等割で与え\r\n自身のMPを14増加する\r\nさらに強敵出現waveの場合、自身の{{A}}が14％増加する(5ターン)=It also increases its own MP by 14%.
+ざばっと！ここまでおいで♪=Zap, zap, come here...
