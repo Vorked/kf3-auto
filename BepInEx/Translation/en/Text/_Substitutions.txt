@@ -24,13 +24,39 @@
 大丈夫大丈夫！=No problem, no problem!
 ゆっくり行こうね！=Take your time!
 
+----------NEW IN-GAME COMBAT TEXT----------
+被ダメージ軽減解除=Damage Reduction Removed
+命中率ダウン=Hit Rate Down
+プラズムチャージ＋=Plasma Charge＋
+
+----------GACHA----------
+無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
+
+----------BATTLES, EVENTS, QUESTS MUSIC (unknown)----------
+ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
+強そうなの来たぁ～！～ハロウィンver.～=Here comes something that looks strong! ～Halloween ver.～
+強そうなの来たぁ～！～メルヘンver.～=Here comes the strong one～!
+ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle!
+ステキな運命=A beautiful destiny.
+ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle!
+強そうなの来たぁ～！～クリスマスver.～=Here comes the strong one～ Christmas Ver.～
+ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle!
+強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～!
+強そうなの来たぁ～！～メルヘンver.～=Here comes a strong one～ Merchant Ver.～
+ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle～ Merchant Ver.～
+ステキな運命=Wonderful Fate
+ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle～ Christmas Ver.～
+強そうなの来たぁ～！～クリスマスver.～=Here comes a strong one～ Christmas Ver.～
+ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle～ Japanese Ver.～
+強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～ Japanese Ver.～
+強そうなの来たぁ～！～トロピカルver.～=Here comes the strong one～ Tropical Ver.～
+ワクワクけものバトル！～トロピカルver.～=Exciting Kemono Battle～ Tropical Ver.～
+『け・も・の・だ・も・の』アレンジ="Ke・Mo・No・Da・Mo" Arrangement
+強そうなの来たぁ～！～ゴシックメタルver.～=Here comes the strong one～ Goth Metal Ver.～
+ワクワクけものバトル！～ゴシックメタルver.～=Exciting Kemono Battle～ Goth Metal Ver.～
+
 ----------ERROR CODES----------
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
-再起動=Restart
-お知らせ=Notice
-メンテナンス中=Under Maintenance
-表示ON=Display ON
-表示OFF=Display OFF
 
 ----------Friend Home Screen Speech----------
 どこかにお困りのフレンズさんは\nいないでしょうか…=I wonder if there are any Friends\nout there who are having trouble...
@@ -92,6 +118,8 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES----------
+これが美少女の力であります！=Beautiful Girl Power!
+ざばっと！ここまでおいで♪=Crash! Come here♪
 ふわふわ落ち葉にジャンプなの=Jumping On Fluffy Leaves
 仲間とともに真夜中の狩りへ=Midnight Hunt With Friends
 トラブル発生？あたしにお任せ！=Trouble? Leave it to me!
@@ -218,7 +246,7 @@ Lv.強化=Lv. Enhancement
 自然の恵み、お借りします=Borrow The Blessings Of Nature
 黄金の輝きよ、どこまでも！=Golden Brilliance, Everywhere!
 小さなあなたを守ります！=Protect Your Little Ones!
-歌声よ、荒野を駆け抜けろ！=Singing Voice, Through the Wilderness!
+歌声よ、荒野を駆け抜けろ！=Singing in the Wilderness!
 雷撃一閃！=Thunder Strike!
 わくわく！調査にまっしぐら♪=Exciting! Quick Investigation ♪
 眠眠大熊猫崩=Sleeping Big Bear's Catnap
@@ -398,6 +426,7 @@ Kari=Kari
 
 
 ----------Friends Title----------
+仲間といっしょに、笑顔の一歩=Take a step with a smile,\ntogether with friends
 楽しい砂漠で遊びましょう=Let's play in the fun desert!
 あなたとわたしでサンドイッチ♪=Sandwiches for you and me ♪
 あなたの輪っかにジャンプ！=Jump through your hoop!
@@ -556,7 +585,22 @@ Kari=Kari
 美味♡じゅるりバレンタイン=Delicious♡Slurp Valentines Day
 イベントストーリー=Event Story
 
+----------MENU AND TREEHOUSE CONTROLS (Another one)----------
+種類順=Sort By Type
+カメラ操作=Camera Use
+二本指スワイプ=Two-finger swipe
+重ね置き=Stacking
+ダブルタップ=Double-tap
+インテリア回転=Interior Rotation
+ジャイロ操作=Gyro operation
+左ダブルクリック=Double left click
+右ドラッグ=Drag Right
+操作Tipsを今後表示しない=Operation Tips will not be displayed in the future.
+
+
 ----------ITEMS THAT NEED TO GO FIRST (GOES FIRST)----------
+まとめて\n解放=Multi\nRelease
+フレンズ成長 大・超成功率UP!=Friend Growth UP!
 フォト整理(売却)=Sell Photos
 成長\n・\n強化=Growth\n・\nStrength
 クエスト選択=Quest Selection
@@ -659,6 +703,12 @@ Kari=Kari
 （金曜）=Friday
 （土曜）=Saturday
 （日曜）=Sunday
+
+いずれかのクエストを80回クリア=Clear any quests 80 times
+いずれかのクエストを100回クリア=Clear any quests 100 times
+いずれかのクエストを150回クリア=Clear any quests 150 times
+いずれかのクエストを130回クリア=Complete any quests 130 times.
+いずれかのクエストを200回クリア=Complete any quests 200 times.
 
 ----------Mission fixes attempt----------
 「フレンズの小さな輝石」="Friends' Small Pyroxene"
@@ -1016,7 +1066,6 @@ Kari=Kari
 セーラー学生服=Sailor Student
 おそろい服=Matching Outfit
 フレンズ情報=Friend Info
-補充=Replenish
 フォト整理（売却）=Sell Photos
 
 ----------IN-GAME CAPTAIN SKILL USES----------
@@ -1031,6 +1080,7 @@ Kari=Kari
 現在のなかよし=Current Friendship
 
 ----------BEATS----------
+あたしとやろうっての？=You wanna mess with me!?
 がぶっとやり返し！=I'll Fight Back!
 グレークロスハント=Gray Cross Hunt
 スラッシュ・アウト=Slash Out
@@ -1877,6 +1927,7 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 ジャパまん（リラックス）大=Japari Bun (Relaxed) Large
 
 ----------GROWTH----------
+道場パーティ選択=Dojo Selection
 道場パーティ編成=Dojo Party Setup
 道場\nパーティ=Dojo Party
 道場パーティ=Dojo Party
@@ -2011,6 +2062,11 @@ MP増加量半減=MP increase halved
 与えたダメージ=Damage Made
 
 ----------PICNIC----------
+ピクニックアイテム獲得=Acquired Picnic Items
+あそびでアイテムを獲得しました=Acquired items while playing
+以下のアイテムを獲得しました=Obtained the following items
+虹色のてもちバルーン。風にのってふわふわ浮かぶよ。ピクニックであそぶことができる。ジャパまん（オール）大が獲得できます=Rainbow-colored baloons that float in the wind. Lets you get Large Japari Buns (All) during your picnic!
+セット中=In Progress
 獲得量2倍=Earn 2x
 購入確認=Purchase Confirmation
 げんき補充=Energy Recharge
@@ -2030,10 +2086,6 @@ MP増加量半減=MP increase halved
 ピクニックであそべる時間を60分補充できます=You can refill your picnic time by 60 minutes.
 ピクニックであそべる時間を30分補充できます=You can refill your picnic time by 30 minutes.
 ピクニックであそべる時間を15分補充できます=You can refill your picnic time by 15 minutes.
-
-----------GACHA----------
-無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
-
 
 ----------Passport and shop----------
 月間パスポートの購入が可能になりました。\nショップへ移動しますか？=Monthly Passports are now available for purchase.\nDo you want to go to the Shop?
@@ -2124,6 +2176,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+野生がうずうずしちゃいます♡=My Wild Side Tingles♡
 笑顔をお届け！=Smile Delivery!
 隻眼の悪魔†=One-Eyed Devil†
 オシャレリーダー=Style Icon
@@ -2212,25 +2265,6 @@ PPPのプリンセス=PPP's Princess
 団らんテーブル=Gathering Table
 ロックマイク=Rock Microphone
 イースターエッグスタンドミラー=Easter egg stand mirror
-
-----------BATTLES, EVENTS, QUESTS (unknown)----------
-ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
-強そうなの来たぁ～！～ハロウィンver.～=Here comes something that looks strong! ～Halloween ver.～
-強そうなの来たぁ～！～メルヘンver.～=Here comes the strong one～!
-ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle!
-ステキな運命=A beautiful destiny.
-ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle!
-強そうなの来たぁ～！～クリスマスver.～=Here comes the strong one～～ Christmas ver.
-ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle!
-強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～!
-強そうなの来たぁ～！～メルヘンver.～=Here comes a strong one～ Merchant Ver.～
-ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle～ Merchant Ver.～
-ステキな運命=Wonderful Fate
-ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle～ Christmas Ver.～
-強そうなの来たぁ～！～クリスマスver.～=Here comes a strong one～ Christmas Ver.～
-ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle～ Japanese Ver.～
-強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～ Japanese Ver.～
-
 
 ----------Status Effect Descriptions----------
 たいりょく回復=HP Recovery
@@ -2341,7 +2375,6 @@ SSRインテリアボーナス=SSR Interior Bonus
 整理(売却)=Sell Photos
 巫女服=Shrine Maiden
 探検隊Lv.=Expdn Lv.
-あそべる時間=Playtime
 麒麟のめぐみ=Kirin's Blessings
 結果=Confirmation
 ステップの状態確認=Step Confirmation
@@ -2528,6 +2561,12 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+再起動=Restart
+お知らせ=Notice
+メンテナンス中=Under Maintenance
+表示ON=Display ON
+表示OFF=Display OFF
+
 日向夏美=Natsumi Hinata
 ギロロ=Giroro
 夏美=Natsumi
@@ -2722,6 +2761,7 @@ G・ロードランナー=G. Roadrunner
 ジャック・オー・ランタン=Jack-O'-Lantern
 シーサー・レフティ=Serval Lefty
 ソンゴクウ=Son Goku
+真・青龍=Shin Seiryu
 セイリュウ=Seiryu
 赤龍=Akaryu
 白龍=Hakuryu
@@ -2781,7 +2821,6 @@ G・ロードランナー=G. Roadrunner
 ヘラジカ=Moose
 タッチして次へ=Touch...
 月間パス効果中！=Passport Active!
-フレンズ成長 大・超成功率UP!=Friends Growth Success Rate UP!
 ※所持数上限※=*Limit Reached*.
 アイテム獲得履歴=Item History
 プレゼント=Gifts
@@ -2789,7 +2828,6 @@ G・ロードランナー=G. Roadrunner
 おしゃれアクセ=Accessories
 タッチして\N次のTipsへ=Touch\NShow the Next Tip
 ホワイトライオン=White Lion
-フレンズ成長 大・超成功率UP!=Friends Growth Success Rate UP!
 おかわり=Refill
 四神玉=Shijindama
 所持ゴールド=Gold Owned
@@ -2799,9 +2837,9 @@ G・ロードランナー=G. Roadrunner
 マカミの輝石=Makami's Pyroxene
 フォトポケット解放=Photo Release
 大・超成功率UP！=Success Rate Up!
-フレンズ成長 大・超成功率UP!=Friends Success Rate UP!
-フォト強化 大・超成功率UP!=Photo Success Rates UP!
-フレンズ 大・超成功率UP!=Success Rate UP!
+フレンズ成長 大・超成功率UP!=Friends Level Rate UP!
+フォト強化 大・超成功率UP!=Photo Level Rate UP!
+フレンズ 大・超成功率UP!=Friends Rate UP!
 変換=Convert
 所持数=Owned
 「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\N*Rewards that exceeded the maximum number owned have been moved to the Present Box.
@@ -3473,7 +3511,7 @@ HAW-206=HAW-206
 ヘビクイワシ=Secretarybird
 ヒツジ=Sheep
 ハシビロコウ=Shoebill
-マイルカ=Short-Beaked  Dolphin
+マイルカ=Short-Beaked Dolphin
 シマリス=Siberian Chipmunk
 シベリアン・ハスキー=Siberian Husky
 アムールトラ=Amur Tiger
@@ -3725,7 +3763,7 @@ HAW-206=HAW-206
 
 ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
 
-
+おまけ付き！=Extra!
 すてっぷあっぷ=Step-Up
 しょうたい=Invitation
 配置=Place
@@ -3889,3 +3927,102 @@ EN：絶滅危惧=EN: Endangered
 パンジー(NPC)=Pansy(NPC)
 ハヤト(NPC)=Hayato(NPC)
 ブラウン(NPC)=Brown(NPC)
+マサアキ(NPC)=Masaaki(NPC)
+オーカー(NPC)=Ochre(NPC)
+中野(NPC)=Nakano(NPC)
+リホ(NPC)=Riho(NPC)
+サブレ(NPC)=Sable(NPC)
+滝(NPC)=Waterfall(NPC)
+カモミール(NPC)=Chamomile (NPC)
+金平糖(NPC)=kompeito(NPC)
+モンブラン(NPC)=Mont Blanc (NPC)
+石楠花(NPC)=Rhododendron(NPC)
+サヤ(NPC)=Saya(NPC)
+スイー{{A}}ー(NPC)=Sui {{A}}-(NPC)
+ヨウスケ(NPC)=Yosuke(NPC)
+かりんとう(NPC)=Karinto(NPC)
+コルク(NPC)=Cork(NPC)
+アッティラ(NPC)=Attila (NPC)
+ハイビスカス(NPC)=Hibiscus (NPC)
+リュドミラ(NPC)=Ludmila (NPC)
+パトリツィオ(NPC)=Patrizio (NPC)
+{{A}}(NPC)={{A}}(NPC)
+梅(NPC)=Ume (NPC)
+キサク(NPC)=Kisaku(NPC)
+カミオー(NPC)=Kamiot (NPC)
+トウジョウ(NPC)=Toujou(NPC)
+ヨシオ(NPC)=Yoshio(NPC)
+コーニリーアス(NPC)=Cornelius (NPC)
+フルーツ(NPC)=Fruits (NPC)
+久我(NPC)=Kuga(NPC)
+杜若(NPC)=Duwaka(NPC)
+ライラック(NPC)=Lilac(NPC)
+バトラエル(NPC)=Batraer (NPC)
+アキコ(NPC)=Akiko(NPC)
+山吹(NPC)=Yamabuki(NPC)
+ルシヨット(NPC)=Lucillotte (NPC)
+トモカ(NPC)=Tomoka(NPC)
+ミワコ(NPC)=Miwako(NPC)
+ヒナタ(NPC)=Hinata(NPC)
+神乂 狗兒(NPC)=God Dog
+蓮華(NPC)=Lotus flower(NPC)
+コウシロウ(NPC)=Koushiro(NPC)
+アプリコット(NPC)=Apricot(NPC)
+トシコ(NPC)=Toshiko (NPC)
+武者(NPC)=Warrior(NPC)
+トシヒロ(NPC)=Toshihiro(NPC)
+どら焼き(NPC)=DoraYaki(NPC)
+レッド(NPC)=Red(NPC)
+大福(NPC)=Daifuku(NPC)
+ミンミン(NPC)=Minmin(NPC)
+セイジ(NPC)=Sage(NPC)
+ユタ(NPC)=Utah(NPC)
+ういろう(NPC)=Uiro (NPC)
+アヤネ(NPC)=Ayane(NPC)
+クレア(NPC)=Claire(NPC)
+摩周湖(NPC)=Lake Mashu(NPC)
+レモン(NPC)=Lemon(NPC)
+チアキ(NPC)=Chiacchi(NPC)
+ゼラニウム(NPC)=Geranium(NPC)
+ピンク(NPC)=Pink(NPC)
+ちりめんじゃこ(NPC)=Chirimenjako(NPC)
+与太郎(NPC)=Yotaro(NPC)
+サラ(NPC)=Sarah(NPC)
+ちひろ(NPC)=Chihiro(NPC)
+かな子(NPC)=Kanako (NPC)
+マオ(NPC)=Mao(NPC)
+コトハ(NPC)=Cotoha(NPC)
+ヴァランス(NPC)=Valence (NPC)
+タカユキ(NPC)=Takayuki(NPC)
+カズヒト(NPC)=Kazuhito(NPC)
+イエロー(NPC)=Yellow(NPC)
+つぐみ(NPC)=Tsugumi(NPC)
+グリーン(NPC)=Green(NPC)
+{{A}}ミ(NPC)={{A}} Mi(NPC)
+鳴門(NPC)=Naruto(NPC)
+ストロベリー(NPC)=Strawberry(NPC)
+ヒロアキ(NPC)=Hiroaki(NPC)
+トルミデス(NPC)=Tormides (NPC)
+長崎(NPC)=Nagasaki(NPC)
+アクアマリン(NPC)=Aquamarine(NPC)
+マゼンタ(NPC)=Magenta (NPC)
+ヒロユキ(NPC)=Hiroyuki(NPC)
+グレー(NPC)=Gray(NPC)
+カズナオ(NPC)=Kazunao(NPC)
+撫子(NPC)=Natsuko(NPC)
+パープル(NPC)=Purple(NPC)
+オレンジ(NPC)=Orange(NPC)
+ゼンジロウ(NPC)=Zenjiro(NPC)
+リュウイチ(NPC)=Ryuichi(NPC)
+胡蝶蘭(NPC)=Phalaenopsis(NPC)
+アヤカ(NPC)=AYaka(NPC)
+チョコレート(NPC)=Chocolate(NPC)
+勅使河原(NPC)=Teshigahara(NPC)
+椿(NPC)=Tsubaki(NPC)
+エクレア(NPC)=Eclair(NPC)
+アツヒコ(NPC)=Atsuhiko(NPC)
+よしお(NPC)=Yoshio (NPC)
+ワカ(NPC)=Waka(NPC)
+落雁(NPC)=Falling Geese(NPC)
+キキョウ(NPC)=Kikyo(NPC)
+シンゴ(NPC)=Shingo(NPC)
