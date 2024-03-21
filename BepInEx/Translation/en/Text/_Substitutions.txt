@@ -19,15 +19,61 @@
 いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
 
 ----------ShiServals Dojo Quotes----------
+じゃじゃーん！\n今日はこれだよー！=Tadaa! This is today's event!
 今日はこれだよー！=This is it for today!
 頑張れ頑張れー！=Do your best, do your best!
 大丈夫大丈夫！=No problem, no problem!
 ゆっくり行こうね！=Take your time!
+はーい！\n今日の相手だよー！=Yes!\nHere is today's opponent!
+あ、きたきた！\n待ってたよー！=Oh, I'm here!\nI've been waiting!
 
 ----------NEW IN-GAME COMBAT TEXT----------
 被ダメージ軽減解除=Damage Reduction Removed
 命中率ダウン=Hit Rate Down
 プラズムチャージ＋=Plasma Charge＋
+
+----------PAID STORE TRANSLATIONS----------
+月１個まで=1 per month
+おひとり様6個まで=Only 6 per
+おひとり様5個まで=Only 5 per
+おひとり様4個まで=Only 4 per
+おひとり様3個まで=Only 3 per
+おひとり様2個まで=Only 2 per
+おひとり様1個=Once only
+毎日6個まで=6x daily
+毎日5個まで=5x daily
+毎日4個まで=4x daily
+毎日3個まで=3x daily
+毎日2個まで=2x daily
+毎日1個まで=Once daily
+
+
+----------Text displayed when game launches (Music and Misc)----------
+その手の先には=At the end of her hand.
+こころの輝き=Brilliance of the Heart
+しょうりのハイタッチ！=Shori's high-five!
+みんなでまったり=Everyone's chilling out
+呼んでないよ～！=I didn't call you!
+なんとかなったね=It somehow worked out
+これで仕上げだー！=Now it's finished!
+ほめて、ほめてっ！=Praise, praise!
+勢い止めずに=Uabated vigor
+危険な予感=A Dangerous Premonition
+手と手をつなごう=Hand in hand
+あたらしい出会い=New acquaintances
+ワクワクけものバトル！=Exciting Kemono Battles!
+強そうなの来たぁ～！=Here comes the strong one!
+今日はどこに行こうか？=Where shall we go today?
+せーので飛び出せっ！=Let's jump out!
+準備運動、いち・に・さん！=Warmup exercise, one, two, three!
+木漏れ日=God rays through trees
+次は何が起こるかな？=What happens next?
+タイトルが入るよ=There will be a title
+次の探検隊Lvまで=Until the next expedition lv.
+タイトルタイトルタイトル=Title title title
+あああああああああああああああ\rああああああああああああああああああああああああああああああ\rああああああああああああああああああああああああああああああ=Ahhhhhhhh!\rahhhhhhh!\rahhhhhhhhhhh!
+ああああああああああああああああああああ=ahhhhhhh!
+
 
 ----------GACHA----------
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
@@ -59,6 +105,7 @@
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
 
 ----------Friend Home Screen Speech----------
+今日はおもいっきり眠れたので～\n幸せな気分です～=I slept well today- so I'm happy!
 どこかにお困りのフレンズさんは\nいないでしょうか…=I wonder if there are any Friends\nout there who are having trouble...
 じゃぱりぱあくはどこもかしこも修行できる場が\nあって飽きないぜ！　次はどこに行こっかな=Japari Park has training grounds\neverywhere, and I never get tired of it!
 「真実はいつだってパークの中に！」\n…うーん、もっとかっこよく言えないかなぁ="The truth is always in the park!"... hmmm, could you say it any cooler?
@@ -118,6 +165,8 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES----------
+書物は先人の知恵、ですよ=Books, wisdom of the ancients
+私と勝負？負けないよ♪=A game? I won't lose♪
 これが美少女の力であります！=Beautiful Girl Power!
 ざばっと！ここまでおいで♪=Crash! Come here♪
 ふわふわ落ち葉にジャンプなの=Jumping On Fluffy Leaves
@@ -599,6 +648,9 @@ Kari=Kari
 
 
 ----------ITEMS THAT NEED TO GO FIRST (GOES FIRST)----------
+すごいマップキー=Amazing Map Key
+マップキー=Map Key
+輝きの小瓶=Vials of Radiance
 まとめて\n解放=Multi\nRelease
 フレンズ成長 大・超成功率UP!=Friend Growth UP!
 フォト整理(売却)=Sell Photos
@@ -1964,7 +2016,7 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 4コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 4 or more.
 3コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 3 or more.
 2コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 2 or more.
-1回以上おかわりしてクリア=CLear after using Refill at least once.
+1回以上おかわりしてクリア=Clear after using Refill at least once.
 1回以上けものミラクルを発動させてクリア=Clear by activating a Miracle at least once.
 2回以上けものミラクルを発動させてクリア=Clear by activating a Miracle 2 or more times.
 10ターン以内にクリア=Clear within 10 Turns.
@@ -2177,6 +2229,7 @@ MP増加量半減=MP increase halved
 
 ----------ALT FRIEND TEXT----------
 野生がうずうずしちゃいます♡=My Wild Side Tingles♡
+大きな瞳の美人顔=Beautiful Face, Big Eyes
 笑顔をお届け！=Smile Delivery!
 隻眼の悪魔†=One-Eyed Devil†
 オシャレリーダー=Style Icon
@@ -2561,12 +2614,12 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+ニューギニアワイルドハイランドドッグ=New Guinea Wild Highland Dog
 再起動=Restart
 お知らせ=Notice
 メンテナンス中=Under Maintenance
 表示ON=Display ON
 表示OFF=Display OFF
-
 日向夏美=Natsumi Hinata
 ギロロ=Giroro
 夏美=Natsumi
@@ -3837,7 +3890,7 @@ EN：絶滅危惧=EN: Endangered
 うーん？=Huh?
 ダメだって=No good
 あっ、=Oh,
-
+前兆=Omen
 えーと…=Uuhh…
 えっと…=Uuh…
 …あ…=…Oh…
@@ -3854,7 +3907,6 @@ EN：絶滅危惧=EN: Endangered
 べんぬ=Bennu
 けもな=Kemona
 しんまい=Shinmae
-
 どうしたの？=What happened?
 なにかあった～？=Something wrong～?
 なにかあった=Something wrong
@@ -3865,7 +3917,6 @@ EN：絶滅危惧=EN: Endangered
 トド=Steller Sea Lion
 カワウ=Great Cormorant
 ウミウ=Japanese Cormorant
-ガチャ=Gacha
 カァッ=Kaah
 ダメージ=Damage
 ジョフ=Geoff

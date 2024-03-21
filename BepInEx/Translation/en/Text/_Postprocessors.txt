@@ -3,6 +3,7 @@ Invitation (Gacha)=Invitation
 Configurationed=Configured
 1 Times = 1 Time
 Kochokocho=Tickling
+2x=2
 
 ----------Common Text Error Fixes----------
 maybeshe's=maybe she's
@@ -16,6 +17,9 @@ Strengthen'd=Strengthened
 A Lulu=Alulu
 a Lulu=Alulu
 a lulu=Alulu
+Ba nana=banana
+Ba Nana=banana
+ba Nana=banana
 
 ----------Translation Error Fixes----------
 
