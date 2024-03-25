@@ -6,6 +6,7 @@ Kochokocho=Tickling
 2x=2
 
 ----------Common Text Error Fixes----------
+was replaced by Accept=was accepted
 maybeshe's=maybe she's
 maybeshe=maybe she
 Denchi=battery
@@ -22,6 +23,57 @@ Ba Nana=banana
 ba Nana=banana
 
 ----------Translation Error Fixes----------
+
+Mammcz={{A}}
+Mammdz={{B}}
+Mammez={{C}}
+Mammfz={{D}}
+Mammgz={{E}}
+Mammhz={{F}}
+Mammiz={{G}}
+Mammjz={{H}}
+Mammkz={{I}}
+Mammlz={{J}}
+Mammmz={{K}}
+Mammnz={{L}}
+Mammoz={{M}}
+Mammpz={{N}}
+Mammqz={{O}}
+Mammrz={{P}}
+
+Smcz={{A}}
+Smdz={{B}}
+Smez={{C}}
+Smfz={{D}}
+Smgz={{E}}
+Smhz={{F}}
+Smiz={{G}}
+Smjz={{H}}
+Smkz={{I}}
+Smlz={{J}}
+Smmz={{K}}
+Smnz={{L}}
+Smoz={{M}}
+Smpz={{N}}
+Smqz={{O}}
+Smrz={{P}}
+
+SMCZ={{A}}
+SMDZ={{B}}
+SMEZ={{C}}
+SMFZ={{D}}
+SMGZ={{E}}
+SMHZ={{F}}
+SMIZ={{G}}
+SMJZ={{H}}
+SMKZ={{I}}
+SMLZ={{J}}
+SMMZ={{K}}
+SMNZ={{L}}
+SMOZ={{M}}
+SMPZ={{N}}
+SMQZ={{O}}
+SMRZ={{P}}
 
 ZZMCZ= {{A}}
 ZZMDZ= {{B}}
@@ -75,6 +127,58 @@ ZMMOZ={{M}}
 ZMMPZ={{N}}
 ZMMQZ={{O}}
 ZMMRZ={{P}}
+
+zzmcz= {{A}}
+zzmdz= {{B}}
+zzmez= {{C}}
+zzmfz= {{D}}
+zzmgz= {{E}}
+zzmhz= {{F}}
+zzmiz= {{G}}
+zzmjz= {{H}}
+zzmkz= {{I}}
+zzmlz= {{J}}
+zzmmz= {{K}}
+zzmnz= {{L}}
+zzmoz= {{M}}
+zzmpz= {{N}}
+zzmqz= {{O}}
+zzmrz= {{P}}
+
+zmcz={{A}}
+zmdz={{B}}
+zmez={{C}}
+zmfz={{D}}
+zmgz={{E}}
+zmhz={{F}}
+zmiz={{G}}
+zmjz={{H}}
+zmkz={{I}}
+zmlz={{J}}
+zmmz={{K}}
+zmnz={{L}}
+zmoz={{M}}
+zmpz={{N}}
+zmqz={{O}}
+zmrz={{P}}
+
+zmmcz={{A}}
+zmmdz={{B}}
+zmmez={{C}}
+zmmfz={{D}}
+zmmgz={{E}}
+zmmhz={{F}}
+zmmiz={{G}}
+zmmjz={{H}}
+zmmkz={{I}}
+zmmlz={{J}}
+zmmmz={{K}}
+zmmnz={{L}}
+zmmoz={{M}}
+zmmpz={{N}}
+zmmqz={{O}}
+zmmrz={{P}}
+
 
 }Z{=} {
 }Z =} 

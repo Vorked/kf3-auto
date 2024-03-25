@@ -18,6 +18,49 @@
 ファッションをもっと極めたいし、ほかにもやって\nみたいことがたくさん！　付き合ってね、隊長♪=I want to master fashion even more,\nand there are so many other things I want to try!
 いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
 
+----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+プレゼントを受け取りました\n所持数上限を超えるアイテムは受け取ることができませんでした\n※称号は一括受け取りの対象外です=Gifts recieved\nItems that exceed maximum number owned cannot be recieved.\n※Titles are not eligible for Batch Accept.
+所持数上限を超えるアイテムを\n受け取ることができませんでした=Cannot recieve items that\nhave exceeded their maximum limit.
+インフォメーションが入ります=Information will be included.
+項目は最大まで強化されています=Item enhanced to its limit
+フォトポケットが解放されました！=Photo Pocket has been released!
+強化するフォト=Photo to Enhance
+レベルは最大まで強化されています=The level has reached the level cap.
+プレゼントを受け取りました=All Gifts recieved.
+※称号は一括受け取りの対象外です=※Titles are not eligible for Batch Accept.
+フレンズ・フォト・おしゃれアクセ 一覧=Friends and Photos
+フレンズ・フォト\nおしゃれアクセ 一覧=Friends, Photos,\nAccessories List
+助っ人更新=Helpers
+
+----------Batch Upgrades----------
+※　マークがついた項目のみ選択できます=※Only marked items can be selected
+※アイテムが不足する場合は、選択した項目でも強化/解放できない場=※You cannot Batch Upgrade if you lack needed items
+強化/解放したい項目を選択してください=Select the items you want to Batch Upgrade
+選択した項目を一括で強化/解放します=Batch Upgrade selected items
+合があります=Batch Upgrade
+強化/解放=Batch Upgrade
+強化項目=Upgrade Items
+上限解放項目=Release
+強化項目=Strengthen
+けもの\nミラクル=Kemono\nMiracle
+なかよし\nレベル=Friendship\nLevel
+すべて選択=Select All
+一括強化=Batch Upgrade
+なかよしレベル上限=Friendship Level Cap
+未解放=Tamed
+未解放=Unleashed
+すべて解除=Upgrade All
+強化素材=Enhancing Material
+
+----------GAME LAUNCH GARBAGE TEXT----------
+ああああああああああああああああああああああああああああああ=AAAAAAAAAAAAAAAAAAAAA
+ああああああああああああああああああああ=AAAAAAAAAA
+あああああああああああああああ=AAAAA
+あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ=ABCDEFGHIJKLMNOPQRSTUVQXYZ
+イベント「あいうえおかきくけこあいうえおかきくけこ」="ABCDEFGHIJKLMNOPQRSTUVQXYZ" Event
+イベント「あいうえおかきくけこあいうえおかきくけこ」=Event AFASFAF
+ダウンロード中　しばらくお待ちください。=Downloading, please wait.
+
 ----------ShiServals Dojo Quotes----------
 じゃじゃーん！\n今日はこれだよー！=Tadaa! This is today's event!
 今日はこれだよー！=This is it for today!
@@ -31,6 +74,28 @@
 被ダメージ軽減解除=Damage Reduction Removed
 命中率ダウン=Hit Rate Down
 プラズムチャージ＋=Plasma Charge＋
+ルンルンきぶん解除=Joy Removed
+回避率アップ=Evasion Rate Up
+はねかえし解除=Reflect Removed
+はねかえしむし解除=Pierce Removed
+かばう解除=Guard Removed
+いかく解除=Threat Removed
+かくれみ解除=Camouflage Removed
+コチョコチョ解除=Tickle Master Removed
+全状態異常耐性解除=Resist All Removed
+くらくら解除=Stun Removed
+どく解除=Poison Removed
+すやす解除=Sleep Removed
+くたくた解除=Exhaustion Removed
+ひやひや解除=Freeze Removed
+ズキンズキン解除=Pain Removed
+からげんき解除=Bravado Removed
+ぼんやりうっかり解除=Amnesia Removed
+しょんぼりきぶん解除=Gloom Removed
+びりびり解除=Paralysis Removed
+ばてばてヒリヒリ解除=Overheat Removed
+ちぐはぐリズム解除=Discord Removed
+ロストフラッグ解除=Lost Flag Removed
 
 ----------PAID STORE TRANSLATIONS----------
 月１個まで=1 per month
@@ -46,7 +111,6 @@
 毎日3個まで=3x daily
 毎日2個まで=2x daily
 毎日1個まで=Once daily
-
 
 ----------Text displayed when game launches (Music and Misc)----------
 その手の先には=At the end of her hand.
@@ -77,6 +141,7 @@
 
 ----------GACHA----------
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
+ピックアップ対象フレンズ=Friend Pick-Up
 
 ----------BATTLES, EVENTS, QUESTS MUSIC (unknown)----------
 ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
@@ -100,6 +165,7 @@
 『け・も・の・だ・も・の』アレンジ="Ke・Mo・No・Da・Mo" Arrangement
 強そうなの来たぁ～！～ゴシックメタルver.～=Here comes the strong one～ Goth Metal Ver.～
 ワクワクけものバトル！～ゴシックメタルver.～=Exciting Kemono Battle～ Goth Metal Ver.～
+
 
 ----------ERROR CODES----------
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
@@ -164,7 +230,19 @@ Lv.強化=Lv. Enhancement
 ----------STANDBY----------
 のんびり月光浴=Relaxing Moonlight Bathing
 
-----------MIRACLES----------
+----------MIRACLES AND OTHER TRAITS/STANDBY----------
+これがオレの！=This is mine!
+桃紅柳緑・春の舞=Peach Willow, Spring Dance
+大地の恵み=Blessings of the Earth
+木を司る守護者=Guardian of Trees
+春の芽吹き=Budding Spring
+超☆隊長命令=Super Captain's Orders
+ギロギロギロ…=Giro Giro Giro…
+紅き戦士の爆裂弾幕=Warrior's Explosive Barrage
+貴様を叩き直してやる！=I'll beat you back!
+ひとりおしくらまんじゅう=Oshikura Manju
+王の名にかけて=In the name of the King
+応援ならするさ=I'll Support You
 書物は先人の知恵、ですよ=Books, wisdom of the ancients
 私と勝負？負けないよ♪=A game? I won't lose♪
 これが美少女の力であります！=Beautiful Girl Power!
@@ -215,7 +293,7 @@ Lv.強化=Lv. Enhancement
 開演☆トキリサイタル=Start ☆ Toki's Recital
 満員御礼☆トキリサイタル=Fullhouse ☆ Toki's Recital
 エンジェル砂遊び=Angel Sand Play
-バチバチ百幻脚=Bacchibachi Hundred Phantom Legs
+バチバチ百幻脚=Hundred Phantom Legs
 傑作ビーバーハンマー=Masterpiece Beaver Hammer
 掘る掘るアッパー=Dig, Dig, Uppercut!
 全力突貫！パワーチャージ=All-Out-Rush! Power Charge
@@ -279,7 +357,7 @@ Lv.強化=Lv. Enhancement
 未知からの一撃=Strike From The Unknown
 うず……うずうずジャーンプ！=Tingle... Tinglinging Jump!
 砕氷一心・マリンブレイカー=Crushed Ice・Marine Breaker
-八百八狸大徳利=Eight Hundred And Eight Tanuki Saki
+八百八狸大徳利=808 Tanuki Saki
 ピカッと、ザブンといきますよ！=Going flashily, Splashily!
 幻惑舞踏、参る！=Butoh Dance, Come!
 名探偵センちゃんの華麗なる証明=Detective's Brilliant Evidence
@@ -475,6 +553,9 @@ Kari=Kari
 
 
 ----------Friends Title----------
+私たちのプライド=Our Pride
+なないろにきらめく☆=Sparkling Rainbow☆
+夏の日の思い出は毒とともに=Memories of Summer Poison
 仲間といっしょに、笑顔の一歩=Take a step with a smile,\ntogether with friends
 楽しい砂漠で遊びましょう=Let's play in the fun desert!
 あなたとわたしでサンドイッチ♪=Sandwiches for you and me ♪
@@ -645,9 +726,13 @@ Kari=Kari
 左ダブルクリック=Double left click
 右ドラッグ=Drag Right
 操作Tipsを今後表示しない=Operation Tips will not be displayed in the future.
+解放条件=Release Condition
 
-
-----------ITEMS THAT NEED TO GO FIRST (GOES FIRST)----------
+----------MISC MENU TRANSLATIONS----------
+青龍の試練=Seiryu's Challenge
+まとめて解放=Multi-Release
+けものミラクル強化完了=Kemono Miracle Enhancement Completed
+けものミラクルレベルが上がりました！=The Kemono Miracle level was increased!
 すごいマップキー=Amazing Map Key
 マップキー=Map Key
 輝きの小瓶=Vials of Radiance
@@ -672,7 +757,7 @@ Kari=Kari
 運動場=Playground
 スマトラトラ=Sumatran Tiger
 の防衛結果= Defense Results
-次のクラスまで=Until Next Class Up
+次のクラスまで=Until Next Rank Up 
 なないろとくせい解放=Rainbow Trait Release
 素材を使ってなないろとくせいを解放します=Use material to unlock Rainbow Trait!
 このフレンズのなないろとくせいは\n今後追加予定です=This Friend's Rainbow Trait will be\nunlocked later.
@@ -686,6 +771,13 @@ Kari=Kari
 1日でクエスト9回クリア=Clear 9 Quests Today
 
 ----------Friend Upgrade Page----------
+輝石変換時の注意=Caution when converting Pyroxene
+変換後は元の輝石に戻すことができません=Converting Pyroxene cannot be undone.
+すくすく成長ミッション=Vigorous Growth Missions
+必要ミラクルレベル=Required Miracle Level
+必要野生解放数=Wild release amount required
+必要レベル=Required Level
+を 受け取りました=was recieved
 使用アイテム=Items used
 レベル上限＋11=Level Cap +11
 レベル上限＋10=Level Cap +10
@@ -695,6 +787,11 @@ Kari=Kari
 使用アイテム個数選択=Select the number of items to use
 レベル上限解放確認=Level Cap Release Confirmation
 四神玉を使ってレベル上限を解放します=Use Shinjindama to increase the level cap
+フォトポケランクを5にしよう！=Let's make the Photo Pocket rank 5!
+ミラクルLvを5にしよう！=Let's make the Miracle Lv. 5!
+野生解放4段階目を解放しよう！=Let's release the fourth stage of Wild Release!
+レベルを99にしよう！=Let's get to level 99!
+レベルを90にしよう！=Let's get to level to 90!
 
 ----------Events and Daily Quests---------
 「みなさん、すばらしいですっ！」="You girls are amazing!"
@@ -772,6 +869,11 @@ Kari=Kari
 使う数を選んでください=Choose the amount you want to use.
 
 ----------Menu Fixes (again again)----------
+次のTipsへ=Next Tip
+OR検索=OR Search
+AND検索=AND Search
+挑戦可能！=You can try!
+大・超成功率UP！=Great/Super Rate Up!
 称号変更=Change Title
 助っ人変更=Change Helper
 助っ人フレンズ=Helper Friends
@@ -1131,7 +1233,12 @@ Kari=Kari
 隊長さんが入れるくらい大きな穴を掘ったの\nいっしょに入って、のんびりしよう=I dug a hole big enough for the captain and me,\nso let's go in together and relax.
 現在のなかよし=Current Friendship
 
-----------BEATS----------
+----------BEATS AND STANDBY----------
+呑んで呑まれて=Get Rich Quick
+
+勝利への標=Beacon to Victory
+気炎万丈=High Spirits
+共鳴いっくよー！=It Resonates!
 あたしとやろうっての？=You wanna mess with me!?
 がぶっとやり返し！=I'll Fight Back!
 グレークロスハント=Gray Cross Hunt
@@ -1244,7 +1351,7 @@ Kari=Kari
 お姉さまゆずり=Take Over From Your Sister
 ばしばしネコパンチ！=A Quick Cat Punch!
 氷牙一閃=Ice Fang Flash
-十八番化かし術=Juhachiban Kakashijutsu
+十八番化かし術=Trick Number 18
 私だって、やりますよ！=I Will Do It Too!
 華麗な一撃=Brilliant Blow
 鋼鉄の尻尾=Steel Tail
@@ -1707,12 +1814,12 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 輝きの欠片と小さな輝石などを交換することができます。\n輝きの欠片は、けも級を☆6まで強化したフレンズの小さな輝石を\nフレンズ成長画面で変換することなどで入手できます。=You can exchange Sparkling Shards for Small Pyroxene. Sparkling Shards can be obtained by converting Friends' Small Pyroxene who have reached ☆6 Kemo-Class.
 ※☆6まで強化していなくても、☆6まで強化できる数以上の\n　小さな輝石を所持していれば、余剰分の小さな輝石を\n　フレンズ成長画面で輝きの欠片に変換することができます。=Even if a Friend has not been upgraded to ☆6, as long as they have enough Small Pyroxene to upgrade to ☆6, their surplus Small Pyroxene can still be converted.
 スターグラスと探検！迷宮ゾーン解放に必要なアイテムなどを交換することができます。\nスターグラスはシーサーバル道場で獲得できます。=Star Glass can be obtained in the Shiserval Dojo and exchanged for Labyrinth Zone items.
-輝きの結晶とアイテムを交換することができます。\n輝きの結晶は、フォトポケットを最大まで強化したフレンズの輝石を\nフレンズ成長画面で変換することなどで入手できます。=You can exchange Shining Crystals for Friends' Pyroxene. Friends' Pyroxene can be obtained by converting Friends' Pyroxene who have reached 4 Pocket Photo slots.
+輝きの結晶とアイテムを交換することができます。\n輝きの結晶は、フォトポケットを最大まで強化したフレンズの輝石を\nフレンズ成長画面で変換することなどで入手できます。=You can exchange Shining Crystals for Friends' Pyroxene. Friends' Pyroxene can be obtained by converting Friends' Pyroxene who have reached 4 Photo Pocket slots.
 輝きの小瓶とアイテムを交換することができます。\n交換できるアイテムのラインナップは、随時追加されます。=You can exchange Viles of Radiance for Friends' Vials. The lineup of items that can be exchanged will increase with time.
 ラッキーメダルとアイテムを交換することができます。\nアイテムは月に1回リセットされます。=You can exchange Lucky Beast Medals for items. These items reset once a month.
 くんれんメダルとアイテムを交換することができます。\nくんれんメダルは、ちからくらべで入手できます。\n隊長スキル以外のアイテムは月に1回リセットされます。=Training Medals can be exchanged for items. Training Medals can be obtained from various Training Modes. Items other than the Captain Skill items reset once a month.
 ☆２～３フレンズしょうたい状で任意の☆２、☆３のフレンズをしょうたいできます。\nしょうたい後はプレゼントで受け取ることができます。=☆２～３ Friends can be invited during events. You can also receive gifts instead of Friends.
-なないろとくせいとは、特定のフレンズが\nレベル90以上、ミラクルレベル3以上、野生解放4段階以上、フォトポケット2つ以上解放の\n条件を達成後、「なないろのたね」と素材アイテムを消費し、\n解放することによって効果を発揮するわざです。=Rainbow Traits can be released by consuming "Rainbow Seeds" and other materials once the Friend meets the following conditions: Level 90 or higher, Miracle Level 3 or higher, Wild Release Level 4 or higher, and 2 or more Pocket Photos. This will activate the Friend's Rainbow Trait.
+なないろとくせいとは、特定のフレンズが\nレベル90以上、ミラクルレベル3以上、野生解放4段階以上、フォトポケット2つ以上解放の\n条件を達成後、「なないろのたね」と素材アイテムを消費し、\n解放することによって効果を発揮するわざです。=Rainbow Traits can be released by consuming "Rainbow Seeds" and other materials once the Friend meets the following conditions: Level 90 or higher, Miracle Level 3 or higher, Wild Release Level 4 or higher, and 2 or more Photo Pockets. This will activate the Friend's Rainbow Trait.
 なないろとくせいを持つフレンズはフレンズ詳細画面にて確認することができます。=You can check which Friends have Rainbow Traits in their Details screen.
 サブ属性は以下の影響を受けません。=Sub-Attributes are not affected by:
 ・属性相性における与ダメージ、被ダメージの増減=・Increase/Decrease in Damage Dealt/Received based on Attributes.
@@ -2176,7 +2283,8 @@ MP増加量半減=MP increase halved
 
 ----------SORTING ORDER FIXES----------
 なかよし順=Friendship
-フォトポケ順=Pocket Photo
+フォトポケ2段階達成=Photo Pocket Level 2 Achieved
+フォトポケ順=Photo Pocket
 
 ----------MIRACLES----------
 天狗飛礫=Tengu Flying Stones
@@ -2582,7 +2690,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ボタン\N非表示=Button\Nhide
 アフリカオオコノハズク=Northern White-Faced Owl
 アルパカ・スリ=Alpaca Suri
-コツメカワウソ=Asian Small-Clawed Otter
+コツメカワウソ=Small-Clawed Otter
 ウミネコ=Black-Tailed Gull
 カーテン=Curtains
 収納=Dressers
@@ -2648,7 +2756,6 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 インドゾウ=Asian Elephant
 キングコブラ=King Cobra
 ミナミコアリクイ=Southern Tamandua
-クジャク=Peafowl
 ブラッザグエノン=Brazza Monkey
 オカピ=Okapi
 ツチノコ=Tsuchinoko
@@ -2676,10 +2783,8 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 タヌキ=Raccoon Dog
 クロヒョウ=Black Panther
 ハヤブサ=Peregrine Falcon
-チーター=Cheetah
 シロナガスクジラ=Blue Whale
 ジャイアントペンギン=Giant Penguin
-パフィン=Puffin
 アオツラカツオドリ=Masked Booby
 ヒトコブラクダ=Dromedary
 フタコブラクダ=Bactrian Camel
@@ -2699,7 +2804,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 アメリカレア=Greater Rhea
 オオセンザンコウ=Giant Pangolin
 オオタカ=Goshawk
-G・ロードランナー=G. Roadrunner
+G・ロードランナー=Greater Roadrunner
 ゴールデンタビータイガー=Golden Tiger
 コディアックヒグマ=Kodiak Bear
 ハクトウワシ=Bald Eagle
@@ -2772,7 +2877,6 @@ G・ロードランナー=G. Roadrunner
 イヌガミギョウブ=Inugami Gyoubu
 インドサイ=Great One-Horned Rhinoceros
 インドオオカミ=Indian Wolf
-エトピリカ=Tufted Puffin
 ウィッチ=Witch
 オオアリクイ=Giant Anteater
 オイナリサマ=Oinari
@@ -2822,7 +2926,7 @@ G・ロードランナー=G. Roadrunner
 タチコマ Type-H=Tachikoma Type-H
 タスマニアデビル=Tasmanian Devil
 チベットスナギツネ=Tibetan Sand Fox
-ダンザブロウダヌキ=Tanuki
+ダンザブロウダヌキ=Danzaburo-Danuki
 タチコマ Type-S=Tachikoma Type-S
 ディアトリマ=Gastornis
 ツノサイチョウ=Rhinoceros Hornbill
@@ -3091,13 +3195,10 @@ OPムービー=OP Movie
 既読ストーリー再生=Story Playback
 情報切り替え=Switch Info
 コンティニュー不可=No Continues
-ボーナス=Bonus
 かつやく=Assist
-すぺしゃる=Special
 スタンプ順=Stamp Order
 スタンプ履歴=Stamp History
 スタンプ=Stamp
-
 訪問=Visit
 編集=Edit
 充電=Charge
@@ -3113,7 +3214,6 @@ WAVE=Wave
 検索=Search
 WAVE数= Waves
 ヘラジカ=Elk
-ライオン=Lion
 通信エラー=Communication Error
 閉じる=Close
 げきせん=Fierce
@@ -3182,7 +3282,7 @@ WAVE数= Waves
 アリサ＝サザンクロス=Alisa Southern cross
 エイリやん=Aliyan
 ワニガメ=Alligator Snapping Turtle
-アイベックス=Ibex
+アイベックス=Nubian Ibex
 マーモット=Alpine Marmot
 アマゾンツリーボア=Amazon Tree Boa
 ミシシッピーワニ=American Alligator
@@ -3194,7 +3294,7 @@ WAVE数= Waves
 キョクアジサシ=Arctic Tern
 ホッキョクオオカミ=Arctic Wolf
 アジアゴールデンキャット=Asian Golden Cat
-コツメカワウソ=Asian Small-Clawed Otter
+コツメカワウソ=Small-Clawed Otter
 ニシツノメドリ=Atlantic Puffin
 オーロックス=Aurochs
 ヤブツカツクリ=Australian Brushturkey
@@ -3220,7 +3320,6 @@ WAVE数= Waves
 エリマキキツネザル=Black-And-White Ruffed Lemur
 セグロジャッカル=Black-Backed Jackal
 クロトキ=Black Toki
-ウミネコ=Black-Tailed Gull
 オグロプレーリードッグ=Black-Tailed Prairie Dog
 ブラックバック=Blackbuck
 シロナガスクジラ=Blue Whale
@@ -3243,7 +3342,6 @@ WAVE数= Waves
 カラカル=Caracal
 ケルベロス=Cerberus
 チャップマンシマウマ=Chapman's Zebra
-チーター=Cheetah
 サラブレッドくりげ=Chestnut Horse
 ヒメマメジカ=Chevrotain
 ちびくまモン=Chibi Kumamon
@@ -3284,7 +3382,7 @@ WAVE数= Waves
 ドードー=Dodo
 イエネコ=Domestic Cat
 イエイヌ=Domestic Dog
-イエイヌ（雑種）=Domestic Dog (Mixed-Breed)
+イエイヌ（雑種）=Mixed-Breed Dog
 ブタ=Pig
 ロバ=Donkey
 ドロロ=Dororo
@@ -3375,9 +3473,9 @@ HAW-206=HAW-206
 テングコウモリ=Tube-Nosed Bat
 ヒマラヤタール=Himalayan Tahr
 ヒッパリオン=Hipparion
-カバ=Hippopotamus
 獣王カバ=Hippopotamus (Beast King)
 ゴルゴプスカバ=Hippopotamus Gorgops
+カバ=Hippopotamus
 エゾオオカミ=Hokkaido Wolf
 ホルスタイン=Holstein
 シロヘラコウモリ=Honduran White Bat
@@ -3388,7 +3486,7 @@ HAW-206=HAW-206
 ヒラコテリウム=Hyracotherium
 インパラ=Impala
 インドゾウ=Indian Elephant
-クジャク=White Indian Peafowl
+クジャク=White Peafowl
 クジャク=Indian Peafowl
 インドサイ=Indian Rhinoceros
 インドホシガメ=Indian Star Tortoise
@@ -3423,6 +3521,7 @@ HAW-206=HAW-206
 カマイタチ=Kamaitachi
 ケロロ=Keroro
 キングチーター=King Cheetah
+チーター=Cheetah
 キングコブラ=King Cobra
 キングペンギン=King Penguin
 トキイロコンドル=King Vulture
@@ -3430,7 +3529,6 @@ HAW-206=HAW-206
 キリン=Kirin
 コアラ=Koala
 コディアックヒグマ=Kodiak Bear
-コモドドラゴン=Komodo Dragon
 キタキリン=Kordofan Giraffe
 クルル=Kururu
 キュウシュウフクロウ=Kyushu Owl
@@ -3559,6 +3657,7 @@ HAW-206=HAW-206
 オポッサムモドキ=Scaly-Tailed Possum
 ショウジョウトキ=Scarlet Toki
 コンゴウインコ=Scarlet Macaw
+コンゴウインコ=Macaw
 ションブルクジカ=Schomburgk's Deer
 サラブレッドあおかげ=Seal Brown Horse
 ヘビクイワシ=Secretarybird
@@ -3624,6 +3723,7 @@ HAW-206=HAW-206
 ツクヨミノシンシ=Tsukuyomino Shinshi
 ツシマヤマネコ=Tsushima Leopard Cat
 エトピリカ=Tufted Puffin
+パフィン=Puffin
 コハクチョウ=Tundra Swan
 ツンドラオオカミ=Tundra Wolf
 ウチコマ=Uchikoma
@@ -3633,7 +3733,7 @@ HAW-206=HAW-206
 ビクーニャ=Vicuna
 セイウチ=Walrus
 キバノロ=Water Deer
-カンザシフウチョウ=Parotia
+カンザシフウチョウ=Western Parotia
 マダラスカンク=Spotted Skunk
 シロイキタキツネ=White Ezo Red Fox
 サラブレッドしろげ=White Horse
@@ -3650,14 +3750,14 @@ HAW-206=HAW-206
 獣王ヌー=Beast King Wildebeest
 クズリ=Wolverine
 マンモス=Woolly Mammoth
-ヤマタノオロチ=Orochi
+ヤマタノオロチ=Yamata no Orochi
 エゾシカ=Yezo Sika Deer
 獣王シマウマ=Beast King Zebra
 シベリアンハスキー=Siberian Husky
 シバイヌ=Shiba Inu
 シーラカンス=Coelacanth
 メンダコ=Mendako
-
+クジャク=Peafowl
 
 ----------NAME FIXES MUST BE AT THE END----------
 リタイア=Retire
@@ -3670,13 +3770,12 @@ HAW-206=HAW-206
 サーバル=Serval
 コンコン =Kon-Kon 
 アルマ=Arma
-アライグマ=Arai-san
+アライグマ=Raccoon
 アライさん=Arai-san
 ミライ=Mirai
 アライグマ=Arai
 フェネック=Fennec
 アライ=Arai
-コンゴウインコ=Macaw
 ヒグマ=Brown Bear
 ゴリラ=Gorilla
 ナナ=Nana
@@ -3956,8 +4055,9 @@ EN：絶滅危惧=EN: Endangered
 オシオキされ=punished
 入手方法=Where To Get
 けもコーラス=Kemo-Chorus
+ライオン=Lion
 
-----------ATTEMPTED FIX OF DEEPL REPEATING LINES----------
+----------ATTEMPTED FIX Golgopus HippopotamusOF DEEPL REPEATING LINES----------
 いやいや=No no
 な、な、何=Wh-wh-what
 カンザシ=Kanzashi
@@ -4077,3 +4177,5 @@ EN：絶滅危惧=EN: Endangered
 落雁(NPC)=Falling Geese(NPC)
 キキョウ(NPC)=Kikyo(NPC)
 シンゴ(NPC)=Shingo(NPC)
+
+

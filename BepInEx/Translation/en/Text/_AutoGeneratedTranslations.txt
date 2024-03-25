@@ -1,4 +1,11 @@
 ﻿-----REGEX-----
+r:"^クラスリセットまであと([0-9]+)日と([0-9]+)時間=$1 days, $2 hours until Class Reset.
+r:"^([0-9]+)勝以上$"=$1 or more Wins
+r:"^([0-9]+)～([0-9]+)勝$=$1～$2 Wins
+r:"^次のランクまで<size\\=([0-9]+)>([0-9]+)<\/size>Pt$"=<size\=$1>$2 </size>Pt to next rank
+r:"^　([0-9]+)/\([0-9]+)まで$"=　Through $1/$2
+r:"^すぺしゃる([0-9]+)$"=Special $1
+r:"^フォトポケット\[([0-9]+)\]が強化されました！$"=Photo Pocket [$1] unlocked!
 r:"^あと([0-9]+)個　あと([0-9]+)時間$"=$1 left, $2 hours to go
 r:"^([0-9]+)\/([0-9]+)\(日\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Sun.) $3:$4
 r:"^([0-9]+)\/([0-9]+)\(月\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Mon.) $3:$4
@@ -14,7 +21,6 @@ r:"^　([0-9]+)/([0-9]+)まで=　Through 10/19$"=Through $1/$2
 r:"^所持数([0-9]+)$"=Owned - $1
 r:"^所持数 ([0-9]+)$"=Owned - $1
 r:"^([0-9]+)体$"=$1 Defeats
-r:"^けもステータス　([0-9]+)$"=<size\/=10>Kemo-Status</size> $1
 r:"^1 left　([0-9]+)\/([0-9]+)まで$"=1 left until $1/$2
 r:"^電池 ([0-9]+)$"=Batteries: $1
 r:"^獲得日時:([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+)$"=Acquired: $1/$2/$3 $4:$5
@@ -197,7 +203,13 @@ r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^「エクストラ　その([0-9]+)」$"="Extra Part $1"
 r:"^×([0-9]+)$"=x$1
+r:"([0-9]+)\/([0-9]+) ～ ([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) まで$"=$1/$2 ～ $3/$4 until $5:$6
+r:"([0-9]+)\/([0-9]+)～([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) まで$"=$1/$2 ～ $3/$4 until $5:$6
 2x=2
+
+----------REGEX IN-GAME STATUS----------
+r:"^被ダメージ<size\\=([0-9]+)>([0-9]+)\%<\/size>増加$"=Damage Taken +<size\=$1>$2%</size>
+r:"^ＭＰ<size\\=([0-9]+)>([0-9]+)\%<\/size>減少$"=ＭＰ <size\=$1>$2%</size> Decrease
 
 ----------REGEX MISSIONS----------
 r:"^累計ログイン([0-9]+)日目！$"=Cumulative login day $1!
@@ -219,12 +231,27 @@ r:"^合計けもステータスを([0-9]+)以上にはじめて到達！$"=Achie
 r:"^野生解放しよう　([0-9]+)回目！$"=Let's Wild Release $1 times!
 r:"^腕試しクエスト([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 of Skill Test Quest $2
 r:"^☆([0-9]+)のフレンズが加入！([0-9]+)人目！$"=☆$1 Friend joined $2 times!
+r:"^イベントストーリー([0-9]+)話をクリア$"=Clear Event Story Ep. $1
+r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
+
+----------Training----------
+相手ボーナス=Opponent Bonus
+ターンボーナス=Turn Bonus
+連勝ボーナス=Consecutive Bonus
+ボーナス=Bonus
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
 Param01<size\=30>人</size>=Param01<size\=30>Person</size>
-野生解放=Wild Release
+あと〇〇日=0 days to go
+フォトポケット=Photo Pocket
+イベントストーリー=Event Story
 野生解放=Wild Release
 2=2
+なのです♪=Nanoda♪
+(ガチャ)=(Gacha)
+第　　章=Chapter
+タイトル=Title
+フリー=free
 お気に入り=Favorites
 シビレ=Sweetbread
 もう一度=Once Again
@@ -255,6 +282,12 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 <size\=12>たいき </size> 2=<size\=12>Standby</size> 2
 <size\=12>たいき </size> 3=<size\=12>Standby</size> 3
 <size\=12>たいき </size> 4=<size\=12>Standby</size> 4
+レベル/<color\=#FF7B16>レベル上限</color>=Levels/<color\=#FF7B16>Level Cap</color>
+☆の数=Num. of ☆
+1章6話クリア=Clear Chp. 6, Ep. 1
+獲得アイテム<size\=24><color\=#FFEE00>1.5</color></size>倍=Items Earned <size\=24><color\=#FFEE00>1.5</color></size>x
+
+
 
 ----------New replacement translations (Missions)----------
 フォトポケを増やそう=Let's Increase Photo Pockets
@@ -274,7 +307,11 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 ちからくらべ=Strength Contest
 トータルミッション=Total Missions
 フォト=Photo
+シーサーバル道場=Shiserval Dojo
 けもコーラス=Kemo-Chorus
+無料あり！=Free!
+フレンズ成長=Friend Growth
+すぺしゃる=Special
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
 月間パスポート=Monthly Passport
@@ -467,6 +504,7 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 強化する=Enhance
 
 ----------Variable Combinations----------
+「{{A}}」="{{A}}"
 【{{A}}】=【{{A}}】
 {{A}}の{{B}}={{A}} {{B}}
 【{{A}}】{{B}}=【{{A}}】{{B}}
@@ -483,8 +521,7 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 
 ----------USES----------
 あと<size\=32>●回</size>=Uses: <size\=32>●Left</size>
-
-<size\=22>あと</size>    回=<size\=18>Uses: </size>      
+<size\=22>あと</size>    回=<size\=18>Left: </size>      
 
 
 ----------Specific Variable Combinations----------
@@ -495,6 +532,8 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 {{B}} 1 個 → {{A}} 20 個=1 {{B}} → 20 {{A}}
 {{B}} 1 個 → {{A}} 60 個=1 {{B}} → 60 {{A}}
 【{{A}}】{{B}}の{{C}}=[{{A}}] {{C}} of {{B}}
+ウィークリー{{A}}=Weekly {{A}}
+「ウィークリー」{{A}}="Weekly" {{A}}
 
 ----------SCHEDULE DATES (SIMPLE)----------
 
@@ -549,6 +588,7 @@ Exp 1.5倍=Exp 1.5x
 解放する=Liberate
 ガチャ=Gacha
 解放アイテム=Release Items
+{{A}}レベルが上がりました！=The {{A}} level has been raised!
 
 ----------Autotranslate Basic Terms----------
 完了=Completion
@@ -576,18 +616,16 @@ Exp 1.5倍=Exp 1.5x
 
 
 ----------Engine Text Testing, necessary but annoying----------
-<size\=16><color\=#FF8784>アイウエオカキクケコアイウエオ</color></size>\nアイウエオカキクケコアイウエオ=<size\=16><color\=#FF8784>iueo-kaki-kukeko iueo</color></size>\nIueo-kakikukeko iueo
-{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko
-
 がうがうがうがうが\nがうがうがうがうが=gargling
-{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} {{A}} {{A}} {{A}}
-{{A}}かきくけこ{{A}}かきくけこ{{A}}\n{{A}}かきくけこ{{A}}かきくけこ{{A}}={{A}} kakikukeko {{A}} kakikukeko {{A}} {{A}} kakikukeko {{A}}
-{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} {{A}} {{A}} Kakiku Kekko {{A}} {{A}} {{A}}
+{{A}}{{A}}{{A}}{{A}}キラ={{A}} {{A}} {{A}} {{A}} Kira
 
-
-
-
-
+----------Common player names test----------
+風水土=Feng Shui Earth
+歩=Ho
+リリィ=Lili
+ツモドラ０=Tsumodora0
+とも=Friend
+ケモナーマスク=Kemone Mask
 
 
 
@@ -600,10 +638,5 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
 
 
