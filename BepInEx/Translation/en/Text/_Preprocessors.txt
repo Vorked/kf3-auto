@@ -9,6 +9,21 @@
 　= 
 　= 
 
+G-Z-M-C-Z-L={{A}}
+G-Z-M-D-Z-L={{B}}
+G-Z-M-E-Z-L={{C}}
+G-Z-M-F-Z-L={{D}}
+G-Z-M-G-Z-L={{E}}
+G-Z-M-H-Z-L={{F}}
+G-Z-M-I-Z-L={{G}}
+G-Z-M-J-Z-L={{H}}
+G-Z-M-K-Z-L={{I}}
+G-Z-M-L-Z-L={{J}}
+G-Z-M-M-Z-L={{K}}
+G-Z-M-N-Z-L={{L}}
+G-Z-M-O-Z-L={{M}}
+G-Z-M-P-Z-L={{N}}
+
 Mammcz={{A}}
 Mammdz={{B}}
 Mammez={{C}}

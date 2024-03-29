@@ -31,6 +31,8 @@
 フレンズ・フォト・おしゃれアクセ 一覧=Friends and Photos
 フレンズ・フォト\nおしゃれアクセ 一覧=Friends, Photos,\nAccessories List
 助っ人更新=Helpers
+別の端末からのログインを確認しました\nタイトル画面に戻ります=Confirmed login from another device.\nReturning to the title screen.
+
 
 ----------Batch Upgrades----------
 ※　マークがついた項目のみ選択できます=※Only marked items can be selected
@@ -62,6 +64,7 @@
 ダウンロード中　しばらくお待ちください。=Downloading, please wait.
 
 ----------ShiServals Dojo Quotes----------
+今日はこれだけど、\n準備はいいかなぁ？=This is it for today,\nbut I hope you're ready for it.
 じゃじゃーん！\n今日はこれだよー！=Tadaa! This is today's event!
 今日はこれだよー！=This is it for today!
 頑張れ頑張れー！=Do your best, do your best!
@@ -69,6 +72,7 @@
 ゆっくり行こうね！=Take your time!
 はーい！\n今日の相手だよー！=Yes!\nHere is today's opponent!
 あ、きたきた！\n待ってたよー！=Oh, I'm here!\nI've been waiting!
+
 
 ----------NEW IN-GAME COMBAT TEXT----------
 被ダメージ軽減解除=Damage Reduction Removed
@@ -231,6 +235,7 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+大地鳴動・熊手の撃=Earth-Shaking Shot
 これがオレの！=This is mine!
 桃紅柳緑・春の舞=Peach Willow, Spring Dance
 大地の恵み=Blessings of the Earth
@@ -508,7 +513,7 @@ Kari=Kari
 山の景色と大きな石と=Mountain Scenery, Large Stones
 ドキドキ☆わたしたちの思い！=Beating Hearts ☆ Our Thoughts!
 キラキラ☆お空にひとっ飛び！=Glittering ☆ Fly In The Sky!
-百錬成鋼・連撃の構え=Hundred Tempered Steel-Mutli-Strike Stance
+百錬成鋼・連撃の構え=Hundred Strike Steel Stance
 明鏡止水・一撃の構え=Mirrored Still Water・Strike Stance
 ちょっとご機嫌なわたし！=I'm In A Good Mood!
 お仕置き！ミーア先生=Punishment! Meer-Sensei
@@ -1234,8 +1239,11 @@ AND検索=AND Search
 現在のなかよし=Current Friendship
 
 ----------BEATS AND STANDBY----------
+みんなで強く=Stronger Together
+肩慣らしをしよう=Get your shoulders used to it
+後輩君たちの指導者として=A mentor for young students
 呑んで呑まれて=Get Rich Quick
-
+躍動強打=Dynamic Bang
 勝利への標=Beacon to Victory
 気炎万丈=High Spirits
 共鳴いっくよー！=It Resonates!
@@ -2553,7 +2561,7 @@ SSRインテリアボーナス=SSR Interior Bonus
 MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Friends)
 自己ベスト\nスコア=Personal\nBest
 獲得\n報酬=Earned\nReward
-バチバチ百幻脚=Bachibachi Hundred Phantom Legs
+バチバチ百幻脚=Hundred Phantom Legs
 フレンズプロフィールから確認できます=You can see it in Friend Details!
 リトライしますか？=Would you like to retry?
 通信エラーです=Communication Error.
@@ -3455,6 +3463,7 @@ WAVE数= Waves
 オオミチバシリ=Greater Roadrunner
 キジ=Green Pheasant
 ハイイログマ=Grizzly Bear
+グリズリー=Grizzly
 グレビーシマウマ=Grévy's Zebra
 グアダルーペカラカラ=Guadalupe Caracara
 グアナコ=Guanaco
