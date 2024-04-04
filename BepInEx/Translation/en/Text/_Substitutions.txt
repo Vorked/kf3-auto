@@ -17,6 +17,7 @@
 もうこれで全部だから大丈夫だよ\n手伝ってくれてありがとう！=That's all I have now, so I'm\ngood to go, thanks for helping me out!
 ファッションをもっと極めたいし、ほかにもやって\nみたいことがたくさん！　付き合ってね、隊長♪=I want to master fashion even more,\nand there are so many other things I want to try!
 いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
+日頃から私と向き合ってくれる礼にもっとキミを鍛えてやる\n…厳しくやるから、覚悟しとけよ？　ふふ=I'm going to train you more to thank you for dealing with me on a regular basis...\nand I'm going to do it hard, so be prepared, okay?
 
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
 プレゼントを受け取りました\n所持数上限を超えるアイテムは受け取ることができませんでした\n※称号は一括受け取りの対象外です=Gifts recieved\nItems that exceed maximum number owned cannot be recieved.\n※Titles are not eligible for Batch Accept.
@@ -146,6 +147,7 @@
 ----------GACHA----------
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
 ピックアップ対象フレンズ=Friend Pick-Up
+おそうじわくわくボックスしょうたい=Exciting Cleaning Box Invitation
 
 ----------BATTLES, EVENTS, QUESTS MUSIC (unknown)----------
 ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
@@ -734,6 +736,7 @@ Kari=Kari
 解放条件=Release Condition
 
 ----------MISC MENU TRANSLATIONS----------
+フレンズ選択=Friends Selection
 青龍の試練=Seiryu's Challenge
 まとめて解放=Multi-Release
 けものミラクル強化完了=Kemono Miracle Enhancement Completed
@@ -874,6 +877,7 @@ Kari=Kari
 使う数を選んでください=Choose the amount you want to use.
 
 ----------Menu Fixes (again again)----------
+タッチして\n次のTipsへ=Touch.\nShow Next Tips
 次のTipsへ=Next Tip
 OR検索=OR Search
 AND検索=AND Search
@@ -1594,7 +1598,6 @@ kari=Kari
 相手単体に120％のダメージを与える=Deal 120% damage to a single enemy.
 ヤマイヌの才=Yamainu's gifted
 与ダメージが7％増加する (3ターン)=Damage is increased by 7% (3 turnss) 
-発動率：50％  発動回数：∞=Activation rate: 50%, Activation count: ∞
 私は副隊長だから=Cause I'm the Vice Captain!
 たいりょくが30％以下のとき=When HP is 30% or less,
 味方全体の被ダメージが9％減少する=Damage taken by allies is reduced by 9%.
@@ -2396,11 +2399,6 @@ PPPのプリンセス=PPP's Princess
 しょうたい券=Invitation Ticket
 すてっぷあっぷしょうたい= Step-Up Invitation
 
-----------TIGER FIXES----------
-オーストラリア=Australia
-セントラル=Central
-
-
 ----------NOISY TREEHOUSE----------
 ちょこっとVRを終了する場合、\n画面をダブルタップしてください=To exit Little VR, double-tap the screen.
 カメラ\nリセット=Center\nCamera
@@ -2545,6 +2543,7 @@ SSRインテリアボーナス=SSR Interior Bonus
 巫女服=Shrine Maiden
 探検隊Lv.=Expdn Lv.
 麒麟のめぐみ=Kirin's Blessings
+結果報告=Quest Report
 結果=Confirmation
 ステップの状態確認=Step Confirmation
 待機フレンズ設定=Standby Friend Configuration
@@ -3012,7 +3011,6 @@ G・ロードランナー=Greater Roadrunner
 あいうえお=AIUEO
 輝きの結晶交換所=Pyroxene Exchange
 挑戦可能！=Challenge!
-タッチして\n次のTipsへ=Touch.\nShow Next Tips
 もう一度回す=Pull Again
 フレンズへ=Friends List
 編成へ=To Party
@@ -3267,6 +3265,7 @@ WAVE数= Waves
 キットギツネ=Kit Fox
 ブラックサーバル=Black Serval
 カイウサギ=Domestic Rabbit
+イエウサギ=Domestic Rabbit
 ツチブタ=Aardvark
 タスマニアタイガー=Tasmanian Tiger
 アリゾナジャガー=Arizona Jaguar
@@ -3767,6 +3766,10 @@ HAW-206=HAW-206
 シーラカンス=Coelacanth
 メンダコ=Mendako
 クジャク=Peafowl
+
+----------TIGER FIXES----------
+オーストラリア=Australia
+セントラル=Central
 
 ----------NAME FIXES MUST BE AT THE END----------
 リタイア=Retire

@@ -1,4 +1,11 @@
 ﻿-----REGEX-----
+r:"^　([0-9]+)\/([0-9]+)まで$"=　Through $1/$2
+r:"^ハードクリア\\n([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=Clear Hard\n$1/$2 $3:$4 or later
+r:"^ノーマル1話クリア\\n([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=Clear Normal Ep. 1\n$1/$2 $3:$4 or later
+sr:"^発動率：([0-9]+)\％$"=Activation Chance: $1%
+sr:"^発動回数：([0-9]+)$"=Uses: $1
+r:"^今月([0-9]+) left$"=$1 left this month
+r:"^今月あと([0-9]+)回$"=$1 more this month
 r:"^クラスリセットまであと([0-9]+)日と([0-9]+)時間=$1 days, $2 hours until Class Reset.
 r:"^([0-9]+)勝以上$"=$1 or more Wins
 r:"^([0-9]+)～([0-9]+)勝$=$1～$2 Wins
@@ -240,8 +247,17 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 連勝ボーナス=Consecutive Bonus
 ボーナス=Bonus
 
+
+発動回数：∞=Activation Chance:∞
+
+----------SPECIAL MISSIONS----------
+野生解放！=Wild Release!
+「期間限定クエスト」=「Limited Quests」
+輝きの小瓶！=Vials of Radiance!
+
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
 Param01<size\=30>人</size>=Param01<size\=30>Person</size>
+切替=Switch
 あと〇〇日=0 days to go
 フォトポケット=Photo Pocket
 イベントストーリー=Event Story
@@ -374,6 +390,7 @@ Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 スタンド=Stand
 大型インテリア=Large Interior
 {{A}}（ガチャ）={{A}}\n(Gacha)
+提供一覧=List of Items
 
 ----------Training----------
 全解除=Remove All
@@ -566,6 +583,13 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 更新=Refresh
 <size\=15>くんれんpt</size><size\=19>×Param01</size>=<size\=15>Training pt.</size><size\=19>×Param01</size>
 わくわく\n{{A}}=Exciting\n{{A}}
+月曜=Monday
+火曜=Tuesday
+水曜=Wednesday
+木曜=Thursday
+金曜=Friday
+土曜=Saturday
+日曜=Sunday
 
 ----------New Translations For Autotranslation Only----------
 チケット=Ticket
@@ -614,7 +638,6 @@ Exp 1.5倍=Exp 1.5x
 腕試しクエスト9=Trial Quest 9
 腕試しクエスト10=Trial Quest 10
 
-
 ----------Engine Text Testing, necessary but annoying----------
 がうがうがうがうが\nがうがうがうがうが=gargling
 {{A}}{{A}}{{A}}{{A}}キラ={{A}} {{A}} {{A}} {{A}} Kira
@@ -629,419 +652,23 @@ Exp 1.5倍=Exp 1.5x
 
 
 
-------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+フレンズ・エッグ交換所=Friends & Egg Exchange
+フレンズ・エッグ=Friends & Eggs
+イースター・ビーンズ交換所=Jelly Beans Exchange
+お宝発見！？イースター！=Treasure Found!? Easter!
+イースター？=Easter?
+「お祭りの準備をしよう！」="Let's get ready for the festivities!"
+イエウサギ野生開放セットその2=Yellow Rabbit Wild Open Set #2
+イエウサギ野生開放セットその1=Yellow Rabbit Wild Open Set #1
 
 
-玄米=brown rice
-イボンコペッチャンコ=flat-chested
-なこ=saucer (for a teacup)
-火曜=Tuesday
-レベルアップアイテムが\n獲得できますよ\n今日も張り切っていきましょう！=You can get items to improve your level!
-まふ=linen
-しんき=the three sacred treasures (sword, jewel, mirror)
-とみー=resident of Tokyo
-ルミエ=lumie (unit of luminous flux)
-タイセイ=Taisei era (1521.8.23-1528.8.20)
-とらまめ=Tiger bean (Solanum tuberosum)
-たっくん=mythical founder of Korea
-壱號=one (used in legal documents)
-クロマ=chroma
-けーき=Ki (kingdom of China during the Spring and Autumn Period and the Period of the Warring States Period)
-{{A}}！{{B}}={{A}}！{{B}}
-あかむし=(species of eunicid worm used as fishing bait)
-{{B}}と{{C}}を使って{{A}}を解放します=Use {{B}} and {{C}} to free {{A}}
-【{{B}}】{{C}}の{{E}}\n2個を\n{{A}}\n120個に{{D}}しました=[{{B}}] {{D}}ed 2 {{E}}s of {{C}} to 120 {{A}}s
-サンタ服=Santa Claus clothing
-スペシャルコーデ１=Special Codes 1
-マリンなのだ！水着=It's a Marine! Swimsuit!
-ハロウィンコスチューム=Halloween Costumes
-フリフリフリルPPPのビキニ=Frilly Ruffle PPP Bikini
-はなまるアニマル水着=Hanamaru Animal Swimsuit
-{{A}}衣装={{A}} Costume
-4周年！ハッピーラッキーTシャツ=Happy 4th Anniversary!
-沼津港深海水族館の服=Numazu Port Deep Sea Aquarium Clothing
-ライフセーバー水着=Lifesaver Swimwear
-{{B}}の{{A}}です={{B}} {{A}}.
-ビーチクイーンだ！ガオー水着=I'm a beach queen, gao swimsuit!
-{{A}}けこ={{A}} Keko
-ラッキービーストのぬいぐるみ（はながさ・むらさき）=Stuffed Lucky Beast (Hanagasa, Murasaki)
-掛け軸（ゆんたく）=Hanging scroll (Yuntaku)
-ラッキービーストのぬいぐるみ（はながさ・もも）=Stuffed Lucky Beast (Hanagasa, Momo)
-掛け軸（いん）=hanging scroll
-ラッキービーストのぬいぐるみ（はながさ・だいだい）=Stuffed Lucky Beast (Hanagasa and Daidai)
-掛け軸（ふしぬやーうちー）=Hanging scroll (Fushinuya-uchi)
-ラッキービーストのぬいぐるみ（はながさ・くろ）=Stuffed Lucky Beast (Hanagasa, black)
-掛け軸（わらゆん）=Hanging scroll (straw yun)
-ラッキービーストのぬいぐるみ（はながさ・みどり）=Stuffed Lucky Beast (Hanagasa, Midori)
-掛け軸（くゎっちー）=Hanging Scroll
-掛け軸（ぬーじ）=Hanging scroll (Nuji)
-ラッキービーストのぬいぐるみ（はながさ・しろ）=Stuffed Lucky Beast (Hanagasa, Shiro)
-掛け軸（なんくるないさー）=Hanging scroll (Nankuru nai nai nai nai)
-ラッキービーストのぬいぐるみ（はながさ・き）=Stuffed Lucky Beast (Hanagasa, Ki)
-掛け軸（ぬちどぅたから）=Hanging scroll (Nuchidotakara)
-ラッキービーストのぬいぐるみ（はながさ・あお）=Stuffed Lucky Beast (Hanagasa, blue)
-掛け軸（ちむぐくる）=Hanging scroll (Chimugukuru)
-ラッキービーストのぬいぐるみ（はながさ）=Stuffed Lucky Beast (Hanagasa)
-掛け軸（まやー）=Hanging scroll (Maya)
-ラッキービーストのぬいぐるみ（ちゅらうみ）=Stuffed Lucky Beast (Churaumi)
-掛け軸（まーさん）=Hanging scroll (Maasan)
-ラッキービーストのぬいぐるみ（サンセット）=Stuffed Lucky Beast (Sunset)
-掛け軸（がんじゅー）=Hanging scroll (Ganjyu)
-ラッキービーストのぬいぐるみ（ブラックハイビスカス）=Stuffed Lucky Beast (Black Hibiscus)
-掛け軸（どぅし）=Hanging Scroll (Dooshi)
-ラッキービーストのぬいぐるみ（グリーンハイビスカス）=Stuffed Lucky Beast (Green Hibiscus)
-掛け軸（ちゅらかーぎー）=Hanging scroll (Churakagi)
-ラッキービーストのぬいぐるみ（オレンジハイビスカス）=Stuffed Lucky Beast (Orange Hibiscus)
-掛け軸(かりー)=Hanging Scroll (KARI-)
-ラッキービーストのぬいぐるみ（ピンクハイビスカス）=Stuffed Lucky Beast (Pink Hibiscus)
-掛け軸(ゆいまーる)=Hanging scroll (Yuimaru)
-ラッキービーストのぬいぐるみ（パープルハイビスカス）=Stuffed Lucky Beast (Purple Hibiscus)
-LサイズのPOWER！なカーペット=L size POWER!
-MサイズのPOWER！なカーペット=M size POWER!
-SサイズのPOWER！なカーペット=S size POWER!
-Lサイズのロックステージ風のカーペット=L size rock stage style carpet
-Mサイズのロックステージ風のカーペット=M size rock stage style carpet
-Sサイズのロックステージ風のカーペット=S size rock stage style carpet
-Lサイズのひまわりカーペット=L-size sunflower carpet
-Mサイズのひまわりカーペット=M size sunflower carpet
-Sサイズのひまわりカーペット=S size sunflower carpet
-テレビ（「の」マーク）=Television ("of" mark)
-Lサイズのはなまる！カーペット=L-size Hanamaru! Carpet
-Mサイズのはなまる！カーペット=M size Hanamaru! Carpet
-Sサイズのはなまる！カーペット=S size Hanamaru! Carpet
-Lサイズのけものオバケのカーペット=L size monster obake carpet
-Mサイズのけものオバケのカーペット=M size monster obake carpet
-Sサイズのけものオバケのカーペット=S size monster obake carpet
-Lサイズのどんぐりカーペット=L size acorn carpet
-Mサイズのどんぐりカーペット=M size acorn carpet
-Sサイズのどんぐりカーペット=S size acorn carpet
-Lサイズのジンジャーブレッドニャンのカーペット=L-size gingerbread nyan carpet
-Mサイズのジンジャーブレッドニャンのカーペット=M size gingerbread nyan carpet
-Sサイズのジンジャーブレッドニャンのカーペット=S size gingerbread nyan carpet
-ベッド（「の」マーク）=Bed ("of" mark)
-Lサイズのおみくじのカーペット=L-size fortune carpets
-Mサイズのおみくじのカーペット=M size fortune carpet
-Sサイズのおみくじのカーペット=S size omikuji carpet
-Lサイズのチョコレートのカーペット=L-size chocolate carpets
-Mサイズのチョコレートのカーペット=M size chocolate carpet
-Sサイズのチョコレートのカーペット=S-size chocolate carpets
-Lサイズのイチゴのカーペット=L size strawberry carpet
-Mサイズのイチゴのカーペット=M size strawberry carpet
-Sサイズのイチゴのカーペット=S size strawberry carpet
-Sサイズのジャパリひしもちカーペット=S-size Japari Hishimochi Carpet
-Mサイズのジャパリひしもちカーペット=M-size Japari Hishimochi Carpet
-Lサイズのジャパリひしもちカーペット=L-size Japari Hishimochi Carpet
-本棚（「の」マーク）=Bookshelf ("of" mark)
-Mサイズの絵本のカーペット=M size picture book carpet
-Sサイズの絵本のカーペット=S size picture book carpet
-木の{{A}}（「の」マーク）=Wooden {{A}} ("of" mark)
-Lサイズのジンジャーブレッドワンのカーペット=L size gingerbread one carpet
-Mサイズのジンジャーブレッドワンのカーペット=M size gingerbread one carpet
-Sサイズのジンジャーブレッドワンのカーペット=S size gingerbread one carpet
-Lサイズのまんまる和風カーペット=L-size round Japanese-style carpet
-Mサイズのまんまる和風カーペット=M-size round Japanese-style carpet
-Sサイズのまんまる和風カーペット=S-size round Japanese-style carpet
-Lサイズのカラフルドーナツカーペット=L size colorful donut carpet
-Mサイズのカラフルドーナツカーペット=M size colorful donut carpet
-Sサイズのカラフルドーナツカーペット=S size colorful donut carpet
-木の{{A}}（足跡）=Tree {{A}} (footprints)
-Mサイズのラグビーボール風カーペット=M size rugby ball style carpet
-木の{{A}}（ナチュラル）=Wooden {{A}} (natural)
-Sサイズのラグビーボール風カーペット=S size rugby ball style carpet
-テーブルスタンド=table lamp
-Lサイズのステージ風のカーペット=L-size stage-style carpet
-３段組段ボール=3-tier corrugated cardboard
-Mサイズのステージ風のカーペット=M size stage style carpet
-２段組段ボール=2-tier corrugated cardboard
-Sサイズのステージ風のカーペット=S-size stage-style carpet
-ダンボール=(corrugated) cardboard
-パンジーの鉢植え（ホワイト）=Pansy plant in white
-木の目隠しついたて=Wooden blindfolded screen
-Lサイズのなかよしカーペット=L size Nakayoshi Carpet
-テレビ（{{A}}）=Television ({{A}})
-Mサイズのなかよしカーペット=M size Nakayoshi Carpet
-テレビ（足跡）=Television (footprint)
-Sサイズのなかよしカーペット=S size Nakayoshi Carpet
-テレビ（イエロー）=TV (yellow)
-Lサイズのハイビスカスのカーペット=L size hibiscus carpet
-ソファ{{A}}（足跡）=Sofa {{A}} (footprint)
-Mサイズのハイビスカスのカーペット=M size hibiscus carpet
-ソファ{{A}}（グリーン）=Sofa {{A}} (green)
-Sサイズのハイビスカスのカーペット=S size hibiscus carpet
-{{A}}（ホワイト）={{A}} (White)
-Lサイズの{{A}}カーペット=L size {{A}} carpet
-Mサイズの{{A}}カーペット=M size {{A}} carpet
-Sサイズの{{A}}カーペット=S size {{A}} carpet
-Lサイズのハロウィンカボチャのカーペット=L size Halloween pumpkin carpet
-Mサイズのハロウィンカボチャのカーペット=M size Halloween pumpkin carpet
-Sサイズのハロウィンカボチャのカーペット=S size Halloween pumpkin carpet
-Lサイズの絵本のカーペット=L-size picture book carpet
-木の{{A}}（{{B}}）=Wooden {{A}} ({{B}})
-Sサイズのイースターエッグのカーペット=Carpet of S-size Easter eggs
-木の{{A}}（パーク）=Wooden {{A}} (Park)
-Lサイズのラグビーボール風カーペット=L-size rugby ball style carpet
-本棚（ナチュラル）=Bookshelf (natural)
-Lサイズのイースターエッグのカーペット=Carpet with L-size Easter eggs
-木の{{A}}（ホワイト）=Wooden {{A}} (white)
-Mサイズのイースターエッグのカーペット=M-size Easter egg carpet
-迷宮の地図片UC=Map of the labyrinth fragment UC
-今月99 left=This month 99 left
-今月1 left=1 left
-おそろいなのだ！=They are matching!
-{{B}}{{A}}にて=At {{B}} {{A}}
-おひるのサイレン=siren at sunrise
-{{A}}着任の日={{A}} Arrival Day
-約束=promise
-正義の味方=knight in shining armor
-オーダー！=Order!
-あたらしい仲間=new Friends
-わたしひとりで作れるよ！=I can make it by myself!
-みらいよち=promising (rosy, bright) future
-ジャスティスなふたり=The Justice Couple
-はじめてのフォト！=First time foto!
-今月10 left=10 left this month
-今月3 left=This month 3 left
-今月5 left=This month 5 left
-おもいでの石詰め合わせ=Assorted stones of memories
-悪いのとんでけ=Flee bad girls!
-今から本気出す=I'm getting serious now.
-栄養補給=nutritional supplement
-気を散らす戦法！=Distraction tactics!
-{{B}}は{{A}}の練習中…？\nふふ、いいわね♪={{B}} is practicing {{A}}...?
-ここに本物のドラゴンがいるって思うと…\nうぅ…ちょっと緊張するわ…=The thought of a real dragon here... ugh... makes me a little nervous...
-{{A}}ったら、また急に現れて…\nびっくりするからやめてほしいのよね={{A}}, you're suddenly showing up again... and I don't want you to stop because you're freaking me out.
-ヨーコ=Yoko.
-{{A}}：電池={{A}}: Battery
-（レコード名） \n獲得で解放=(Record name) Released upon acquisition
-{{A}}かきくけこさしすせそたちつ={{A}}, KIK, KIK, KIK, KIK, KIK, KIK, KIK, KIK, KIK, KIK, KIK, KIK, KIK
-スペース不足=lack of space
-{{A}}中　0/0=In {{A}} 0/0
-続けて\n{{A}}=Continue.\n{{A}}
-ちょこっとVRを{{B}}する場合、\n画面を{{A}}してください=If you want to {{B}} a little VR, please {{A}} the screen
-{{A}}しているインテリアはありません=There are no interiors that are {{A}}
-インテリア{{A}}=Interior {{A}}
-スタミナ×<size\=24><color\=#FFEE00>36</color></size>=Stamina x<size\=24><color\=#FFEE00>36</color></size>
-とくべつな壁掛けレコード\n獲得で解放=Released with the acquisition of a special wall record.
-{{A}}のなか=within the {{A}}
-{{A}}～ハロウィンver.～={{A}}～Halloween ver.
-{{A}}～メルヘンver.～={{A}}～Merchen ver.
-{{A}}～クリスマスver.～={{A}}～Christmas ver.
-{{A}}～和っしょいver.～={{A}}～Wasyoi ver.
-{{A}}輝くクリスマス={{A}} Shining Christmas
-群青の夢=a swarming dream
-ゴクサイシキのワルツ=Gokushaishiki Waltz
-{{A}}デビルの壁掛けレコード\n獲得で解放=Released with the acquisition of {{A}} Devil's Wall Record.
-{{A}}～ゴシックメタルver.～={{A}}～Gothic Metal ver.
-春の訪れ=spring (e. g. haiku)
-{{A}}ーのじかん！={{A}} o time!
-みんなでいっしょに！=All together!
-{{A}}～トロピカルver.～={{A}}～Tropical ver.
-ありがとうのじゅんび！=Thank you!
-のんびりゆったりいきましょう♪=Let's take it easy and relax
-どんどんいこう！=Let's keep going!
-{{A}}の壁掛けレコード\n獲得で解放=Released with the acquisition of {{A}} wall records.
-{{A}}\n獲得で解放=Released upon acquisition of {{A}}
-（{{A}}　825）=（{{A}}　825）
-{{A}}pt={{A}}pt
-一括{{A}}=Batch {{A}}
-{{A}}日時：2024/03/25　13:05={{A}} Date: 2024/03/25 13:05
-{{A}}日時：2024/03/25　14:33={{A}} Date: 2024/03/25 14:33
-{{A}}日時：2024/03/25　17:33={{A}} Date: 2024/03/25 17:33
-＜しんまい＞\n<size\=16>から受け取りました</size>=＜Shinmae＞\n<size\=16>Accept from</size>
-＜GM気弱な狼＞\n<size\=16>から受け取りました</size>=<GM feeble wolf\n<size\=16>Accept from</size>
-＜れいん＞\n<size\=16>から受け取りました</size>=<Reinen> \n<size\=16>Accept from</size>
-{{B}}3個と電池{{A}}=3 {{B}} and batteries {{A}}
-ベッド（ホワイト）=Bed (white)
-{{A}}中　0/3={{A}} Middle 0/3
-{{A}}中　1/1={{A}} Middle 1/1
-ハロウィントリートテーブル=Halloween Treat Table
-{{A}}中　0/1=In {{A}} 0/1
-ニャンコ=kitty cat
-今日はこれだけど、\n準備はいいかなぁ？=This is it for today, but I hope you are ready for it.
-あんまり無茶はダメだよ？=Don't be too reckless, okay?
-アイウエオカキクケコアイウエオカキクケコアイウエオカキクケコアイウエオカ=Aiweka kiku-keiko aiweka kiku-keiko aiweka kiku-keiko aiweka
-{{A}}によく似ていますが、{{B}}のほうががっしりとした体格です。木登りだけでなく、ネコ科では珍しく泳ぎも得意です。名前はアメリカ先住民の言葉「ヤガー」からきていて”一突きで殺す者”という意味が含まれます。=It is similar to {{A}}, but {{B}} has a stouter build, and is not only a tree climber but also a good swimmer, which is rare in the cat family.
-南米=South America
-熱帯雨林=tropical forest
-哺乳綱ネコ目ネコ科{{A}}属{{B}}=Mammalia catinae catinae {{A}} genus {{B}}
-{{D}}が15％増加する\r\nさらに{{B}}(赤){{E}}の味方の\r\n{{A}}{{C}}(高)が増加する={{D}} increases by 15% more {{B}} (red) {{E}} allies {{A}} {{C}} (high)
-悩んでも仕方ない=There's no point in worrying about it.
-{{A}}が8％増加し、かいひが3％増加する\r\nさらにたいりょくが30％以下になったとき\r\nMPが30増加する\r\n（発動回数：1回）={{A}} is increased by 8% and Kaihi is increased by 3%, and MP is increased by 30 when the Tairiku falls below 30% (number of activations: 1).
-見切り=forsake
-{{F}}が13％増加し\r\n{{B}}、{{A}}、{{D}}、\r\n{{C}}{{E}}(高)が増加する(3ターン)\r\n発動率：100％   発動回数：2回={{F}} increases by 13% and {{B}}, {{A}}, {{D}}, {{C}} {{E}} (high) increases (3 turns) activation rate: 100% activation frequency: 2 times
-雨神演舞=dance performance held in April by geisha and maiko in Kyoto's Gion district
-相手単体に38％×3の{{B}}を与える\r\nさらに自身の{{A}}が2％増加する(10ターン)=Inflicts 38% x 3 {{B}} on a single opponent and also increases its own {{A}} by 2% (10 turns)
-相手単体に26％×17と104％の{{A}}を与え\nMPを20減少させる\r　※一回発動分のMPは残る\r\nさらに自身のMPが20増加する=Inflicts 26% x 17 and 104% {{A}} on a single opponent and reduces MP by 20.\r The MP of one activation remains, and also increases its own MP by 20.
-相手単体に160％×3の{{B}}を与える\r\nさらに高確率で{{A}}状態にし(1ターン)\r\nかいひを22％減少させる(2ターン)=Given 160 % x 3 {{B}} to the opponent alone, reduce the {{A}} state with a higher probability (1 turn) Kaihi is reduced by 22 % (2 turns).
-相手単体に20％×5の{{C}}を与え\r\n中確率で{{A}}を10％減少させ、\n{{B}}を10％増加させる(2ターン)=Give a 20 % x 5 {{C}} to the opponent alone, reduce {{A}} by 10 % with a probability, and increase {{B}} by 10 % (2 turns).
-風清弊絶=Feng Shijin
-自身の{{B}}と{{A}}を15％増加し(2ターン)\r\n自身を除いた味方の{{B}}減少状態を解除する\r\n\r\n発動率：100％　発動回数：2回=Increase your {{B}} and {{A}} by 15 % (2 turns), unlock the {{B}} reduction state of your ally except yourself.\nActivation rate: 100 % activation number: 2 times
-哺乳綱クジラ偶蹄目ウシ科\n{{A}}属{{A}}={{A}} {{A}} {{A}} {{A}}
-相手単体に180％と420％の{{C}}を与え\r\n自身の{{B}}が13％減少する(2ターン)\r\nさらに高確率で相手の{{A}}状態を解除する=Give the opponent alone with 180 % and 420 % {{C}}, decrease by 13 % (turn 2) and unlock the opponent's {{A}} state with a higher probability.
-相手単体に120％の{{A}}を与え\r\n低確率で自身の状態異常を解除する=Give 120 % {{A}} to the opponent alone and unlock your condition with a low probability
-終焉奏鳴曲=Ending Kannaku
-自身の{{B}}が15％増加し(4ターン)\r\n自身を除く{{A}}(赤){{C}}の味方の{{B}}が15％増加する(3ターン)\r\n発動率：100％　発動回数：1回=Your {{B}} increases by 15 % (4 turns) Except yourself, {{A}} (red) {{C}} {{B}} increases by 15 % (3 turns) Activate rate: 100 % activation: 1 time
-叡智覚醒=Wisdom awakening
-{{E}}が15％増加し、\r\n{{B}}(赤){{F}}の味方の{{A}}{{D}}(高)が増加する\r\nさらに自身がギブアップ状態でないとき\r\n{{C}}(緑){{F}}の相手の{{E}}を10％減少する={{E}} increases by 15 %, {{B}} (red) {{F}}'s ally {{A}} {{D}} (high) increases, and when {{C}} (green) {{F}}'s opponent {{E}} is reduced by 10 % when it is not a gift.
-皆既月食=Total lunar eclipse
-自身の{{A}}が15％増加し\r\nさらに味方がギブアップしたとき\r\n自身の{{A}}が5％増加する(発動回数：4回)\r\n加えてステージの時間が夜のとき\n相手全体の{{B}}が15％増加する=When your {{A}} increases by 15 % and your ally gives up further, your {{A}} will increase by 5 % (activated: 4 times), and when the stage time is at night, {{B}} of the whole opponent will increase by 15 %.
-爬虫綱有鱗目ニシキヘビ科\nニシキヘビ属{{A}}=Reptitory rope scales Nishiki snake family Nishiki hibi genus {{A}}
-{{A}}{{B}}の相手から受ける{{C}}が増加=Increased {{C}} received from {{A}} {{B}} opponents
-{{A}}{{B}}の相手に与える{{C}}が減少={{C}} given to {{A}} {{B}} decreases
-受けた{{A}}の一部を相手に返す=Return a part of the received {{A}} to the other party
-ピクニックで{{A}}を18500個獲得！=Get 18500 {{A}} with picnic!
-ピクニックの{{A}}を{{B}}します\nよろしいですか？\n\n入れ替えた枠は獲得までの時間がリセットされます=Are you sure you want a picnic {{A}} {{B}}?\nThe time to acquire the replaced frame will be reset
-来てくれたのね\n今日はこれと…私の歌を{{A}}=You came, this and this is... My song {{A}}
-明日も～♪絶対来てね～♪\nや～く～そ～く～よ～～～♪=Tomorrow～ ♪ Absolutely come～ ♪
-{{B}}1個と電池{{A}}=1 {{B}} and battery {{A}}
-（{{A}}　828）=（{{A}}　828）
-{{A}}日時：2024/03/26　13:17={{A}} Date: 2024/03/26 13:17
-「すぺしゃる7」="Supposer 7"
-けだもの３=Kidamono 3
-寒い日はやっぱりモフモフ！=After all on a cold day!
-カイジュウ=Kaiju
-「すぺしゃる6」="Supishal 6"
-にゃんたし=Nyantoshi
-「すぺしゃる5」="Supposu 5"
-自慢のお耳なのね=It's a proud ear
-れもてぃ=Remote
-「すぺしゃる4」="Supposer 4"
-たけやん=Takayan
-コッコロ=Kokkoro
-ぽーんこたーじゅ=Pon Kota Ju
-さばじゃむ=Mackerel
-かわいいね…=cute…
-「すぺしゃる3」="Supposer 3"
-イズミ=Izumi
-まいまい=Maimai
-あやか=AYaka
-「すぺしゃる2」="Supposer 2"
-アキ=Aki
-オジェイ=Ojay
-うに=Sideways
-レグルス=Regles
-家郎=Family
-ペロロンチーノ=Peroloncino
-「すぺしゃる1」="Supposu 1"
-ニイガタのフレンズ=Niigata Friends
-なぁ隊長～！　いつもお疲れ様だぜ～？　へへっ\nだ・か・ら・さー！　ハムハム、いいだろ？=Captain!\nThank you for your hard work～?\nHoda, Ka, Rasa!\nHamham, are you okay?
-{{B}}の{{A}}のぼりを獲得しました=I got a {{B}} {{A}} climb
-現在の{{A}}：7=Current {{A}}: 7
-Action!{{A}} +1.0%=Action!{{A}} +1.0%
-閑古猫=Old cats
-琵琶湖わんわん王国=Lake Biwa Wanwan Kingdom
-さくぽ=Ski
-ざわし=Jaw
-こるん=Korun
-盆踊り名人♪=Bon Odori Master ♪
-野獣リリアン=Beast Lillian
-ハヤト=Hayato
-やさぐれネッコ=Yasaguri Nekko
-たこのしん=Kettle
-ストルム=Storm
-アグロ=Agro
-もてぃぷぅ=Motopu
-ごろう=Dawn
-　4/11まで=　Until 4/11
-{{A}}たちの思い出が刻まれた結晶\n{{B}}の強化に使用します=Used to enhance the crystal {{B}} engraved with the memories of {{A}}.
-（{{A}}　831）=（{{A}}　831）
-{{A}}日時：2024/03/28　07:01={{A}} Date and time: 2024/03/28 07:01
-木曜=Thursday
-ふとやん(3rd)=Futayan (3rd)
-みこと=Sincerity
-荒川=River river
-うーたん=Utan
-遠くまで遊びに行きたいなぁ\nうぅでも、すみかからずっと離れるのも心配…=I want to go to play far, but I'm worried that I'm always away from Sumika...
-海岸に落ちてた貝がら…\nすみかに飾ったらかわいくなりそう…！=The shellfish that fell on the coast... It would be cute if you decorate it...!
-{{A}}たちみたいにわたしも\n強くなりたいな…=I want to be stronger like {{A}}...
-タッチして\n{{A}}=Touch and {{A}}
-{{A}}かきくけこさしすせそたちつてと={{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}} or {{A}}.
-{{A}}かきくけこ{{A}}かきくけこ\n{{A}}かきくけこ{{A}}かきくけこ={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}} Kakiku Kekko
-{{B}}を行ったことで、\n{{A}}を獲得しました！={{A}} was earned by performing {{B}}!
-<size\=16><color\=#FF8784>アイウエオカキクケコアイウエオ</color></size>\nアイウエオカキクケコアイウエオ=<size\=16><color\=#FF8784>Aiueo kakikukeko iueo</color></size>\nIueo-kakikukeko iueo
-（フレンズ名） の\nフレンズストーリー\n○話クリアで解放=(Friends' name)'s Friends' Story is released after completing Episode XX.
-17：00～24：00の時間に{{A}}にアクセス！=Access {{A}} between the hours of 17:00 and 24:00!
-<size\=16><color\=#FF8784></color></size>\nオーストラリアデビル=<size\=16><color\=#FF8784></color></size>\nAustralia Devil
-なかよしPt<size\=24><color\=#FFEE00>4</color></size>倍！=Friendship Pt.<size\=24><color\=#FFEE00>4</color></size>!
-カードの印刷についての{{B}}は公式{{A}}ぺージで{{C}}してね={{C}} the official {{A}} page for {{B}} about printing cards.
-<size\=32>アーケードゲーム</size>「けものフレンズ3 プラネットツアーズ」\n<size\=40>の筐体カメラにQRコードをかざしてね</size>=<size\=32>Arcade Games</size>Kemono Friends 3: Planet Tours\n<size\=40>Hold up the QR code to the camera of the arcade game "KEMONO'S FRIENDS 3 PLANET TOURS".</size>
-☆４\n{{A}}！=☆４\n{{A}}！
-{{A}}かきくけこ{{A}}かきくけこ{{A}}={{A}} Kakiku Kekko {{A}} Kakiku Kekko {{A}}
-イベント「Param01」で<color\=#FFFE86>Param02</color>=At the event "Param01<color\=#FFFE86>Param02</color>
-{{A}}かきくけこかきくけこ={{A}}, scratch that, scratch that, scratch that.
-アイウエオアイウエオアイウエオアイウエオアイウエオ=iweo iweo iweo iweo iweo iweo
-{{A}}かきくけこ{{A}}={{A}} Kaki-Kake-Ko {{A}}
-アイウエオアイウエオアイウエオ=iweo iweo iweo
-4.5周年ありがとう！{{A}}1=Thanks for the 4.5 year anniversary, {{A}}1!
-有償=onerous
-本日あとN回無料!=N more free today!
-★4確定まで\nあと<size\=24>10/10回</size>=4 Confirm to go<size\=24>10/10 times</size>
-切替=switching (to)
-ステップ<size\=32>1</size>=Steps<size\=32>1</size>
-インテリア=interior
-このステップにフレンズはありません=No Friends on this step.
-このステップにフォトはありません=There are no fotos in this step.
-このステップにアイテムはありません=There are no items in this step.
-このステップにおまけはありません=There are no extras in this step.
-アイウエオカキクケコ=iueo-kaki cuckoo
-ネコ目ネコ科ネコ族\nネコ科ネコ族ネコ目ネコ科ネコ族ネコ=Felis catus, Felis catus, Felis catus, Felis catus, Felis catus, Felis catus, Felis catus, Felis catus
-{{A}}あい={{A}} Ai
-グリズリー無料10回{{A}}=Grizzly Free 10 times {{A}}
-グリズリー=grizzly bear (Ursus arctos horribilis)
-哺乳綱ネコ目クマ科クマ属\n{{A}}亜種{{B}}=Mammalia catinae catinae bear family bear genus {{A}} subspecies {{B}}
-私はグリズリーだ　キミ、{{A}}くんたちを\n見なかったか？　いっしょにトレーニングを\nするはずだったんだが…=I'm a grizzly. Kimi, have you seen {{A}}? We were supposed to train together, but...
-{{A}}時と解除時で\n{{B}}画面で聞ける{{C}}が変化します=The {{C}} that can be heard on the {{B}} screen changes when {{A}} is on and when {{A}} is off.
-{{B}}可能な{{A}}はありません={{B}} No {{A}} available
-ちからくらべで「{{A}}ランク24」にはじめて到達！=Reached "{{A}} Rank 24" for the first time in Chikara-Kurabe!
-フレンズ集合！けもの大武闘会～春～=Friends Gathering! Kemono Dai-Buto Kai～Spring～!
-別の端末からのログインを{{A}}しました\nタイトル画面に戻ります\n\nCODE:7={{A}} logged in from another device Return to title screen\n\nCODE:7
-{{A}}\n\nCODE:20002={{A}}\n\nCODE:20002
-フレンズやフォトが持つパッシブスキル\n野生解放を一段階達成することで解放されます=It is released by achieving one level of passive skill wild release that Friends and Photos have
-【キャンペーン】{{A}}=Campaign] {{A}}
-Beat!!!{{A}}＋2.0％=Beat!!!{{A}}＋2.0％
-{{A}}と一致するフレンズがいません\r\n※{{A}}の{{B}}を{{C}}してください※=No Friends matching {{A}} *Please {{C}} the {{B}} of {{A}}*.
-<size\=16><color\=#FF8784>【アイウエオカキクケコあいう】</color></size>\nアイウエオカキクケコ=<size\=16><color\=#FF8784>Aiueo kakikukeko aiueo kakikukeko aiueo kakikukeko aiueo kakikukeko</color></size>\niueo-kaki cuckoo
-{{A}}選択={{A}} Selection
-{{A}}と一致するフォトがありません\n※{{A}}の{{B}}を{{C}}してください※=No photo matching {{A}} *Please {{C}} the {{B}} of the {{A}}*.
-未加入フレンズ(※{{A}}で表示)=Unsubscribed Friends (* Indicated by {{A}})
-{{B}}と一致する{{A}}がありません\r\n※{{B}}の{{C}}を{{D}}してください※=There is no {{A}} that matches {{B}}* Please {{D}} the {{C}} of {{B}}*.
-{{A}}を{{B}}していません\r\n※{{A}}は「すぺしゃるクエスト」などで獲得できます※={{A}} is not {{B}}ed* {{A}} can be obtained through "Supesharu Quest" and other means*.
-{{A}}かきくけこ={{A}}, {{A}}, kaki-kake-kake-koke-koke.
-{{A}}かきくけこさしすせそたちつてとなにぬね={{A}}, Kik-Keko, Sisu-Sesu, Tachi-Tsutsu, Nan-Nu-Ne
-強化する{{A}}=Reinforcing {{A}}
-{{A}}不可={{A}} not available
-グループ内\n期間中{{A}}10回={{A}} 10 times during the group
-「{{A}}かきくけこ{{A}}かきく」={{A}} Kakiku Keko {{A}} Kakiku
-{{A}}\n3章12話クリア={{A}} Chapter 3, Episode 12 cleared
-{{A}}\n1章6話クリア={{A}} Chapter 1, Episode 6 cleared
-{{A}}\n1章1話クリア={{A}} Chapter 1, Episode 1 cleared
-{{A}}\n1章9話クリア={{A}} Chapter 1, Episode 9 cleared
-<size\=18><color\=#FF8784>【アイウエオカキクケコアイウエオ】</color></size>\nアイウエオカキクケコアイウ=<size\=18><color\=#FF8784>Aiueo kakikukeko aiueo</color></size>\n[iueo kakikukeko iueo
-{{A}}後のステータス=Status after {{A}}
-{{B}}ともいわれていて、{{A}}の亜種です。大きな体をしていますが、走る速度は速く、泳ぎも得意です。子供のころは木登りもしますが、体が大きくなると登れなくなるようです。=They are also known as {{B}} and are a subspecies of {{A}}. they are large, but they run fast and are good swimmers. they climb trees as children, but as they grow older, they seem to lose the ability to climb.
-レッド{{A}}=Red {{A}}
-カナダ・アラスカ=Canada and Alaska
-森林=forest
-アイコン{{A}}=Icon {{A}}
-みんなで強く=Stronger together
-後輩君たちの指導者として=As a mentor for younger students
-肩慣らしをしよう=Let's get used to the shoulder.
-{{A}}状態={{A}} State
-<color\=#FFFF94>ステータスアップ</color>「セルリアン大掃除」=<color\=#FFFF94>Status Update</color>"Cerulean Cleanup"
-自身の{{C}}が10％増加する\r\nさらに自身のたいりょくが80％以上のとき\n自身の{{C}}が10％増加し\r\n{{A}}、{{B}}状態の相手に\n与える{{D}}が15％増加する=Increases own {{C}} by 10%, and when own strength is 80% or more, increases own {{C}} by 10% and {{D}} to opponents in {{A}} and {{B}} by 15%.
-自身の{{D}}が15％増加し\r\n{{D}}の5％分のたいりょくが回復する状態になる\r\nさらに{{B}}(赤){{E}}の味方の{{A}}{{C}}(高)が増加する=Increases own {{D}} by 15%, and the state of recovering power for 5% of {{D}}.
-ギブアップ中ではない味方が5人の場合\r\n自身の{{B}}が20％増加する(3ターン)\r\n4人以下の場合、{{A}}な1人をたいりょく50％で復帰させる\r\n\n発動率：100％ 発動回数：1回=If there are 5 allies who are not in the process of giving up, her {{B}} will increase by 20% (3 turns)If there are 4 or less allies, one {{A}} player will be restored with 50% of the power of the {{A}}.
-相手単体に120％の{{B}}を与え\r\n高確率で{{A}}を5％増加させる(3ターン)=Inflicts 120% {{B}} on a single opponent and increases {{A}} by 5% with a high probability (3 turns)
-躍動強打=dynamic hitting
-相手単体に528％の{{B}}を与え\r\n{{A}}戦の場合\r、追加で66％の{{B}}を与える\r\nさらに自身のMPが16増加する=Deals 528% {{B}} to a single opponent and, in the case of a {{A}} fight\rAn additional 66% {{B}} is given to the opponent, and her MP is increased by 16.
-大地鳴動・熊手の撃=Earth rumbling, rake shot
-杏寺円花=Kyouji Enka
-「自分で言うのもなんだけど、強いほうだと思う。\nだが今は{{A}}たち後輩のクマが強くなるよう、\n指導をしている。\nすぐに私を頼る後輩くんばかりで、\nなかなか強くなってくれないがな。\nついつい細かく口を挟んじゃう私がいけないのかしら？」=I'm not sure if it's my fault, but I'm trying to help {{A}} and the other younger bears get stronger.
+
