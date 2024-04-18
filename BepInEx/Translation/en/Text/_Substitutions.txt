@@ -1,4 +1,5 @@
 ﻿----------Friendship Level Up Quotes----------
+いつもお世話をしてくれてありがとう\nボクの気持ちをこめたやさい、あげる=Thank you for always taking care of me,\nI'll give you vegetables filled with my love!
 あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?
 あんたといると、楽しくて…\n気づいたら会いに行っちゃってるのよね……なにその顔=I have so much fun with you...\nI find myself coming to see you... what's with that face?
 私の苦手なことは、隊長の得意なこと…\n私たちが力を合わせたら、最強になっちゃうかも！=What I am not good at, the captain is good at...\nIf we join forces, we could be the strongest!
@@ -237,6 +238,16 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+小腹みたし=Bellyful
+捕獲必中=Must Be Captured
+風向きの変化=The Wind Changes
+気の向くままに遠くへ=As Far As You'd Like
+風を乱すやつは…許さない！=Upset Winds Aren't Tolerated!
+噛みついてはなさない=Bite and don't let go
+わくわく！ボクのいたずら！=My Exciting Mischief!
+おとなしい…ほうだよ=She's... A Quiet One.
+まだまだ動き足りないよ=We're not moving fast enough
+ボク、やるときはやるから=I'll do it when I gotta
 大地鳴動・熊手の撃=Earth-Shaking Shot
 これがオレの！=This is mine!
 桃紅柳緑・春の舞=Peach Willow, Spring Dance
@@ -489,7 +500,7 @@ Kari=Kari
 己を信じ、一陣の風となれ！=Believe In Yourself, Become The Wind!
 摩訶不思議！ランタンパーティ=Mysterious! Lantern Party
 召喚・冥界へ誘う地獄の門=Gates Of Hell・To The Underworld
-セーバルちょーがんばるボンバー=Cerval-Chan's Do Your Best Bomber
+セーバルちょーがんばるボンバー=Cerval's Do Your Best Bomber
 烈風のスーパーサバンナクロー=Serval's Stormy Super Savanna Claw
 キッレイなところに福は来る♪=Fortune To A Beautiful Place♪
 急降下！これが私の全速力！=Swoop! My Full Speed!
@@ -707,9 +718,6 @@ Kari=Kari
 
 ----------Scenarios----------
 チュートリアル　Welcome! ジャパリパーク=Welcome To Japari Park! Tutorial
-メインストーリー　シーズン２=Main Story Chapter 2
-メインストーリー　シーズン３=Main Story Chapter 3
-メインストーリー=Main Story
 セーバルぶらり旅=Cervals Journey
 ブラックジャガーパーク建設中！=Black Jaguar's Park Under Construction
 体力測定　ヒグマ編=Physical Fitness Test: Brown Bear Edition
@@ -720,7 +728,6 @@ Kari=Kari
 迎春！　フレンズかくし芸大会！=Welcome Spring! Friend's Hidden Art Competition!
 体力測定　デグー編=Physical Fitness Test: Degu Edition
 美味♡じゅるりバレンタイン=Delicious♡Slurp Valentines Day
-イベントストーリー=Event Story
 
 ----------MENU AND TREEHOUSE CONTROLS (Another one)----------
 種類順=Sort By Type
@@ -3389,7 +3396,6 @@ WAVE数= Waves
 ドードー=Dodo
 イエネコ=Domestic Cat
 イエイヌ=Domestic Dog
-イエイヌ（雑種）=Mixed-Breed Dog
 ブタ=Pig
 ロバ=Donkey
 ドロロ=Dororo
@@ -3603,6 +3609,7 @@ HAW-206=HAW-206
 ヤンバルクイナ=Okinawa Rail
 ハブ=Habu
 獣王ハゲワシ=Old World Vulture (Beast King)
+ハゲワシ=Vulture
 シャチ=Orca
 コウノトリ=Oriental Stork
 獣王ダチョウ=Ostrich (Beast King)
@@ -4068,6 +4075,7 @@ EN：絶滅危惧=EN: Endangered
 入手方法=Where To Get
 けもコーラス=Kemo-Chorus
 ライオン=Lion
+アリゲーター=Alligator
 
 ----------ATTEMPTED FIX Golgopus HippopotamusOF DEEPL REPEATING LINES----------
 いやいや=No no

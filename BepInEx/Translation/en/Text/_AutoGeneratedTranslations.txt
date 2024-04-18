@@ -1,4 +1,11 @@
 ﻿-----REGEX-----
+r:"^獲得日時　([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+)$"=Date Acquired: $3/$2/$1 $4:$5
+r:"^期間中累計([0-9]+)日ログイン$"=Log in for $1 days during the event
+r:"^([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=$1/$2 $3:$4 or later
+r:"^エクストラその([0-9]+)をクリア$"=Clear Extra Quest $1
+r:"^イベントメインストーリー([0-9]+)話のバトル([0-9]+)をクリア$"=Clear Battle $1 of Event Story Episode $2
+r:"^メインストーリー　シーズン([0-9]+)$"=Main Story Chapter $1
+r:"^ハード　その([0-9]+)$"=Hard $1
 r:"^　([0-9]+)\/([0-9]+)まで$"=　Through $1/$2
 r:"^ハードクリア\\n([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=Clear Hard\n$1/$2 $3:$4 or later
 r:"^ノーマル1話クリア\\n([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=Clear Normal Ep. 1\n$1/$2 $3:$4 or later
@@ -209,10 +216,11 @@ r:"^☆([０-９]+)以上しょうたい$"=☆$1 or better
 r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^「エクストラ　その([0-9]+)」$"="Extra Part $1"
-r:"^×([0-9]+)$"=x$1
+------r:"^×([0-9]+)$"=x$1
 r:"([0-9]+)\/([0-9]+) ～ ([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) まで$"=$1/$2 ～ $3/$4 until $5:$6
 r:"([0-9]+)\/([0-9]+)～([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) まで$"=$1/$2 ～ $3/$4 until $5:$6
 2x=2
+2X=2
 
 ----------REGEX IN-GAME STATUS----------
 r:"^被ダメージ<size\\=([0-9]+)>([0-9]+)\%<\/size>増加$"=Damage Taken +<size\=$1>$2%</size>
@@ -254,6 +262,11 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 野生解放！=Wild Release!
 「期間限定クエスト」=「Limited Quests」
 輝きの小瓶！=Vials of Radiance!
+
+----------MISSIONS----------
+メインストーリー=Main Story
+イベントストーリー=Event Story
+エクストラ（デイリー）をクリア=Clear Extra (Daily)
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
 Param01<size\=30>人</size>=Param01<size\=30>Person</size>
@@ -661,14 +674,9 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------
-フレンズ・エッグ交換所=Friends & Egg Exchange
-フレンズ・エッグ=Friends & Eggs
-イースター・ビーンズ交換所=Jelly Beans Exchange
-お宝発見！？イースター！=Treasure Found!? Easter!
-イースター？=Easter?
-「お祭りの準備をしよう！」="Let's get ready for the festivities!"
-イエウサギ野生開放セットその2=Yellow Rabbit Wild Open Set #2
-イエウサギ野生開放セットその1=Yellow Rabbit Wild Open Set #1
 
 
+
+
+{{A}}かきくけこ{{A}}かきくけこ{{A}}\n{{A}}かきくけこ{{A}}かきくけこ{{A}}={{A}} kakikukeko {{A}} kakikukeko {{A}} {{A}} kakikukeko {{A}}
 

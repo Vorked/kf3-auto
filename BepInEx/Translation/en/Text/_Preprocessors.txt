@@ -109,6 +109,23 @@ zmpz={{N}}
 zmqz={{O}}
 zmrz={{P}}
 
+Zmcz={{A}}
+Zmdz={{B}}
+Zmez={{C}}
+Zmfz={{D}}
+Zmgz={{E}}
+Zmhz={{F}}
+Zmiz={{G}}
+Zmjz={{H}}
+Zmkz={{I}}
+Zmlz={{J}}
+Zmmz={{K}}
+Zmnz={{L}}
+Zmoz={{M}}
+Zmpz={{N}}
+Zmqz={{O}}
+Zmrz={{P}}
+
 zmmcz={{A}}
 zmmdz={{B}}
 zmmez={{C}}
