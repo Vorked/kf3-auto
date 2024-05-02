@@ -238,7 +238,17 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+お立会い！キンシャチの舞♪=Kinshachi Dance♪
+キンキラパックはいかが？=Want a shiney pack?
+それ、いっちょあがり！=That's a good one!
+お城のてっぺんから見る景色=View from the top of the castle
+光る黄金の体=Shining Golden Body
+るんるん♪やさい収穫祭！=Harvest Festival♪
+ひまならかまって=Help if you're free
+オリジナル・ドレッシング=Homemade Dressing
+ぺったん、ぺったん♪=Flatten, Flatten♪
 小腹みたし=Bellyful
+だんだん！スタッピング=Step It Up!
 捕獲必中=Must Be Captured
 風向きの変化=The Wind Changes
 気の向くままに遠くへ=As Far As You'd Like
@@ -572,6 +582,7 @@ Kari=Kari
 
 ----------Friends Title----------
 私たちのプライド=Our Pride
+おひさまの下でわたしとダンス！=Dance with me under the sun!
 なないろにきらめく☆=Sparkling Rainbow☆
 夏の日の思い出は毒とともに=Memories of Summer Poison
 仲間といっしょに、笑顔の一歩=Take a step with a smile,\ntogether with friends
@@ -2236,7 +2247,7 @@ MP増加量半減=MP increase halved
 木曜日ベストスコア=Thursday's Top Score
 達成日時=Earned: 
 自己ベストスコア= Personal Best Score
-与えたダメージ=Damage Made
+与えたダメージ=Damage Dealt
 
 ----------PICNIC----------
 ピクニックアイテム獲得=Acquired Picnic Items
@@ -2921,6 +2932,7 @@ G・ロードランナー=Greater Roadrunner
 ゴルゴプスカバ=Gorgops Hippo
 コウノトリ=Oriental Stork
 ショウジョウトキ=Scarlet Ibis
+キンシャチ=Kinshachi
 シャチ=Orca
 シマリス=Chipmunk
 シベリアオオヤマネコ=Siberian Lynx
@@ -3610,7 +3622,6 @@ HAW-206=HAW-206
 ハブ=Habu
 獣王ハゲワシ=Old World Vulture (Beast King)
 ハゲワシ=Vulture
-シャチ=Orca
 コウノトリ=Oriental Stork
 獣王ダチョウ=Ostrich (Beast King)
 ヤブワラビー=Pademelon
@@ -3780,7 +3791,7 @@ HAW-206=HAW-206
 
 ----------NAME FIXES MUST BE AT THE END----------
 リタイア=Retire
-所持=Owned
+
 トキ=Toki
 ヒョウ=Leopard
 ジャガー=Jaguar
