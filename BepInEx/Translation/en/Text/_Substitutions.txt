@@ -238,6 +238,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+どかんといくわ=Going Fast
+私がみておく=I'll take a look
+カチカチのウロコ=Hard Scales
+ガードはくずせない=Unbreakable Guard
+狙ってすすめ！私はとまらない=Can't Be Stopped!
 お立会い！キンシャチの舞♪=Kinshachi Dance♪
 キンキラパックはいかが？=Want a shiney pack?
 それ、いっちょあがり！=That's a good one!
@@ -914,6 +919,7 @@ AND検索=AND Search
 フレームレート=Framerate
 同タブ内で=Within Quest Tab
 本日残り1回=1 Use left
+太陽の恵みクエスト　なかよし！=Friendship Blessing Sun Quest!
 
 ----------RAIDS----------
 累計でイベントクエストを10回クリア=Cleared the Event Quest 10 times
@@ -2828,6 +2834,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 アフリカニシキヘビ=African Python
 アメリカレア=Greater Rhea
 オオセンザンコウ=Giant Pangolin
+サバンナセンザンコウ=Savannah Pangloin
 オオタカ=Goshawk
 G・ロードランナー=Greater Roadrunner
 ゴールデンタビータイガー=Golden Tiger
@@ -3452,7 +3459,6 @@ WAVE数= Waves
 モリイノシシ=Giant Forest Hog
 オオカワウソ=Giant Otter
 ジャイアントパンダ=Giant Panda
-オオセンザンコウ=Giant Pangolin
 獣王キリン=Giraffe (Beast King)
 ギロロ=Giroro
 ゴジラ=Godzilla
@@ -3742,8 +3748,6 @@ HAW-206=HAW-206
 フクロオオカミ=Thylacine
 チルー=Tibetan Antelope
 チベットスナギツネ=Tibetan Sand Fox
-トミー=Tommy
-トピ=Topi
 トランスバールライオン=Transvaal Lion
 ツチノコ=Tsuchinoko
 ツクヨミノシンシ=Tsukuyomino Shinshi
@@ -4087,6 +4091,9 @@ EN：絶滅危惧=EN: Endangered
 けもコーラス=Kemo-Chorus
 ライオン=Lion
 アリゲーター=Alligator
+ラッキービースト=Lucky Beast
+トミー=Tommy
+トピ=Topi
 
 ----------ATTEMPTED FIX Golgopus HippopotamusOF DEEPL REPEATING LINES----------
 いやいや=No no
