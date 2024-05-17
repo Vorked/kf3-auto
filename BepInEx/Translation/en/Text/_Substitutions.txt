@@ -238,6 +238,10 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+みんなの平和のために=Peace For All!
+みんなー！作戦だよー！=Here's the plan!
+すきを見せたわね=You showed your weakness
+やりがいのある日々=Rewarding Days
 どかんといくわ=Going Fast
 私がみておく=I'll take a look
 カチカチのウロコ=Hard Scales
@@ -2834,7 +2838,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 アフリカニシキヘビ=African Python
 アメリカレア=Greater Rhea
 オオセンザンコウ=Giant Pangolin
-サバンナセンザンコウ=Savannah Pangloin
+サバンナセンザンコウ=Savannah Pangolin
 オオタカ=Goshawk
 G・ロードランナー=Greater Roadrunner
 ゴールデンタビータイガー=Golden Tiger
