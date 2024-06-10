@@ -149,6 +149,10 @@
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
 ピックアップ対象フレンズ=Friend Pick-Up
 おそうじわくわくボックスしょうたい=Exciting Cleaning Box Invitation
+以下のおまけを入手しました。=The following extras were obtained:
+入手したおまけ=Bonuses gained:
+おまけゲット！=Bonus get!
+解放ボーナス=Release Bonus
 
 ----------BATTLES, EVENTS, QUESTS MUSIC (unknown)----------
 ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
@@ -238,6 +242,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+九夏三伏・夏の活撃=9 Summers, 3 Secrets
+火炎大輪撃=Flame Ring Attack
+士気高揚=Morale Boost
+火を司る守護者=Guardian of Fire
+五龍神の赤龍=Red Dragon of the Five Gods
 みんなの平和のために=Peace For All!
 みんなー！作戦だよー！=Here's the plan!
 すきを見せたわね=You showed your weakness
@@ -4219,5 +4228,6 @@ EN：絶滅危惧=EN: Endangered
 落雁(NPC)=Falling Geese(NPC)
 キキョウ(NPC)=Kikyo(NPC)
 シンゴ(NPC)=Shingo(NPC)
-
+デイジー(NPC)=Daisy (NPC)
+ミツル(NPC)=Mitsuru (NPC)
 
