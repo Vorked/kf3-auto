@@ -1,9 +1,9 @@
-﻿----------Term fixes------------
+﻿
+----------Term fixes------------
 Invitation (Gacha)=Invitation
 Configurationed=Configured
 1 Times = 1 Time
 Kochokocho=Tickling
-2x=2
 
 ----------Common Text Error Fixes----------
 Followinged=Following

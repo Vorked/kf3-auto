@@ -34,7 +34,10 @@
 フレンズ・フォト\nおしゃれアクセ 一覧=Friends, Photos,\nAccessories List
 助っ人更新=Helpers
 別の端末からのログインを確認しました\nタイトル画面に戻ります=Confirmed login from another device.\nReturning to the title screen.
-
+獲得量2.0倍=2x the amount earned
+選択完了=Selection Complete
+獲得できる小さな輝石3倍!=Earn 3x Little Pyroxene!
+獲得できる小さな輝石2倍!=Earn 2x Little Pyroxene!
 
 ----------Batch Upgrades----------
 ※　マークがついた項目のみ選択できます=※Only marked items can be selected
@@ -196,6 +199,8 @@
 今日運んだ荷物はかなーり重かったけど…\n何が入っていたのかな？=The package we carried today was\nquite heavy... but what was in it?
 
 ----------Loading Screen Tooltips----------
+強化するフレンズ=Strengthening Friends
+フレンズやフォトが持つパッシブスキル\n野生解放を一段階達成することで解放されます=The passive Wild Release Skill will be unlocked when one stage is achieved by Friends or Photo.
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
 フレンズの衣装を変更することが出来る\n特別な衣装は所持しているだけでステータスが上昇します=Special outfits can change the appearance of a Friend and will increase their stats by owning the.
 命中とかいひ=Hit and Evade
@@ -242,6 +247,10 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+寒くてもへっちゃらです=I don't mind the cold
+いにしえの鼓動=Heartbeat of Ancient Times
+こころあたたまる場所で、ともに=Warm your heart and soul, together
+綿雪の息吹=Breath of Snow
 九夏三伏・夏の活撃=9 Summers, 3 Secrets
 火炎大輪撃=Flame Ring Attack
 士気高揚=Morale Boost
@@ -823,10 +832,6 @@ Kari=Kari
 必要レベル=Required Level
 を 受け取りました=was recieved
 使用アイテム=Items used
-レベル上限＋11=Level Cap +11
-レベル上限＋10=Level Cap +10
-レベル上限＋3=Level Cap +3
-レベル上限=Level Cap
 使用するアイテム=Items to be used
 使用アイテム個数選択=Select the number of items to use
 レベル上限解放確認=Level Cap Release Confirmation
@@ -933,11 +938,25 @@ AND検索=AND Search
 同タブ内で=Within Quest Tab
 本日残り1回=1 Use left
 太陽の恵みクエスト　なかよし！=Friendship Blessing Sun Quest!
+有償=Paid
+
 
 ----------RAIDS----------
 累計でイベントクエストを10回クリア=Cleared the Event Quest 10 times
 拠点ボスのHP=Boss' Base HP
 こんぷりーと=Concrete
+
+
+----------OUTFITS----------
+ライフセーバー水着=Lifeguard Swimwear
+沼津港深海水族館の服=Numazu Port Deep Sea Aquarium Outfit
+はなまるアニマル水着=Hanamaru Animal Swimsuit
+サンタ服=Santa's Clothing
+スペシャルコーデ１=Special Codes 1
+マリンなのだ！水着=Marine Swimsuit!
+ハロウィンコスチューム=Halloween Costume
+フリフリフリルPPPのビキニ=Frilly Ruffle PPP Bikini
+雨合羽=Raincoat
 
 ----------ARTISTS----------
 タケチケイスケ=Takechi Keisuke
@@ -1040,6 +1059,7 @@ AND検索=AND Search
 すぺしゃるショップしょうたい=Super Shop Invitation
 古代のフレンズショップしょうたい=Ancient Friends Invitation
 トリフレンズショップしょうたい=Bird Friends Shop
+スターグラス交換所=Star Glass Exchange
 
 1月前半!!どれすあっぷショップしょうたい=Early January!! Dress-up Store
 2月前半!!どれすあっぷショップしょうたい=Early February!! Dress-up Store
@@ -1245,6 +1265,8 @@ AND検索=AND Search
 なかよしLv.2=Friendship Lv.2
 なかよしLv.1=Friendship Lv.1
 
+レベル上限=Level Cap
+
 なかよしレベル上限＋1=Friendship Level Limit +1
 なかよしレベル上限=Friendship Level Limit
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
@@ -1277,7 +1299,7 @@ AND検索=AND Search
 
 ----------FRIENDSHIP LEVEL----------
 隊長さんが入れるくらい大きな穴を掘ったの\nいっしょに入って、のんびりしよう=I dug a hole big enough for the captain and me,\nso let's go in together and relax.
-現在のなかよし=Current Friendship
+
 
 ----------BEATS AND STANDBY----------
 みんなで強く=Stronger Together
@@ -2471,21 +2493,16 @@ PPPのプリンセス=PPP's Princess
 イースターエッグスタンドミラー=Easter egg stand mirror
 
 ----------Status Effect Descriptions----------
-たいりょく回復=HP Recovery
-ダメージアップ=Damage Up
-命中率アップ=Accuracy Up
 与えるダメージが上昇=Increases Damage Dealt
 被ダメージ軽減=Damage Reduction
 受けるダメージを軽減=Reduceses Damage Received
 毎ターンＭＰ増加=Increases MP Each Turn
 プレイヤーターン開始時にＭＰが増加する=MP increases at the start of the Player Turn
-命中アップ=Accuracy Up
 攻撃が当てやすくなる=Increased Attack Accuracy
 くらくら耐性アップ=Stun Resistance Up
 くらくら耐性が上昇=Increases Stun Resistance
 ぼんやりうっかり耐性アップ=Amnesia Resistance Up
 ぼんやりうっかり耐性が上昇=Increased Amnesia Resistance
-回避アップ=Evasion Up
 回避率が上昇=Increases Evasion Rate
 全状態異常耐性アップ=All Status Ailment Resistance Up
 状態異常の耐性が上昇=Increases Resistance to all Status Ailments
@@ -2506,9 +2523,6 @@ Action!フラッグのダメージ上昇=Increased Action! Flag Damage
 Try!!フラッグのダメージ上昇=Increased Try!! Flag Damage
 Beat!!!フラッグのダメージ上昇=Increased Beat!!! Flag Damage
 リラックス属性の相手に与えるダメージが上昇=Increased Damage dealt to Relaxed Attributes.
-Action!アップ=Action! Up
-Try!!アップ=Try!! Up
-Beat!!!アップ=Beat!!! Up
 どく、すやすや、くたくた、びりびり耐性が上昇=Increased Resistance to Poison, Sleep, and Exhaustion.
 
 ----------MENU FIXES----------
@@ -3834,7 +3848,7 @@ HAW-206=HAW-206
 変更=Change
 ぴっくあっぷ=Pickup
 ドール=Dhole
-なないろとくせい=Rainbow Trait
+なないろとくせい=Rainbow
 なないろ=Rainbow
 とくせい=Trait
 フリッキー=Flicky
@@ -4002,7 +4016,6 @@ HAW-206=HAW-206
 発動条件=Activation Conditions
 耐性=Resistence
 攻撃命中率=Hit Accuracy
-与ダメージ=Damage
 敵全体=All Enemies
 敵単体=One Enemy
 ミラクル効果=Miracle Effect
@@ -4059,12 +4072,10 @@ EN：絶滅危惧=EN: Endangered
 のんほいパーク=Nonhoi Park
 ワカイヤ=Huacaya
 やんちゃ=Naughty
-ちんたい=home
 トド=Steller Sea Lion
 カワウ=Great Cormorant
 ウミウ=Japanese Cormorant
 カァッ=Kaah
-ダメージ=Damage
 ジョフ=Geoff
 ちゃーん=chan
 マメジカ=Chevrotain

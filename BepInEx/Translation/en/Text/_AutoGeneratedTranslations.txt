@@ -1,4 +1,8 @@
 ﻿-----REGEX-----
+r:"^すぺしゃる([0-9]+)$"=Special $1
+r:"^がんばれマラカス集め([0-9]+)$"=Good Luck Maracas $1
+r:"^おうえんメガホン集め([0-9]+)$"=Cheering Megaphone $1
+r:"^「おうえんメガホン集め([0-9]+)」$"=Cheering Megaphone Collection #$1
 r:"^おうえんメガホンを([0-9]+)個獲得$"=Gained $1 Cheering Megaphones
 r:"^なかよしLv([0-9]+) ＆ ([0-9]+)話クリアで解放$"=Friendship Lv$1 & $2 episode clear
 r:"^次のなかよしLvまで([0-9]+)$"=Next Lvl. - $1
@@ -6,64 +10,35 @@ r:"^<size\\=20>探検隊Lv <\/size>([0-9]+)$"=<size\=20>Expdn Lv. </size>$1
 r:"^ターン([0-9]+)$"=Turn $1
 r:"^メインストーリー S([0-9]+) ([0-9]+)章([0-9]+)話クリア=Main Story S$1 Chapter $2 Episode $3 cleared
 r:"^([0-9]+)章([0-9]+)話クリアから全開放$"=All open after clearing Chapter $1, Episode $2.
-r:"^獲得日時　([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+)$"=Date Acquired: $3/$2/$1 $4:$5
 r:"^期間中累計([0-9]+)日ログイン$"=Log in for $1 days during the event
-r:"^([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=$1/$2 $3:$4 or later
 r:"^エクストラその([0-9]+)をクリア$"=Clear Extra Quest $1
 r:"^イベントメインストーリー([0-9]+)話のバトル([0-9]+)をクリア$"=Clear Battle $1 of Event Story Episode $2
 r:"^メインストーリー　シーズン([0-9]+)$"=Main Story Chapter $1
 r:"^ハード　その([0-9]+)$"=Hard $1
-r:"^　([0-9]+)\/([0-9]+)まで$"=　Through $1/$2
-r:"^ハードクリア\\n([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=Clear Hard\n$1/$2 $3:$4 or later
-r:"^ノーマル1話クリア\\n([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) 以降$"=Clear Normal Ep. 1\n$1/$2 $3:$4 or later
 sr:"^発動率：([0-9]+)\％$"=Activation Chance: $1%
 sr:"^発動回数：([0-9]+)$"=Uses: $1
-r:"^今月([0-9]+) left$"=$1 left this month
-r:"^今月あと([0-9]+)回$"=$1 more this month
 r:"^クラスリセットまであと([0-9]+)日と([0-9]+)時間=$1 days, $2 hours until Class Reset.
 r:"^([0-9]+)勝以上$"=$1 or more Wins
 r:"^([0-9]+)～([0-9]+)勝$=$1～$2 Wins
 r:"^次のランクまで<size\\=([0-9]+)>([0-9]+)<\/size>Pt$"=<size\=$1>$2 </size>Pt to next rank
-r:"^　([0-9]+)/\([0-9]+)まで$"=　Through $1/$2
 r:"^すぺしゃる([0-9]+)$"=Special $1
 r:"^フォトポケット\[([0-9]+)\]が強化されました！$"=Photo Pocket [$1] unlocked!
-r:"^あと([0-9]+)個　あと([0-9]+)時間$"=$1 left, $2 hours to go
-r:"^([0-9]+)\/([0-9]+)\(日\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Sun.) $3:$4
-r:"^([0-9]+)\/([0-9]+)\(月\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Mon.) $3:$4
-r:"^([0-9]+)\/([0-9]+)\(火\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Tue.) $3:$4
-r:"^([0-9]+)\/([0-9]+)\(水\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Wed.) $3:$4
-r:"^([0-9]+)\/([0-9]+)\(木\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Thu.) $3:$4
-r:"^([0-9]+)\/([0-9]+)\(金\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Fri.) $3:$4
-r:"^([0-9]+)\/([0-9]+)\(土\)([0-9]+):([0-9]+)まで$"=Until $1/$2 (Sat.) $3:$4
 r:"^あと<size\=([0-9]+)>([0-9]+)</size>回$"=Uses:<size\=$1>$2</size> left
-r:"^あと([0-9]+)分$"=$1 minutes left.
-r:"^([0-9]+) left　([0-9]+)\/([0-9]+)まで$"=$1 left through $2/$3
-r:"^　([0-9]+)/([0-9]+)まで=　Through 10/19$"=Through $1/$2
 r:"^所持数([0-9]+)$"=Owned - $1
 r:"^所持数 ([0-9]+)$"=Owned - $1
 r:"^([0-9]+)体$"=$1 Defeats
-r:"^1 left　([0-9]+)\/([0-9]+)まで$"=1 left until $1/$2
 r:"^電池 ([0-9]+)$"=Batteries: $1
-r:"^獲得日時:([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+)$"=Acquired: $1/$2/$3 $4:$5
 r:"^([0-9]+)章([0-9]+)話クリアバトル\n開始$"=Chapter $1, Episode $2 Battle Clear/n Start
 r:"^メインストーリー\n([0-9]+)章([0-9]+)話クリア$"=Main Story\nChapter $1, Episode $2 cleared
-r:"^([0-9]+) More To Go.　([0-9]+)/([0-9]+)まで$"=$1 left until $2/$3
-r:"^あと([0-9]+)回　([0-9]+)\/([0-9]+)まで$"=$1 left until $2/$3
 r:"^あと([0-9]+)回$"=$1 left
 r:"^ ([0-9]+)話 バトル([0-9]+) クリア$"= Episode $1 Battle $2 Cleared
-r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Days, $2 Hours left
 r:"^[ ]?しょうたい券パック([ .,!。、！]*)"=" $1 Invitation Pack"
 r:"^[ ]?しょうたい券付き([ .,!。、！]*)"=" $1 Shop Ticket"
 r:"^次のLvまで([0-9]+)$"=Next Lvl. - $1
-r:"^([0-9]+)日目$"=Day $1
-r:"^あと([0-9]+)日$"=$1 Day(s) left
-r:"^あと([0-9]+)時間$"=$1 Hour(s) left
-r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Day(s), $2 Hour(s) left
 r:"^まもり＋([0-9]+)$"=Defense +$1
 r:"^現在のなかよしレベル上限：([0-9]+)$"=Current Max Friendship Level: $1
 r:"^解放には「なかよしLv.([0-9]+)」が必要 (現在「なかよしLv.([0-9]+)」)$"=Friendship Lv. $1 is needed for Release (Current Friendship Lv. $2)
 r:"^解放には「なかよしLv.([0-9]+)」が必要$"=Friendship Lv. $1 needed for Release
-r:"^([0-9]+)日$"=$1 Day(s)
 r:"^こうげき  \+([0-9]+)$"=Attack +$1
 r:"^Beat!!!ダメージアップ　\+([0-9]+\.[0-9]+%)$"=Beat!!! damage increase +$1
 r:"^<size\=([0-9]+)\n>探検隊Lv.</size>([0-9]+)$"=<size\=10>Expedition Lv.</size>$2
@@ -77,18 +52,11 @@ r:"^防御力:([0-9]+)$"=Defense: $1
 r:"^攻撃力:([0-9]+)$"=Attack power: $1
 r:"^総合力:([0-9]+)$"=Total power: $1
 r:"^([0-9]+)話$"=Ep. $1
-r:"^最終ログイン([0-9]+)時間前$"=Online $1 hour(s) ago
-r:"^最終ログイン([0-9]+)秒前$"=Online $1 second(s) ago
-r:"^最終ログイン([0-9]+)分前$"=Online $1 minute(s) ago
 r:"^探検隊Lv.([0-9]+)で解放$"=Released at Expedition Lv. $1
 r:"^そうじチケットを([0-9]+)個獲得$"=Earned $1 Cleaning Tickets
 r:"^腕試しクエスト([0-9]+)のバトル([0-9]+)をクリア"= Cleared Battle $1 of Quest $2
 r:"^ピクニックで 「フレンズの小さな石 ([0-9]+)個獲得!"=Get $1 Small Friend Pyroxene at the Picnic.
 r:"^次のLvまで([0-9]+)$"=$1 to the next lvl.
-r:"^([0-9]+)日目$"=Day $1
-r:"^あと([0-9]+)日$"=$1 Day(s) left
-r:"^あと([0-9]+)時間$"=$1 Hour(s) left
-r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Day(s), $2 Hour(s) left
 r:"^まもり　([0-9]+)$"=Defense $1
 r:"^まもり＋([0-9]+)$"=Defense +$1
 r:"^現在のなかよしレベル上限：([0-9]+)$"=Current Max Friendship Level: $1
@@ -96,7 +64,6 @@ r:"^解放には「なかよしLv.([0-9]+)」が必要 (現在「なかよしLv.
 r:"^解放には「なかよしLv.([0-9]+)」が必要$"=Friendship Lv. $1 is required for Release
 r:"^([0-9]+)日$"=$1 Day(s)
 r:"^こうげき  \+([0-9]+)$"=Attack +$1
-r:"^Beat!!!ダメージアップ　\+([0-9]+\.[0-9]+%)$"=Beat!!! damage increase +$1
 r:"^<size\\=([0-9]+)\\n>探検隊Lv.<\/size>([0-9]+)$"=<size\=$1\n>Expedition Lv.</size>$2
 r:"^<size\\=([0-9]+)>かつやく<\/size><size\\=([0-9]+)>Pt <\/size>\+([0-9]+)$"=<size\=$1>Assist</size><size\=$2>Pt </size>+$3
 r:"^装飾([１-９])$"=Decoration $1
@@ -108,30 +75,22 @@ r:"^防御力:([0-9]+)$"=Defense: $1
 r:"^攻撃力:([0-9]+)$"=Attack power: $1
 r:"^総合力:([0-9]+)$"=Total power: $1
 r:"^([0-9]+)話$"=$1 Episode
-r:"^最終ログイン([0-9]+)時間前$"=Online $1 hour(s) ago
-r:"^最終ログイン([0-9]+)秒前$"=Online $1 second(s) ago
-r:"^最終ログイン([0-9]+)分前$"=Online $1 minute(s) ago
 r:"^探検隊Lv.([0-9]+)で解放$"=Released at Expedition Lv. $1
 r:"^探検隊<size\\= ([0-9]+)>Lv.<\/size>$"=Expedition<size\= $1>Lv.</size>
-r:"^獲得日時:([0-9]+\/[0-9]+\/[0-9]+ [0-9]+:[0-9]+)$"=Acquisition date: $1
 r:"^本日残り([0-9]+)回$"=$1 remaining today
-r:"^あと([0-9]+)/([0-9]+)$"=till $1/$2
 r:"^あと([0-9]+)$"=till $1
 r:"^([0-9]+)%オフ！$"=$1% off!
 r:"^([0-9]+)回$"=$1 Times
-r:"^([0-9]+)日目$"=$1 Days
 r:"^無料で([0-9]+)回しょうたいします\\nよろしいですか？$"=I'll give you $1 free rounds, if that's OK with you.
 r:"^ぷれみあむ☆([０-９]+)フレンズしょうたい([０-９]+)$"=Premium ☆$1 Friends Invitation $2
 r:"^ぷれみあむ☆([０-９]+)フレンズしょうたい$"=Premium ☆$1 Friends Invitation
 r:"^☆([０-９]+)フレンズしょうたい$"=☆$1 Friends Invitation
 r:"^([0-9]+)倍になる$"=$1 Times.
 r:"^シナリオバトル([0-9]+)$"=Scenario Battle $1
-r:"^最終更新　([0-9]+\/[0-9]+\/[0-9]+　[0-9]+:[0-9]+)$"=Last updated $1
 r:"^（所持数　([0-9]+)）$"=($1 Owned)
 r:"^高さ：([0-9]+)$"=Height: $1
 r:"^レベル上限\+([0-9]+)$"=Level Limit +$1
 r:"^スタミナ([0-9]+)回復ドリンク$"=$1 Stamina Recovery Drink
-r:"^レベル上限＋([0-9]+)$"=Upper level +$1
 r:"^次の経験値まで([0-9]+)$"=$1 until the next experience.
 r:"^([0-9]+)コーラス以上のけもコーラスを発生させてクリア$"=Clear by making $1 or more "Kemono Chorus".
 r:"^メインストーリーS([0-9]+) 第([0-9]+)章$"=Main Story S$1 Chapter $2
@@ -143,31 +102,19 @@ r:"^([0-9]+)ターン以内にクリア$"=Clear within $1 turns
 r:"^ターン ([0-9]+)/([0-9]+)$"=Turn $1/$2
 r:"^ランク([0-9]+)$"=Rank $1
 r:"^とくべつくんれんに([0-9]+)回挑戦$"=Challenge Special Training $1 times
-r:"^-([0-9]+)分$"=-$1 minutes
 r:"^([0-9]+)話$"=Ep. $1
 r:"^クリアターン数 ([0-9]+)$"=Cleared in $1 Turn(s).
 r:"^クリアターン数 <size\=28>([0-9]+)</size>$"=Cleared in $1 Turn(s).
-r:"^次の回復まで ([0-9]+):([0-9]+)$"=Recovery Time: $1:$2
 r:"^スタンプ([0-9]+)個と電池を受け取りました$"=Received $1 Stamps and Batteries.
 r:"^あと<size\=30><color\=#FF6E00>([0-9]+)</color></size>個入手で効果量アップ$"=Get <size\=30><color\=#FF6E00>$1</color></size> to increase the effect!
 r:"^([0-9]+)個$"=$1 Pieces
-r:"^最終ログイン([0-9]+)日前$"=Last Login: $1 Days Ago
 r:"^([0-9]+)話$"=Episode $1
 r:"^([０-９]+)話$"=Episode $1
 r:"^([0-9]+)章$"=Chapter $1
 r:"^([０-９]+)章$"=Chapter $1
 r:"^あと<([0-9]+)回$"=$1 Actions
-r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 days
-r:"^残り([0-9]+)日"=$1 Day(s) Remain
-r:"^残り([０-９]+)日"=$1 Day(s) Remain
-r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 days
-r:"^残り([0-9]+)日$"=$1 Day(s) Remain
-r:"^残り([０-９]+)日$"=$1 Day(s) Remain
-r:"^あと([0-9]+)日と([0-9]+)時間$"=$1 Days, $2 Hours To Go
 r:"^お一人様([0-9]+)個まで！$"=Up to $1 per person!
 r:"^あと([0-9]+)個$"=$1 more
-r:"^あと([0-9]+)個　あと([0-9]+)日と([0-9]+)時間$"=$1 left. $2 Day(s), $3 Hour(s) left. 
-r:"^今月([0-9]+) More To Go.$"=$1 this month.
 r:"^[ ]から受け取りました.$"=Accepted from $1.
 r:"^本日の回復できる回数：([0-9]+)/([0-9]+)回$"=Number of attempts left today: $1/$2
 r:"^クリア回数は毎日0:00に回復します\n次の回復まであと([0-9]+)時間$"=Number of attempts are restored at 00:00 JST.\n$1 hours until next attempts are restored.
@@ -181,60 +128,124 @@ r:"^([0-9]+)勝$"=$1 Win(s)
 r:"^× ([0-9]+) を$" = Accepted x $1
 r:"^獲得状況 ([0-9]+)/([0-9]+)$"= Owned: $1/$2
 r:"^バトル([0-9]+)$"=Battle $1
-r:"^けもステータス　([0-9]+)$"=Kemo-Status　$1
-r:"^たいりょく　([0-9]+)$"=HP　$1
-r:"^こうげき　([0-9]+)$"=Attack　$1
-r:"^ぷらずむ　([0-9]+)$"=Plasma　$1
-r:"^かいひ　([0-9]+)$"=Evade　$1
-r:"^まもり　([0-9]+)$"=Defense　$1
 r:"^なかよしLv.([0-9]+)\/([0-9]+)$"=Friendship $1/$2
 r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^マス：([0-9]+)X([0-9]+)$"=Size: $1X$2
-r:"^([0-9]+)\/([0-9]+)\(木\)(:[01]?\d|2[0-3])(:[0-5]\d){1,2}まで$"=Ends $1/$2 (Thu) $3:$4
+
 r:"^を([0-9]+)個交換しました$"=Exchanged $1 items
-r:"^こうげき　([0-9]+)$"=Attack  $1
-r:"^たいりょく　([0-9]+)$"=HP  $1
-r:"^かいひ　([0-9]+)$"=Evade  $1
-r:"^かいひ　([0-9]+)$"=Defense  $1
-r:"^こうげき \+([0-9]+)$"=Attack +$1
-r:"^たいりょく \+([0-9]+)$"=HP +$1
-r:"^まもり \+([0-9]+)$"=Evade +$1
-r:"^まもり \+([0-9]+)$"=Defense +$1
-r:"^たいりょく  \+([0-9]+).([0-9]+)\%$"=HP  +$1.$2%
-r:"^かいひ  \+([0-9]+).([0-9]+)\%$"=Evade  +$1.$2%
-r:"^まもり  \+([0-9]+).([0-9]+)\%$"=Defense  +$1.$2%
-r:"^こうげき  \+([0-9]+).([0-9]+)\%$"=Attack  +$1.$2%
-r:"^ぷらずむ  \+([0-9]+).([0-9]+)\%$"=Plasma  +$1.$2%
-r:"^まもり  \+([0-9]+)$"=Defense +$1
-r:"^かいひ  \+([0-9]+)%$"=Evade +$1%
-r:"^たいりょく  \+([0-9]+)$"=HP +$1
-r:"^たいりょく  \+([0-9]+)$"=HP  +$1
-r:"^かいひ  \+([0-9]+)$"=Evade  +$1
-r:"^まもり  \+([0-9]+)$"=Defense  +$1
-r:"^こうげき  \+([0-9]+)$"=Attack  +$1
-r:"^ぷらずむ  \+([0-9]+)$"=Plasma  +$1
-r:"^開催期間\\n([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)まで$"=Event Period\nTill $1/$2/$3  $4:$5
-r:"^([0-9]+：[0-9]+～[0-9]+：[0-9]+)の時間にホームにアクセス！$"=Access The Home Between $1!
-r:"^<size\\=18>あと<\/size>([0-9]+)日$"=<size\=18>after</size>$1 days
-r:"^<size\\=16>残り<\/size>([0-9]+)日$"=$1 Day(s) remain
-r:"^\+([0-9]+)分$"=+$1 min.
-r:"^受け取り日時：([0-9]+\/[0-9]+\/[0-9]+　[0-9]+:[0-9]+)$"=Reception date and time: $1
+
+
 r:"^☆([０-９]+)以上しょうたい$"=☆$1 or better
 r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
 r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^「エクストラ　その([0-9]+)」$"="Extra Part $1"
 r:"^×([0-9]+)$"=x$1
-r:"([0-9]+)\/([0-9]+) ～ ([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) まで$"=$1/$2 ～ $3/$4 until $5:$6
-r:"([0-9]+)\/([0-9]+)～([0-9]+)\/([0-9]+) ([0-9]+):([0-9]+) まで$"=$1/$2 ～ $3/$4 until $5:$6
-r:"たいりょく\+([0-9]+)$"=HP +$1
-r:"かいひ\+([0-9]+)$"=Evade +$1
-r:"^まもり\+([0-9]+)$"=Defense +$1
-r:"こうげき\+([0-9]+)$"=Attack +$1
-r:"ぷらずむ\+([0-9]+)$"=Plasma +$1
+
+r:"^開催期間\\n([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)まで$"=Event Period\n$1/$2/$3 $4:$5
+
+----------TIME AND DATE----------
+r:"^開催期間\\n([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)まで$"=Event Period\nTill $1/$2/$3  $4:$5
+----------Online:----------
+sr:"^最終ログイン(?<time>[0-9]+.{1-2})前$"=Last Login: ${time} ago
+
+----------Dates:----------
+r:"^獲得日時[\s:]([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)$"=Date Acquired: $3/$2/$1 $4:$5
+r:"^次の回復まで ([0-9]+)\:([0-9]+)$"=Recovery Time: $1:$2
+
+----------Clear through:----------
+sr:"^ハードクリア\\n(?<after>.+)$"=Clear Hard\n${after}
+sr:"^ノーマル1話クリア\\n(?<after>.+)$"=Clear Normal Ep. 1\n${after}
+r:"^([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+) 以降$"=$1/$2 $3:$4 or later
+
+----------Time remaining:----------
+
+sr:"^あと([0-9]+)個\s(?<after>.*)$"=$1 left, ${after}
+sr:"^あと(?<time>[0-9]+[日時分秒]間?)$"=${time} left
+sr:"^([0-9]+)\/([0-9]+)(?<dotw>\(.\))([0-9]+)\:([0-9]+)まで$"=Until $1/$2 ${dotw} $3:$4
+r:"^あと([0-9]+)日と([0-9]+)時間$"=$1d $2h left
+r:"^今月(あと)?([0-9]+)(回| left)$"=$2 left this month
+r:"^(あと)?([0-9]+)\s?(回|More To Go.|left)　([0-9]+)\/([0-9]+)まで$"=$2 left until $4/$5
+r:"^\s([0-9]+)\/([0-9]+)まで$"=　Through $1/$2
+r:"^([0-9]+)\/([0-9]+)\s?～\s?([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+) まで$"=Until $1/$2 ～ $3/$4 $5:$6
+
+
+----------Jank Time:----------
+r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 days
+
+----------Time:----------
+r:"^([0-9]+)日$"=$1 day(s)
+r:"^([0-9]+)時間$"=$1 hour(s)
+r:"^([+\-0-9]+)分$"=$1 minute(s)
+r:"^([0-9]+)秒$"=$1 second(s)
+r:"^([0-9]+)日目$"=Day $1
+
+----------Day of the Week:----------
+\(月\)=(Mon.)
+\(火\)=(Tue.)
+\(水\)=(Wed.)
+\(木\)=(Thu.)
+\(金\)=(Fri.)
+\(土\)=(Sat.)
+\(日\)=(Sun.)
+(月)=(Mon.)
+(火)=(Tue.)
+(水)=(Wed.)
+(木)=(Thu.)
+(金)=(Fri.)
+(土)=(Sat.)
+(日)=(Sun.)
+
+r:"^([0-9]+)：00～([0-9]+)：00の時間にちんたいにアクセス！$"=Access Home between the hours of $1:00 and $2:00!
+r:"^<size\=18>あと</size>([0-9]+)日$"=<size=18>after</size>$1 days
+r:"^<size\=16>残り</size>([0-9]+)日$"=$1 Day(s) remain
+r:"^([0-9]+)\：([0-9]+)～([0-9]+)\：([0-9]+)の時間にホームにアクセス！$"=Access The Home Between $1:$2 ～ $3:$4!
+r:"^今月([0-9]+) More To Go.$"=$1 this month.
+r:"^今月([0-9]+) left$"=$1 left this month
+r:"^今月あと([0-9]+)回$"=$1 more this month
+
+----------STATS AND FLAG RATES, DAMAGES, AMOUNTS, AND NUMBERING----------
+sr:"^(?<stat>けもステータス|たいりょく|こうげき|まもり|かいひ|ぷらずむ|たいりょく回復|Action!ダメージアップ|Try!!ダメージアップ|Beat!!!ダメージアップ|ダメージアップ|命中率アップ|Action!アップ|Try!!アップ|Beat!!!アップ|回避アップ|命中アップ)\s*(?<number_i>[＋+\-0-9.%％]+)$"=${stat}　${number_i}
+けもステータス=Kemo-Status
+たいりょく=HP
+こうげき=Attack
+まもり=Defense
+かいひ=Evade
+ぷらずむ=Plasma
+
+たいりょく回復=HP Recovery
+Action!ダメージアップ=Action! Damage Up
+Try!!ダメージアップ=Try!! Damage Up
+Beat!!!ダメージアップ=Beat!!! Damage Up
+ダメージアップ=Damage Up
+命中率アップ=Accuracy Up
+Action!アップ=Action! Up
+Try!!アップ=Try!! Up
+Beat!!!アップ=Beat!!! Up
+回避アップ=Evasion Up
+命中アップ=Accuracy Up
+与ダメージ=Damage
+
+
+----------FRIENDSHIP----------
+///sr:"^(?<stat>|現在のなかよし|現在のなかよしレベル上限\：|なかよしLv.)\s*(?<number_i>[＋+\-0-9.%％]+)$"=${stat}　${number_i}
+
+現在のなかよし=Current Friendship
+現在のなかよしレベル上限：=Current Friendship Level Cap:
+なかよしLv.=Friendship Lv.
+
+
+///sr:"^(?<stat>|レベル上限)\s*(?<number_i>[＋+\-0-9.%％]+)$"=${stat}　${number_i}
+
+レベル上限=Level Cap
+
+
+
+----------OTHER----------
 
 
 2x=2
 2X=2
+
 
 ----------REGEX IN-GAME STATUS----------
 r:"^被ダメージ<size\\=([0-9]+)>([0-9]+)\%<\/size>増加$"=Damage Taken +<size\=$1>$2%</size>
@@ -277,6 +288,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 「期間限定クエスト」=「Limited Quests」
 輝きの小瓶！=Vials of Radiance!
 おうえんメガホン=Cheering Megaphone
+がんばれマラカス=Good Luck Maracas
 
 ----------MISSIONS----------
 メインストーリー=Main Story
@@ -290,6 +302,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 第          章=Chapter
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
+ちんたい=Home
 Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 切替=Switch
 あと〇〇日=0 days to go
@@ -655,6 +668,7 @@ Exp 1.5倍=Exp 1.5x
 ガチャ=Gacha
 解放アイテム=Release Items
 {{A}}レベルが上がりました！=The {{A}} level has been raised!
+☆4{{A}}{{B}}！チケット{{C}}=☆4 {{A}} {{B}}ed! Ticket {{C}}!
 
 ----------Autotranslate Basic Terms----------
 完了=Completion
@@ -683,6 +697,7 @@ Exp 1.5倍=Exp 1.5x
 ----------Engine Text Testing, necessary but annoying----------
 がうがうがうがうが\nがうがうがうがうが=gargling
 {{A}}{{A}}{{A}}{{A}}キラ={{A}} {{A}} {{A}} {{A}} Kira
+次のなかよしLvまでParam01=Param01 until the next Friend lvl.
 
 ----------Common player names test----------
 風水土=Feng Shui Earth
@@ -692,7 +707,10 @@ Exp 1.5倍=Exp 1.5x
 とも=Friend
 ケモナーマスク=Kemone Mask
 
-
+----------MENU RATE-UP----------
+なかよしPt<size\=24><color\=#FFEE00>3</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x3</color></size>!
+小さな輝石<size\=24><color\=#FFEE00>3</color></size>倍！=<size\=16>Small Pyroxene</size><size\=24><color\=#FFEE00>x3</color></size>!
+次のLvまでParam01=Param01 until the next Lvl
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -703,6 +721,9 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
