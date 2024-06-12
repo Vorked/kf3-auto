@@ -53,7 +53,7 @@
 なかよし\nレベル=Friendship\nLevel
 すべて選択=Select All
 一括強化=Batch Upgrade
-なかよしレベル上限=Friendship Level Cap
+
 未解放=Tamed
 未解放=Unleashed
 すべて解除=Upgrade All
@@ -856,51 +856,8 @@ Kari=Kari
 ミライさんセレクト=Mirai's Selection
 連戦！　連戦！=Continuous Battles!
 
-「レベルとっくん！（月曜）」=Level Quest! (Monday)
-「レベルとっくん！（火曜）」=Level Quest! (Tuesday)
-「レベルとっくん！（水曜）」=Level Quest! (Wendesday)
-「レベルとっくん！（木曜）」=Level Quest! (Thursday)
-「レベルとっくん！（金曜）」=Level Quest! (Friday)
-「レベルとっくん！（土曜）」=Level Quest! (Saturday)
-「レベルとっくん！（日曜）」=Level Quest! (Sunday)
 
-「野生解放とっくん！（月曜）」=Wild Release! (Monday)
-「野生解放とっくん！（火曜）」=Wild Release! (Tuesday)
-「野生解放とっくん！（水曜）」=Wild Release! (Wednesday)
-「野生解放とっくん！（木曜）」=Wild Release! (Thursday)
-「野生解放とっくん！（金曜）」=Wild Release! (Friday)
-「野生解放とっくん！（土曜）」=Wild Release! (Saturday)
-「野生解放とっくん！（日曜）」=Wild Release! (Sunday)
 
-「けものミラクルとっくん！（月曜）」=Kemono Level Quest! (Monday)
-「けものミラクルとっくん！（火曜）」=Kemono Level Quest! (Tuesday)
-「けものミラクルとっくん！（水曜）」=Kemono Level Quest! (Wednesday)
-「けものミラクルとっくん！（木曜）」=Kemono Level Quest! (Thursday)
-「けものミラクルとっくん！（金曜）」=Kemono Level Quest! (Friday)
-「けものミラクルとっくん！（土曜）」=Kemono Level Quest! (Saturday)
-「けものミラクルとっくん！（日曜）」=Kemono Level Quest! (Sunday)
-
-「ゴールドあつめ！（月曜）」=Collect Gold! (Monday)
-「ゴールドあつめ！（火曜）」=Collect Gold! (Tuesday)
-「ゴールドあつめ！（水曜）」=Collect Gold! (Wednesday)
-「ゴールドあつめ！（木曜）」=Collect Gold! (Thursday)
-「ゴールドあつめ！（金曜）」=Collect Gold! (Friday)
-「ゴールドあつめ！（土曜）」=Collect Gold! (Satday)
-「ゴールドあつめ！（日曜）」=Collect Gold! (Sunday)
-
-ミラクルとっくん！=Miracle Quest!
-獲得スケジュール=Event Schedule
-レベルとっくん=Level Growth Quest
-野生解放とっくん=Wild Release Growth Quest
-けものミラクルとっくん=Kemono Miracle Growth Quest
-
-（月曜）=Monday
-（火曜）=Tuesday
-（水曜）=Wednesday
-（木曜）=Thursday
-（金曜）=Friday
-（土曜）=Saturday
-（日曜）=Sunday
 
 いずれかのクエストを80回クリア=Clear any quests 80 times
 いずれかのクエストを100回クリア=Clear any quests 100 times
@@ -1040,18 +997,7 @@ AND検索=AND Search
 お掃除開始！=Start cleaning!
 お掃除完了！=Cleaning is complete!
 大掃除に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for spring cleaning!
-けもけも弁当セット（緑色）=Kemokemo Bento Set (Green)
-けもけも弁当セット（水色）=Kemokemo Bento Set (Light Blue)
-けもけも弁当セット（黄緑色）=Kemokemo Bento Set (Yellow-Green)
-けもけも弁当セット（桃色）=Kemokemo Bento Set (Light Red)
-けもけも弁当セット（赤色）=Kemokemo Bento Set (Red)
 
-大掃除準備セット（水色）=Cleaning Preparation Set (light blue)
-大掃除準備セット（黄緑色）=Cleaning preparation set (yellow-green)
-大掃除準備セット（桃色）=Cleaning Preparation Set (peach color)
-大掃除準備セット（青色）=Cleaning preparation set (blue)
-大掃除準備セット（緑色）=Cleaning preparation set (green)
-大掃除準備セット（赤色）=Cleaning preparation set (red)
 
 ジャパリコイン交換所=Japari Coin Exchange
 売り切れ=Sold Out
@@ -1212,63 +1158,10 @@ AND検索=AND Search
 ジャパまん手作りセットを使ってなかよしレベル上限を解放します=Unlock the Friendship Level Cap by using Handmade Japari Bun Set!
 なかよしレベル上限は最大まで強化されています=Friendship Level Limit Reached
 
-現在のなかよしレベル上限：10=Current Friendship Level Cap: 10
-現在のなかよしレベル上限：9=Current Friendship Level Cap: 9
-現在のなかよしレベル上限：8=Current Friendship Level Cap: 8
-現在のなかよしレベル上限：7=Current Friendship Level Cap: 7
-現在のなかよしレベル上限：6=Current Friendship Level Cap: 6
-現在のなかよしレベル上限：6=Current Friendship Level Cap: 5
-現在のなかよしレベル上限：4=Current Friendship Level Cap: 4
-現在のなかよしレベル上限：3=Current Friendship Level Cap: 3
-現在のなかよしレベル上限：2=Current Friendship Level Cap: 2
-現在のなかよしレベル上限：1=Current Friendship Level Cap: 1
 
-強化には「なかよしLv.10」以上が必要 =Requires Friendship Lv.10. 
-強化には「なかよしLv.9」以上が必要 =Requires Friendship Lv.9. 
-強化には「なかよしLv.8」以上が必要 =Requires Friendship Lv.8. 
-強化には「なかよしLv.7」以上が必要 =Requires Friendship Lv.7. 
-強化には「なかよしLv.6」以上が必要 =Requires Friendship Lv.6. 
-強化には「なかよしLv.5」以上が必要 =Requires Friendship Lv.5. 
-強化には「なかよしLv.4」以上が必要 =Requires Friendship Lv.4. 
-強化には「なかよしLv.3」以上が必要 =Requires Friendship Lv.3. 
-強化には「なかよしLv.2」以上が必要 =Requires Friendship Lv.2. 
 
-解放には「なかよしLv.10」が必要 =Friendship Lv.10 required. 
-解放には「なかよしLv.9」が必要 =Friendship Lv.9 required. 
-解放には「なかよしLv.8」が必要 =Friendship Lv.8 required. 
-解放には「なかよしLv.7」が必要 =Friendship Lv.7 required. 
-解放には「なかよしLv.6」が必要 =Friendship Lv.6 required. 
-解放には「なかよしLv.5」が必要 =Friendship Lv.5 required. 
-解放には「なかよしLv.4」が必要 =Friendship Lv.4 required. 
-解放には「なかよしLv.3」が必要 =Friendship Lv.3 required. 
-解放には「なかよしLv.2」が必要 =Friendship Lv.2 required. 
 
-(現在「なかよしLv.10」)=(Current Friendship Lv.10)
-(現在「なかよしLv.9」)=(Current Friendship Lv.9)
-(現在「なかよしLv.8」)=(Current Friendship Lv.8)
-(現在「なかよしLv.7」)=(Current Friendship Lv.7)
-(現在「なかよしLv.6」)=(Current Friendship Lv.6)
-(現在「なかよしLv.5」)=(Current Friendship Lv.5)
-(現在「なかよしLv.4」)=(Current Friendship Lv.4)
-(現在「なかよしLv.3」)=(Current Friendship Lv.3)
-(現在「なかよしLv.2」)=(Current Friendship Lv.2)
-(現在「なかよしLv.1」)=(Current Friendship Lv.1)
 
-なかよしLv.10=Friendship Lv.10
-なかよしLv.9=Friendship Lv.9
-なかよしLv.8=Friendship Lv.8
-なかよしLv.7=Friendship Lv.7
-なかよしLv.6=Friendship Lv.6
-なかよしLv.5=Friendship Lv.5
-なかよしLv.4=Friendship Lv.4
-なかよしLv.3=Friendship Lv.3
-なかよしLv.2=Friendship Lv.2
-なかよしLv.1=Friendship Lv.1
-
-レベル上限=Level Cap
-
-なかよしレベル上限＋1=Friendship Level Limit +1
-なかよしレベル上限=Friendship Level Limit
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
 ジャパまんを使ってフレンズを強化します=Japari Buns Strengthen Friends!
 ※アイコン長押しで一括選択ができます=Select a batch by pressing or holding an icon.
@@ -1918,267 +1811,13 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 すこし不利=Slight disadvantage
 
 
-----------BENTO----------
-けもけも弁当（ファニー）小=Kemo Kemo Bento (Funny) Small
-けもけも弁当（ファニー）中=Kemo Kemo Bento (Funny) Medium
-けもけも弁当（ファニー）大=Kemo Kemo Bento (Funny) Large
 
-けもけも弁当（フレンドリー）小=Kemo Kemo Bento (Friendly) Small
-けもけも弁当（フレンドリー）中=Kemo Kemo Bento (Friendly) Medium
-けもけも弁当（フレンドリー）大=Kemo Kemo Bento (Friendly) Large
-
-けもけも弁当（リラックス）小=Kemo Kemo Bento (Relaxed) Small
-けもけも弁当（リラックス）中=Kemo Kemo Bento (Relaxed) Medium
-けもけも弁当（リラックス）大=Kemo Kemo Bento (Relaxed) Large
-
-けもけも弁当（ラブリー）小=Kemo Kemo Bento (Lovely) Small
-けもけも弁当（ラブリー）中=Kemo Kemo Bento (Lovely) Medium
-けもけも弁当（ラブリー）大=Kemo Kemo Bento (Lovely) Large
-
-けもけも弁当（アクティブ）小=Kemo Kemo Bento (Active) Small
-けもけも弁当（アクティブ）中=Kemo Kemo Bento (Active) Medium
-けもけも弁当（アクティブ）大=Kemo Kemo Bento (Active) Large
-
-けもけも弁当（マイペース）小=Kemo Kemo Bento (Carefree) Small
-けもけも弁当（マイペース）中=Kemo Kemo Bento (Carefree) Medium
-けもけも弁当（マイペース）大=Kemo Kemo Bento (Carefree) Large
-
-共闘準備セット（水色）=Co-op Preparation Set (Light Blue)
-共闘準備セット（黄緑色）=Co-op preparation set (Yellow-Green)
-共闘準備セット（桃色）=Co-op Preparation Set (Pink)
-共闘準備セット（青色）=Set for co-op preparation (Blue)
-共闘準備セット（緑色）=Co-op preparation set (Green)
-共闘準備セット（赤色）=Co-op preparation set (Red)
-
-----------RAMUNE----------
-桃色のアニマルラムネＣ=Pink Animal Ramune C
-桃色のアニマルラムネＵＣ=Pink Animal Ramune UC
-桃色のアニマルラムネＲ=Pink Animal Ramune R
-桃色のアニマルラムネＲ=Pink Animal Ramune SR
-桃色のアニマルラムネＳＳＲ=Pink Animal Ramune SSR
-桃色のアニマルラムネ詰め合わせ=Assorted Pink Animal Ramune
-
-水色のアニマルラムネＣ=Light-Blue Animal Ramune C
-水色のアニマルラムネＵＣ=Light-Blue Animal Ramune UC
-水色のアニマルラムネＲ=Light-Blue Animal Ramune R
-水色のアニマルラムネＳＲ=Light-Blue Animal Ramune SR
-水色のアニマルラムネＳＳＲ=Light-Blue Animal Ramune SSR
-水色のアニマルラムネ詰め合わせ=Assorted Light-Blue Animal Ramune
-
-黄緑色のアニマルラムネＣ=Yellow-Green Animal Ramune C
-黄緑色のアニマルラムネＵＣ=Yellow-Green Animal Ramune UC
-黄緑色のアニマルラムネＲ=Yellow-Green Animal Ramune R
-黄緑色のアニマルラムネＳＲ=Yellow-Green Animal Ramune SR
-黄緑色のアニマルラムネＳＳＲ=Yellow-Green Animal Ramune SSR
-黄緑色のアニマルラムネ詰め合わせ=Assorted Yellow-Green Animal Ramune
-
-虹色のアニマルラムネＣ=Rainbow-Colored Animal Ramune C
-虹色のアニマルラムネＵＣ=Rainbow-Colored Animal Ramune UC
-虹色のアニマルラムネＲ=Rainbow-Colored Animal Ramune R
-虹色のアニマルラムネＳＲ=Rainbow-Colored Animal Ramune SR
-虹色のアニマルラムネＳＳＲ=Rainbow-Colored Animal Ramune SSR
-虹色のアニマルラムネ詰め合わせ=Assorted Rainbow-Colored Animal Ramune
-
-青色のアニマルラムネＣ=Blue Animal Ramune C
-青色のアニマルラムネＵＣ=Blue Animal Ramune UC
-青色のアニマルラムネＲ=Blue Animal Ramune R
-青色のアニマルラムネＳＲ=Blue Animal Ramune SR
-青色のアニマルラムネＳＳＲ=Blue Animal Ramune SSR
-青色のアニマルラムネ詰め合わせ=Assorted Blue Animal Ramune
-
-赤色のアニマルラムネＣ=Red Animal Ramune C
-赤色のアニマルラムネＵＣ=Red Animal Ramune UC
-赤色のアニマルラムネＲ=Red Animal Ramune R
-赤色のアニマルラムネＳＲ=Red Animal Ramune SR
-赤色のアニマルラムネＳＳＲ=Red Animal Ramune SSR
-赤色のアニマルラムネ詰め合わせ=Assorted Red Animal Ramune
-
-緑色のアニマルラムネＣ=Green Animal Ramune C
-緑色のアニマルラムネＵＣ=Green Animal Ramune UC
-緑色のアニマルラムネＲ=Green Animal Ramune R
-緑色のアニマルラムネＳＲ=Green Animal Ramune SR
-緑色のアニマルラムネＳＳＲ=Green Animal Ramune SSR
-緑色のアニマルラムネ詰め合わせ=Assorted Green Animal Ramune
-
-桃色の アニマルラムネ=Pink Animal Ramune
-水色の アニマルラムネ=Light Blue Animal Ramune
-黄緑色の アニマルラムネ=Yellow-Green Animal Ramune
-虹色の アニマルラムネ=Rainbow Colored Animal Ramune
-青色の アニマルラムネ=Blue Animal Ramune
-赤色の アニマルラムネ=Red Animal Ramune
-緑色の アニマルラムネ=Green Animal Ramune
-
-桃色のアニマルラムネ=Pink Animal Ramune
-水色のアニマルラムネ=Light Blue Animal Ramune
-黄緑色のアニマルラムネ=Yellow-Green Animal Ramune
-虹色のアニマルラムネ=Rainbow Colored Animal Ramune
-青色のアニマルラムネ=Blue Animal Ramune
-赤色のアニマルラムネ=Red Animal Ramune
-緑色のアニマルラムネ=Green Animal Ramune
-アニマルラムネ=Animal Ramune
-
-
-
-----------ITEMS----------
-おもいでの石ＳＲ=Memory Stone SR
-おもいでの石ＳＳＲ=Memory Stone SSR
-
-ステキな木の実Ｃ=Nice Nuts C
-ステキな木の実ＵＣ=Nice Nuts UC
-ステキな木の実Ｒ=Nice Nuts R
-ステキな木の実SR=Nice Nuts SR
-ステキな木の実SSR=Nice Nuts SSR
-
-
-きれいな貝がらＣ=Beautiful Shell C
-きれいな貝がらＵＣ=Beautiful Shell UC
-きれいな貝がらＲ=Beautiful Shell R
-きれいな貝がらSR=Beautiful Shell SR
-きれいな貝がらSSR=Beautiful Shell SSR
-
-ふうせんアートＣ=Balloon Art C
-ふうせんアートＵＣ=Balloon Art UC
-ふうせんアートＲ=Balloon Art R
-ふうせんアートSR=Balloon Art SR
-ふうせんアートSSR=Balloon Art SSR
-
-よつばのクローバーＣ=Four-Leaf Clover C
-よつばのクローバーＵＣ=Four-Leaf Clover UC
-よつばのクローバーＲ=Four-Leaf Clover R
-よつばのクローバーSR=Four-Leaf Clover SR
-よつばのクローバーSSR=Four-Leaf Clover SSR
-
-銀の鈴Ｃ=Silver Bell C
-銀の鈴ＵＣ=Silver Bell UC
-銀の鈴Ｒ=Silver Bell R
-銀の鈴SR=Silver Bell SR
-銀の鈴SSR=Silver Bell SSR
-
-おいしそうなタネＣ=Yummy Seeds C
-おいしそうなタネＵＣ=Yummy Seeds UC
-おいしそうなタネＲ=Yummy Seeds R
-おいしそうなタネSR=Yummy Seeds SR
-おいしそうなタネSSR=Yummy Seeds SSR
-
-カラフルこんぺいとうＣ=Colorful Konpeito C
-カラフルこんぺいとうＵＣ=Colorful Konpeito UC
-カラフルこんぺいとうＲ=Colorful Konpeito R
-カラフルこんぺいとうSR=Colorful Konpeito SR
-カラフルこんぺいとうSSR=Colorful Konpeito SSR
-
-あまーいベリーＣ=Sweet Berry C
-あまーいベリーＵＣ=Sweet Berry UC
-あまーいベリーＲ=Sweet Berry R
-あまーいベリーSR=Sweet Berry SR
-あまーいベリーSSR=Sweet Berry SSR
-
-手づくりネックレスＣ=Handmade Necklace C
-手づくりネックレスＵＣ=Handmade Necklace UC
-手づくりネックレスＲ=Handmade Necklace R
-手づくりネックレスSR=Handmade Necklace SR
-手づくりネックレスSSR=Handmade Necklace SSR
-
-古びたコンパスＣ=Old Compass C
-古びたコンパスＵＣ=Old Compass UC
-古びたコンパスＲ=Old Compass R
-古びたコンパスSR=Old Compass SR
-古びたコンパスSSR=Old Compass SSR
-
-ぴかぴかミラーＣ=Shiny Mirror C
-ぴかぴかミラーＵＣ=Shiny Mirror UC
-ぴかぴかミラーＲ=Shiny Mirror R
-ぴかぴかミラーSR=Shiny Mirror SR
-ぴかぴかミラーSSR=Shiny Mirror SSR
-
-しあわせ花束Ｃ=Bouquet of Happiness C
-しあわせ花束ＵＣ=Bouquet of Happiness UC
-しあわせ花束Ｒ=Bouquet of Happiness R
-しあわせ花束SR=Bouquet of Happiness SR
-しあわせ花束SSR=Bouquet of Happiness SSR
-
-プチけもアクセサリーＣ=Petite Kemo-Accessory C
-プチけもアクセサリーＵＣ=Petite Kemo-Accessory UC
-プチけもアクセサリーＲ=Petite Kemo-Accessory R
-プチけもアクセサリーSR=Petite Kemo-Accessory SR
-プチけもアクセサリーSSR=Petite Kemo-Accessory SSR
-
-まっかなサンゴＣ=Bright Coral C
-まっかなサンゴＵＣ=Bright Coral UC
-まっかなサンゴＲ=Bright Coral R
-まっかなサンゴSR=Bright Coral SR
-まっかなサンゴSSR=Bright Coral SSR
-
-とうめい水晶Ｃ=Clear Crystal C
-とうめい水晶ＵＣ=Clear Crystal UC
-とうめい水晶Ｒ=Clear Crystal R
-とうめい水晶SR=Clear Crystal SR
-とうめい水晶SSR=Clear Crystal SSR
-
-かがやくガラス玉Ｃ=Shining Glass Ball C
-かがやくガラス玉ＵＣ=Shining Glass Ball UC
-かがやくガラス玉Ｒ=Shining Glass Ball R
-かがやくガラス玉SR=Shining Glass Ball SR
-かがやくガラス玉SSR=Shining Glass Ball SSR
-
-かわいいリボンＣ=Cute Ribbon C
-かわいいリボンＵＣ=Cute Ribbon UC
-かわいいリボンＲ=Cute Ribbon R
-かわいいリボンSR=Cute Ribbon SR
-かわいいリボンSSR=Cute Ribbon SSR
-
-----------BUNS----------
-ジャパまん（オール）小=Japari Bun (All) Small
-ジャパまん（オール）中=Japari Bun (All) Medium
-ジャパまん（オール）大=Japari Bun (All) Large
-
-ジャパまん（ファニー）小=Japari Bun (Funny) Small
-ジャパまん（ファニー）中=Japari Bun (Funny) Medium
-ジャパまん（ファニー）大=Japari Bun (Funny) Large
-
-ジャパまん（フレンドリー）小=Japari Bun (Friendly) Small
-ジャパまん（フレンドリー）中=Japari Bun (Friendly) Medium
-ジャパまん（フレンドリー）大=Japari Bun (Friendly) Large
-
-ジャパまん（ラブリー）小=Japari Bun (Lovely) Small
-ジャパまん（ラブリー）中=Japari Bun (Lovely) Medium
-ジャパまん（ラブリー）大=Japari Bun (Lovely) Large
-
-ジャパまん（アクティブ）小=Japari Bun (Active) Small
-ジャパまん（アクティブ）中=Japari Bun (Active) Medium
-ジャパまん（アクティブ）大=Japari Bun (Active) Large
-
-ジャパまん（マイペース）小=Japari Bun (Carefree) Small
-ジャパまん（マイペース）中=Japari Bun (Carefree) Medium
-ジャパまん（マイペース）大=Japari Bun (Carefree) Large
-
-ジャパまん（リラックス）小=Japari Bun (Relaxed) Small
-ジャパまん（リラックス）中=Japari Bun (Relaxed) Medium
-ジャパまん（リラックス）大=Japari Bun (Relaxed) Large
-
-----------GROWTH----------
+----------DOJO PARTY SELECT----------
 道場パーティ選択=Dojo Selection
 道場パーティ編成=Dojo Party Setup
 道場\nパーティ=Dojo Party
 道場パーティ=Dojo Party
-経験の鉱石（ファニー）=Experience Ore (Funny)
-経験の鉱石（フレンドリー）=Experience Ore (Friendly)
-経験の鉱石（リラックス）=Experience Ore (Relaxed)
-経験の鉱石（ラブリー）=Experience Ore (Lovely)
-経験の鉱石（アクティブ）=Experience Ore (Active)
-経験の鉱石（マイペース）=Experience Ore (Carefree)
-迷宮の地図片Ｃ=Labyrinth Map Fragment C
-迷宮の地図片Ｒ=Labyrinth Map Fragment R
-迷宮の地図片C=Labyrinth Map Fragment C
-迷宮の地図片R=Labyrinth Map Fragment R
-手がかりメモSR=Clue Memo SR
-隊長メモ=Captain's Notes
-かつやくポイント=Assist Point
-輝きの結晶=Shining Crystal
-ちゅーばーのあかし=Proof of Power
-フォト所持枠＋1=Photo Slot +1
-太陽の烏石 小=Sun Stone Small
-太陽の烏石 中=Sun Stone Medium
-太陽の烏石 大=Sun Stone Large
+
 
 ----------CLEAR CONDITIONS----------
 
@@ -2675,7 +2314,10 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 スタミナがたりません=I don't have enough Stamina
 アイテムを使ってスタミナを回復します=So I'll use items to restore my Stamina
 スタミナを回復しました=Stamina Restored
+なかよしpt\n獲得量アップ=Friendship\nRate Up!
+なかよしpt獲得量アップ=Friendship Exp\nRate Up!
 なかよしpt=Friendship Pt.
+獲得量アップ=Exp Increase!
 助っ人フレンズ=Helper Friends
 1週間で=In 1 Week
 ☆3以上確定時=Over ☆3
@@ -2687,7 +2329,6 @@ MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Frien
 トラフレンズ=Tiger Friends 
 集合PU確定チケットしょうたい=Gathering PU Confirm Ticket
 集合すてっぷあっぷしょうたい=Meeting Step Up
-ジャパリまんじゅう=Japari Bun
 バレンタイン=Valentine's 
 哺乳綱ネズミ目チンチラ科=Mammalia Rodentia Chinchilla
 チンチラ属チンチラ=Family Chinchilla Genus Chinchilla
@@ -2733,7 +2374,6 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 7：00～14：00の時間にホームにアクセス！=Access The Home Between 7:00 And 14:00!
 確定!チケットしょうたい=Confirmed Ticket Invitation!
 リスト=List
-ジャパまん=Japari Bun
 ホーム=Home
 状態変化=State Change
 ショップ=Store
@@ -2780,7 +2420,12 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
-ニューギニアワイルドハイランドドッグ=New Guinea Wild Highland Dog
+N・ハイランドワイルドドッグ=Highland Wild Dog
+エゾユキウサギ=Ezo Mountain Hare
+シロクジャク=White Peafowl
+ゴルゴプスカバ=Gorgops Hippo
+バンドウイルカ=Bottlenose Dolphin
+マナティー=Manatee
 再起動=Restart
 お知らせ=Notice
 メンテナンス中=Under Maintenance
@@ -2907,7 +2552,6 @@ G・ロードランナー=Greater Roadrunner
 おでかけ日和=Ideal Weather
 輝きの欠片=Sparkle Shard
 マカミ=Makami
-ゴールド=Gold
 シマハイイロギツネ=Island Fox
 セイウチ=Walrus
 カムチャッカオオヒグマ=Bergman's Bear
@@ -2921,7 +2565,6 @@ G・ロードランナー=Greater Roadrunner
 カニクイアライグマ=Crab-Eating Raccoon
 でびるさま=Deviru
 ちびくまモン=Kumamon
-アカギツネ=Red Fox
 アマゾンツリーボア=Amazon Tree Boa
 アイアイ=Aye-Aye
 アフリカタテガミヤマアラシ=African Porcupine
@@ -3051,7 +2694,7 @@ G・ロードランナー=Greater Roadrunner
 けも級=Kemo-Class
 輝きの欠片交換所=Sparkling Shard Exchange
 小さな輝石獲得=Acquisition Of Small Pyroxene
-マカミの輝石=Makami's Pyroxene
+の輝石='s Pyroxene
 フォトポケット解放=Photo Release
 大・超成功率UP！=Success Rate Up!
 フレンズ成長 大・超成功率UP!=Friends Level Rate UP!
@@ -3109,7 +2752,6 @@ OR検索=OR Search
 SSRインテリアボーナス=SSR Interior Bonus
 AND検索=AND Search
 VU：危急=VU: Vulnerable
-けものミラクル=Kemono Miracle
 プロフィール=Profile
 とくいわざ=Beat!!!
 ガオガオ・スクラッチ=Gao Gao Scratch
@@ -3120,7 +2762,7 @@ VU：危急=VU: Vulnerable
 ☆順=Star Order
 画面をタップすると終了します=Tap the screen to exit.
 レアリティ順=Rarity Order
-レベル上限+3=Level Limit +3
+
 アシスタント=Assistant
 いきごみ=Spirit
 IDをコピー=Copy ID
@@ -3213,7 +2855,6 @@ OPムービー=OP Movie
 たいきスキル=Standby
 とくさい=Unique Traits
 キセキとくさい=Miracle Traits
-けものミラクル=Miracle
 くらくら=Stun
 すやすや=Sleep
 くたくた=Exhaustion
@@ -3233,12 +2874,6 @@ OPムービー=OP Movie
 いかく=Threat
 かくれみ=Camo
 全状態異常耐性=Resist All Ailments
-ファニー=Funny
-フレンドリー=Friendly
-リラックス=Relaxed
-ラブリー=Lovely
-アクティブ=Active
-マイペース=Carefree
 パラメータ=Parameter
 確認=Confirmation
 回避率アップ解除=Evasion Rate Up Cancelled
@@ -3263,7 +2898,6 @@ OPムービー=OP Movie
 充電=Charge
 非表示=Hide
 ボタン=Button
-獲得量アップ=Acquisition Increase!
 わいわいツリーハウス=Noisy Treehouse
 限定=Limited
 月1パック=Monthly
@@ -3635,7 +3269,7 @@ HAW-206=HAW-206
 ミュールジカ=Mule Deer
 ジャコウウシ=Muskox
 イッカク=Narwhal
-ニューギニアハイランドワイルドドッグ=New Guinea Singing Dog
+
 ジャイアントペンギン=Giant Penguin
 ニルガイ=Nilgai
 キュウビキツネ=Nine-Tailed Fox
@@ -3979,27 +3613,8 @@ HAW-206=HAW-206
 おまけ付き！=Extra!
 すてっぷあっぷ=Step-Up
 しょうたい=Invitation
-配置=Place
 カメラ切替=Change View
-1月=January
-2月=February
-3月=March
-4月=April
-5月=May
-6月=June
-7月=July
-8月=August
-9月=September
-10月=October
-11月=November
-12月=December
-月曜日=Monday
-火曜日=Tuesday
-水曜日=Wednesday
-木曜日=Thursday
-金曜日=Friday
-土曜日=Saturday
-日曜日=Sunday
+
 
 
 

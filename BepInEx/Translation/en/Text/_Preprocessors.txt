@@ -1,6 +1,4 @@
-﻿2=ff3ASCx
-
-<color\=#990000FF>= 
+﻿<color\=#990000FF>= 
 </color>= 
 <color=990000FF>= 
 </color>= 

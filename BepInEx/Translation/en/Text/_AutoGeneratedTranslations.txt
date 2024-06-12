@@ -141,12 +141,101 @@ r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^「エクストラ　その([0-9]+)」$"="Extra Part $1"
 r:"^×([0-9]+)$"=x$1
 
+---NON-MATERIAL ITEMS----
+sr:"^けもけも弁当(?<attribute>（.+?）)(?<size>.)$"=KemoKemo Bento ${attribute} ${size}
+sr:"^共闘準備セット（?<colour>.{1,2}色）$"=Co-op Preparation Set (${colour})
+sr:"^(?<colour>.{1,2}色)の\s?アニマルラムネ(?<rarity>.{0,5})?$"=${colour} Animal Ramune ${rarity}
+sr:"^ジャパまん(?<attribute>（.+?）)(?<size>.)$"=Japari Bun ${attribute} ${size}
+sr:"^おもいでの石(?<rarity>.{1,5})$"=Memory Stone ${rarity}
+
+
+----MATERIALS----
+sr:"^ステキな木の実(?<rarity>.{1,5})$"=Nice Nuts ${rarity}
+sr:"^きれいな貝がら(?<rarity>.{1,5})$"=Beautiful Shell ${rarity}
+sr:"^ふうせんアート(?<rarity>.{1,5})$"=Balloon Art ${rarity}
+sr:"^よつばのクローバー(?<rarity>.{1,5})$"=Four-Leaf Clover ${rarity}
+sr:"^銀の鈴(?<rarity>.{1,5})$"=Silver Bell ${rarity}
+sr:"^おいしそうなタネ(?<rarity>.{1,5})$"=Yummy Seeds ${rarity}
+sr:"^カラフルこんぺいとう(?<rarity>.{1,5})$"=Colorful Konpeito ${rarity}
+sr:"^あまーいベリー(?<rarity>.{1,5})$"=Sweet Berry ${rarity}
+sr:"^手づくりネックレス(?<rarity>.{1,5})$"=Handmade Necklace ${rarity}
+sr:"^古びたコンパス(?<rarity>.{1,5})$"=Old Compass ${rarity}
+sr:"^ぴかぴかミラー(?<rarity>.{1,5})$"=Shiny Mirror ${rarity}
+sr:"^しあわせ花束(?<rarity>.{1,5})$"=Bouquet of Happiness ${rarity}
+sr:"^プチけもアクセサリー(?<rarity>.{1,5})$"=Petite Kemo-Accessory ${rarity}
+sr:"^まっかなサンゴ(?<rarity>.{1,5})$"=Bright Coral ${rarity}
+sr:"^とうめい水晶(?<rarity>.{1,5})$"=Clear Crystal ${rarity}
+sr:"^かがやくガラス玉(?<rarity>.{1,5})$"=Shining Glass Ball ${rarity}
+sr:"^かわいいリボン(?<rarity>.{1,5})$"=Cute Ribbon ${rarity}
+
+------ITEM MODIFIER------
+r:"^小$"=Small
+r:"^中$"=Medium
+r:"^大$"=Large
+
+r:"^Ｃ$"=C
+r:"^ＵＣ$"=UC
+r:"^Ｒ$"=R
+r:"^SR$"=SR
+r:"^SSR$"=SSR
+r:"^詰め合わせ$"=(Assorted)
+
+水色=Light Blue
+黄緑色=Yellow-Green
+桃色=Pink
+青色=Blue
+緑色=Green
+赤色=Red
+虹色=Rainbow-Colored
+
+（オール）=(All)
+（ファニー）=(Funny)
+（フレンドリー）=(Friendly)
+（ラブリー）=(Lovely)
+（アクティブ）=(Active)
+（マイペース）=(Carefree)
+（リラックス）=(Relaxed)
+ジャパリまんじゅう=Japari Bun
+ジャパまん=Japari Bun
+
+ファニー=Funny
+フレンドリー=Friendly
+リラックス=Relaxed
+ラブリー=Lovely
+アクティブ=Active
+マイペース=Carefree
+
+sr:"^経験の鉱石(?<attribute>（.+?）)$"=Experience Ore ${attribute}
+sr:"^迷宮の地図片(?<rarity>.{0,5})$"=Labyrinth Map Fragment ${rarity}
+sr:"^太陽の烏石 (?<size>.)$"=Sun Stone ${size}
+
+手がかりメモSR=Clue Memo SR
+隊長メモ=Captain's Notes
+かつやくポイント=Assist Point
+輝きの結晶=Shining Crystal
+ちゅーばーのあかし=Proof of Power
+フォト所持枠＋1=Photo Slot +1
+
+----------QUESTS----------
+sr:"^「(?<quest>[レ野けゴ].*?！)(?<dotw>（.曜）)」$"=${quest} ${dotw}
+
+レベルとっくん！=Level Quest!
+野生解放とっくん！=Wild Release Quest!
+r:"^(けもの)?ミラクルとっくん！$"=Miracle Quest!
+ゴールドあつめ！=Collect Gold!
+獲得スケジュール=Event Schedule
+けものミラクルとっくん！=Miracle Release Quest!
+野生解放とっくん!=Wild Release Quest!
+レベルとっくん!=Level Quest!
+けものミラクル=Kemono Miracle
+
 r:"^開催期間\\n([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)まで$"=Event Period\n$1/$2/$3 $4:$5
 
 ----------TIME AND DATE----------
 r:"^開催期間\\n([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)まで$"=Event Period\nTill $1/$2/$3  $4:$5
 ----------Online:----------
-sr:"^最終ログイン(?<time>[0-9]+.{1-2})前$"=Last Login: ${time} ago
+sr:"^最終ログイン(?<time>[0-9]+.{1,2})前$"=Last Login: ${time} ago
+
 
 ----------Dates:----------
 r:"^獲得日時[\s:]([0-9]+)\/([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+)$"=Date Acquired: $3/$2/$1 $4:$5
@@ -180,20 +269,34 @@ r:"^([0-9]+)秒$"=$1 second(s)
 r:"^([0-9]+)日目$"=Day $1
 
 ----------Day of the Week:----------
-\(月\)=(Mon.)
-\(火\)=(Tue.)
-\(水\)=(Wed.)
-\(木\)=(Thu.)
-\(金\)=(Fri.)
-\(土\)=(Sat.)
-\(日\)=(Sun.)
-(月)=(Mon.)
-(火)=(Tue.)
-(水)=(Wed.)
-(木)=(Thu.)
-(金)=(Fri.)
-(土)=(Sat.)
-(日)=(Sun.)
+r:"^[(（]月曜?[)）]$"=(Mon)
+r:"^[(（]火曜?[)）]$"=(Tue)
+r:"^[(（]水曜?[)）]$"=(Wed)
+r:"^[(（]木曜?[)）]$"=(Thu)
+r:"^[(（]金曜?[)）]$"=(Fri)
+r:"^[(（]土曜?[)）]$"=(Sat)
+r:"^[(（]日曜?[)）]$"=(Sun)
+
+1月=January
+2月=February
+3月=March
+4月=April
+5月=May
+6月=June
+7月=July
+8月=August
+9月=September
+10月=October
+11月=November
+12月=December
+月曜日=Monday
+火曜日=Tuesday
+水曜日=Wednesday
+木曜日=Thursday
+金曜日=Friday
+土曜日=Saturday
+日曜日=Sunday
+
 
 r:"^([0-9]+)：00～([0-9]+)：00の時間にちんたいにアクセス！$"=Access Home between the hours of $1:00 and $2:00!
 r:"^<size\=18>あと</size>([0-9]+)日$"=<size=18>after</size>$1 days
@@ -227,15 +330,12 @@ Beat!!!アップ=Beat!!! Up
 
 
 ----------FRIENDSHIP----------
-///sr:"^(?<stat>|現在のなかよし|現在のなかよしレベル上限\：|なかよしLv.)\s*(?<number_i>[＋+\-0-9.%％]+)$"=${stat}　${number_i}
-
-現在のなかよし=Current Friendship
-現在のなかよしレベル上限：=Current Friendship Level Cap:
-なかよしLv.=Friendship Lv.
-
+r:"^(強化|解放)には「なかよしLv\.([0-9]+)」(以上)?が必要 \(現在「なかよしLv\.([0-9]+)」\)$"=Requires Friendship Lv.$2 (Current Friendship Lv.$4)
+r:"^現在のなかよしレベル上限：([0-9]+)$"=Current Friendship Level Cap: $1
+r:"^「?なかよしLv\.([0-9]+)」?$"=Friendship Lv.$1
 
 ///sr:"^(?<stat>|レベル上限)\s*(?<number_i>[＋+\-0-9.%％]+)$"=${stat}　${number_i}
-
+r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 レベル上限=Level Cap
 
 
@@ -301,6 +401,18 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ストーリー=Story
 第          章=Chapter
 
+
+
+----------DATES AND QUESTS DATES----------
+ミラクルとっくん！=Miracle Quest!
+獲得スケジュール=Event Schedule
+レベルとっくん=Level Growth Quest
+野生解放とっくん=Wild Release Growth Quest
+けものミラクルとっくん=Kemono Miracle Growth Quest
+ゴールド=Gold
+けものミラクル=Miracle
+
+
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
 ちんたい=Home
 Param01<size\=30>人</size>=Param01<size\=30>Person</size>
@@ -350,7 +462,8 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 1章6話クリア=Clear Chp. 6, Ep. 1
 獲得アイテム<size\=24><color\=#FFEE00>1.5</color></size>倍=Items Earned <size\=24><color\=#FFEE00>1.5</color></size>x
 なかよし！=Friendship！
-
+吸収=Absorption
+ff3ASCx0=2
 
 ----------New replacement translations (Missions)----------
 フォトポケを増やそう=Let's Increase Photo Pockets
@@ -377,6 +490,9 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 すぺしゃる=Special
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
+タッチで配置=Tap To\nPlace
+配置=Place
+
 所持=Owned
 月間パスポート=Monthly Passport
 消費=Takes  
@@ -622,7 +738,7 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 ☆３以上フレンズ{{A}}=☆3+ Friend {{A}}
 ☆２以上フレンズ{{A}}=☆2+ Friend {{A}}
 ☆４以上フレンズ{{A}}=☆4+ Friend {{A}}
-水曜=Wednesday
+
 月=Mon
 火=Tue
 水=Wed
@@ -630,6 +746,7 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 金=Fri
 土=Sat
 日=Sun
+
 使用アイテム選択=Select item to use
 効果=Effect
 表示タイプ=Display Type
@@ -638,13 +755,6 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 更新=Refresh
 <size\=15>くんれんpt</size><size\=19>×Param01</size>=<size\=15>Training pt.</size><size\=19>×Param01</size>
 わくわく\n{{A}}=Exciting\n{{A}}
-月曜=Monday
-火曜=Tuesday
-水曜=Wednesday
-木曜=Thursday
-金曜=Friday
-土曜=Saturday
-日曜=Sunday
 
 ----------New Translations For Autotranslation Only----------
 チケット=Ticket
@@ -726,4 +836,10 @@ Exp 1.5倍=Exp 1.5x
 
 
 
+
+
+
+
+解放には「なかよしLv.7」が必要 (現在「なかよしLv.6」)=Friendship Lv. 7 is required for release (currently Friendship Lv. 6)
+解放には「なかよしLv.8」が必要 (現在「なかよしLv.7」)=Friendship Lv. 8 is required for release (currently Friendship Lv. 7)
 
