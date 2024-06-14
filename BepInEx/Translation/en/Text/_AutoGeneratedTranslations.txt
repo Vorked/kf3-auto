@@ -1,4 +1,6 @@
 ﻿-----REGEX-----
+r:"^配置中　([0-9]+)\/([0-9]+)$"=In Use $1/$2
+r:"^WAVE ([0-9]+)\/([0-9]+)$"=Wave $1/$2
 r:"^すぺしゃる([0-9]+)$"=Special $1
 r:"^がんばれマラカス集め([0-9]+)$"=Good Luck Maracas $1
 r:"^おうえんメガホン集め([0-9]+)$"=Cheering Megaphone $1
@@ -131,7 +133,7 @@ r:"^バトル([0-9]+)$"=Battle $1
 r:"^なかよしLv.([0-9]+)\/([0-9]+)$"=Friendship $1/$2
 r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^マス：([0-9]+)X([0-9]+)$"=Size: $1X$2
-
+r:"^レベル上限＋([0-9]+)$"=Level Cap +$1
 r:"^を([0-9]+)個交換しました$"=Exchanged $1 items
 
 
@@ -247,7 +249,7 @@ sr:"^ノーマル1話クリア\\n(?<after>.+)$"=Clear Normal Ep. 1\n${after}
 r:"^([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+) 以降$"=$1/$2 $3:$4 or later
 
 ----------Time remaining:----------
-
+r:"^([0-9]+):([0-9]+)まで=Until $1:$2
 sr:"^あと([0-9]+)個\s(?<after>.*)$"=$1 left, ${after}
 sr:"^あと(?<time>[0-9]+[日時分秒]間?)$"=${time} left
 sr:"^([0-9]+)\/([0-9]+)(?<dotw>\(.\))([0-9]+)\:([0-9]+)まで$"=Until $1/$2 ${dotw} $3:$4
@@ -297,6 +299,14 @@ r:"^[(（]日曜?[)）]$"=(Sun)
 土曜日=Saturday
 日曜日=Sunday
 
+【月曜日】=【Monday】
+【火曜日】=【Tuesday】
+【水曜日】=【Wednesday】
+【木曜日】=【Thursday】
+【金曜日】=【Friday】
+【土曜日】=【Saturday】
+【日曜日】=【Sunday】
+
 
 r:"^([0-9]+)：00～([0-9]+)：00の時間にちんたいにアクセス！$"=Access Home between the hours of $1:00 and $2:00!
 r:"^<size\=18>あと</size>([0-9]+)日$"=<size=18>after</size>$1 days
@@ -345,7 +355,7 @@ r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 
 2x=2
 2X=2
-
+カバ=Hippo
 
 ----------REGEX IN-GAME STATUS----------
 r:"^被ダメージ<size\\=([0-9]+)>([0-9]+)\%<\/size>増加$"=Damage Taken +<size\=$1>$2%</size>
@@ -840,6 +850,7 @@ Exp 1.5倍=Exp 1.5x
 
 
 
-解放には「なかよしLv.7」が必要 (現在「なかよしLv.6」)=Friendship Lv. 7 is required for release (currently Friendship Lv. 6)
-解放には「なかよしLv.8」が必要 (現在「なかよしLv.7」)=Friendship Lv. 8 is required for release (currently Friendship Lv. 7)
+
+
+
 

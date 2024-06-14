@@ -4,6 +4,23 @@ Invitation (Gacha)=Invitation
 Configurationed=Configured
 1 Times = 1 Time
 Kochokocho=Tickling
+child=girl
+Child=Girl
+children=girls
+Children=Girls
+hakase=professor
+Hakase=Professor
+
+----------Japari Bun Fixes (Upper and Lower case needed)----------
+Japa Man=Japari Bun
+japa Man=Japari Bun
+japa man=Japari Bun
+Japa man=Japari Bun
+Japaman=Japari Bun
+japaman=Japari Bun
+Japonic=Japari Bun
+japonic=Japari Bun
+
 
 ----------Common Text Error Fixes----------
 Followinged=Following

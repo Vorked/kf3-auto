@@ -236,6 +236,7 @@
 エクストラバトル=Extra Battle
 待機フレンズ設定時と解除時で\nホーム画面で聞けるボイスが変化します=The voices you can hear on the home screen will change depending on whether you set a Friend to standby or not. 
 Lv.強化=Lv. Enhancement
+ステータスアップ=Status Update
 
 ----------RAINBOW TRAITS----------
 野生と知性で最強なのです=Wildest and Most Intelligent
@@ -247,6 +248,19 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+育てる力こぶ=Training Biceps
+鍛練をおこたるな=Never Stop Training
+諦めなければ必ず勝てる=Never Give Up And You'll Win!
+手合わせヨロシク！=Playing With You!
+自慢のスピアが大暴れ=Proud Spear Goes Wild
+健康第一体操！=Health First Exercise!
+ゆったり一休み=Rest and Relax
+クジラの息継ぎ=Whale Breathing
+海からみんなを見守って=Watch Over The Seas
+母は強し=Mother is Strong
+地道な頑張り屋=Steady and Hardworking
+笑顔を届けるパン屋さん=Bakeries Bring Smiles
+エンの下の力持ち=The Unsung Hero
 寒くてもへっちゃらです=I don't mind the cold
 いにしえの鼓動=Heartbeat of Ancient Times
 こころあたたまる場所で、ともに=Warm your heart and soul, together
@@ -816,6 +830,7 @@ Kari=Kari
 このフレンズのなないろとくせいは\n今後追加予定です=This Friend's Rainbow Trait will be\nunlocked later.
 なないろとくせい解放確認=Rainbow Trait Release Confirmation
 ミッションの\n報酬を受け取りました=Mission\nReward Received.
+ゴールド貯金箱=Gold Piggy Bank
 1日でクエスト1回クリア=Clear 1 Quest Today
 1日でクエスト3回クリア=Clear 3 Quests Today
 1日でクエスト5回クリア=Clear 5 Quests Today
@@ -1968,6 +1983,9 @@ MP増加量半減=MP increase halved
 ピクニック　獲得量アップ効果=Picnic Rate Increased
 スペシャルデイリーミッション報酬=Special Daily Mission Rewards
 有償キラキラ=Glitter (Paid)
+キラキラ（無償）=Glitter (Free)
+キラキラ（有償）=Glitter (Paid)
+キラキラ=Glitter
 期間：30日＋1日=Lasts 30 +1 Days
 3つ\n獲得=Tier 3
 2つ\n獲得=Tier 2
@@ -2045,6 +2063,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+ハツラツなつっこ！=Lively, Cheerful!
 野生がうずうずしちゃいます♡=My Wild Side Tingles♡
 大きな瞳の美人顔=Beautiful Face, Big Eyes
 笑顔をお届け！=Smile Delivery!
@@ -2420,6 +2439,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+ニューギニアワイルドハイランドドッグ=Highland Wild Dog
 N・ハイランドワイルドドッグ=Highland Wild Dog
 エゾユキウサギ=Ezo Mountain Hare
 シロクジャク=White Peafowl
@@ -2693,8 +2713,7 @@ G・ロードランナー=Greater Roadrunner
 所持ゴールド=Gold Owned
 けも級=Kemo-Class
 輝きの欠片交換所=Sparkling Shard Exchange
-小さな輝石獲得=Acquisition Of Small Pyroxene
-の輝石='s Pyroxene
+小さな輝石獲得= Gain Small Pyroxene
 フォトポケット解放=Photo Release
 大・超成功率UP！=Success Rate Up!
 フレンズ成長 大・超成功率UP!=Friends Level Rate UP!
@@ -2748,6 +2767,7 @@ OR検索=OR Search
 減少！=Down!
 まとめて選択=Select All
 獲得量アップ！=Rate Up!
+小さな【大きな瞳の='s Small Pyroxene
 小輝石=Small Pyroxene
 SSRインテリアボーナス=SSR Interior Bonus
 AND検索=AND Search
@@ -2822,9 +2842,6 @@ IDをコピー=Copy ID
 手がかりメモSR=Clue Memo SR
 インテリアメダル=Interior Medal
 けも消し=Kemo-Erase
-キラキラ（無償）=Glitter (Free)
-キラキラ（有償）=Glitter (Paid)
-キラキラ=Glitter
 おしゃれメダル=Fashion Medal
 スターグラス=Star Glass
 ラッキーメダル=Lucky Medal
@@ -2903,7 +2920,6 @@ OPムービー=OP Movie
 月1パック=Monthly
 パック=Pack
 排出率=Drop Rate
-WAVE=Wave
 検索=Search
 WAVE数= Waves
 ヘラジカ=Elk
@@ -2936,7 +2952,6 @@ WAVE数= Waves
 そらとぶ！=I'm Flyin!
 カコ=Kako
 受け取り=Accept
-小さな石=Small Pyroxene
 輝石=Pyroxene
 
 
@@ -3168,7 +3183,6 @@ HAW-206=HAW-206
 ヒッパリオン=Hipparion
 獣王カバ=Hippopotamus (Beast King)
 ゴルゴプスカバ=Hippopotamus Gorgops
-カバ=Hippopotamus
 エゾオオカミ=Hokkaido Wolf
 ホルスタイン=Holstein
 シロヘラコウモリ=Honduran White Bat
