@@ -1,4 +1,8 @@
 ﻿-----REGEX-----
+r:"^([0-9]+)週間で$"=In $1 Week
+r:"^☆([0-9]+)以上確定時$"=Over ☆$1
+r:"^([0-9]+)回しょうたいのおまけ$"=$1 Time Pull Bonus
+r:"^([0-9]+)回しょうたい$"=$1 Times 
 r:"^配置中　([0-9]+)\/([0-9]+)$"=In Use $1/$2
 r:"^WAVE ([0-9]+)\/([0-9]+)$"=Wave $1/$2
 r:"^すぺしゃる([0-9]+)$"=Special $1
@@ -10,7 +14,7 @@ r:"^なかよしLv([0-9]+) ＆ ([0-9]+)話クリアで解放$"=Friendship Lv$1 &
 r:"^次のなかよしLvまで([0-9]+)$"=Next Lvl. - $1
 r:"^<size\\=20>探検隊Lv <\/size>([0-9]+)$"=<size\=20>Expdn Lv. </size>$1
 r:"^ターン([0-9]+)$"=Turn $1
-r:"^メインストーリー S([0-9]+) ([0-9]+)章([0-9]+)話クリア=Main Story S$1 Chapter $2 Episode $3 cleared
+r:"^メインストーリー S([0-9]+) ([0-9]+)章([0-9]+)話クリア$"=Main Story S$1 Chapter $2 Episode $3 cleared
 r:"^([0-9]+)章([0-9]+)話クリアから全開放$"=All open after clearing Chapter $1, Episode $2.
 r:"^期間中累計([0-9]+)日ログイン$"=Log in for $1 days during the event
 r:"^エクストラその([0-9]+)をクリア$"=Clear Extra Quest $1
@@ -19,9 +23,9 @@ r:"^メインストーリー　シーズン([0-9]+)$"=Main Story Chapter $1
 r:"^ハード　その([0-9]+)$"=Hard $1
 sr:"^発動率：([0-9]+)\％$"=Activation Chance: $1%
 sr:"^発動回数：([0-9]+)$"=Uses: $1
-r:"^クラスリセットまであと([0-9]+)日と([0-9]+)時間=$1 days, $2 hours until Class Reset.
+r:"^クラスリセットまであと([0-9]+)日と([0-9]+)時間$"=$1 days, $2 hours until Class Reset.
 r:"^([0-9]+)勝以上$"=$1 or more Wins
-r:"^([0-9]+)～([0-9]+)勝$=$1～$2 Wins
+r:"^([0-9]+)～([0-9]+)勝$"=$1～$2 Wins
 r:"^次のランクまで<size\\=([0-9]+)>([0-9]+)<\/size>Pt$"=<size\=$1>$2 </size>Pt to next rank
 r:"^すぺしゃる([0-9]+)$"=Special $1
 r:"^フォトポケット\[([0-9]+)\]が強化されました！$"=Photo Pocket [$1] unlocked!
@@ -136,12 +140,71 @@ r:"^マス：([0-9]+)X([0-9]+)$"=Size: $1X$2
 r:"^レベル上限＋([0-9]+)$"=Level Cap +$1
 r:"^を([0-9]+)個交換しました$"=Exchanged $1 items
 
-
 r:"^☆([０-９]+)以上しょうたい$"=☆$1 or better
-r:"^☆([０-９]+)しょうたい$"=☆$1 Invetation
+r:"^☆([０-９]+)しょうたい$"=☆$1 Invitation
 r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^「エクストラ　その([0-9]+)」$"="Extra Part $1"
-r:"^×([0-9]+)$"=x$1
+
+------Exchanges-------
+sr:"^(?<before>.{0,20}?)交換所$"=${before} Exchange
+sr:"^(?<before>.{0,15}?)フォト$"=${before} Photo
+
+-----Gacha Invitations-------
+sr:"^(?<before>.{0,20}?)ショップしょうたい$"=${before} Store Invitation
+sr:"^(?<before>.{0,15}?)(すぺしゃる|とくべつ)$"=${before} Special
+sr:"^(?<month>[0-9]+月)(?<event>.{1,10})応援$"=${month} ${event} Support
+
+-----Monthly Tickets-----
+sr:"^期間限定(?<month>[0-9]+月)しょうたい$"=Limited Time ${month} Shop
+sr:"^(?<month>[0-9]+月)ショップしょうたい券$"=${month} Limited Ticket
+sr:"^(?<month>[0-9]+月)中に集められるしょうたい券$"=Tickets collected in ${month}.
+
+-----Store name first half-----
+がおーっ！ライオン=Roar! Lion
+古代のフレンズ=Ancient Friends
+トリフレンズ=Bird Friends
+ペンギンフレンズ=Penguin Friends
+r:"^いよいよ([0-9.]+)周年！$"=$1 Anniversary!
+
+-----Misc Store Names-----
+期間限定=Limited\nTime
+限定復刻=Rerun
+ショップで使用できます=Can be used in the store
+復刻PU確定チケットしょうたい= Reprint Pull Rate Up Confirmed Invitation
+r:"^([0-9.]+)周年記念！復刻インテリア$"=$1 Anniversary Interior Rerun
+復刻すぺしゃるインテリア=Special Interior Rerun
+
+-----Misc Store Names-----
+けものミラクル強化=Strengthen Kemono Miracles
+月間パス効果中！=Passport Active!
+月間パスポート購入=Purchase Monthly Pass
+キラキラ＆パック購入=Buy Glitter & Pack
+パック=Pack
+
+-----Item Names-----
+リウキウおしゃれメダル=Riukiu Fashion Medal
+おしゃれメダル=Fashion Medal
+インテリアメダル=Interior Medal
+キラキラ=Glitter
+くんれんショップ=Training Store
+ショップ=Shop
+
+期間限定=Limited\nTime
+限定復刻=Rerun
+
+-----Event names-----
+体力測定=Physical Fitness Test
+
+-----Store name first half-----
+r:"^梅雨応援(！)?$"=Rainy Season Support$1
+パーティードレス解放応援！=Party Dress Liberation Support!
+たんけんたい応援=Exploration Support
+森林のフレンズ=Forest Friends
+ネコ？フレンズ=Cat? Friends
+しょうたい=Invitation
+パーティ=Party
+
+リウキウ=Riukiu
 
 ---NON-MATERIAL ITEMS----
 sr:"^けもけも弁当(?<attribute>（.+?）)(?<size>.)$"=KemoKemo Bento ${attribute} ${size}
@@ -215,7 +278,6 @@ sr:"^太陽の烏石 (?<size>.)$"=Sun Stone ${size}
 隊長メモ=Captain's Notes
 かつやくポイント=Assist Point
 輝きの結晶=Shining Crystal
-ちゅーばーのあかし=Proof of Power
 フォト所持枠＋1=Photo Slot +1
 
 ----------QUESTS----------
@@ -249,7 +311,7 @@ sr:"^ノーマル1話クリア\\n(?<after>.+)$"=Clear Normal Ep. 1\n${after}
 r:"^([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+) 以降$"=$1/$2 $3:$4 or later
 
 ----------Time remaining:----------
-r:"^([0-9]+):([0-9]+)まで=Until $1:$2
+r:"^([0-9]+):([0-9]+)まで$"=Until $1:$2
 sr:"^あと([0-9]+)個\s(?<after>.*)$"=$1 left, ${after}
 sr:"^あと(?<time>[0-9]+[日時分秒]間?)$"=${time} left
 sr:"^([0-9]+)\/([0-9]+)(?<dotw>\(.\))([0-9]+)\:([0-9]+)まで$"=Until $1/$2 ${dotw} $3:$4
@@ -279,18 +341,21 @@ r:"^[(（]金曜?[)）]$"=(Fri)
 r:"^[(（]土曜?[)）]$"=(Sat)
 r:"^[(（]日曜?[)）]$"=(Sun)
 
-1月=January
-2月=February
-3月=March
-4月=April
-5月=May
-6月=June
-7月=July
-8月=August
-9月=September
-10月=October
-11月=November
-12月=December
+-----Month-----
+
+r:"^3月$"=Mar
+r:"^4月$"=Apr
+r:"^5月$"=May
+r:"^6月$"=Jun
+r:"^7月$"=Jul
+r:"^8月$"=Aug
+r:"^9月$"=Sep
+r:"^10月$"=Oct
+r:"^11月$"=Nov
+r:"^12月$"=Dec
+r:"^1月$"=Jan
+r:"^2月$"=Feb
+
 月曜日=Monday
 火曜日=Tuesday
 水曜日=Wednesday
@@ -474,7 +539,8 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 なかよし！=Friendship！
 吸収=Absorption
 ff3ASCx0=2
-
+ちゅーばーのあかし交換所=Proof of Power Exchange
+ちゅーばーのあかし=Proof of Power
 ----------New replacement translations (Missions)----------
 フォトポケを増やそう=Let's Increase Photo Pockets
 フォトポケ=Photo Pocket
@@ -831,7 +897,8 @@ Exp 1.5倍=Exp 1.5x
 なかよしPt<size\=24><color\=#FFEE00>3</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x3</color></size>!
 小さな輝石<size\=24><color\=#FFEE00>3</color></size>倍！=<size\=16>Small Pyroxene</size><size\=24><color\=#FFEE00>x3</color></size>!
 次のLvまでParam01=Param01 until the next Lvl
-
+イタチフレンズ=Weasel
+とくべつショップしょうたい=special Store Invitation
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -841,6 +908,8 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
