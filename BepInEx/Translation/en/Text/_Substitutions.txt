@@ -620,8 +620,12 @@ Kari=Kari
 夢のじゃぱり城だモン！=Japari Castle Of Dreams!
 サイキョーの石垣だモーン=Great Stone Wall Morn
 
-
 ----------Friends Title----------
+拍手喝采をお届け！=Applaud Me!
+ダンスへの想い=Passion For Dance
+集まれ！　情熱！=Gather Together! Passion!
+華麗な足蹴り=Gracefull Kick
+ゲキアツ！　情熱フラメンコ！=Hot Passion Flamenco!
 私たちのプライド=Our Pride
 おひさまの下でわたしとダンス！=Dance with me under the sun!
 なないろにきらめく☆=Sparkling Rainbow☆
@@ -795,6 +799,8 @@ Kari=Kari
 解放条件=Release Condition
 
 ----------MISC MENU TRANSLATIONS----------
+特定のアイテム排出時のおまけ=Bonus items when certain Friends are invited
+☆3以上確定時=☆3 Confirmed 
 フレンズ選択=Friends Selection
 青龍の試練=Seiryu's Challenge
 まとめて解放=Multi-Release
@@ -2305,7 +2311,6 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ログインボーナス=Login Bonus
 確定!チケットしょうたい=Confirmed Ticket Invitation!
 リスト=List
-ホーム=Home
 状態変化=State Change
 家具配置=Arrange Furniture
 ふれあい=Contact
@@ -2542,6 +2547,7 @@ G・ロードランナー=Greater Roadrunner
 キンシャチ=Kinshachi
 シャチ=Orca
 シマリス=Chipmunk
+スペインオオヤマネコ=Iberian Lynx
 シベリアオオヤマネコ=Siberian Lynx
 サーベルタイガー=Saber-Toothed Tiger
 シーサー・ライト=Shisa Right
@@ -2762,7 +2768,6 @@ OPムービー=OP Movie
 けもステランキング=Kemo Stellar Ranking
 前回ランキング=Previous Ranking
 ランキングポイント=Ranking Points
-確定=Confirm
 デイリーミッション=Daily Missions
 トータルミッション=Total Missions
 ミッション=Missions
