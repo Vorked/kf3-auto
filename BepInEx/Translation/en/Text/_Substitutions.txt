@@ -248,6 +248,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+探検に胸をおどらせて=Excited to Explore
+おいしい果物プレゼント！=Delicious Fruit Present!
+ジャングルのめぐみだよ♪=Jungle's Blessings♪
+ジャングルを守るために！=Protect the Jungle!
+ジャンブーは好き？=You like Jambu?
 育てる力こぶ=Training Biceps
 鍛練をおこたるな=Never Stop Training
 諦めなければ必ず勝てる=Never Give Up And You'll Win!
@@ -2618,7 +2623,6 @@ G・ロードランナー=Greater Roadrunner
 タッチして次へ=Touch...
 ※所持数上限※=*Limit Reached*.
 アイテム獲得履歴=Item History
-プレゼント=Gifts
 フレンズ・フォト\nおしゃれアクセ 一覧=Photos\nAccessories
 おしゃれアクセ=Accessories
 タッチして\N次のTipsへ=Touch\NShow the Next Tip
@@ -2638,7 +2642,6 @@ G・ロードランナー=Greater Roadrunner
 所持数=Owned
 「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\N*Rewards that exceeded the maximum number owned have been moved to the Present Box.
 ※所持数上限※=*Limit On The Number Owned*.
-あいうえお=AIUEO
 輝きの結晶交換所=Pyroxene Exchange
 挑戦可能！=Challenge!
 もう一度回す=Pull Again

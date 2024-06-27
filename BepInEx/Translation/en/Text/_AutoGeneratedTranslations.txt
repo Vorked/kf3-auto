@@ -253,6 +253,15 @@ r:"^詰め合わせ$"=(Assorted)
 赤色=Red
 虹色=Rainbow-Colored
 
+大掃除準備セット（赤色）=Cleaning preparation set (Red)
+大掃除準備セット（黄緑色）=Cleaning preparation set (Yellow-green)
+大掃除準備セット（桃色）=Cleaning Preparation Set (Pink)
+大掃除準備セット（青色）=Cleaning preparation set (Blue)
+大掃除準備セット（緑色）=Cleaning preparation set (Green)
+けもけも弁当セット（水色）=Kemokemono lunch box set (Light blue)
+けもけも弁当セット（青色）=Kemokemono lunch box set (Blue)
+大掃除準備セット（水色）=Cleaning Preparation Set (Llight blue)
+
 （オール）=(All)
 （ファニー）=(Funny)
 （フレンドリー）=(Friendly)
@@ -343,18 +352,18 @@ r:"^[(（]日曜?[)）]$"=(Sun)
 
 -----Month-----
 
-r:"^3月$"=Mar
-r:"^4月$"=Apr
+r:"^3月$"=March
+r:"^4月$"=Aprril
 r:"^5月$"=May
-r:"^6月$"=Jun
-r:"^7月$"=Jul
-r:"^8月$"=Aug
-r:"^9月$"=Sep
-r:"^10月$"=Oct
-r:"^11月$"=Nov
-r:"^12月$"=Dec
-r:"^1月$"=Jan
-r:"^2月$"=Feb
+r:"^6月$"=June
+r:"^7月$"=July
+r:"^8月$"=August
+r:"^9月$"=September
+r:"^10月$"=October
+r:"^11月$"=November
+r:"^12月$"=December
+r:"^1月$"=January
+r:"^2月$"=February
 
 月曜日=Monday
 火曜日=Tuesday
@@ -475,7 +484,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ストーリー1=Story 1
 ストーリー=Story
 第          章=Chapter
-
+ちょー!!すぺしゃるなかよしクエスト=Super Special Friendly Quest!!
 
 ----------MENU----------
 確定=Confirm
@@ -492,6 +501,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
+プレゼント=Gifts
 ちんたい=Home
 Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 切替=Switch
@@ -895,6 +905,7 @@ Exp 1.5倍=Exp 1.5x
 ツモドラ０=Tsumodora0
 とも=Friend
 ケモナーマスク=Kemone Mask
+あいうえお=AIUEO
 
 ----------MENU RATE-UP----------
 なかよしPt<size\=24><color\=#FFEE00>3</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x3</color></size>!
