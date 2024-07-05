@@ -39,6 +39,11 @@ a lulu=Alulu
 Ba nana=banana
 Ba Nana=banana
 ba Nana=banana
+wrong's=wrong
+Wrong's=Wrong
+Catinae=Caninae
+Cerulean's=Ceuleans
+Fanny=Funny
 
 ----------Translation Error Fixes----------
 
