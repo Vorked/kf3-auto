@@ -44,6 +44,9 @@ Wrong's=Wrong
 Catinae=Caninae
 Cerulean's=Ceuleans
 Fanny=Funny
+Seesar's Righty=Shisa Righty
+Seesar's Lefty=Shisa Lefty
+Seesar's=Shisa
 
 ----------Translation Error Fixes----------
 
