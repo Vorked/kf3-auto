@@ -19,6 +19,7 @@
 ファッションをもっと極めたいし、ほかにもやって\nみたいことがたくさん！　付き合ってね、隊長♪=I want to master fashion even more,\nand there are so many other things I want to try!
 いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
 日頃から私と向き合ってくれる礼にもっとキミを鍛えてやる\n…厳しくやるから、覚悟しとけよ？　ふふ=I'm going to train you more to thank you for dealing with me on a regular basis...\nand I'm going to do it hard, so be prepared, okay?
+隊長ちゃんとはながいお付き合いになりましたね～\nまだまだいっしょにいたいです～　ぎゅ～っ！=It's been a long relationship with Captain-chan～\nI want to be with you for a long time～ HUG～!
 
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
 プレゼントを受け取りました\n所持数上限を超えるアイテムは受け取ることができませんでした\n※称号は一括受け取りの対象外です=Gifts recieved\nItems that exceed maximum number owned cannot be recieved.\n※Titles are not eligible for Batch Accept.
@@ -248,6 +249,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+あつくても元気にいきましょ～=Cheerful Even In Heat
+ちょっとだけおやすみなさい=Lil' Good Night Sleep
+こうばしい空気をもぐもぐ=Munching Fragrant Air
+ひんやりクリーミーアイス=Cool n' Creamy Ice Cream
+ガブガブ・クラッシュ=Gobble Gobble・Crush
 かくれてとびでて、ぺたぺた！=Hide, Jump, Smack!
 肉球でオシオキ！=Paw Punishment!
 あたまでとつげき！=Attack With Your Head!
@@ -2028,6 +2034,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+ひんやりクリーミーを求めて=Cool Cream Taste
 ハツラツなつっこ！=Lively, Cheerful!
 野生がうずうずしちゃいます♡=My Wild Side Tingles♡
 大きな瞳の美人顔=Beautiful Face, Big Eyes
