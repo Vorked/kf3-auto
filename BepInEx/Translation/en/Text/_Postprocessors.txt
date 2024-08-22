@@ -47,6 +47,7 @@ Fanny=Funny
 Seesar's Righty=Shisa Righty
 Seesar's Lefty=Shisa Lefty
 Seesar's=Shisa
+Spesial=Special
 
 ----------Translation Error Fixes----------
 

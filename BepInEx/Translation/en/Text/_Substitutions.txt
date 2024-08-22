@@ -39,6 +39,7 @@
 選択完了=Selection Complete
 獲得できる小さな輝石3倍!=Earn 3x Little Pyroxene!
 獲得できる小さな輝石2倍!=Earn 2x Little Pyroxene!
+※なかよしボーナスは全フレンズに共通で適用されます=※The Friendship Bonus applies to all Friends.
 
 ----------Batch Upgrades----------
 ※　マークがついた項目のみ選択できます=※Only marked items can be selected
@@ -78,7 +79,6 @@
 ゆっくり行こうね！=Take your time!
 はーい！\n今日の相手だよー！=Yes!\nHere is today's opponent!
 あ、きたきた！\n待ってたよー！=Oh, I'm here!\nI've been waiting!
-
 
 ----------NEW IN-GAME COMBAT TEXT----------
 被ダメージ軽減解除=Damage Reduction Removed
@@ -249,6 +249,17 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+れっつはっぴーらいふっ！=Live A Happy Life!
+すたーらいとあっぱーっ！=Starlight Bravo!
+はっぴーに向かって準備万端！=Ready For Happiness!
+私ウマシカ！=I'm Great!
+みんな友達でしょっ！=We're All Friends!
+しずかに波の音を聞きながら=Listen to the Waves
+きらめくリウキウブルー=Sparkling Ryukyu Blue
+歌いながらチル♪=Chill Singing♪
+ちょっとしずかにしてね？=Can You Keep It Down?
+
+
 あつくても元気にいきましょ～=Cheerful Even In Heat
 ちょっとだけおやすみなさい=Lil' Good Night Sleep
 こうばしい空気をもぐもぐ=Munching Fragrant Air
@@ -1127,15 +1138,13 @@ AND検索=AND Search
 公式HP=Official HP
 あんいんちほーとせるりあん=Cerulean Tower
 
+----------SUITS CLOTHING----------
+イニシエヨリツタワルレトロナミズギ=Vintage Swimsuit
+
 ----------FRIEND MENUS----------
 使用アイテム選択=Select the items to use
 ジャパまん手作りセットを使ってなかよしレベル上限を解放します=Unlock the Friendship Level Cap by using Handmade Japari Bun Set!
 なかよしレベル上限は最大まで強化されています=Friendship Level Limit Reached
-
-
-
-
-
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
 ジャパまんを使ってフレンズを強化します=Japari Buns Strengthen Friends!
 ※アイコン長押しで一括選択ができます=Select a batch by pressing or holding an icon.
@@ -3816,3 +3825,19 @@ EN：絶滅危惧=EN: Endangered
 シンゴ(NPC)=Shingo(NPC)
 デイジー(NPC)=Daisy (NPC)
 ミツル(NPC)=Mitsuru (NPC)
+ドロップ(NPC)=Drop (NPC)
+たいやき(NPC)=TaiYaki(NPC)
+トモナ(NPC)=Tomona(NPC)
+ビスケット(NPC)=Cookie(NPC)
+メグミ(NPC)=Megumi(NPC)
+マシュマロ(NPC)=Marshmallow (NPC)
+バーミリオン(NPC)=Vermilion(NPC)
+レン(NPC)=Ren(NPC)
+シャンパン(NPC)=Champagne(NPC)
+五和(NPC)=Gowa(NPC)
+シュンヤ(NPC)=Shunya(NPC)
+五平餅(NPC)=Goheimochi(NPC)
+マイカ(NPC)=Micah (NPC)
+ボーロ(NPC)=Boro(NPC)
+トミコ(NPC)=Tomiko(NPC)
+グレープ(NPC)=Grape(NPC)

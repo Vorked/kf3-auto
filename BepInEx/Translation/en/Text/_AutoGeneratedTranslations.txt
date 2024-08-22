@@ -1,4 +1,14 @@
 ﻿-----REGEX-----
+
+
+r:"^Try!! ダメージアップ＋([0-9]+)\％$"=Try! Damage increase +$1%.
+r:"^Action! ダメージアップ＋([0-9]+)\％$"=Action! Damage increase +$1%.
+
+r:"^Try!! ダメージアップ＋([0-9]+).([0-9]+)\％$"=Try! Damage increase +$1.$2%.
+r:"^Action! ダメージアップ＋([0-9]+).([0-9]+)\％$"=Action! Damage increase +$1.$2%.
+
+r:"^([0-9]+)人$"=$1 Friend(s)
+r:"^([0-9]+)人達成$"=$1 Achieved
 r:"^「序盤戦([0-9]+)」=$"="Early game $1."
 r:"^序盤戦([0-9]+)=$"=Early game $1
 r:"^イベントストーリー([0-9]+)話バトル([0-9]+)をクリア$"=Event Story Episode $1 Battle $2 cleared
@@ -426,7 +436,8 @@ r:"^「?なかよしLv\.([0-9]+)」?$"=Friendship Lv.$1
 r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 レベル上限=Level Cap
 
-
+達成=Achievement
+なかよしLv=Friendship Lv.
 
 ----------OTHER----------
 
@@ -591,6 +602,7 @@ ff3ASCx0=2
 すぺしゃる=Special
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
+ボーナス合計値=Total Bonus Value
 タッチで配置=Tap To\nPlace
 配置=Place
 獲得量アップ=Drop Rate Up
@@ -884,6 +896,10 @@ Exp 1.5倍=Exp 1.5x
 {{A}}レベルが上がりました！=The {{A}} level has been raised!
 ☆4{{A}}{{B}}！チケット{{C}}=☆4 {{A}} {{B}}ed! Ticket {{C}}!
 
+
+なかよしボーナス=Friendship Bonus
+位置\n変更=Position\nchange
+
 ----------Autotranslate Basic Terms----------
 完了=Completion
 基本=Basic
@@ -944,3 +960,5 @@ Exp 1.5倍=Exp 1.5x
 
 
 
+
+「あいうえおかきくけこあいうえおかきく」=Aiue oka kiku keko aiue oka kiku
