@@ -11,6 +11,13 @@ Children=Girls
 hakase=professor
 Hakase=Professor
 
+----------Translate Nue's name----------
+nueh=Nue
+「="
+」="
+contiNue=continue
+ContiNue=Continue
+
 ----------Japari Bun Fixes (Upper and Lower case needed)----------
 Japa Man=Japari Bun
 japa Man=Japari Bun
@@ -20,7 +27,7 @@ Japaman=Japari Bun
 japaman=Japari Bun
 Japonic=Japari Bun
 japonic=Japari Bun
-
+Bar Gar=Burger
 
 ----------Common Text Error Fixes----------
 Followinged=Following
@@ -48,6 +55,8 @@ Seesar's Righty=Shisa Righty
 Seesar's Lefty=Shisa Lefty
 Seesar's=Shisa
 Spesial=Special
+Sanpaku=Walking
+sanpaku=walking
 
 ----------Translation Error Fixes----------
 

@@ -1,12 +1,16 @@
 ﻿-----REGEX-----
-
-
+r:"☆([0-9]+)\\n確定！$"=☆$1\nFixed!
+r:"★([0-9]+)確定まで\\nあと$"=1 more until ★$3 is confirmed.
+r:"中盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 in the Mid-Game $2
+r:"「中盤戦([0-9]+)」=$""Mid-Game $1"
+r:"中盤戦([0-9]+)$"=Mid-Game $1
+r:"野生解放\\n([0-9]+)段階目達成$"=Achieved stage $1\nof Wild Release
 r:"^Try!! ダメージアップ＋([0-9]+)\％$"=Try! Damage increase +$1%.
 r:"^Action! ダメージアップ＋([0-9]+)\％$"=Action! Damage increase +$1%.
-
+r:"^※★([0-9]+)以上のフォトが含まれています※$"=Includes ※★$1 or more photos.
 r:"^Try!! ダメージアップ＋([0-9]+).([0-9]+)\％$"=Try! Damage increase +$1.$2%.
 r:"^Action! ダメージアップ＋([0-9]+).([0-9]+)\％$"=Action! Damage increase +$1.$2%.
-
+r:"^([0-9]+)\/([0-9]+)回$"=$1/$2 times
 r:"^([0-9]+)人$"=$1 Friend(s)
 r:"^([0-9]+)人達成$"=$1 Achieved
 r:"^「序盤戦([0-9]+)」=$"="Early game $1."
@@ -440,7 +444,8 @@ r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 なかよしLv=Friendship Lv.
 
 ----------OTHER----------
-
+使用=Use
+使用フォト=Use Photo
 ホーム=Home
 2x=2
 2X=2
@@ -505,6 +510,12 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 確定=Confirm
 ショップへ=Go to Shop
 しょうたい（ガチャ）=Invite\n(Gacha)
+パーティ選択=Party Selection
+水着メダル=Swimsuit Medal
+水着メダル交換所=Swimsuit Medal Exchange
+フォトの強化を行いますか？=Do you want to enhance your photo?
+選択不可=Not Available
+ステータス変化=Status Change
 
 ----------DATES AND QUESTS DATES----------
 ミラクルとっくん！=Miracle Quest!
@@ -600,8 +611,16 @@ ff3ASCx0=2
 無料あり！=Free!
 フレンズ成長=Friend Growth
 すぺしゃる=Special
+増加=Increase
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
+アーケードゲーム=Arcade Games
+このステップにフレンズはありません=No Friends on this step.
+このステップにフォトはありません=There are no photos in this step.
+このステップにアイテムはありません=There are no items in this step.
+このステップにおまけはありません=There are no extras in this step.
+ステップ=Steps
+インテリア=Interior
 ボーナス合計値=Total Bonus Value
 タッチで配置=Tap To\nPlace
 配置=Place
@@ -668,6 +687,8 @@ Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 大型インテリア=Large Interior
 {{A}}（ガチャ）={{A}}\n(Gacha)
 提供一覧=List of Items
+
+ヌエ=Nue
 
 ----------Training----------
 全解除=Remove All
@@ -937,6 +958,12 @@ Exp 1.5倍=Exp 1.5x
 とも=Friend
 ケモナーマスク=Kemone Mask
 あいうえお=AIUEO
+織本伊央=Io Orimoto
+「ヒュゥ～あれ？　おまはん怖がっとるん？\n久しぶりだねこの感じ！　ああ、やっぱいい！\n助かりたくば、ささっとジャパリまんじゅうとやらを出さんか～い。\nわっちはせっかちじゃけ～トロトロしてっと黒煙で\nお前を飲み込んじまうよ！　わっちの鳴く夜は恐ろしいって\n他の連中にも拡散しといてや～ヒュゥ～」="Hyuu～ What? Are you scared?\nIt's been a while since I felt this way! Ah, it's so good!\nIf you want to be saved, hurry up and bring out some Japari Manju～.\nI'm in a hurry, so I'll swallow you up in a thick cloud of black smoke! Please spread the word to the others that the nights when I cry are terrifying～ Hyuu～"
+
+----------STORE AND GACHA NAME SEGMENTS----------
+妖怪フレンズ=Monster Friends
+カムバック応援=Comeback Support
 
 ----------MENU RATE-UP----------
 なかよしPt<size\=24><color\=#FFEE00>3</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x3</color></size>!
@@ -961,4 +988,8 @@ Exp 1.5倍=Exp 1.5x
 
 
 
-「あいうえおかきくけこあいうえおかきく」=Aiue oka kiku keko aiue oka kiku
+
+
+
+
+

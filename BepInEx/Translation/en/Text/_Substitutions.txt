@@ -22,6 +22,7 @@
 隊長ちゃんとはながいお付き合いになりましたね～\nまだまだいっしょにいたいです～　ぎゅ～っ！=It's been a long relationship with Captain-chan～\nI want to be with you for a long time～ HUG～!
 
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+けものミラクルはMPがたまると発動できます=Kemono Miracle can be activated when enough MP is gathered.
 プレゼントを受け取りました\n所持数上限を超えるアイテムは受け取ることができませんでした\n※称号は一括受け取りの対象外です=Gifts recieved\nItems that exceed maximum number owned cannot be recieved.\n※Titles are not eligible for Batch Accept.
 所持数上限を超えるアイテムを\n受け取ることができませんでした=Cannot recieve items that\nhave exceeded their maximum limit.
 インフォメーションが入ります=Information will be included.
@@ -258,8 +259,15 @@ Lv.強化=Lv. Enhancement
 きらめくリウキウブルー=Sparkling Ryukyu Blue
 歌いながらチル♪=Chill Singing♪
 ちょっとしずかにしてね？=Can You Keep It Down?
-
-
+一球入魂！チャンスは逃さない=Heart and Soul Shot!
+全力バックショット！=Full-Power Backshot!
+熱血スポコン魂！=Hot-Blooded Sports Lover!
+先読みの魔術師=Foresight Magician
+黒煙より響く雷鳴=Echoes from Black Smoke
+光矢のしっぺ返し=Mitsuyasu's Retaliation
+暗夜より聞こえし怪声=Shriek in the Dark Night
+種々雑多な姿=Various Forms
+わっちめっちゃ映えるやろ=Really Stands Out
 あつくても元気にいきましょ～=Cheerful Even In Heat
 ちょっとだけおやすみなさい=Lil' Good Night Sleep
 こうばしい空気をもぐもぐ=Munching Fragrant Air
@@ -3544,7 +3552,9 @@ HAW-206=HAW-206
 ホッカイ=Hokkai
 ホートク=Hōtoku
 ゴコク=Gokoku
-
+山本五郎左衛門=Gorozaemon Sanmoto
+平太郎=Heitaro
+権八=Gonpacchi
 
 ----------Locations----------
 チリ北部=Northern Chile
