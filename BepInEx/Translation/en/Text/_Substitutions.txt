@@ -250,6 +250,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+青天の霹靂=Blue Sky Bolt
+動物ヶ島の悪戯者=Animal Island Prankster
+嵐の日に雷あり=Stormy Day With Lightning
+この身を確かめて=See For Yourself
+雷鳴轟轟・サンダーロード=Roaring Thunder Road
 れっつはっぴーらいふっ！=Live A Happy Life!
 すたーらいとあっぱーっ！=Starlight Bravo!
 はっぴーに向かって準備万端！=Ready For Happiness!
@@ -2933,6 +2938,7 @@ WAVE数= Waves
 はねかえしむし Reflect Small
 
 -------------------FRIEND FUTURE-PROOFING----------------------
+ライリュウ=Rairyu
 キットギツネ=Kit Fox
 ブラックサーバル=Black Serval
 カイウサギ=Domestic Rabbit

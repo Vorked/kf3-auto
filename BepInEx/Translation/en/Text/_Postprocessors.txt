@@ -13,20 +13,24 @@ Hakase=Professor
 
 ----------Translate Nue's name----------
 nueh=Nue
+Nueh=Nue
 「="
 」="
 contiNue=continue
 ContiNue=Continue
 
 ----------Japari Bun Fixes (Upper and Lower case needed)----------
-Japa Man=Japari Bun
-japa Man=Japari Bun
-japa man=Japari Bun
-Japa man=Japari Bun
-Japaman=Japari Bun
-japaman=Japari Bun
-Japonic=Japari Bun
-japonic=Japari Bun
+Japa Man=Japari Buns
+japa Man=Japari Buns
+japa man=Japari Buns
+Japa man=Japari Buns
+Japaman=Japari Buns
+japaman=Japari Buns
+Japonic=Japari Buns
+japonic=Japari Buns
+Japa-Man=Japari Buns
+japa-man=Japari Buns
+Japa-man=Japari Buns
 Bar Gar=Burger
 
 ----------Common Text Error Fixes----------
@@ -246,6 +250,7 @@ zmmrz={{P}}
  …=…
  ~=~
  ～=～
+\n=\n
 
 ----------Translation Fixes----------
 Joff=Geoff
@@ -273,6 +278,7 @@ Mister=Misses
 Jamari=Japari
 friends=Friends
 friend=Friend
+<size=10>Expedition</size>=Expedition
 
 ----------Parsing and spacing fixes----------
 
