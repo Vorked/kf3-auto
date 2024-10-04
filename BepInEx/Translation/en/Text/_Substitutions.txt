@@ -43,6 +43,10 @@
 ※なかよしボーナスは全フレンズに共通で適用されます=※The Friendship Bonus applies to all Friends.
 
 ----------Batch Upgrades----------
+マジカルキャンディ（オール）大=Magical Candy (All) Large
+マジカルキャンディ（オール）中=Magical Candy (All) Medium
+マジカルキャンディ（オール）小=Magical Candy (All) Small
+解放済みです=Released
 ※　マークがついた項目のみ選択できます=※Only marked items can be selected
 ※アイテムが不足する場合は、選択した項目でも強化/解放できない場=※You cannot Batch Upgrade if you lack needed items
 強化/解放したい項目を選択してください=Select the items you want to Batch Upgrade
@@ -149,7 +153,6 @@
 あああああああああああああああ\rああああああああああああああああああああああああああああああ\rああああああああああああああああああああああああああああああ=Ahhhhhhhh!\rahhhhhhh!\rahhhhhhhhhhh!
 ああああああああああああああああああああ=ahhhhhhh!
 
-
 ----------GACHA----------
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
 ピックアップ対象フレンズ=Friend Pick-Up
@@ -181,7 +184,6 @@
 『け・も・の・だ・も・の』アレンジ="Ke・Mo・No・Da・Mo" Arrangement
 強そうなの来たぁ～！～ゴシックメタルver.～=Here comes the strong one～ Goth Metal Ver.～
 ワクワクけものバトル！～ゴシックメタルver.～=Exciting Kemono Battle～ Goth Metal Ver.～
-
 
 ----------ERROR CODES----------
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
@@ -250,6 +252,27 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+守りの誓いをここに=Oath of Protection
+その意思は固く=Her Will Is Strong
+気合の構え=Spirited Stance
+金城鉄壁の突き=Ironclad Thrust
+攻めの極意・黒犀演武=Secret ・ Demonstration
+金を司る守護者=Guardian of Gold
+刻露清秀・秋の光華=Clear Autumn Night
+吐息は金と成りて=Breath Turns To Gold
+五龍神の白龍=White Dragon of the Five Gods
+五龍神の青龍=Blue Dragon of the Five Gods
+ひといき入れるわ！=Take A Break!
+モフモフをどーぞ♪=Here's some fluffy fluffy♪
+銀世界の狩りならおまかせ♪=My Snowy Hunt♪
+けっこうアクティブでしょ？=Pretty Active, Huh?
+ファッションチェック！=Fashion Check!
+今日はいい日ね！=A Good Day!
+ハピネスソング=Happiness Song
+引き寄せはお手の物=Pro Attraction
+ちょいちょいっと！=Just a Moment!
+運だめしにどうかにゃ？=Wanna Test Your Luck?
+ネコに大きな小判=Cat's Big Coin
 青天の霹靂=Blue Sky Bolt
 動物ヶ島の悪戯者=Animal Island Prankster
 嵐の日に雷あり=Stormy Day With Lightning
@@ -608,8 +631,8 @@ Kari=Kari
 己を信じ、一陣の風となれ！=Believe In Yourself, Become The Wind!
 摩訶不思議！ランタンパーティ=Mysterious! Lantern Party
 召喚・冥界へ誘う地獄の門=Gates Of Hell・To The Underworld
-セーバルちょーがんばるボンバー=Cerval's Do Your Best Bomber
-烈風のスーパーサバンナクロー=Serval's Stormy Super Savanna Claw
+セーバルちょーがんばるボンバー=Do Your Best Bomber
+烈風のスーパーサバンナクロー=Stormy Savanna Claw
 キッレイなところに福は来る♪=Fortune To A Beautiful Place♪
 急降下！これが私の全速力！=Swoop! My Full Speed!
 じぐざぐホワイトクロー=Zig-Zag White Claw
@@ -1739,7 +1762,7 @@ MP（ミラクルポイント）が満タンまで溜まったフレンズは行
 ロストフラッグ状態中はそのフレンズのオーダーフラッグが見えなくなります。\nまた、コーラスの発動条件を満たしていた場合は通常通りコーラスが発動します。=Lost Flag obscures a Friend's flag with a gray "???" flag. The Friend can still join Choruses and take actions, but the type is unknown.
 ばてばてヒリヒリ状態中は行動すると行動回数に応じてターン終了時にダメージを受け、\nけものミラクルが使えません。=Friends in the Overheat state can't use Kemono Miracles and will take damage at the end of the turn if they made an attack.
 ねらいうち状態中は一部のフレンズやセルリアンの攻撃で追加ダメージを受けます。\nねらいうち状態は、「状態異常にならない」を無視してかかります。\nねらいうち状態は、たいきスキルを含め何も行動をしないか相手から攻撃を受けると\n解除までの回数が減少し、0になると解除できます。\nねらいうち状態は、全状態異常を解除する効果の対象になりません。=Marked Units take extra damage from certain attacks from Friends and Ceruleans. The following will reduce the time in this state:\n・The effect disappears when the counter goes to 0.\n・The unit takes no action for a turn, including standby.\n・The unit takes extra damage from Marked.
-あせあせ状態中はたいきスキルが使えません。=Standby skills cannot be used during the Heat Rash state.
+あせあせ状態中はたいきスキルが使えません。=Standby skills cannot be used during the Sweaty state.
 ちからくらべは専用スタミナを消費して他の探検隊と、くんれんができるモードです。\nくんれんクラスを上げたり、くんれんメダルを集めることで報酬を入手することができます。=Strength Contest is a mode where you play against other Captains by consuming Training Stamina. You can get rewards by raising your Training Class and collecting Training Medals.
 勝利すると結果に応じてくんれんポイントを獲得できます。\n一定以上に達すると上のくんれんクラスへ昇格できます。=If you win, you can earn Training Points based on your results. If you reach certain levels, you are promoted to a higher Training Class.
 コチョコチョはちからくらべで相手のけものミラクル発動を阻止できます。\n※「コチョコチョ」はコチョコチョマスター状態のフレンズが編成されていると\n　 確率で発生します。\n※「コチョコチョ」の成功/失敗判定は確率に基づいて自動で行われます。=Tickle Event has a chance to activate and block an opposing Friend's Miracle.\n・The chance for a Tickle Event is based on the Friends involved.\n・Success and Failure rate is automatically figured based on probabilities of both Friends.
@@ -1897,6 +1920,7 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 輝石の変換=Pyroxene Conversion
 
 ----------DOJO BOSS ATTACK EFFECTS----------
+あせあせ攻撃=Sweaty Attack
 毎ターンMP増加量半減=MP Halved each turn
 自動MP増加量半減=MP gain halved (Against all Types)
 詳細情報=Detailed Information
@@ -2056,6 +2080,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+騎士としての決意を胸に=Knight's Determination
 ひんやりクリーミーを求めて=Cool Cream Taste
 ハツラツなつっこ！=Lively, Cheerful!
 野生がうずうずしちゃいます♡=My Wild Side Tingles♡
@@ -2259,7 +2284,6 @@ SSRインテリアボーナス=SSR Interior Bonus
 不正な起動です=Launch the game with DMM Player.
 ジャパリパーク立ち入り禁止区域・解除開始=Japari Park Off-Limits Area
 野生大解放チャレンジ=Wild Release Challenge
-
 MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Friends)
 自己ベスト\nスコア=Personal\nBest
 獲得\n報酬=Earned\nReward
@@ -2423,6 +2447,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+マネキネコ=Maneki-Neko
 ニューギニアワイルドハイランドドッグ=Highland Wild Dog
 N・ハイランドワイルドドッグ=Highland Wild Dog
 エゾユキウサギ=Ezo Mountain Hare
@@ -2933,7 +2958,7 @@ WAVE数= Waves
 
 ----------ATTACKS (SIMPLSTIC NAME)----------
 ねらいうち=Marked
-あせあせ=Heat Rash
+あせあせ=Sweaty
 はねかえし=Reflect
 はねかえしむし Reflect Small
 

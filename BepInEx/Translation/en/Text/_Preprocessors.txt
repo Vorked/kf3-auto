@@ -11,6 +11,8 @@
 」="
 \n=\n
 
+（ファニー）=(Funny)
+
 G-Z-M-C-Z-L={{A}}
 G-Z-M-D-Z-L={{B}}
 G-Z-M-E-Z-L={{C}}

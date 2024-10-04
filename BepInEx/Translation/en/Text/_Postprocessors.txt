@@ -4,10 +4,10 @@ Invitation (Gacha)=Invitation
 Configurationed=Configured
 1 Times = 1 Time
 Kochokocho=Tickling
-child=girl
-Child=Girl
 children=girls
 Children=Girls
+child=girl
+Child=Girl
 hakase=professor
 Hakase=Professor
 
