@@ -1,4 +1,7 @@
 ﻿-----REGEX-----
+r:"([0-9]+)話 $"=Episode $1 
+r:"([0-9]+)話$"=Episode $1
+r:" ([0-9]+)個$"= $1 pieces
 r:"☆([0-9]+)\\n確定！$"=☆$1\nFixed!
 r:"★([0-9]+)確定まで\\nあと$"=1 more until ★$3 is confirmed.
 r:"中盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 in the Mid-Game $2
@@ -399,6 +402,14 @@ r:"^2月$"=February
 【土曜日】=【Saturday】
 【日曜日】=【Sunday】
 
+月曜=Monday
+火曜=Tuesday
+水曜=Wednesday
+木曜=Thursday
+金曜=Friday
+土曜=Saturday
+日曜=Sunday
+
 
 r:"^([0-9]+)：00～([0-9]+)：00の時間にちんたいにアクセス！$"=Access Home between the hours of $1:00 and $2:00!
 r:"^<size\=18>あと</size>([0-9]+)日$"=<size=18>after</size>$1 days
@@ -483,8 +494,6 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ターンボーナス=Turn Bonus
 連勝ボーナス=Consecutive Bonus
 ボーナス=Bonus
-
-
 発動回数：∞=Activation Chance:∞
 
 ----------SPECIAL MISSIONS----------
@@ -516,6 +525,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 フォトの強化を行いますか？=Do you want to enhance your photo?
 選択不可=Not Available
 ステータス変化=Status Change
+ミラクル強化=Miracle Upgrade
 
 ----------DATES AND QUESTS DATES----------
 ミラクルとっくん！=Miracle Quest!
@@ -534,6 +544,8 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ダメージ=Damage
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
+獲得=Acquisition
+増量=More quantity
 変更=Change
 プレゼント=Gifts
 ちんたい=Home
@@ -614,6 +626,7 @@ ff3ASCx0=2
 増加=Increase
 
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
+家郎=Followers
 アーケードゲーム=Arcade Games
 このステップにフレンズはありません=No Friends on this step.
 このステップにフォトはありません=There are no photos in this step.
@@ -689,6 +702,10 @@ Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 提供一覧=List of Items
 
 ヌエ=Nue
+
+１人=One Person
+２人=Two People
+３人=Three People
 
 ----------Training----------
 全解除=Remove All

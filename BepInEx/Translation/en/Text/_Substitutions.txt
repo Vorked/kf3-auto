@@ -252,6 +252,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+やさしく、あなたをハグ♡=Hug You Tenderly♡
+誰よりも華麗に！=The Most Elegant!
+情熱あてんしょん！=Passionate Gaze!
+温めてあ・げ・る♡=I'll Warm・You・Up♡
+トリらしく優雅に=Bird-like Grace
 守りの誓いをここに=Oath of Protection
 その意思は固く=Her Will Is Strong
 気合の構え=Spirited Stance
@@ -1920,11 +1925,15 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 輝石の変換=Pyroxene Conversion
 
 ----------DOJO BOSS ATTACK EFFECTS----------
+■ここに注意！=■Be careful here!
+ちくはぐリズム攻撃=Discord Attack
+MP減少攻撃（有利属性以外）=MP Reduction Attack (Disadvantaged Type)
+ルンルンきぶん攻撃=Joy Attack
+MP減少攻撃=MP Reduction Attack
 あせあせ攻撃=Sweaty Attack
 毎ターンMP増加量半減=MP Halved each turn
 自動MP増加量半減=MP gain halved (Against all Types)
 詳細情報=Detailed Information
-■ここに注意！=■Be careful here!■
 どく攻撃=Poison Attack
 ズキンズキン攻撃=Throbbing Attack
 ロストフラッグ攻撃=Lost Flag Attack
@@ -1953,6 +1962,8 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 全体大ダメージ攻撃=High Damage Attack-All
 かいひ強化=Increased Evasion
 MP増加量半減=MP increase halved
+ルンルンきぶん=Joy
+ちくはぐリズム=Discord
 
 ----------DOJO PERSONAL BEST----------
 バトル\n開始=Start\nBattle
@@ -2284,7 +2295,6 @@ SSRインテリアボーナス=SSR Interior Bonus
 不正な起動です=Launch the game with DMM Player.
 ジャパリパーク立ち入り禁止区域・解除開始=Japari Park Off-Limits Area
 野生大解放チャレンジ=Wild Release Challenge
-MP減少攻撃（有利属性以外）=MP Reduction (Against non-favorable Friends)
 自己ベスト\nスコア=Personal\nBest
 獲得\n報酬=Earned\nReward
 バチバチ百幻脚=Hundred Phantom Legs
@@ -2447,6 +2457,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+クラハシコウ=Saddlebill
 マネキネコ=Maneki-Neko
 ニューギニアワイルドハイランドドッグ=Highland Wild Dog
 N・ハイランドワイルドドッグ=Highland Wild Dog

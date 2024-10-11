@@ -10,6 +10,51 @@ child=girl
 Child=Girl
 hakase=professor
 Hakase=Professor
+Tori =Bird 
+ Tori= Bird
+Reflect Zombie=
+
+----------Fix friend type----------
+My Pace(Light-Blue)
+My Pace (Light-Blue)
+My Pace=Carefree
+my Pace(Light-Blue)
+my Pace (Light-Blue)
+my Pace=Carefree
+
+Fanny(red)=Funny(Red)
+Funny(red)=Funny(Red)
+Fanny (red)=Funny(Red)
+Funny (red)=Funny(Red)
+Fanny=Funny
+fanny(red)=Funny(Red)
+funny(red)=Funny(Red)
+fanny (red)=Funny(Red)
+funny (red)=Funny(Red)
+
+Relax (blue)=Relaxed(Blue)
+Relax(blue)=Relaxed(Blue)
+relax (blue)=Relaxed(Blue)
+relax(blue)=Relaxed(Blue)
+
+Lovely (peach)=Lovely(Pink)
+Lovely(peach)=Lovely(Pink)
+Lovely (pink)=Lovely(Pink)
+Lovely(pink)=Lovely(Pink)
+lovely (peach)=Lovely(Pink)
+lovely(peach)=Lovely(Pink)
+lovely (pink)=Lovely(Pink)
+lovely(pink)=Lovely(Pink)
+
+active (yellow-green)=Active(Yellow-Green)
+active(yellow-green)=Active(Yellow-Green)
+Active (yellow-green)=Active(Yellow-Green)
+Active(yellow-green)=Active(Yellow-Green)
+
+Friendly (green)=Friendly(Green)
+friendly (green)=Friendly(Green)
+Friendly(green)=Friendly(Green)
+friendly(green)=Friendly(Green)
 
 ----------Translate Nue's name----------
 nueh=Nue
@@ -54,7 +99,6 @@ wrong's=wrong
 Wrong's=Wrong
 Catinae=Caninae
 Cerulean's=Ceuleans
-Fanny=Funny
 Seesar's Righty=Shisa Righty
 Seesar's Lefty=Shisa Lefty
 Seesar's=Shisa
