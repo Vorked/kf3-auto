@@ -351,7 +351,6 @@ r:"^(あと)?([0-9]+)\s?(回|More To Go.|left)　([0-9]+)\/([0-9]+)まで$"=$2 l
 r:"^\s([0-9]+)\/([0-9]+)まで$"=　Through $1/$2
 r:"^([0-9]+)\/([0-9]+)\s?～\s?([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+) まで$"=Until $1/$2 ～ $3/$4 $5:$6
 
-
 ----------Jank Time:----------
 r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 days
 
@@ -625,9 +624,20 @@ ff3ASCx0=2
 すぺしゃる=Special
 増加=Increase
 
+-----------Song version translations----------
+{{A}}～ゴシックメタルver.～={{A}}～Gothic Metal ver.
+{{A}}～トロピカルver.～={{A}}～Tropical ver.
+{{A}}～和っしょいver.～={{A}}～Peaceful ver.
+{{A}}～クリスマスver.～={{A}}～Christmas ver.
+{{A}}～メルヘンver.～={{A}}～Fairy Tale ver.
+{{A}}～ハロウィンver.～={{A}}～Halloween ver.
+{{A}}～クリスマスver.～={{A}}～Exciting ver.
+
+
 ----------NEEDED TRANSLATIONS IN AUTOTRANSLATION----------
 家郎=Followers
 アーケードゲーム=Arcade Games
+隊長さん応援すぺしゃるしょうたい=Captain's Support Special
 このステップにフレンズはありません=No Friends on this step.
 このステップにフォトはありません=There are no photos in this step.
 このステップにアイテムはありません=There are no items in this step.
@@ -676,12 +686,15 @@ ff3ASCx0=2
 {{A}}を見守る優しい瞳=Kind eyes watching over {{A}}
 {{A}}条件={{A}} Conditions
 本日{{A}}0回=No uses left
+
 {{A}}する={{A}}
+交換{{A}}=Exchange {{A}}
+{{A}}の小瓶=Vials of {{A}}
+
 {{A}}使用個数選択=Select the number of {{A}} to use.
 このクエストは、{{A}}{{B}}可能です=This quest has {{A}} {{B}}.
 「購入と{{A}}」を有効にする=Enable "Purchase and Replenish"
-交換{{A}}=Exchange {{A}}
-{{A}}の小瓶=Vials of {{A}}
+
 【{{A}}】{{B}}の小瓶=[{{A}}] Vials of {{B}}
 ミラクル{{A}}=Miracle {{A}}
 Beat!!!{{A}}　+1.0%=Beat!!! {{A}}　+1.0%
@@ -700,7 +713,7 @@ Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 大型インテリア=Large Interior
 {{A}}（ガチャ）={{A}}\n(Gacha)
 提供一覧=List of Items
-
+たんけんたい応援すぺしゃるしょうたい=Explorer Support Special Event
 ヌエ=Nue
 
 １人=One Person
@@ -987,7 +1000,7 @@ Exp 1.5倍=Exp 1.5x
 小さな輝石<size\=24><color\=#FFEE00>3</color></size>倍！=<size\=16>Small Pyroxene</size><size\=24><color\=#FFEE00>x3</color></size>!
 次のLvまでParam01=Param01 until the next Lvl
 イタチフレンズ=Weasel
-とくべつショップしょうたい=special Store Invitation
+とくべつショップしょうたい=Special Store Invitation
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------

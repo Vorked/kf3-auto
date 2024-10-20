@@ -76,6 +76,8 @@
 ダウンロード中　しばらくお待ちください。=Downloading, please wait.
 
 ----------ShiServals Dojo Quotes----------
+今日はこれだよー！=This is it for today!
+準備はいいかなぁ？=Are you ready?
 今日はこれだけど、\n準備はいいかなぁ？=This is it for today,\nbut I hope you're ready for it.
 じゃじゃーん！\n今日はこれだよー！=Tadaa! This is today's event!
 今日はこれだよー！=This is it for today!
@@ -163,27 +165,9 @@
 解放ボーナス=Release Bonus
 
 ----------BATTLES, EVENTS, QUESTS MUSIC (unknown)----------
-ワクワクけものバトル！～ハロウィンver.～=Exciting beast battle! ～Halloween ver.～
-強そうなの来たぁ～！～ハロウィンver.～=Here comes something that looks strong! ～Halloween ver.～
-強そうなの来たぁ～！～メルヘンver.～=Here comes the strong one～!
-ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle!
-ステキな運命=A beautiful destiny.
-ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle!
-強そうなの来たぁ～！～クリスマスver.～=Here comes the strong one～ Christmas Ver.～
-ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle!
-強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～!
-強そうなの来たぁ～！～メルヘンver.～=Here comes a strong one～ Merchant Ver.～
-ワクワクけものバトル！～メルヘンver.～=Exciting Kemono Battle～ Merchant Ver.～
+ステキな運命=A Beautiful Destiny.
 ステキな運命=Wonderful Fate
-ワクワクけものバトル！～クリスマスver.～=Exciting Kemono Battle～ Christmas Ver.～
-強そうなの来たぁ～！～クリスマスver.～=Here comes a strong one～ Christmas Ver.～
-ワクワクけものバトル！～和っしょいver.～=Exciting Kemono Battle～ Japanese Ver.～
-強そうなの来たぁ～！～和っしょいver.～=Here comes a strong one～ Japanese Ver.～
-強そうなの来たぁ～！～トロピカルver.～=Here comes the strong one～ Tropical Ver.～
-ワクワクけものバトル！～トロピカルver.～=Exciting Kemono Battle～ Tropical Ver.～
 『け・も・の・だ・も・の』アレンジ="Ke・Mo・No・Da・Mo" Arrangement
-強そうなの来たぁ～！～ゴシックメタルver.～=Here comes the strong one～ Goth Metal Ver.～
-ワクワクけものバトル！～ゴシックメタルver.～=Exciting Kemono Battle～ Goth Metal Ver.～
 
 ----------ERROR CODES----------
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
@@ -252,6 +236,14 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+するどい眼光？=A Sharp Gaze?
+ヒジュツ！かんてんぼーき！Aid! Technique!
+にんジュツ！ふうとんのジュツ！=Futon Technique!
+みならい忍者=Apprentice Ninja
+じまんのちょんまげ=Proud Topknot
+甘辛！五目稲荷寿司！=Sweet and Spicy!
+稲成りの願い=Rice-Bearing Wish
+いつもあなたのそばに=Always By Your Side
 やさしく、あなたをハグ♡=Hug You Tenderly♡
 誰よりも華麗に！=The Most Elegant!
 情熱あてんしょん！=Passionate Gaze!
@@ -367,7 +359,7 @@ Lv.強化=Lv. Enhancement
 お立会い！キンシャチの舞♪=Kinshachi Dance♪
 キンキラパックはいかが？=Want a shiney pack?
 それ、いっちょあがり！=That's a good one!
-お城のてっぺんから見る景色=View from the top of the castle
+お城のてっぺんから見る景色=Atop The Castle View
 光る黄金の体=Shining Golden Body
 るんるん♪やさい収穫祭！=Harvest Festival♪
 ひまならかまって=Help if you're free
@@ -414,14 +406,14 @@ Lv.強化=Lv. Enhancement
 突撃！コツメアタック！=Assault! Kotsume Attack!
 ジャガー幻惑乱れ拳=Jaguar Phantom Turbulent Fist
 リラックスターイム！=Relaxation Time!
-咆哮一閃　王者の一撃=Roar, Flash, Strike Of The Champion!
+咆哮一閃　王者の一撃=Champion's Roar, Flash, Strike!
 激風ショックウェーブ=Gale Shock Wave
 知恵の実大収穫=Great Harvest Of Wisdom
 ワシ的部分…解放！=My Liberating... Release!
 ジバっとジャンプ！=Jibber-Jump!
 かまくらホッコーリＧ=Kamakura Hokkori G
 神珍鉄一万三千五百斤=13,500 Pounds Of Iron!
-クマクマ大回転ホームラン=Kuma Kuma's Big Spinning Home Run
+クマクマ大回転ホームラン=Kuma's Spinning Home Run
 おやすみプリチーカウント=Good Night Pretty Count
 黒焔槍邪龍憑依=Dark Flame Lance, Evil Dragon Possessed
 おたからオープン！=Otakara Open!
@@ -498,12 +490,12 @@ Lv.強化=Lv. Enhancement
 がぶっとひと息ですよ！=Take A Breather!
 ポカポカ甲羅パワー満タン！=Warm Shell's Full Power!
 多重玄武結界・弐式=Multi Genbu Barrier ・ Type 2
-青き龍の救済の一手・極=Blue Dragon's Salvation・Ultimate
+青き龍の救済の一手・極=Blue Dragon's Salvation
 真・疾風・白虎拳=True・Tiger・Gale Fist
-天来浄化の業火・改=Flames Of Divine Purification・Revise
+天来浄化の業火・改=Flames Of Purification
 厄災一蹴！門前払い=Disaster Kick! Gate Exile
 笑門来福！リウキウ玉=Great Fortune! Riuki Ball!
-霊験あらたか！稲荷大結界=Miraculous Great Inari Barrier!
+霊験あらたか！稲荷大結界=Great Inari Barrier!
 毒気纏いし殺生の石=Poisonous Killing Stone
 タマちゃんオンステージっ！=Seal On Stage!
 パオパオスプラッシュ=Paopao Splash
@@ -531,7 +523,7 @@ Lv.強化=Lv. Enhancement
 雷撃一閃！=Thunder Strike!
 わくわく！調査にまっしぐら♪=Exciting! Quick Investigation ♪
 眠眠大熊猫崩=Sleeping Big Bear's Catnap
-天まで届け！コイちゃんの昇り龍=Deliver To Heaven! Ascending Dragon
+天まで届け！コイちゃんの昇り龍=Deliver To Heaven!
 ………♪……………☆……！=………… ♪ …………… ☆ ……!
 敵う者無き荒野の覇者=Unmatched Ruler
 化かしの術・一擲千金=Bizarre Technique・ Get Rich Quick
@@ -1213,12 +1205,33 @@ AND検索=AND Search
 本日残り1回=1 Use Left
 残り=Uses: 
 なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x2</color></size>!
+倒した数=Kills
 
 ----------FRIENDSHIP LEVEL----------
 隊長さんが入れるくらい大きな穴を掘ったの\nいっしょに入って、のんびりしよう=I dug a hole big enough for the captain and me,\nso let's go in together and relax.
 
 
 ----------BEATS AND STANDBY----------
+旅で見たまぶしい景色=Dazzling Scenery In My Travels
+どこまでも雲を追いかけて=Chasing Clouds to the Ends
+ツノはきれいに♪=My Beautiful Horns♪
+しゅばっとねらいづき！=Swiftly On Guard!
+今日も元気に！高らかに♪=Feeling Great! Loudly♪
+雪中の敏腕ハンター=Skilled Hunter
+みんなに知らせましょ=Let Everyone Know
+決めてみせる=I'll Decide
+ちいさい…かな？=Small...maybe?
+ボ、ボクもいくよっ！=I'm Going Too!
+やさしい友達のために=To A Kind Friend
+のんびりすごしたいの～=I Wanna Take It Easy～
+真実を逃しません！=Always Find The Truth!
+事件のにおいです！=Smell Of The Case!
+名探偵はカフェにいる=Detective In The Cafe.
+どうしようかしら？=What Shall I Do?
+ばつぐんのねーみんぐ=Extremely Popular
+みだしなみグルーミング=Personal Grooming
+幻の鳥=Phantom Bird
+美しき貴き羽毛=Beautiful Beloved Feathers
 あの娘へのあこがれ=Longing For Her
 大親友との絆=Bond With Best Friends
 雪男の子どもですぞ〜=I'm a Yeti's Child〜
@@ -1372,7 +1385,7 @@ AND検索=AND Search
 迷いを断ち切る！=Cut Off The Hesitation!
 あなたの弱点、みつけました！=I Found Your Weakness!
 ジャイアント・スクラッチ=Giant Scratch
-ぜんりょくダーイブ！=Zenryoku Daibu!
+ぜんりょくダーイブ！=Full Power Dive!
 ……☆………♪=……☆…………♪
 凶爪如嵐=Evil Claw Storm
 前方にご注意あれ=Be Careful Ahead
@@ -1568,6 +1581,9 @@ kari=Kari
 ケロボール‐隊長の証‐=Kero Ball -Captain's Proof-
 お前を食ってやる=I Will Eat You
 トラぱーんち！=Tiger Punch!
+いっしょに踊ろう♪=♪Dance With Me♪
+ちゃぷちゃぷごくらく♪=Glamorous Splish Splash♪
+コイちゃんの本気！=Koi-chan's is Serious!
 
 ----------STORY/MISSION FIXES----------
 後日公開！=Coming Soon!
@@ -1925,6 +1941,7 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 輝石の変換=Pyroxene Conversion
 
 ----------DOJO BOSS ATTACK EFFECTS----------
+毎ターン=Each Turn 
 ■ここに注意！=■Be careful here!
 ちくはぐリズム攻撃=Discord Attack
 MP減少攻撃（有利属性以外）=MP Reduction Attack (Disadvantaged Type)
@@ -2091,6 +2108,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+ジっとできない湿地のハンター=Restless Marsh Hunter
 騎士としての決意を胸に=Knight's Determination
 ひんやりクリーミーを求めて=Cool Cream Taste
 ハツラツなつっこ！=Lively, Cheerful!
@@ -2099,13 +2117,13 @@ MP増加量半減=MP increase halved
 笑顔をお届け！=Smile Delivery!
 隻眼の悪魔†=One-Eyed Devil†
 オシャレリーダー=Style Icon
-疑惑の美声？=Doubt My Dulcet Voice?
+疑惑の美声？=Beautiful Voice?
 頼れる副隊長=Trusty Vice-Captain
 私の時代も来たかなー=My Time To Shine Too
 ニャギっとスタイリッシュ=Dressed To The Teeth
 時代が来たのだ！=My Time To Shine-noda!
 PPPのプリンセス=PPP's Princess
-いいこと思いつきました=I Just Had A Great Idea
+いいこと思いつきました=I Have A Great Idea
 わっふいわっふーい！=Wafui Wafuuui!"
 天才発明家・Ｇ=Genius Inventor G
 一撃のポーズぅ！=One-Shot Pose!
@@ -2116,16 +2134,16 @@ PPPのプリンセス=PPP's Princess
 キセキとくせい=Miracle Trait
 正義の家庭教師=Tutor of Justice
 一撃の極意=Single-Strike Style
-解き放たれしダークネスホーン=Horn of Darkness Unleashed
+解き放たれしダークネスホーン=Horn of Darkness
 シマシマ伝道師=Stripe Guru
 みんなでクールに=Coolness for All
 わたしを頼ってね！=Count on me!
 みんなでジャスティス=Let's Justice!
-連撃の極意=Successive-Strike Style
+連撃の極意=Successive-Strikes
 やってみる…！=I'll... TRY!
-占いのその先へ=In addition, Than My Visions
-優秀な助手の出番なのです=The brilliant Assistant
-どこでも突撃！えんため隊=Attack Anywhere! Entame Corps
+占いのその先へ=Beyond Fortune Telling
+優秀な助手の出番なのです=Brilliant Assistant
+どこでも突撃！えんため隊=Charge Anywhere! Entame Corps
 天才博士が通りますよ=Genius Doctor Coming Through
 
 
@@ -2360,6 +2378,7 @@ SSRインテリアボーナス=SSR Interior Bonus
 スタミナがたりません=I don't have enough Stamina
 アイテムを使ってスタミナを回復します=So I'll use items to restore my Stamina
 スタミナを回復しました=Stamina Restored
+ダメージアップ！=Damage Up!
 なかよしpt\n獲得量アップ=Friendship\nRate Up!
 なかよしpt獲得量アップ=Friendship Exp\nRate Up!
 なかよしpt=Friendship Pt.

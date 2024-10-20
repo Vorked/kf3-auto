@@ -13,14 +13,26 @@ Hakase=Professor
 Tori =Bird 
  Tori= Bird
 Reflect Zombie=
-
+  = 
 ----------Fix friend type----------
+fanny frenzies=Funny Friends
+Friends at their own pace=Carefree Friends
+Own Pace=Carefree
+own pace=Carefree
 My Pace(Light-Blue)
 My Pace (Light-Blue)
 My Pace=Carefree
 my Pace(Light-Blue)
 my Pace (Light-Blue)
 my Pace=Carefree
+Carefree (water)=Carefree(Light-Blue)
+Carefree(water)=Carefree(Light-Blue)
+Carefree (Water)=Carefree(Light-Blue)
+Carefree(Water)=Carefree(Light-Blue)
+carefree (water)=Carefree(Light-Blue)
+carefree(water)=Carefree(Light-Blue)
+carefree (Water)=Carefree(Light-Blue)
+carefree(Water)=Carefree(Light-Blue)
 
 Fanny(red)=Funny(Red)
 Funny(red)=Funny(Red)
