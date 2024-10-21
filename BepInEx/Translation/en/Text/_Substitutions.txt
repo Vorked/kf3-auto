@@ -236,7 +236,27 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+未知に煌めく青い瞳=Blue Eyes Skarling
+もふもふシッポにゴチュウイ！=Touch My Fluffy Tail!
+ぉあ～つぎは何しよう？=What To Do Next?
+次はどこに行こう？=Where To Go Next?
+かくれんぼしよ？=Hide and Seek?
+暗雲切り裂く雷=Thunder Cuts Through Clouds
+効果てきめん=Extremely Effective
+新薬作り=My New Drug
+ボクの薬も追加だよん♪=I Added Some Medicine♪
+迸る稲光=Lighting Surge
+ペロッとひとやすみ=A Short Break
 するどい眼光？=A Sharp Gaze?
+心優しき案内役=Kindhearted Guide
+空を制するヒーロー=Hero Who Rules The Skies
+どんな悪も見逃さない=No Evil is Overlooked
+どこからでもウェルカム！=Welcomed from Anywhere!
+ひがごと、ゆめゆめ許さず=Never Forgive Wrongdoing
+大切な思い出=Precious Memories
+パンプアップ=Pump Up
+筋トレの成果=Muscle Training Results
+祖なる牛=Ancestral Cow
 ヒジュツ！かんてんぼーき！Aid! Technique!
 にんジュツ！ふうとんのジュツ！=Futon Technique!
 みならい忍者=Apprentice Ninja
@@ -577,8 +597,8 @@ Kari=Kari
 奇襲！小さな悪魔の鋭爪=Surprise Little Devil's Sharp Claws!
 継承・真紅のたぎり=Inherited・Crimson Roar
 ガブッと一発ノックアウト！=One-Shot Knockout
-リウキウおひさまはいたい拳=Ryukyu Sunshine Pain Fis
-リウキウおひさまうみゃみゃ拳=Ryukyu Sunshine Umyamya Fis
+リウキウおひさまはいたい拳=Sunshine Pain Fis
+リウキウおひさまうみゃみゃ拳=Sunshine Umyamya Fis
 荒波ボディープレスダイブ！=Rough Waves Belly-Flop Dive!
 目指せ！　一等賞！=Aim! First Prize!
 汗は努力の証=Sweat Is A Proof Of Effort
@@ -2108,6 +2128,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+青い瞳の迷い猫=Blue-Eyed Stray
 ジっとできない湿地のハンター=Restless Marsh Hunter
 騎士としての決意を胸に=Knight's Determination
 ひんやりクリーミーを求めて=Cool Cream Taste
