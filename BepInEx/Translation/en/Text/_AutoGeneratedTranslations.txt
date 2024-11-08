@@ -461,6 +461,13 @@ r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 2X=2
 カバ=Hippo
 
+
+----------MENU TESTS----------
+限定=Limited
+{{A}}復刻=Event\nRerun
+期間{{A}}=Limited\nEvent
+
+
 ----------REGEX IN-GAME STATUS----------
 r:"^被ダメージ<size\\=([0-9]+)>([0-9]+)\%<\/size>増加$"=Damage Taken +<size\=$1>$2%</size>
 r:"^ＭＰ<size\\=([0-9]+)>([0-9]+)\%<\/size>減少$"=ＭＰ <size\=$1>$2%</size> Decrease
@@ -596,7 +603,6 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 獲得アイテム<size\=24><color\=#FFEE00>1.5</color></size>倍=Items Earned <size\=24><color\=#FFEE00>1.5</color></size>x
 なかよし！=Friendship！
 吸収=Absorption
-ff3ASCx0=2
 ちゅーばーのあかし交換所=Proof of Power Exchange
 ちゅーばーのあかし=Proof of Power
 ----------New replacement translations (Missions)----------
@@ -1010,5 +1016,9 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 

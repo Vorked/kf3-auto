@@ -1,4 +1,4 @@
-﻿<color\=#990000FF>= 
+﻿2x=2
 </color>= 
 <color=990000FF>= 
 </color>= 
@@ -6,7 +6,6 @@
 　= 
 　= 
 ジャパまんたくさん=lots of Japari Buns
-
 「="
 」="
 \n=\n

@@ -1,4 +1,5 @@
-﻿----------Friendship Level Up Quotes----------
+﻿2x=2
+----------Friendship Level Up Quotes----------
 いつもお世話をしてくれてありがとう\nボクの気持ちをこめたやさい、あげる=Thank you for always taking care of me,\nI'll give you vegetables filled with my love!
 あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?
 あんたといると、楽しくて…\n気づいたら会いに行っちゃってるのよね……なにその顔=I have so much fun with you...\nI find myself coming to see you... what's with that face?
@@ -41,6 +42,8 @@
 獲得できる小さな輝石3倍!=Earn 3x Little Pyroxene!
 獲得できる小さな輝石2倍!=Earn 2x Little Pyroxene!
 ※なかよしボーナスは全フレンズに共通で適用されます=※The Friendship Bonus applies to all Friends.
+期間限足=Limited
+限足復刻=Rerun
 
 ----------Batch Upgrades----------
 マジカルキャンディ（オール）大=Magical Candy (All) Large
@@ -236,6 +239,17 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+軍神の加護=God of War's Protection
+全てを呑み込みしテチス=All-Consuming Tethys
+混沌の海より光さすもの=Sea of Chaos' Light
+その歯は槍のごとく=Teeth Like Spears
+境界を越えて=Beyond the Boundary
+チカラ仕事はお任せください～=I'll Do The Lifting～
+魂を込めてお助けします=Help With all My Heart
+ぽやぽやマイペースに=At Your Own Pace
+豪脚に力を込めて=Full Strength With Powerful Legs
+ジャマする子はこうです=A Friend's Obstacle
+明鏡止水=Still, Clear Water
 未知に煌めく青い瞳=Blue Eyes Skarling
 もふもふシッポにゴチュウイ！=Touch My Fluffy Tail!
 ぉあ～つぎは何しよう？=What To Do Next?
@@ -597,8 +611,8 @@ Kari=Kari
 奇襲！小さな悪魔の鋭爪=Surprise Little Devil's Sharp Claws!
 継承・真紅のたぎり=Inherited・Crimson Roar
 ガブッと一発ノックアウト！=One-Shot Knockout
-リウキウおひさまはいたい拳=Sunshine Pain Fis
-リウキウおひさまうみゃみゃ拳=Sunshine Umyamya Fis
+リウキウおひさまはいたい拳=Sunshine Pain Fist
+リウキウおひさまうみゃみゃ拳=Sunshine Umyamya Fist
 荒波ボディープレスダイブ！=Rough Waves Belly-Flop Dive!
 目指せ！　一等賞！=Aim! First Prize!
 汗は努力の証=Sweat Is A Proof Of Effort
@@ -713,7 +727,7 @@ Kari=Kari
 いま行くから、待っててね…♪=I'm Going Now, Wait For Me♪
 ぴょんぴょん月光スタンプ！=Jumping Moonlight Stamp!
 もちっとかわいーデコ団子♪=Cute Deco Dumplings ♪
-暗黒天満月演舞=Dark Heaven Full Moon Dance
+暗黒天満月演舞=Dark Heaven's Full Moon
 夢のじゃぱり城だモン！=Japari Castle Of Dreams!
 サイキョーの石垣だモーン=Great Stone Wall Morn
 
@@ -2967,7 +2981,6 @@ OPムービー=OP Movie
 非表示=Hide
 ボタン=Button
 わいわいツリーハウス=Noisy Treehouse
-限定=Limited
 月1パック=Monthly
 排出率=Drop Rate
 検索=Search
@@ -3296,6 +3309,7 @@ HAW-206=HAW-206
 ジェネット=Large-Spotted Genet
 イイズナ=Weasel
 レオ=Leo
+ドルドン=Dorudon
 ヒョウ=Leopard
 ヒョウモンガメ=Leopard Tortoise
 フタユビナマケモノ=Two-Toed Sloth
@@ -3361,7 +3375,6 @@ HAW-206=HAW-206
 パルコアライサン2号=Palcoarai-san2
 オグロスナギツネ=Pale Fox
 ミユビナマケモノ=Pale-Throated Sloth
-マヌルネコ=Palla's Cat
 パンサーカメレオン=Panther Chameleon
 パラケラテリウム=Paraceratherium
 リョコウバト=Passenger Pigeon
@@ -3708,7 +3721,7 @@ EN：絶滅危惧=EN: Endangered
 助っ人=Helper
 その他=Misc.
 たしかに…=Certainly...
-
+限定=Limited
 
 ----------TERMS AND ONOMOTOPEA MUST BE AT THE END----------
 …えへへ=…ehehe
