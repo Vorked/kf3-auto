@@ -239,6 +239,15 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+運命と踊りましょう！=Dance with Destiny!
+風に乗って飛べ！=Fly with the Wind!
+力のかぎり、踊り続けるわ♪=Dancing as long as I can♪
+天の祝福=Heavenly Blessings
+あたたかなこの楽園で=In This Warm Paradise
+木陰のまどろむ夢=Dreams in the Shade
+私と追いかけっこ、しましょ=Let's Play Tag!
+ぺたんとおもいっきり=Strike Hard
+どれがかわいいかな？=Which Is Cuter?
 軍神の加護=God of War's Protection
 全てを呑み込みしテチス=All-Consuming Tethys
 混沌の海より光さすもの=Sea of Chaos' Light
@@ -2967,6 +2976,7 @@ OPムービー=OP Movie
 ＭＰ減少=Decreased MP
 まんぞく=Complete
 旅犬=Traveling Dog
+メガテリウム=Megatherium
 獲得数=Owned
 既読ストーリー再生=Story Playback
 情報切り替え=Switch Info
