@@ -16,6 +16,8 @@ Hakase=Professor
 Tori =Bird 
  Tori= Bird
   = 
+,,=,
+..=...
 ----------Fix friend type----------
 fanny frenzies=Funny Friends
 Friends at their own pace=Carefree Friends

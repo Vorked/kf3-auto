@@ -21,7 +21,7 @@
 いつも色々と付き合ってくれてありがとう\nここまでやってくれるのは、あなただけよ=Thank you for always going out of your way to help\nme with everything, you're the only one who would go this far for me.
 日頃から私と向き合ってくれる礼にもっとキミを鍛えてやる\n…厳しくやるから、覚悟しとけよ？　ふふ=I'm going to train you more to thank you for dealing with me on a regular basis...\nand I'm going to do it hard, so be prepared, okay?
 隊長ちゃんとはながいお付き合いになりましたね～\nまだまだいっしょにいたいです～　ぎゅ～っ！=It's been a long relationship with Captain-chan～\nI want to be with you for a long time～ HUG～!
-
+みんなのことが大切だからって自分を犠牲にしちゃだめよ？\nでも、そんなあなただからこそ慕われてきたのよね=You can't sacrifice yourself just because you care about everyone,\nbut that's why people love you so much.
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
 けものミラクルはMPがたまると発動できます=Kemono Miracle can be activated when enough MP is gathered.
 プレゼントを受け取りました\n所持数上限を超えるアイテムは受け取ることができませんでした\n※称号は一括受け取りの対象外です=Gifts recieved\nItems that exceed maximum number owned cannot be recieved.\n※Titles are not eligible for Batch Accept.
@@ -231,6 +231,8 @@ Lv.強化=Lv. Enhancement
 
 ----------RAINBOW TRAITS----------
 野生と知性で最強なのです=Wildest and Most Intelligent
+アイコン解放！=Icon Unlock!
+強化されるステータス=Enhanced Status
 
 ----------TRAITS----------
 ボクの声、きいて！=Listen To My Voice!
@@ -239,6 +241,15 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+清浄に漂う玉水=Serene Clear Water
+特別緊急治療=Emergency Treatment
+水を司る守護者=Guardian Who Governs Water
+五龍神の黒龍=Black Dragon of the Five Gods
+無病息災・冬の診療=Winter MediCare
+秘儀・月ノ三連角=Ritual・Moon Triangle
+日々修行=Daily Training
+忍者としての誇り=Ninja Pride
+某は影となる=Become The Shadow
 運命と踊りましょう！=Dance with Destiny!
 風に乗って飛べ！=Fly with the Wind!
 力のかぎり、踊り続けるわ♪=Dancing as long as I can♪
