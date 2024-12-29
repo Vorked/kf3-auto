@@ -241,6 +241,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+実はかわいい系なんです=She's The Cute Type
+ちょっぴり毒舌？=Lil' Bit Tongue in Cheek?
+しゅばっとひと噛み、です=Just One Bite
+ゆらりのんびり=Slow and Steady
+ここでぺちーん=Peperoncino
 清浄に漂う玉水=Serene Clear Water
 特別緊急治療=Emergency Treatment
 水を司る守護者=Guardian Who Governs Water
@@ -1257,7 +1262,9 @@ AND検索=AND Search
 本日残り3回=3 Uses Left
 本日残り2回=2 Uses Left
 本日残り1回=1 Use Left
-残り=Uses: 
+残り1=Uses: 1
+残り2=Uses: 2
+残り3=Uses: 3
 なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x2</color></size>!
 倒した数=Kills
 
@@ -1342,7 +1349,6 @@ AND検索=AND Search
 アイドルのリズム=Idol Rhythm
 アイドルのステップ=Idle Steps
 アイドルの歌声=Idol Singing Voice
-おじゃま=Annoyance
 ジャンピング一点突き=Jumping Single Point
 出てってちょうだい？=Can I Get Out
 あっちいって！=Go Away!
@@ -3209,7 +3215,6 @@ WAVE数= Waves
 ガラパゴスゾウガメ=Galápagos Tortoise
 アフリカオニネズミ=Gambian Rat
 ヤク=Gannan Yak
-ディアトリマ=Gastornis
 ガウル=Gaur
 ゲンブ=Genbu
 ジェンツーペンギン=Gentoo Penguin
