@@ -7,6 +7,9 @@ Invitation (Gacha)=Invitation
 Configurationed=Configured
 1 Times = 1 Time
 Kochokocho=Tickling
+his/her=her
+he/she=she
+him/her=her
 children=girls
 Children=Girls
 child=girl
@@ -21,8 +24,12 @@ Tori =Bird
 ".=."
 ....=...
 ..?=...?
+....?=...?
+....!=...!
 ..!=...!
 ,,=,
+' s='s
+ 's='s
 ----------Fix friend type----------
 fanny frenzies=Funny Friends
 Friends at their own pace=Carefree Friends
@@ -77,11 +84,16 @@ friendly (green)=Friendly(Green)
 Friendly(green)=Friendly(Green)
 friendly(green)=Friendly(Green)
 
+----------Give Up Fixer----------
+not on giveaway=not in Give-Up State
+on giveaway=Give Up State
 ----------Translate Nue's name----------
 nueh=Nue
 Nueh=Nue
 「="
 」="
+『="
+』="
 contiNue=continue
 ContiNue=Continue
 
@@ -654,3 +666,31 @@ Z～=～
  a i= an i
  a o= an o
  a u= an u
+ 
+%A=% A
+%B=% B
+%C=% C
+%D=% D
+%E=% E
+%F=% F
+%G=% G
+%H=% H
+%I=% I
+%J=% J
+%K=% K
+%L=% L
+%M=% M
+%N=% N
+%O=% O
+%P=% P
+%Q=% Q
+%R=% R
+%S=% S
+%T=% T
+%U=% U
+%V=% V
+%W=% W
+%X=% X
+%Y=% Y
+%Z=% Z
+

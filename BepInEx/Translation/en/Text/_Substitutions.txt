@@ -241,6 +241,11 @@ Lv.強化=Lv. Enhancement
 のんびり月光浴=Relaxing Moonlight Bathing
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+ふふっ、み～つけた…♡=Fufu, Found You...♡
+常に身なりは美しく=Always Beautifully Dressed
+縁を結ぶ赤い糸=The Red Thread That Binds Us
+幸せ呼ぶ白き姿=Messenger of God Brings Happiness
+これがわたくしからの愛です！=This Is My Love!
 実はかわいい系なんです=She's The Cute Type
 ちょっぴり毒舌？=Lil' Bit Tongue in Cheek?
 しゅばっとひと噛み、です=Just One Bite
@@ -2001,7 +2006,6 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 輝石の変換=Pyroxene Conversion
 
 ----------DOJO BOSS ATTACK EFFECTS----------
-毎ターン=Each Turn 
 ■ここに注意！=■Be careful here!
 ちくはぐリズム攻撃=Discord Attack
 MP減少攻撃（有利属性以外）=MP Reduction Attack (Disadvantaged Type)
@@ -3054,6 +3058,7 @@ WAVE数= Waves
 はねかえしむし Reflect Small
 
 -------------------FRIEND FUTURE-PROOFING----------------------
+ビャクダ=Byakuda
 ライリュウ=Rairyu
 キットギツネ=Kit Fox
 ブラックサーバル=Black Serval
