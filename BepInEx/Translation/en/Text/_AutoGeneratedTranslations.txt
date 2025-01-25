@@ -427,7 +427,61 @@ sr:"^(?<stat>けもステータス|たいりょく|こうげき|まもり|かい
 かいひ=Evade
 ぷらずむ=Plasma
 
-たいりょく回復=HP Recovery
+けもステータスボーナス=Kemo-Status Bonus
+たいりょくボーナス=HP Bonus
+こうげきボーナス=Attack Bonus
+まもりボーナス=Defense Bonus
+かいひボーナス=Evade Bonus
+ぷらずむボーナス=Plasma Bonus
+
+防衛ボーナス=Defense Bonus
+Action!ダメージボーナス=Action! Damage Bonus
+Try!!ダメージボーナス=Try!! Damage Bonus
+Beat!!!ダメージボーナス=Beat!!! Damage Bonus
+ダメージボーナス=Damage Bonus
+命中率ボーナス=Accuracy Bonus
+Action!ボーナス=Action! Bonus
+Try!!ボーナス=Try!! Bonus
+Beat!!!ボーナス=Beat!!! Bonus
+回避ボーナス=Evasion Bonus
+命中ボーナス=Accuracy Bonus
+
+ダメージアップ解除=Damage Up Removal
+たいりょく回復解除=HP Recovery Removal
+Action!ダメージアップ解除=Action! Damage Up Removal
+Try!!ダメージアップ解除=Try!! Damage Up Removal
+Beat!!!ダメージアップ解除=Beat!!! Damage Up Removal
+ダメージアップ解除=Damage Up Removal
+命中率アップ解除=Accuracy Up Removal
+Action!アップ解除=Action! Up Removal
+Try!!アップ解除=Try!! Up Removal
+Beat!!!アップ解除=Beat!!! Up Removal
+回避アップ解除=Evasion Up Removal
+命中アップ解除=Accuracy Up Removal
+
+たいりょく回復！=HP Recovery!
+Action!ダメージアップ！=Action! Damage Up!
+Try!!ダメージアップ！=Try!! Damage Up!
+Beat!!!ダメージアップ！=Beat!!! Damage Up!
+命中率アップ！=Accuracy Up!
+Action!アップ！=Action! Up!
+Try!!アップ！=Try!! Up!
+Beat!!!アップ！=Beat!!! Up!
+回避アップ！=Evasion Up!
+命中アップ！=Accuracy Up!
+ダメージアップ！=Damage Up!
+
+Action!ダメージダウン=Action! Damage Down
+Try!!ダメージ=Try!! Damage Down
+Beat!!!ダメージダウン=Beat!!! Damage Down
+ダメージダウン=Damage Down
+命中率ダウン=Accuracy Down
+Action!ダウン=Action! Down
+Try!!ダウン=Try!! Down
+Beat!!!ダウン=Beat!!! Down
+回避ダウン=Evasion Down
+命中ダウン=Accuracy Down
+
 Action!ダメージアップ=Action! Damage Up
 Try!!ダメージアップ=Try!! Damage Up
 Beat!!!ダメージアップ=Beat!!! Damage Up
@@ -438,8 +492,12 @@ Try!!アップ=Try!! Up
 Beat!!!アップ=Beat!!! Up
 回避アップ=Evasion Up
 命中アップ=Accuracy Up
-与ダメージ=Damage
 
+たいりょく回復=HP Recovery
+与ダメージ=Damage
+回避=Evasion
+命中率=Accuracy
+命中=Accuracy
 
 ----------FRIENDSHIP----------
 r:"^(強化|解放)には「なかよしLv\.([0-9]+)」(以上)?が必要 \(現在「なかよしLv\.([0-9]+)」\)$"=Requires Friendship Lv.$2 (Current Friendship Lv.$4)
@@ -520,6 +578,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ストーリー=Story
 第          章=Chapter
 ちょー!!すぺしゃるなかよしクエスト=Super Special Friendly Quest!!
+章変更=Chapter Select
 
 ----------MENU----------
 確定=Confirm
@@ -548,6 +607,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ダウン=Down
 アップ=Up
 ダメージ=Damage
+オール=All
 
 ----------NEEDED TESTS---------- (Removed from Substitutions and placed here to test fixes)
 獲得=Acquisition
@@ -1001,6 +1061,7 @@ Exp 1.5倍=Exp 1.5x
 ----------STORE AND GACHA NAME SEGMENTS----------
 妖怪フレンズ=Monster Friends
 カムバック応援=Comeback Support
+しょうたい済み=Sold Out
 
 ----------MENU RATE-UP----------
 なかよしPt<size\=24><color\=#FFEE00>3</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x3</color></size>!
@@ -1008,7 +1069,7 @@ Exp 1.5倍=Exp 1.5x
 次のLvまでParam01=Param01 until the next Lvl
 イタチフレンズ=Weasel
 とくべつショップしょうたい=Special Store Invitation
-
+「体力測定」="Physical Fitness"
 
 ----------Titles----------
 選択中の称号=Chosen Title
@@ -1016,6 +1077,10 @@ Exp 1.5倍=Exp 1.5x
 称号ゲット！=Title Obtained!
 入手した称号=Title Obtained
 以下の称号を入手しました。=The following titles were obtained:
+
+----------MISC. New translations----------
+集計中=Counting
+減少=Decrease
 
 ----------------------------------------------------------------------------------------------------------------------------------
 

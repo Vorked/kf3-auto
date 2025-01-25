@@ -20,6 +20,7 @@ Tori =Bird
  Tori= Bird
   = 
 ,,=,
+,,=,
 ..=...
 ".=."
 ....=...
@@ -30,17 +31,14 @@ Tori =Bird
 ,,=,
 ' s='s
  's='s
+ :=:
+ ;=;
+Frends=friends
 ----------Fix friend type----------
 fanny frenzies=Funny Friends
 Friends at their own pace=Carefree Friends
-Own Pace=Carefree
-own pace=Carefree
-My Pace(Light-Blue)
-My Pace (Light-Blue)
-My Pace=Carefree
-my Pace(Light-Blue)
-my Pace (Light-Blue)
-my Pace=Carefree
+
+my pace (water)=Carefree(Light-Blue)
 Carefree (water)=Carefree(Light-Blue)
 Carefree(water)=Carefree(Light-Blue)
 Carefree (Water)=Carefree(Light-Blue)
@@ -49,6 +47,12 @@ carefree (water)=Carefree(Light-Blue)
 carefree(water)=Carefree(Light-Blue)
 carefree (Water)=Carefree(Light-Blue)
 carefree(Water)=Carefree(Light-Blue)
+My Pace(Water)=Carefree(Light-Blue)
+Own Pace(Water)=Carefree(Light-Blue)
+my pace(water)=Carefree(Light-Blue)
+my Pace=Carefree
+Own Pace=Carefree
+own pace=Carefree
 
 Fanny(red)=Funny(Red)
 Funny(red)=Funny(Red)
