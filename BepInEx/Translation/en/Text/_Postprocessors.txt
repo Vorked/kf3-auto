@@ -51,6 +51,7 @@ My Pace(Water)=Carefree(Light-Blue)
 Own Pace(Water)=Carefree(Light-Blue)
 my pace(water)=Carefree(Light-Blue)
 my Pace=Carefree
+(my pace)=Carefree
 Own Pace=Carefree
 own pace=Carefree
 
@@ -68,6 +69,8 @@ Relax (blue)=Relaxed(Blue)
 Relax(blue)=Relaxed(Blue)
 relax (blue)=Relaxed(Blue)
 relax(blue)=Relaxed(Blue)
+(relax)=(Relaxed)
+(Relax)=(Relaxed)
 
 Lovely (peach)=Lovely(Pink)
 Lovely(peach)=Lovely(Pink)
@@ -117,6 +120,8 @@ Bar Gar=Burger
 
 ----------Common Text Error Fixes----------
 Followinged=Following
+Organize'd=organized
+upper limit=level cap
 was replaced by Accept=was accepted
 maybeshe's=maybe she's
 maybeshe=maybe she
