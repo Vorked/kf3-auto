@@ -240,7 +240,15 @@ Lv.強化=Lv. Enhancement
 ----------STANDBY----------
 のんびり月光浴=Relaxing Moonlight Bathing
 
+----------Voice Actresses----------
+村中知=Tomo Muranaka
+
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+スリルある急降下=A Thrilling Dive
+風の申し子=Woman of the Wind
+さらに加速するぞ！=Accelerate Faster!
+ガラ空きだぜ！=I'm Completely Free!
+風をも切り裂くトップスピード=Wind-Cutting Top Speed
 練習は欠かさずに=Never Miss Practice!
 まだこんなに元気なのよ！=I'm Still Energetic!
 空に届け！わたしのジャンプ=Jumps Reach The Sky

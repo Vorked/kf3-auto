@@ -37,6 +37,7 @@ Frends=friends
 ----------Fix friend type----------
 fanny frenzies=Funny Friends
 Friends at their own pace=Carefree Friends
+fanny friends=Funny Friends
 
 my pace (water)=Carefree(Light-Blue)
 Carefree (water)=Carefree(Light-Blue)
