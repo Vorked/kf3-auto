@@ -63,7 +63,6 @@
 なかよし\nレベル=Friendship\nLevel
 すべて選択=Select All
 一括強化=Batch Upgrade
-
 未解放=Tamed
 未解放=Unleashed
 すべて解除=Upgrade All
@@ -244,6 +243,12 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+あざやかな色にかこまれて=Surrounded by Vibrant Color!
+お花畑で見るあま～い夢♪=Sweet Dreams in a Flower Field♪
+すてきな香りがする…！=It Smells Lovely!
+お花さんがいっぱいだぁ♪=Lot's of Flowers♪
+せいいっぱいのみだれひっかき=Mighty Scratch!
+びっくり？悪魔様あたっく！=Surprise Devil Attack!
 スリルある急降下=A Thrilling Dive
 風の申し子=Woman of the Wind
 さらに加速するぞ！=Accelerate Faster!
@@ -1057,8 +1062,6 @@ Kari=Kari
 ----------Menu Fixes (again again)----------
 タッチして\n次のTipsへ=Touch.\nShow Next Tips
 次のTipsへ=Next Tip
-OR検索=OR Search
-AND検索=AND Search
 挑戦可能！=You can try!
 大・超成功率UP！=Great/Super Rate Up!
 称号変更=Change Title
@@ -1246,7 +1249,7 @@ AND検索=AND Search
 12月後半!!すごい!!どれすあっぷしょうたい=Late December!! Wow!! Dress-Up Invitation
 
 ----------MAIN Menu----------
-最新話をアプリでチェック！=Check out the latest story on the app!
+最新話をアプリでチェック！=Check out the latest story!
 ～絶賛配信中～=～Streaming with rave reviews～!
 ワクワクけものバトル！\n～クリスマスアレンジ～=Exciting Kemono Battle!\nChristmas Arrangement
 強そうなの来たぁ～！\n～クリスマスアレンジ～=Here comes the strong one～\nChristmas Arrangement～!
@@ -2384,7 +2387,6 @@ SSRインテリアボーナス=SSR Interior Bonus
 探検隊Lv.=Expdn Lv.
 麒麟のめぐみ=Kirin's Blessings
 結果報告=Quest Report
-結果=Confirmation
 ステップの状態確認=Step Confirmation
 待機フレンズ設定=Standby Friend Configuration
 待機フレンズに設定されたフレンズは\nホーム画面で固定で登場するようになります\n設定しますか？=Friends set as Standby Friends\nwill appear permanently on the home screen.\nWould you like to set them?
@@ -2841,7 +2843,7 @@ G・ロードランナー=Greater Roadrunner
 フレンズ 大・超成功率UP!=Friends Rate UP!
 変換=Convert
 所持数=Owned
-「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\N*Rewards that exceeded the maximum number owned have been moved to the Present Box.
+「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\n*Rewards that exceeded the maximum number owned have been moved to the Present Box.
 ※所持数上限※=*Limit On The Number Owned*.
 輝きの結晶交換所=Pyroxene Exchange
 挑戦可能！=Challenge!
@@ -2860,38 +2862,20 @@ G・ロードランナー=Greater Roadrunner
 ジャージ=Tracksuit
 カフェ制服＜リウキウ・イエロー＞=Yellow Cafe Uniform
 カフェ制服=Cafe Uniform
-フィルターと一致するフレンズがいません\n※フィルターの設定を変更してください※=There is no Friend that matches the filter./nPlease change the Filter settings.
-フィルターと一致するフレンズがいません\R\N※フィルターの設定を変更してください※\N=There Are No Friends That Match The Filter \NPlease Change The Filter Settings.
-フィルターと一致するフォトがありません\N※フィルターの設定を変更してください※=No Photos Match The Filter.\NPlease Change The Filter Settings.
-フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\NPlease Change Your Filter Settings.
-おしゃれアクセを所持していません\R\N※おしゃれアクセは「すぺしゃるクエスト」などで獲得できます※=Does Not Possess A Fashionable Accessory\NFashionable Accessories Can Be Obtained Through The "Supesharu Quest" And Other Means.
+フィルターと一致するフレンズがいません\n※フィルターの設定を変更してください※=There is no Friend that matches the filter.\nPlease change the Filter settings.
+フィルターと一致するフレンズがいません\R\N※フィルターの設定を変更してください※\N=There Are No Friends That Match The Filter \nPlease Change The Filter Settings.
+フィルターと一致するフォトがありません\N※フィルターの設定を変更してください※=No Photos Match The Filter.\nPlease Change The Filter Settings.
+フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\nPlease Change Your Filter Settings.
+おしゃれアクセを所持していません\R\N※おしゃれアクセは「すぺしゃるクエスト」などで獲得できます※=Does Not Possess A Fashionable Accessory\nFashionable Accessories Can Be Obtained Through The "Supesharu Quest" And Other Means.
 表示サイズ=Size
 オーダーフラッグ=Order Flag
-ずかん=Zoology
-主な分布域=Location
-LC：軽度懸念=LC: Low concern
-NT：準絶滅危惧=NT: Near-Threatened
-IUCNによる保全状況(Ver.3.1)=Conservation Status - IUCN (v3.1)
-どうぶつの姿=Animal Photograph
-生息環境=Habitat
+どうぶつの姿=Animal Photo
 輝きの結晶=Shining Crystal
-環境省RDBによる保全状況=RL/RDB: Ministry of the Environment
-LP：絶滅のおそれのある地域個体群=LP: Least Protected
-CR：絶滅寸前=CR: Critically Engangered
-EX：絶滅=EX: Extinct
-©けものフレンズプロジェクト２Ｇ　©SEGA ©Appirits=©Kemono Friends Project 2G ©SEGA and ©Appirits
-設定=Configuration
-規約=Rules
-OR検索=OR Search
-減少！=Down!
-まとめて選択=Select All
+©けものフレンズプロジェクト２Ｇ　©SEGA ©Appirits=©Kemono Friends Project 2G ©SEGA, ©Appirits
 小さな【大きな瞳の='s Small Pyroxene
 小輝石=Small Pyroxene
 SSRインテリアボーナス=SSR Interior Bonus
-AND検索=AND Search
-VU：危急=VU: Vulnerable
 プロフィール=Profile
-とくいわざ=Beat!!!
 ガオガオ・スクラッチ=Gao Gao Scratch
 キセキとくせい=Miracle-Trait
 ページ=Page
@@ -3004,7 +2988,6 @@ OPムービー=OP Movie
 かくれみ=Camo
 全状態異常耐性=Resist All Ailments
 パラメータ=Parameter
-確認=Confirmation
 回避率アップ解除=Evasion Rate Up Cancelled
 ラプラス=Laplace
 グール=Ghoul
@@ -3031,7 +3014,7 @@ OPムービー=OP Movie
 わいわいツリーハウス=Noisy Treehouse
 月1パック=Monthly
 排出率=Drop Rate
-検索=Search
+
 WAVE数= Waves
 ヘラジカ=Elk
 通信エラー=Communication Error
@@ -3063,6 +3046,7 @@ WAVE数= Waves
 そらとぶ！=I'm Flyin!
 カコ=Kako
 受け取り=Accept
+小さな輝石=Small Pyroxene
 輝石=Pyroxene
 
 
@@ -3561,6 +3545,7 @@ HAW-206=HAW-206
 ホワイトサーバル=White Serval
 シュバシコウ=White Stork
 ホワイトタイガー=White Tiger
+フクロミツスイ=Honey Possum
 シロミミオポッサム=White-Eared Opossum
 マナヅル=White-Naped Crane
 フタコブラクダ=Bactrian Camel
@@ -3582,7 +3567,6 @@ HAW-206=HAW-206
 
 ----------NAME FIXES MUST BE AT THE END----------
 リタイア=Retire
-
 トキ=Toki
 ヒョウ=Leopard
 ジャガー=Jaguar
@@ -3742,7 +3726,7 @@ HAW-206=HAW-206
 
 
 ----------GAME MECHANIC TERMS THAT MUST BE AT END----------
-動物画像提供元=Animal images courtesy of
+動物画像提供元=Animal photography courtesy of
 フォロワー=Followers
 フォロー=Following
 ジャングル=Jungle
@@ -3760,7 +3744,6 @@ HAW-206=HAW-206
 属性=Attribute
 たいりょく条件=HP Condition
 被ダメージ=Damage Taken
-EN：絶滅危惧=EN: Endangered
 野口衣織=Iori Noguchi
 準備良し！=Ready!
 興味津々！=Very Interesting!

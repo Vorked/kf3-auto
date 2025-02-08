@@ -120,6 +120,11 @@ Japa-man=Japari Buns
 Bar Gar=Burger
 
 ----------Common Text Error Fixes----------
+MiraclesConfirmation=Miracles Confirmation
+Sparkle Shard's=Sparkle Shards
+Shard's=Shards
+ore of experience=Experience Ore
+ore of Experience=Experience Ore
 Followinged=Following
 Organize'd=organized
 upper limit=level cap
@@ -127,8 +132,10 @@ was replaced by Accept=was accepted
 maybeshe's=maybe she's
 maybeshe=maybe she
 Denchi=battery
+Pyroxene's=Pyroxene
 denchi=battery
 Exciting'd=excited
+Convert'd=converted
 Memories'd=remembered
 Release'd=released
 Strengthen'd=Strengthened
@@ -148,6 +155,7 @@ Seesar's=Shisa
 Spesial=Special
 Sanpaku=Walking
 sanpaku=walking
+'d=ed
 
 ----------Translation Error Fixes----------
 

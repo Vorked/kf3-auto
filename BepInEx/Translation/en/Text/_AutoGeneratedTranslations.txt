@@ -1,4 +1,9 @@
 ﻿-----REGEX-----
+r:"けものミラクルレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Kemono Miracle Level $1!
+r:"野生解放([0-9]+)段階目に到達したフレンズが([0-9]+)人！$"=$2 Friends reached Wild Release level $1!
+r:"レベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached level $1!
+r:"なかよしレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Friendship Level $1!
+r:"メインストーリーS([0-9]+)$"=Main Story S$1
 r:"([0-9]+)話 $"=Episode $1 
 r:"([0-9]+)話$"=Episode $1
 r:" ([0-9]+)個$"= $1 pieces
@@ -200,6 +205,10 @@ r:"^([0-9.]+)周年記念！復刻インテリア$"=$1 Anniversary Interior Reru
 月間パスポート購入=Purchase Monthly Pass
 キラキラ＆パック購入=Buy Glitter & Pack
 パック=Pack
+はなまるチェンジ復刻SP=Hanamaru Change Reprint SP
+はなまるチェンジ復刻SPショップしょうたい=Hanamaru Change Reprint SP Store Invitation
+隊長さん応援=Captain's Support
+隊長さん応援ショップしょうたい=Captain's Support Store Invitation
 
 -----Item Names-----
 リウキウおしゃれメダル=Riukiu Fashion Medal
@@ -520,11 +529,41 @@ r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 カバ=Hippo
 
 
+----------Menu Configuration Translations----------
+設定=Configure
+規約=Rules
+OR検索=OR Search
+減少！=Down!
+まとめて選択=Select All
+
+----------National Geographic----------
+環境省RDBによる保全状況=RL/RDB: Ministry of the Environment
+LP：絶滅のおそれのある地域個体群=LP: Least Protected
+CR：絶滅寸前=CR: Critically Engangered
+EX：絶滅=EX: Extinct
+IUCNによる保全状況(Ver.3.1)=Conservation Status - IUCN (v3.1)
+ずかん=Zoology
+主な分布域=Location
+LC：軽度懸念=LC: Low concern
+NT：準絶滅危惧=NT: Near-Threatened
+生息環境=Habitat
+EN：絶滅危惧=EN: Endangered
+動物画像提供元=Animal photography courtesy of
+VU：危急=VU: Vulnerable
+
+----------Search/Filters----------
+AND検索=AND Search
+検索=Search
+OR検索=OR Search
+AND検索=AND Search
+
+
 ----------MENU TESTS----------
 限定=Limited
+結果=Confirm
+確認=Confirmation
 {{A}}復刻=Event\nRerun
 期間{{A}}=Limited\nEvent
-
 
 ----------REGEX IN-GAME STATUS----------
 r:"^被ダメージ<size\\=([0-9]+)>([0-9]+)\%<\/size>増加$"=Damage Taken +<size\=$1>$2%</size>
@@ -591,6 +630,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 選択不可=Not Available
 ステータス変化=Status Change
 ミラクル強化=Miracle Upgrade
+
 
 ----------DATES AND QUESTS DATES----------
 ミラクルとっくん！=Miracle Quest!
@@ -1009,7 +1049,7 @@ Exp 1.5倍=Exp 1.5x
 釘宮理恵=Rie Kugimiya
 強化=Strengthen
 なかよしLv.=Friendship Lv.
-解放する=Liberate
+解放する=Release
 ガチャ=Gacha
 解放アイテム=Release Items
 {{A}}レベルが上がりました！=The {{A}} level has been raised!
@@ -1070,6 +1110,9 @@ Exp 1.5倍=Exp 1.5x
 イタチフレンズ=Weasel
 とくべつショップしょうたい=Special Store Invitation
 「体力測定」="Physical Fitness"
+上限解放アイテムを使ってなかよしレベル上限を解放します=Use Limit Release items to increase Friendship Level Cap.
+ミラクル{{A}}を使ってけものミラクルを強化します=Miracle {{A}} is used to increase Kemono Miracle level.
+マジカルキャンディを使って{{A}}を獲得します=Earn {{A}} with Magical Candy!
 
 ----------Titles----------
 選択中の称号=Chosen Title
@@ -1081,7 +1124,12 @@ Exp 1.5倍=Exp 1.5x
 ----------MISC. New translations----------
 集計中=Counting
 減少=Decrease
+スタミナ×=Stamina x
+{{A}}アップ{{B}}={{A}} up {{B}}
 
+----------Battery stuff----------
+電池{{A}}=Battery {{A}}
+{{A}}：電池={{A}}: Battery
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -1091,6 +1139,7 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
