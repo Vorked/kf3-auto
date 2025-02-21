@@ -421,7 +421,7 @@ r:"^2月$"=February
 
 r:"^([0-9]+)：00～([0-9]+)：00の時間にちんたいにアクセス！$"=Access Home between the hours of $1:00 and $2:00!
 r:"^<size\=18>あと</size>([0-9]+)日$"=<size=18>after</size>$1 days
-r:"^<size\=16>残り</size>([0-9]+)日$"=$1 Day(s) remain
+r:"^<size\=16>残り</size>([0-9]+)日$"=$1 Day(s)\nremain
 r:"^([0-9]+)\：([0-9]+)～([0-9]+)\：([0-9]+)の時間にホームにアクセス！$"=Access The Home Between $1:$2 ～ $3:$4!
 r:"^今月([0-9]+) More To Go.$"=$1 this month.
 r:"^今月([0-9]+) left$"=$1 left this month
@@ -490,6 +490,7 @@ Try!!ダウン=Try!! Down
 Beat!!!ダウン=Beat!!! Down
 回避ダウン=Evasion Down
 命中ダウン=Accuracy Down
+回避率ダウン=Evasion Rate Down
 
 Action!ダメージアップ=Action! Damage Up
 Try!!ダメージアップ=Try!! Damage Up
@@ -528,13 +529,14 @@ r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 2X=2
 カバ=Hippo
 
-
 ----------Menu Configuration Translations----------
 設定=Configure
 規約=Rules
 OR検索=OR Search
 減少！=Down!
 まとめて選択=Select All
+期間限足=Limited
+限足復刻=Rerun
 
 ----------National Geographic----------
 環境省RDBによる保全状況=RL/RDB: Ministry of the Environment
@@ -601,7 +603,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 
 ----------SPECIAL MISSIONS----------
 野生解放！=Wild Release!
-「期間限定クエスト」=「Limited Quests」
+「期間限定クエスト」="Limited Quests"
 輝きの小瓶！=Vials of Radiance!
 おうえんメガホン=Cheering Megaphone
 がんばれマラカス=Good Luck Maracas
@@ -630,7 +632,7 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 選択不可=Not Available
 ステータス変化=Status Change
 ミラクル強化=Miracle Upgrade
-
+挑戦可能！=Challenge!
 
 ----------DATES AND QUESTS DATES----------
 ミラクルとっくん！=Miracle Quest!
@@ -1070,6 +1072,9 @@ Exp 1.5倍=Exp 1.5x
 解放=Release
 レベル=Level
 
+----------onomonopea(i dont know how to spell)----------
+ちょんちょん=chomp
+
 ----------TRIAL QUESTS----------
 腕試しクエスト1=Trial Quest 1
 腕試しクエスト2=Trial Quest 2
@@ -1126,10 +1131,21 @@ Exp 1.5倍=Exp 1.5x
 減少=Decrease
 スタミナ×=Stamina x
 {{A}}アップ{{B}}={{A}} up {{B}}
+挑戦可能！=Challenge!
+コンティニューをするにはキラキラを=Spend Glitter to Continue
+交換確認=Exchange Confirmation
+とくいわざでこうげき=Attack with Special Moves
+消費します\nよろしいですか？=Continue by consuming Glitter.\nAre you sure?
+受け取り=Accept
+とくいわざ=Special
 
 ----------Battery stuff----------
 電池{{A}}=Battery {{A}}
 {{A}}：電池={{A}}: Battery
+
+---------Passport----------
+「月間パスポートすごい!!すたんだーど」のアイテム=Items from "Monthly Passport! Amazing!!"
+「月間パスポートすごい!!すたんだーど」の購入=Purchased "Monthly Passport! Amazing!!"
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------

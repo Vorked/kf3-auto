@@ -39,11 +39,10 @@
 別の端末からのログインを確認しました\nタイトル画面に戻ります=Confirmed login from another device.\nReturning to the title screen.
 獲得量2.0倍=2x the amount earned
 選択完了=Selection Complete
-獲得できる小さな輝石3倍!=Earn 3x Little Pyroxene!
-獲得できる小さな輝石2倍!=Earn 2x Little Pyroxene!
+獲得できる小さな輝石3倍!=Earn 3x Small Pyroxene!
+獲得できる小さな輝石2倍!=Earn 2x Small Pyroxene!
 ※なかよしボーナスは全フレンズに共通で適用されます=※The Friendship Bonus applies to all Friends.
-期間限足=Limited
-限足復刻=Rerun
+
 
 ----------Batch Upgrades----------
 マジカルキャンディ（オール）大=Magical Candy (All) Large
@@ -213,6 +212,7 @@
 セッションタイムアウト=Session Timed Out
 セッションタイムアウトが発生しました\nタイトル画面に戻ります\n\nCODE:1003=Session timeout occured\nReturn to the title screen\nCODE: 1003
 一括\n受け取り=Batch\nAccept
+一括受け取り=Batch Accept
 与ダメージ、攻撃命中率、かいひ、回復するたいりょくの量、増加するMPの量減少効果、被ダメージの増加効果を無効にする=Disables increased Damage, Accuracy, and Recovery from received Attacks. Disables MP, Defense, and Damage reduction effects gained.
 けも級アップ完了=Kemono Class Upgrade Completed
 「デイリー」ミッションの\n報酬を受け取りました="Daily" Mission rewards received.
@@ -243,6 +243,16 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+コンパスがなくても=Even Without A Compass
+クルッポー♪　クルッポー♪=Coo♪ Coo♪
+みんなにとどけ、平和の願い=Peace For Everyone!
+お手紙配達屋さん=Delivery Woman
+じたばた、べしべし=Flapping, Flying
+グルグルとブスブスの刑=Drowning Punishment
+報復に備えよ=Prepare For Retaliation
+蒼海の潮汐=Blue Tides
+完全無欠の王であり神=Perfect God-King
+裁きのとき　穿て、王の矢よ！=King's Arrow
 あざやかな色にかこまれて=Surrounded by Vibrant Color!
 お花畑で見るあま～い夢♪=Sweet Dreams in a Flower Field♪
 すてきな香りがする…！=It Smells Lovely!
@@ -1060,9 +1070,9 @@ Kari=Kari
 使う数を選んでください=Choose the amount you want to use.
 
 ----------Menu Fixes (again again)----------
+限定クエスト\n挑戦可能！=Limited\n Time Quests!
 タッチして\n次のTipsへ=Touch.\nShow Next Tips
 次のTipsへ=Next Tip
-挑戦可能！=You can try!
 大・超成功率UP！=Great/Super Rate Up!
 称号変更=Change Title
 助っ人変更=Change Helper
@@ -2846,7 +2856,6 @@ G・ロードランナー=Greater Roadrunner
 「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\n*Rewards that exceeded the maximum number owned have been moved to the Present Box.
 ※所持数上限※=*Limit On The Number Owned*.
 輝きの結晶交換所=Pyroxene Exchange
-挑戦可能！=Challenge!
 もう一度回す=Pull Again
 フレンズへ=Friends List
 編成へ=To Party
@@ -3045,7 +3054,7 @@ WAVE数= Waves
 補充=Replenish
 そらとぶ！=I'm Flyin!
 カコ=Kako
-受け取り=Accept
+
 小さな輝石=Small Pyroxene
 輝石=Pyroxene
 
@@ -3059,6 +3068,7 @@ WAVE数= Waves
 はねかえしむし Reflect Small
 
 -------------------FRIEND FUTURE-PROOFING----------------------
+バシロサウルス・イシス=Basilosaurus Isis
 ビャクダ=Byakuda
 ライリュウ=Rairyu
 キットギツネ=Kit Fox
