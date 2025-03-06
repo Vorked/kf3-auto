@@ -77,14 +77,14 @@
 ダウンロード中　しばらくお待ちください。=Downloading, please wait.
 
 ----------ShiServals Dojo Quotes----------
+今日はこれだよー！\n頑張れ頑張れー！=This is it for today!\nDo your best, do your best!
 今日はこれだよー！=This is it for today!
 準備はいいかなぁ？=Are you ready?
 今日はこれだけど、\n準備はいいかなぁ？=This is it for today,\nbut I hope you're ready for it.
 じゃじゃーん！\n今日はこれだよー！=Tadaa! This is today's event!
 今日はこれだよー！=This is it for today!
 頑張れ頑張れー！=Do your best, do your best!
-大丈夫大丈夫！=No problem, no problem!
-ゆっくり行こうね！=Take your time!
+大丈夫大丈夫！\nゆっくり行こうね！=No problem, no problem!\nLet's take it slow!
 はーい！\n今日の相手だよー！=Yes!\nHere is today's opponent!
 あ、きたきた！\n待ってたよー！=Oh, I'm here!\nI've been waiting!
 
@@ -188,6 +188,7 @@
 今日運んだ荷物はかなーり重かったけど…\n何が入っていたのかな？=The package we carried today was\nquite heavy... but what was in it?
 
 ----------Loading Screen Tooltips----------
+一緒に頑張るフレンズさんは誰にしますか？\nあとで変更もできますよ！=Who will you choose as your Friend to work with? You can always change it later!
 強化するフレンズ=Strengthening Friends
 フレンズやフォトが持つパッシブスキル\n野生解放を一段階達成することで解放されます=The passive Wild Release Skill will be unlocked when one stage is achieved by Friends or Photo.
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
@@ -243,6 +244,18 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+木の葉のうた=Song of Leaves
+今のうちにほりほり…=Better Get Diggin'…
+めくらまし、なのね！=Oh, A Diversion!
+自然の音のアンサンブル=Nature's Ensemble
+耳で気配を探って=Detect Presence With Your Ears
+今のうちにほりほり…=Dust it off...
+†内なる闇の波動†=†Inner Darkness Wave†
+夜のお散歩、あったかいひかり=Warm Night Walk
+自然の土、どうぞ♪=Nature's Soil Please♪
+まっくろけりぼん=Black Ribbon
+夜のかくれんぼ、とくいかも？=Would Night-Time Hide-And-Seek Be Good?
+どこまでもつづくわたしのすみか=My Home Continues Forever
 コンパスがなくても=Even Without A Compass
 クルッポー♪　クルッポー♪=Coo♪ Coo♪
 みんなにとどけ、平和の願い=Peace For Everyone!
@@ -2041,6 +2054,7 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 ちくはぐリズム攻撃=Discord Attack
 MP減少攻撃（有利属性以外）=MP Reduction Attack (Disadvantaged Type)
 ルンルンきぶん攻撃=Joy Attack
+毎ターンMP減少攻撃=MP Reduction Attack Every Turn
 MP減少攻撃=MP Reduction Attack
 あせあせ攻撃=Sweaty Attack
 毎ターンMP増加量半減=MP Halved each turn
@@ -2068,7 +2082,7 @@ MP減少攻撃=MP Reduction Attack
 かくれみ攻撃=Camo Attack
 どく攻撃=Poison Attack
 からげんき攻撃=Bravado Attack
-毎ターンMP減少攻撃=MP Reduction every turn
+毎ターンMP減少攻撃=MP Reduction Every Turn
 かいひ強化=Increase Evade
 ぼんやりうっかり攻撃=Amnesia Attack
 全体大ダメージ攻撃=High Damage Attack-All
@@ -2203,6 +2217,7 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+自然の音とリズムにのせて=Sound of Nature
 青い瞳の迷い猫=Blue-Eyed Stray
 ジっとできない湿地のハンター=Restless Marsh Hunter
 騎士としての決意を胸に=Knight's Determination
@@ -3073,6 +3088,7 @@ WAVE数= Waves
 ライリュウ=Rairyu
 キットギツネ=Kit Fox
 ブラックサーバル=Black Serval
+アマミノクロウサギ=Amami Rabbit
 カイウサギ=Domestic Rabbit
 イエウサギ=Domestic Rabbit
 ツチブタ=Aardvark

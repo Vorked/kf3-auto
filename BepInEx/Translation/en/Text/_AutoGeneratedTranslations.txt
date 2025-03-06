@@ -1,4 +1,9 @@
 ﻿-----REGEX-----
+r:"受け取り日時：([0-9]+)/([0-9]+)/([0-9]+)　([0-9]+):([0-9]+)$"=Date received: $2/$3/$1 $4:%5
+r:"「中盤戦([0-9]+)」$"="Midgame $1"
+r:"序盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 of Opening Game $2
+r:"最終更新　$([0-9]+)/$([0-9]+)/$([0-9]+)　12:00$"=Last Updated $3/$2/$1
+r:"☆([0-9]+)\n確定！$"=$1 Stars\nConfirmed!
 r:"けものミラクルレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Kemono Miracle Level $1!
 r:"野生解放([0-9]+)段階目に到達したフレンズが([0-9]+)人！$"=$2 Friends reached Wild Release level $1!
 r:"レベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached level $1!
@@ -171,6 +176,8 @@ r:"^「ハード　その([0-9]+)」$"="Hard Part $1"
 r:"^「エクストラ　その([0-9]+)」$"="Extra Part $1"
 
 ------Exchanges-------
+sr:"^?<event>を累計([0-9]+)個獲得$"=Obtained $2 ${event}
+sr:"^?<event>を累計([0-9]+)個獲得$"=Get $2 for ${event}.
 sr:"^(?<before>.{0,20}?)交換所$"=${before} Exchange
 sr:"^(?<before>.{0,15}?)フォト$"=${before} Photo
 
@@ -289,7 +296,7 @@ r:"^詰め合わせ$"=(Assorted)
 大掃除準備セット（緑色）=Cleaning preparation set (Green)
 けもけも弁当セット（水色）=Kemokemono lunch box set (Light blue)
 けもけも弁当セット（青色）=Kemokemono lunch box set (Blue)
-大掃除準備セット（水色）=Cleaning Preparation Set (Llight blue)
+大掃除準備セット（水色）=Cleaning Preparation Set (Light blue)
 
 （オール）=(All)
 （ファニー）=(Funny)
@@ -362,6 +369,8 @@ r:"^([0-9]+)\/([0-9]+)\s?～\s?([0-9]+)\/([0-9]+) ([0-9]+)\:([0-9]+) まで$"=Un
 
 ----------Jank Time:----------
 r:"^<size\\=([0-9]+)>残り<\/size>([0-9]+)日$"=<size\=$1>Remaining </size>$2 days
+sr:"^レベルとっくん！?<dotw>$"=Level Training ${dotw}
+sr:"^レベルとっくん！（?<dotw>）$"=Level Training ${dotw}
 
 ----------Time:----------
 r:"^([0-9]+)日$"=$1 day(s)
@@ -417,7 +426,6 @@ r:"^2月$"=February
 金曜=Friday
 土曜=Saturday
 日曜=Sunday
-
 
 r:"^([0-9]+)：00～([0-9]+)：00の時間にちんたいにアクセス！$"=Access Home between the hours of $1:00 and $2:00!
 r:"^<size\=18>あと</size>([0-9]+)日$"=<size=18>after</size>$1 days
@@ -709,6 +717,8 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 吸収=Absorption
 ちゅーばーのあかし交換所=Proof of Power Exchange
 ちゅーばーのあかし=Proof of Power
+イベントしょうたい=Event Invitation
+
 ----------New replacement translations (Missions)----------
 フォトポケを増やそう=Let's Increase Photo Pockets
 フォトポケ=Photo Pocket
@@ -877,6 +887,7 @@ Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 {{A}}・ワカイヤの野生解放の強化に使用します=Used to enhance {{A}}'s Wild Release.
 {{A}}完了={{A}} completed
 遊び=Play
+{{A}}/n{{B}}={{A}}/n{{B}}
 {{A}}へ={{A}}
 {{A}}{{B}}={{A}} {{B}}
 {{A}}編成してクリア=Clear with {{A}} in the party.
@@ -973,11 +984,11 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 {{B}}（{{A}}）={{B}} （{{A}}）
 {{A}}！！={{A}}！！
 {{A}}！={{A}}！
+{{B}}・{{A}}={{B}}・{{A}}
 
 ----------USES----------
 あと<size\=32>●回</size>=Uses: <size\=32>●Left</size>
 <size\=22>あと</size>    回=<size\=18>Left: </size>      
-
 
 ----------Specific Variable Combinations----------
 {{A}} {{B}}の{{D}}の{{C}}に使用します=Used to enhance {{D}}'s {{A}}.
@@ -1059,6 +1070,9 @@ Exp 1.5倍=Exp 1.5x
 毎ターン=Each Turn
 なかよしボーナス=Friendship Bonus
 位置\n変更=Position\nchange
+キラキラ便=Glitter Service
+探検隊Lv =Expedition Lv. 
+レベルとっくん！（月曜）=Level Training (Monday)
 
 ----------Autotranslate Basic Terms----------
 完了=Completion
@@ -1138,6 +1152,7 @@ Exp 1.5倍=Exp 1.5x
 消費します\nよろしいですか？=Continue by consuming Glitter.\nAre you sure?
 受け取り=Accept
 とくいわざ=Special
+ぼな=Bona
 
 ----------Battery stuff----------
 電池{{A}}=Battery {{A}}
