@@ -1,4 +1,5 @@
-﻿2x=2
+﻿小さな輝石<size\=24><color\=#FFEE00>2</color></size>倍！=Small Pyroxene<size\=24><color\=#FFEE00>2x</color></size>!
+
 ----------Friendship Level Up Quotes----------
 いつもお世話をしてくれてありがとう\nボクの気持ちをこめたやさい、あげる=Thank you for always taking care of me,\nI'll give you vegetables filled with my love!
 あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?

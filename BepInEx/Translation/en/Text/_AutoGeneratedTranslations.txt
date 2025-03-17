@@ -537,8 +537,6 @@ r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 使用=Use
 使用フォト=Use Photo
 ホーム=Home
-2x=2
-2X=2
 カバ=Hippo
 
 ----------Menu Configuration Translations----------
@@ -824,7 +822,6 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 Beat!!!{{A}}　+1.0%=Beat!!! {{A}}　+1.0%
 Action!{{A}}　+1.0%=Action! {{A}}　+1.0%
 Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
-小さな輝石<size\=24><color\=#FFEE00>2</color></size>倍！=Small Pyroxene<size\=24><color\=#FFEE00>2x</color></size>!
 {{A}}インテリア便={{A}} Interior Invitation
 {{A}}便={{A}} Invitation
 アピール=Appear

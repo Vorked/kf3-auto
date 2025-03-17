@@ -1,9 +1,5 @@
 ﻿
-(fsd!!!!)=2!
 ----------Term fixes------------
-[][][]=2
-2=2
-2x=2
 Shotai=Invitation
 shotai=invitation
 Invitation (Gacha)=Invitation

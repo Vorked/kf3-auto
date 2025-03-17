@@ -1,5 +1,4 @@
-﻿2x=2
-</color>= 
+﻿</color>= 
 <color=990000FF>= 
 </color>= 
 ふふふ=Fufufu
