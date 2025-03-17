@@ -22,7 +22,22 @@
 日頃から私と向き合ってくれる礼にもっとキミを鍛えてやる\n…厳しくやるから、覚悟しとけよ？　ふふ=I'm going to train you more to thank you for dealing with me on a regular basis...\nand I'm going to do it hard, so be prepared, okay?
 隊長ちゃんとはながいお付き合いになりましたね～\nまだまだいっしょにいたいです～　ぎゅ～っ！=It's been a long relationship with Captain-chan～\nI want to be with you for a long time～ HUG～!
 みんなのことが大切だからって自分を犠牲にしちゃだめよ？\nでも、そんなあなただからこそ慕われてきたのよね=You can't sacrifice yourself just because you care about everyone,\nbut that's why people love you so much.
+
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+ドール参加不可=Dhole participation is not possible
+選択可能な助っ人はいません=No selectable Helpers
+別の属性を選択してください=Please select a different Attribute
+すごいマップキー が1つ不足しています\n（所持数 0 / 必要数 1）=You are missing an Awesome Map Key.\n(0 Owned / 1 Required)
+すごいマップキー が1つ不足しています=You are missing an Awesome Map Key.
+（所持数 0 / 必要数 1）=(0 Owned / 1 Required)
+（所持数 =(
+（所持数=(
+  / 必要数 1）= Owned / 1 Required)
+ / 必要数 1）= Owned / 1 Required)
+※「10回」の利用時、「フレンズ確定時」「★3以上確定時」を除いた8枠は通常の確率で抽選されます。=※When making a "10 pull" option, the 8 slots excluding "Confirmed Friends" and "★3 or higher Confirmed" will be drawn at normal probability.
+・排出したフレンズが重複した場合、輝石に変換されます=If the Friend obtained is a duplicate, it will be converted to Pyroxene.
+・個別表示している提供割合は表示上小数点第4位にて切り捨てしているため、全て合算しても100%にならない場合がございます=The individual percentages are rounted down to the 4th decimal, so they may not add up to 100%.
+・しょうたいは1回ごとに提供割合に基づいて抽選を行っております。そのため提供割合1%のアイテムが100回中1回、必ず排出される仕組みではございません=The summons are drawn based on the percentage for a single pull. Therefull, it is not guaranteed that an item with a 1% percentage will be drawn after 100 pulls.
 けものミラクルはMPがたまると発動できます=Kemono Miracle can be activated when enough MP is gathered.
 プレゼントを受け取りました\n所持数上限を超えるアイテムは受け取ることができませんでした\n※称号は一括受け取りの対象外です=Gifts recieved\nItems that exceed maximum number owned cannot be recieved.\n※Titles are not eligible for Batch Accept.
 所持数上限を超えるアイテムを\n受け取ることができませんでした=Cannot recieve items that\nhave exceeded their maximum limit.
@@ -77,6 +92,7 @@
 ダウンロード中　しばらくお待ちください。=Downloading, please wait.
 
 ----------ShiServals Dojo Quotes----------
+道場パーティ編成=Dojo Party Setup
 今日はこれだよー！\n頑張れ頑張れー！=This is it for today!\nDo your best, do your best!
 今日はこれだよー！=This is it for today!
 準備はいいかなぁ？=Are you ready?
@@ -159,6 +175,8 @@
 ----------GACHA----------
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
 ピックアップ対象フレンズ=Friend Pick-Up
+ピックアップ対象フォト=Photo Pick-Up
+ピックアップ対象=Pick-Up
 おそうじわくわくボックスしょうたい=Exciting Cleaning Box Invitation
 以下のおまけを入手しました。=The following extras were obtained:
 入手したおまけ=Bonuses gained:
@@ -244,6 +262,11 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+ソンサーバル様の参上！=Here Comes Son Serval!
+うみゃっと元気な暴れん坊=Lively and Rambunctious One
+しゅうちゅうのぽーず！=Today's Pose!
+ブチッとミラクルみせちゃうよ=Show You A Miracle
+たくみのいちげき=Skillful Blow
 木の葉のうた=Song of Leaves
 今のうちにほりほり…=Better Get Diggin'…
 めくらまし、なのね！=Oh, A Diversion!
@@ -2047,7 +2070,7 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 味方のギブアップ回数1回につき回復割合が15％増加する。=The recovery rate is increased by 15% for each Friend who Gave Up.
 おうえんボーナスを獲得しました=Earned a Support Bonus
 おうえんボーナス=Support Bonus
-輝石の変換=Pyroxene Conversion
+輝石の変換=Trading Pyroxene
 
 ----------DOJO BOSS ATTACK EFFECTS----------
 ■ここに注意！=■Be careful here!
@@ -2254,7 +2277,7 @@ PPPのプリンセス=PPP's Princess
 やってみる…！=I'll... TRY!
 占いのその先へ=Beyond Fortune Telling
 優秀な助手の出番なのです=Brilliant Assistant
-どこでも突撃！えんため隊=Charge Anywhere! Entame Corps
+どこでも突撃！えんため隊=Charge Anywhere!
 天才博士が通りますよ=Genius Doctor Coming Through
 
 
@@ -2433,7 +2456,7 @@ SSRインテリアボーナス=SSR Interior Bonus
 イベント\nしょうたい=Event\nInvitation
 もう一度回す=Pull Again
 終盤戦=Final Battle
-変換可能数=Converting
+変換可能数=Trading
 ぼっくす確認=Box Info
 すぺしゃるぴっくあっぷしょうたい=Special Pickup Invitation
 フレンズ獲得経験値=Friend Experience Gained
@@ -2866,7 +2889,7 @@ G・ロードランナー=Greater Roadrunner
 フレンズ成長 大・超成功率UP!=Friends Level Rate UP!
 フォト強化 大・超成功率UP!=Photo Level Rate UP!
 フレンズ 大・超成功率UP!=Friends Rate UP!
-変換=Convert
+変換=Trade
 所持数=Owned
 「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\n*Rewards that exceeded the maximum number owned have been moved to the Present Box.
 ※所持数上限※=*Limit On The Number Owned*.
@@ -3022,7 +3045,6 @@ OPムービー=OP Movie
 まんぞく=Complete
 旅犬=Traveling Dog
 メガテリウム=Megatherium
-獲得数=Owned
 既読ストーリー再生=Story Playback
 情報切り替え=Switch Info
 コンティニュー不可=No Continues
@@ -3598,6 +3620,7 @@ HAW-206=HAW-206
 ジャガー=Jaguar
 鳥綱=Birds
 ペリカン=Pelican
+ソンサーバル=Son Serval
 サーバル=Serval
 コンコン =Kon-Kon 
 アルマ=Arma
@@ -3775,7 +3798,7 @@ HAW-206=HAW-206
 興味津々！=Very Interesting!
 アイテムが足りません=Not Enough Items
 成長=Growth
-助っ人=Helper
+
 その他=Misc.
 たしかに…=Certainly...
 限定=Limited

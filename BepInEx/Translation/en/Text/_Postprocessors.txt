@@ -95,12 +95,26 @@ friendly (green)=Friendly(Green)
 Friendly(green)=Friendly(Green)
 friendly(green)=Friendly(Green)
 
+Steps1=Step 1
+Steps2=Step 2
+Steps3=Step 3
+Steps4=Step 4
+Steps5=Step 5
+Steps6=Step 6
+Steps7=Step 7
+Steps8=Step 8
+Steps9=Step 9
+Steps10=Step 10
+
 ----------Give Up Fixer----------
 not on giveaway=not in Give-Up State
 on giveaway=Give Up State
+e :=e:
 ----------Translate Nue's name----------
 nueh=Nue
 Nueh=Nue
+】=】
+【=【
 「="
 」="
 『="
@@ -377,6 +391,13 @@ Jamari=Japari
 friends=Friends
 friend=Friend
 <size=10>Expedition</size>=Expedition
+
+
+----------Possesive/Past----------
+youed=you'd
+sheed=she'd
+Ied=I'd
+theyed=they'd
 
 ----------Parsing and spacing fixes----------
 

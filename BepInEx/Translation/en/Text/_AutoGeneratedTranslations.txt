@@ -1,23 +1,25 @@
 ﻿-----REGEX-----
-r:"受け取り日時：([0-9]+)/([0-9]+)/([0-9]+)　([0-9]+):([0-9]+)$"=Date received: $2/$3/$1 $4:%5
-r:"「中盤戦([0-9]+)」$"="Midgame $1"
-r:"序盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 of Opening Game $2
-r:"最終更新　$([0-9]+)/$([0-9]+)/$([0-9]+)　12:00$"=Last Updated $3/$2/$1
-r:"☆([0-9]+)\n確定！$"=$1 Stars\nConfirmed!
-r:"けものミラクルレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Kemono Miracle Level $1!
-r:"野生解放([0-9]+)段階目に到達したフレンズが([0-9]+)人！$"=$2 Friends reached Wild Release level $1!
-r:"レベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached level $1!
-r:"なかよしレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Friendship Level $1!
-r:"メインストーリーS([0-9]+)$"=Main Story S$1
-r:"([0-9]+)話 $"=Episode $1 
-r:"([0-9]+)話$"=Episode $1
-r:" ([0-9]+)個$"= $1 pieces
-r:"☆([0-9]+)\\n確定！$"=☆$1\nFixed!
-r:"★([0-9]+)確定まで\\nあと$"=1 more until ★$3 is confirmed.
-r:"中盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 in the Mid-Game $2
-r:"「中盤戦([0-9]+)」=$""Mid-Game $1"
-r:"中盤戦([0-9]+)$"=Mid-Game $1
-r:"野生解放\\n([0-9]+)段階目達成$"=Achieved stage $1\nof Wild Release
+r:"^キラキラを\n([0-9]+)消費して([0-9]+)回しょうたいします\nよろしいですか？$"=Consume $1 Glitter/nto summon $2 times?
+r:"^を([0-9]+)個購入しました$"=$1 Purchased
+r:"^受け取り日時：([0-9]+)/([0-9]+)/([0-9]+)　([0-9]+):([0-9]+)$"=Date received: $2/$3/$1 $4:%5
+r:"^「中盤戦([0-9]+)」$"="Midgame $1"
+r:"^序盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 of Opening Game $2
+r:"^最終更新　$([0-9]+)/$([0-9]+)/$([0-9]+)　12:00$"=Last Updated $3/$2/$1
+r:"^☆([0-9]+)\n確定！$"=$1 Stars\nConfirmed!
+r:"^けものミラクルレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Kemono Miracle Level $1!
+r:"^野生解放([0-9]+)段階目に到達したフレンズが([0-9]+)人！$"=$2 Friends reached Wild Release level $1!
+r:"^レベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached level $1!
+r:"^なかよしレベル([0-9]+)のフレンズが([0-9]+)人！$"=$2 Friends reached Friendship Level $1!
+r:"^メインストーリーS([0-9]+)$"=Main Story S$1
+r:"^([0-9]+)話 $"=Episode $1 
+r:"^([0-9]+)話$"=Episode $1
+r:"^ ([0-9]+)個$"= $1 pieces
+r:"^☆([0-9]+)\\n確定！$"=☆$1\nFixed!
+r:"^★([0-9]+)確定まで\\nあと$"=1 more until ★$3 is confirmed.
+r:"^中盤戦([0-9]+)のバトル([0-9]+)をクリア$"=Clear Battle $1 in the Mid-Game $2
+r:"^「中盤戦([0-9]+)」=$""Mid-Game $1"
+r:"^中盤戦([0-9]+)$"=Mid-Game $1
+r:"^野生解放\\n([0-9]+)段階目達成$"=Achieved stage $1\nof Wild Release
 r:"^Try!! ダメージアップ＋([0-9]+)\％$"=Try! Damage increase +$1%.
 r:"^Action! ダメージアップ＋([0-9]+)\％$"=Action! Damage increase +$1%.
 r:"^※★([0-9]+)以上のフォトが含まれています※$"=Includes ※★$1 or more photos.
@@ -294,8 +296,10 @@ r:"^詰め合わせ$"=(Assorted)
 大掃除準備セット（桃色）=Cleaning Preparation Set (Pink)
 大掃除準備セット（青色）=Cleaning preparation set (Blue)
 大掃除準備セット（緑色）=Cleaning preparation set (Green)
-けもけも弁当セット（水色）=Kemokemono lunch box set (Light blue)
-けもけも弁当セット（青色）=Kemokemono lunch box set (Blue)
+けもけも弁当セット（水色）=Kemokemono Lunch Box Set (Light blue)
+けもけも弁当セット（青色）=Kemokemono Lunch Box Set (Blue)
+けもけも弁当セット（黄緑色）=Kemokemono Lunch Box Set (Yellow-green)
+けもけも弁当セット（緑色）=Kemokemono Lunch Box Set (Green)
 大掃除準備セット（水色）=Cleaning Preparation Set (Light blue)
 
 （オール）=(All)
@@ -762,7 +766,7 @@ Param01<size\=30>人</size>=Param01<size\=30>Person</size>
 このステップにフォトはありません=There are no photos in this step.
 このステップにアイテムはありません=There are no items in this step.
 このステップにおまけはありません=There are no extras in this step.
-ステップ=Steps
+ステップ=Step 
 インテリア=Interior
 ボーナス合計値=Total Bonus Value
 タッチで配置=Tap To\nPlace
@@ -1153,11 +1157,60 @@ Exp 1.5倍=Exp 1.5x
 受け取り=Accept
 とくいわざ=Special
 ぼな=Bona
+新フレンズ紹介=New Friends Introduction
+無料=Free
+ (変化後)= (After change)
+変化前へ戻る=Before change
+変化後を見る=After change
+フォト解説=Photo Info
+なかよしレベル上限=Friendship Level Cap
+フォトポケット強化確認=Confirm Photo Pocket Upgrade
+レベル強化確認=Confirm Level Upgrade
+ガイドマップ=Guide Map
+「けものフレンズ3 プラネットツアーズ」\n="Kemono Friends 3: Planet Tours"\n
+☆４\n確定！=☆4\nConfirmed!
+スペース不足=No Space
+所持しているインテリアはありません=Interior not owned
+インテリア配置=Interior Layout
+コンティニュー確認=Confirm Continue
+同一=Same
+同一フォト=Same Photo
+野生解放確認=Confirm Wild Release
+野生解放結果=Wild Release Results
+購入完了=Purchase Complete
+新フレンズ紹介の動画を再生します。=There is a video introducing the new Friend.
+\n\n再生しますか？=\n\nDo you want to play it?
+ ※データのダウンロードが発生する場合がある為、\nWi-Fi環境など、通信の安定した状態を推奨します。=  ※Downloads will use data. We recommend using/nWifi or other stable internet connections.
+・個別表示している提供割合は表示上小数点第4位にて切り捨てしているため、全て合算しても100%にならない場合がございます\n・しょうたいは1回ごとに提供割合に基づいて抽選を行っております。そのため提供割合1%のアイテムが100回中1回、必ず排出される仕組みではございません=・The individual distribution rates are rounded down to the fourth decimal place, so they may not add up to 100%.\n・Each summoning is done by drawing lots based on the distribution rate. Therefore, it is not guaranteed that an item with a distribution rate of 1% will be drawn once in 100 draws.
+ピクニックにて交換=Exchanged at the Picnic
+ / 必要数 1）= / 1 Map Key)=
+を1回交換しました\nプレゼントをご確認ください=has been exchanged one time./nPlease check your Giftbox.
+パークスタッフ証=Park Staff ID
+…次のLvまで=…Until next Lv.
+今日はこのウィンドウを表示しない=Don't show this window again, today.
+\n超過分は獲得できませんがよろしいですか？\n【対象のフレンズ】\n=You will not receive the excess amount. Is this okay?\n【Target Friends】
+レベル/レベル上限=Level/Level Cap
+調査レポート=Survey Report
+調査レポート交換所=Survey Report Exchange
+ピックアップ対象=Pickup Target
+ピックアップ対象フォト=Pickup Target Photo
+受け取り完了=Receive Confirmation
+獲得数=Owned
+x=
+編成不可=Can't be Organized
+フィルターと一致するフレンズがいません=No Friends match the Filter
+※フィルターの設定を変更してください※=※Please change filter settings※
+助っ人選択=Helper Select
+助っ人=Helper
+ドール参加不可=Dhole participation is not possible
+選択可能な助っ人はいません=No selectable Helpers
+別の属性を選択してください=Please select a different Attribute
 
 ----------Battery stuff----------
 電池{{A}}=Battery {{A}}
 {{A}}：電池={{A}}: Battery
-
+イベントマップでクエストを解放できます=Unlock Quets on the Event Map
+残りクリア回数=Remaining Clears
 ---------Passport----------
 「月間パスポートすごい!!すたんだーど」のアイテム=Items from "Monthly Passport! Amazing!!"
 「月間パスポートすごい!!すたんだーど」の購入=Purchased "Monthly Passport! Amazing!!"
@@ -1170,6 +1223,9 @@ Exp 1.5倍=Exp 1.5x
 ------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
