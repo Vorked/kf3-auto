@@ -1,6 +1,7 @@
-﻿小さな輝石<size\=24><color\=#FFEE00>2</color></size>倍！=Small Pyroxene<size\=24><color\=#FFEE00>2x</color></size>!
+﻿「スペシャルデイリー」の\n報酬を受け取りました=Special Daily\nRewards Recieved!
 
 ----------Friendship Level Up Quotes----------
+アンタがいるところは、いっつも賑やかで楽しそうなんだよね\nだからオイラも、つい混ざりたくなっちゃうんだ=You always seem to be having so much fun in your\nzone that I just want to be a part of it.
 いつもお世話をしてくれてありがとう\nボクの気持ちをこめたやさい、あげる=Thank you for always taking care of me,\nI'll give you vegetables filled with my love!
 あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?
 あんたといると、楽しくて…\n気づいたら会いに行っちゃってるのよね……なにその顔=I have so much fun with you...\nI find myself coming to see you... what's with that face?
@@ -25,11 +26,16 @@
 みんなのことが大切だからって自分を犠牲にしちゃだめよ？\nでも、そんなあなただからこそ慕われてきたのよね=You can't sacrifice yourself just because you care about everyone,\nbut that's why people love you so much.
 
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+本日の残り回数が0回となりました=There are 0 attempts reimaining today.\n
+マップキー×1を消費してクリア回数を回復しますか？=Would you like to use 1 Map Key to make more attempts?
+マップキー×2を消費してクリア回数を回復しますか？=Would you like to use 2 Map Keys to make more attempts?
+マップキー×3を消費してクリア回数を回復しますか？=Would you like to use 3 Map Keys to make more attempts?
+残りクリア回数=Remaining Attempts
 ドール参加不可=Dhole participation is not possible
 選択可能な助っ人はいません=No selectable Helpers
 別の属性を選択してください=Please select a different Attribute
 すごいマップキー が1つ不足しています\n（所持数 0 / 必要数 1）=You are missing an Awesome Map Key.\n(0 Owned / 1 Required)
-すごいマップキー が1つ不足しています=You are missing an Awesome Map Key.
+すごいマップキー が1つ不足しています=You are missing an Awesome Map Key.\n
 （所持数 0 / 必要数 1）=(0 Owned / 1 Required)
 （所持数 =(
 （所持数=(
@@ -263,6 +269,7 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+ギョクリュウ=Gyokuryu
 ソンサーバル様の参上！=Here Comes Son Serval!
 うみゃっと元気な暴れん坊=Lively and Rambunctious One
 しゅうちゅうのぽーず！=Today's Pose!
