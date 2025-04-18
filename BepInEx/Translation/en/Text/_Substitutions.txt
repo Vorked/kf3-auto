@@ -24,8 +24,13 @@
 日頃から私と向き合ってくれる礼にもっとキミを鍛えてやる\n…厳しくやるから、覚悟しとけよ？　ふふ=I'm going to train you more to thank you for dealing with me on a regular basis...\nand I'm going to do it hard, so be prepared, okay?
 隊長ちゃんとはながいお付き合いになりましたね～\nまだまだいっしょにいたいです～　ぎゅ～っ！=It's been a long relationship with Captain-chan～\nI want to be with you for a long time～ HUG～!
 みんなのことが大切だからって自分を犠牲にしちゃだめよ？\nでも、そんなあなただからこそ慕われてきたのよね=You can't sacrifice yourself just because you care about everyone,\nbut that's why people love you so much.
+倍！=x!
 
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+EXPの上限を超えた分の\nマジカルキャンディとゴールドは使用を取り消しました！=The amount of Magical Candy and Gold that exceeded the EXP limit has been returned!
+EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り消しました！=The amount of Japari Buns and Gold that exceeded the EXP limit has been returned!
+入力した内容と一致する結果がありません=There are no results that match your input.
+※入力内容を確認してください※=\n※Please check your spelling.※
 本日の残り回数が0回となりました=There are 0 attempts reimaining today.\n
 マップキー×1を消費してクリア回数を回復しますか？=Would you like to use 1 Map Key to make more attempts?
 マップキー×2を消費してクリア回数を回復しますか？=Would you like to use 2 Map Keys to make more attempts?
@@ -269,6 +274,22 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+魔を滅する力=Power To Destroy Evil
+勇気のテスト=Test of Courage
+ずんだへの愛をこめて=Love For Zunda
+ずんだアロー！=Zunda Arrow!
+もちもちの…=Mochimochi...
+みんなに届け、ずんだ愛！=Sending Zunda Love To All!
+ちょっとだけきゅーけー=Just A Bit Cool
+逃げても無駄っしょ！=Running Is Futile!
+どうせなら割とマジで=I Might Get Serious
+ひと狩りいっちゃう？=Shall We Hunt?
+また、自身がギブアップしたとき=Haven't Given Up Yeti
+弱きものを護る責務=Pack Watch Duty
+マサイの知恵=Masai Wisdom
+何事も恐れない勇気=Fearless Courage
+狩りの策士=Hunting Tactician
+風ざわめく草原のハンター=Roaring Plains Hunter
 ギョクリュウ=Gyokuryu
 ソンサーバル様の参上！=Here Comes Son Serval!
 うみゃっと元気な暴れん坊=Lively and Rambunctious One
@@ -1045,7 +1066,6 @@ Kari=Kari
 けものミラクル＋が解放されました！=Kemono Miracle+ Unlocked!
 新シーズン開始のお知らせ=New season begins!
 衣装の対象フレンズが未加入です=Owner of this Costume has not yet arrived.
-運動場=Playground
 スマトラトラ=Sumatran Tiger
 の防衛結果= Defense Results
 次のクラスまで=Until Next Rank Up 
@@ -3739,6 +3759,7 @@ HAW-206=HAW-206
 山本五郎左衛門=Gorozaemon Sanmoto
 平太郎=Heitaro
 権八=Gonpacchi
+東北ずん子=Tohoku Zunko
 
 ----------Locations----------
 チリ北部=Northern Chile
@@ -3784,8 +3805,6 @@ HAW-206=HAW-206
 
 ----------GAME MECHANIC TERMS THAT MUST BE AT END----------
 動物画像提供元=Animal photography courtesy of
-フォロワー=Followers
-フォロー=Following
 ジャングル=Jungle
 さばく=Desert
 みずべ=Water Bank
@@ -4034,3 +4053,6 @@ HAW-206=HAW-206
 ボーロ(NPC)=Boro(NPC)
 トミコ(NPC)=Tomiko(NPC)
 グレープ(NPC)=Grape(NPC)
+▽・ω・▽なお犬=▽・ω・▽なお犬
+かんげー会=Welcome Party
+ホケンシツ=the Emergency Room

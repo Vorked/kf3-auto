@@ -395,7 +395,7 @@ r:"^[(（]日曜?[)）]$"=(Sun)
 -----Month-----
 
 r:"^3月$"=March
-r:"^4月$"=Aprril
+r:"^4月$"=April
 r:"^5月$"=May
 r:"^6月$"=June
 r:"^7月$"=July
@@ -547,6 +547,8 @@ OR検索=OR Search
 まとめて選択=Select All
 期間限足=Limited
 限足復刻=Rerun
+フォロワー=Followers
+フォロー=Following
 
 ----------National Geographic----------
 環境省RDBによる保全状況=RL/RDB: Ministry of the Environment
@@ -1045,6 +1047,8 @@ EXPの上限を超えた分の\n{{A}}と{{B}}は使用を取り消しました�
 時間=Hours
 サバンナ=Savannah
 
+練習モード中=In Practice Mode
+練習モード=Practice\nMode
 ----------New Translations For Autotranslation Only----------
 チケット=Ticket
 イベント=Events
@@ -1140,6 +1144,7 @@ Exp 1.5倍=Exp 1.5x
 称号ゲット！=Title Obtained!
 入手した称号=Title Obtained
 以下の称号を入手しました。=The following titles were obtained:
+合計けもステータス=Total Status
 
 ----------MISC. New translations----------
 集計中=Counting
@@ -1193,7 +1198,7 @@ Exp 1.5倍=Exp 1.5x
 ピックアップ対象フォト=Pickup Target Photo
 受け取り完了=Receive Confirmation
 獲得数=Owned
-x=
+テキスト検索=Text Search
 編成不可=Can't be Organized
 フィルターと一致するフレンズがいません=No Friends match the Filter
 ※フィルターの設定を変更してください※=※Please change filter settings※
@@ -1202,6 +1207,8 @@ x=
 ドール参加不可=Dhole participation is not possible
 選択可能な助っ人はいません=No selectable Helpers
 別の属性を選択してください=Please select a different Attribute
+なかよしPt5倍！=5x Friendship!
+運動場=Playground
 
 ----------Battery stuff----------
 電池{{A}}=Battery {{A}}
@@ -1223,6 +1230,7 @@ x=
 
 {{A}}\n\nで解放=Released by\n\n{{A}}
 {{B}}の\n{{C}}{{A}}={{B}}'s {{C}} {{A}}
+
 
 
 
