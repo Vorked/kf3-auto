@@ -1234,3 +1234,14 @@ Exp 1.5倍=Exp 1.5x
 
 
 
+
+金丹キャンディ集め5=Collecting golden candy 5
+金丹キャンディ集め4=Collecting golden candy 4
+金丹キャンディ集め3=Collecting golden candy 3
+金丹キャンディ集め2=Collecting golden candy 2
+金丹キャンディ集め1=Collecting golden candy 1
+蟠桃グミ集め5=Collecting gummies 5
+蟠桃グミ集め4=Collecting beetle gummies 4
+蟠桃グミ集め3=Collecting Peach Gummies 3
+蟠桃グミ集め2=Collection of bento gummies 2
+蟠桃グミ集め1=Collecting beetle gummies 1

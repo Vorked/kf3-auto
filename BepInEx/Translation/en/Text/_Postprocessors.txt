@@ -23,15 +23,18 @@ Tori =Bird
  Tori= Bird
 "Special Daily" 's=Special Daily Mission
 "Special Daily"'s=Special Daily Mission
-
+resilience=health
 Establishment rate:=Activation rate:
-
+Tairyoku=HP
+TARIKU=HP
 tairyoku=HP
 kougeki=Attack
 まもりmamori=Defense
 かいひkaifi=Evade
 purazumu=Plasma
-
+e. ed=ed
+Sparkle Shard's=Sparkle Shards
+Pyroxene's=Pyroxenes
   = 
 ,,=,
 ,,=,
@@ -69,6 +72,7 @@ my Pace=Carefree
 (my pace)=Carefree
 Own Pace=Carefree
 own pace=Carefree
+My Pace (water)=Carefree(Light-Blue)
 
 Fanny(red)=Funny(Red)
 Funny(red)=Funny(Red)

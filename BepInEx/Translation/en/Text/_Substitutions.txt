@@ -274,6 +274,20 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+暴れん坊の仕切り直し=Raging Start
+慄け、大妖魔の旋風=Great Demon Whirlwind
+白牛の憤怒=White Bull's Fury
+またの名を平天大聖=Known As Heiten Taisei
+全てを圧砕する混鉄棍=All-Crushing Iron Club
+冷たい終わりを迎えても=Even If There Is An Ice Age
+描き留めるの、この瞬間を=I Will Capture This Moment
+大地を踏みしめて=Stepping Firmly On The Ground
+わたしは残す、ヒトのおもいで=Leave Behind Memories
+大好きなフルーツは逃がさない=Get Your Fav Fruit
+かみなりはにがて…=I Hate Thunder...
+フルーツハンター=Fruit Hunter
+木登り上手な美人ちゃん♪=A Beautiful Woman Climbing Trees
+ぎゃうがうぐるぐる～！=Graaurgrrr～！
 魔を滅する力=Power To Destroy Evil
 勇気のテスト=Test of Courage
 ずんだへの愛をこめて=Love For Zunda
@@ -2636,6 +2650,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+ギュウマオウ=Gyumaou
 クラハシコウ=Saddlebill
 マネキネコ=Maneki-Neko
 ニューギニアワイルドハイランドドッグ=Highland Wild Dog
@@ -3760,6 +3775,7 @@ HAW-206=HAW-206
 平太郎=Heitaro
 権八=Gonpacchi
 東北ずん子=Tohoku Zunko
+ずんだもん=Zundamon
 
 ----------Locations----------
 チリ北部=Northern Chile
