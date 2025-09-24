@@ -27,6 +27,8 @@
 倍！=x!
 
 ----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+スタースタンプ交換所=Star Stamp Exchange
+アニマルラムネマスター=Animal Ramune Master
 EXPの上限を超えた分の\nマジカルキャンディとゴールドは使用を取り消しました！=The amount of Magical Candy and Gold that exceeded the EXP limit has been returned!
 EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り消しました！=The amount of Japari Buns and Gold that exceeded the EXP limit has been returned!
 入力した内容と一致する結果がありません=There are no results that match your input.
@@ -266,6 +268,7 @@ Lv.強化=Lv. Enhancement
 
 ----------TRAITS----------
 ボクの声、きいて！=Listen To My Voice!
+ふっかつ！=Revive!
 
 ----------STANDBY----------
 のんびり月光浴=Relaxing Moonlight Bathing
@@ -274,6 +277,10 @@ Lv.強化=Lv. Enhancement
 村中知=Tomo Muranaka
 
 ----------MIRACLES AND OTHER TRAITS/STANDBY----------
+カフェの綺麗好き=Love The Clean Cafe!
+木には登りませんよ？=Wanna Climb Trees?
+どんな場所でもオッケー♪=Anywhere is OK♪
+キッレイなところに福は来る♪=Fortune To Clean Places♪
 これは遊びじゃない！=This Isn't A Game!
 あとできっちりしめてやる=I'll Finish You Off Later
 待ちぶせならとくいだ=Ambush Expert
@@ -821,7 +828,6 @@ Kari=Kari
 召喚・冥界へ誘う地獄の門=Gates Of Hell・To The Underworld
 セーバルちょーがんばるボンバー=Do Your Best Bomber
 烈風のスーパーサバンナクロー=Stormy Savanna Claw
-キッレイなところに福は来る♪=Fortune To A Beautiful Place♪
 急降下！これが私の全速力！=Swoop! My Full Speed!
 じぐざぐホワイトクロー=Zig-Zag White Claw
 おたからオープン！=Grand Opening!
@@ -2297,13 +2303,14 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+さいきょーあいどる！=Best Idol!
 自然の音とリズムにのせて=Sound of Nature
 青い瞳の迷い猫=Blue-Eyed Stray
 ジっとできない湿地のハンター=Restless Marsh Hunter
 騎士としての決意を胸に=Knight's Determination
 ひんやりクリーミーを求めて=Cool Cream Taste
 ハツラツなつっこ！=Lively, Cheerful!
-野生がうずうずしちゃいます♡=My Wild Side Tingles♡
+野生がうずうずしちゃいます♡=Wild Side Tingles♡
 大きな瞳の美人顔=Beautiful Face, Big Eyes
 笑顔をお届け！=Smile Delivery!
 隻眼の悪魔†=One-Eyed Devil†
@@ -2613,8 +2620,8 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 フォトタイプ=Photo Type
 ☆の数=Number Of ☆
 閉じる=Close
-「デイリー」="Daily"
 「スペシャルデイリー」="Special Daily" 
+「デイリー」="Daily"
 ミッションの=Mission
 報酬を受け取りました=Rewards Recieved.
 回送ろう=Send
@@ -2650,7 +2657,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ためこみ上手=MP Hoard
 
 ----------Captain Skill Menu----------
-隊長スキル発動！=Activation the Captain's Skill!
+
 交換するフラッグを選んでください=Please select the flag you wish to exchange.
 コンティニューする=Continue
 プラズムをチャージ=Charge Plasma
@@ -2662,9 +2669,11 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 ミラクルポイントを獲得=Earn Miracle Points
 バトル情報=Battle Information
 フレンズ情報=Friends Information
+隊長スキル発動！=Activation the Captain's Skill!
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+マッコウクジラ=Sperm Whale
 ギュウマオウ=Gyumaou
 クラハシコウ=Saddlebill
 マネキネコ=Maneki-Neko
@@ -2955,8 +2964,6 @@ G・ロードランナー=Greater Roadrunner
 輝きの結晶交換所=Pyroxene Exchange
 もう一度回す=Pull Again
 フレンズへ=Friends List
-編成へ=To Party
-編成=Organize
 バトルメニュー=Battle Menu
 アプリを終了しますか？=Are you sure you want to close the App?
 アプリ終了確認=Confirm Close
@@ -3064,9 +3071,6 @@ OPムービー=OP Movie
 ランキングポイント=Ranking Points
 デイリーミッション=Daily Missions
 トータルミッション=Total Missions
-ミッション=Missions
-デイリー=Daily
-トータル=Total
 ウィークリーミッション=Weekly Missions
 なまえ順=Name order
 新着順=Arrival order
@@ -3151,8 +3155,7 @@ WAVE数= Waves
 そらとぶ！=I'm Flyin!
 カコ=Kako
 
-小さな輝石=Small Pyroxene
-輝石=Pyroxene
+
 
 
 
@@ -3164,6 +3167,9 @@ WAVE数= Waves
 はねかえしむし Reflect Small
 
 -------------------FRIEND FUTURE-PROOFING----------------------
+シロフクロウ=Snowy Owl
+サゴジョウ=Sagojo
+チョハッカイ=Chohakkai
 バシロサウルス・イシス=Basilosaurus Isis
 ビャクダ=Byakuda
 ライリュウ=Rairyu
@@ -3820,6 +3826,10 @@ HAW-206=HAW-206
 ジャパリファーム=Japari Farm
 ジャパまん製造工場=Japari Bun Factory
 高山=Alpines
+ジャングル=Jungle
+さばく=Desert
+みずべ=Water Bank
+寒冷地=Arctic
 
 ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
 
@@ -3830,10 +3840,6 @@ HAW-206=HAW-206
 
 ----------GAME MECHANIC TERMS THAT MUST BE AT END----------
 動物画像提供元=Animal photography courtesy of
-ジャングル=Jungle
-さばく=Desert
-みずべ=Water Bank
-寒冷地=Arctic
 効果対象=Who is effected
 効果内容=Effects
 発動条件=Activation Conditions
@@ -3850,7 +3856,7 @@ HAW-206=HAW-206
 興味津々！=Very Interesting!
 アイテムが足りません=Not Enough Items
 成長=Growth
-
+隊長=Captain
 その他=Misc.
 たしかに…=Certainly...
 限定=Limited

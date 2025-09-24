@@ -1,4 +1,101 @@
-﻿</color>= 
+﻿ジャパリまんじゅう=Japari Bun
+ジャパリ=Japari
+
+小さな輝石=Small Pyroxene
+輝石=Pyroxene
+
+けもステータス=Kemo-Status
+たいりょく=HP
+こうげき=Attack
+まもり=Defense
+かいひ=Evade
+ぷらずむ=Plasma
+野生解放順=Wild Release
+なかよし=Friendship
+ぷらずむ=Plasma
+かいひ=Evade
+たいりょく=HP
+なかよし=Friendship
+こうげき=Attack
+まもり=Defense
+けもステータス=Kemo-Status
+ステータス=Status
+
+けもステータスボーナス=Kemo-Status Bonus
+たいりょくボーナス=HP Bonus
+こうげきボーナス=Attack Bonus
+まもりボーナス=Defense Bonus
+かいひボーナス=Evade Bonus
+ぷらずむボーナス=Plasma Bonus
+
+防衛ボーナス=Defense Bonus
+Action!ダメージボーナス=Action! Damage Bonus
+Try!!ダメージボーナス=Try!! Damage Bonus
+Beat!!!ダメージボーナス=Beat!!! Damage Bonus
+ダメージボーナス=Damage Bonus
+命中率ボーナス=Accuracy Bonus
+Action!ボーナス=Action! Bonus
+Try!!ボーナス=Try!! Bonus
+Beat!!!ボーナス=Beat!!! Bonus
+回避ボーナス=Evasion Bonus
+命中ボーナス=Accuracy Bonus
+
+ダメージアップ解除=Damage Up Removal
+たいりょく回復解除=HP Recovery Removal
+Action!ダメージアップ解除=Action! Damage Up Removal
+Try!!ダメージアップ解除=Try!! Damage Up Removal
+Beat!!!ダメージアップ解除=Beat!!! Damage Up Removal
+ダメージアップ解除=Damage Up Removal
+命中率アップ解除=Accuracy Up Removal
+Action!アップ解除=Action! Up Removal
+Try!!アップ解除=Try!! Up Removal
+Beat!!!アップ解除=Beat!!! Up Removal
+回避アップ解除=Evasion Up Removal
+命中アップ解除=Accuracy Up Removal
+
+たいりょく回復！=HP Recovery!
+Action!ダメージアップ！=Action! Damage Up!
+Try!!ダメージアップ！=Try!! Damage Up!
+Beat!!!ダメージアップ！=Beat!!! Damage Up!
+命中率アップ！=Accuracy Up!
+Action!アップ！=Action! Up!
+Try!!アップ！=Try!! Up!
+Beat!!!アップ！=Beat!!! Up!
+回避アップ！=Evasion Up!
+命中アップ！=Accuracy Up!
+ダメージアップ！=Damage Up!
+
+Action!ダメージダウン=Action! Damage Down
+Try!!ダメージ=Try!! Damage Down
+Beat!!!ダメージダウン=Beat!!! Damage Down
+ダメージダウン=Damage Down
+命中率ダウン=Accuracy Down
+Action!ダウン=Action! Down
+Try!!ダウン=Try!! Down
+Beat!!!ダウン=Beat!!! Down
+回避ダウン=Evasion Down
+命中ダウン=Accuracy Down
+回避率ダウン=Evasion Rate Down
+
+Action!ダメージアップ=Action! Damage Up
+Try!!ダメージアップ=Try!! Damage Up
+Beat!!!ダメージアップ=Beat!!! Damage Up
+ダメージアップ=Damage Up
+命中率アップ=Accuracy Up
+Action!アップ=Action! Up
+Try!!アップ=Try!! Up
+Beat!!!アップ=Beat!!! Up
+回避アップ=Evasion Up
+命中アップ=Accuracy Up
+
+たいりょく回復=HP Recovery
+与ダメージ=Damage
+回避=Evasion
+命中率=Accuracy
+命中=Accuracy
+
+
+</color>= 
 <color=990000FF>= 
 </color>= 
 ふふふ=Fufufu
@@ -9,8 +106,11 @@
 」="
 \n=\n
 
+たいりょく=HP
+
 （ファニー）=(Funny)
 かんげー会=Welcome Party
+
 G-Z-M-C-Z-L={{A}}
 G-Z-M-D-Z-L={{B}}
 G-Z-M-E-Z-L={{C}}

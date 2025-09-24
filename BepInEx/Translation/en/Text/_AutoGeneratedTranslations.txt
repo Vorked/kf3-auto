@@ -3,7 +3,7 @@ r:"^「序盤戦([0-9]+)」$"="Early $1"
 r:"^序盤戦([0-9]+)$"=Early $1
 r:"^「すぺしゃる([0-9]+)」$"="Special $1"
 r:"^すぺしゃる([0-9]+)$"=Special $1
-r:"^キラキラを\n([0-9]+)消費して([0-9]+)回しょうたいします\nよろしいですか？$"=Consume $1 Glitter/nto summon $2 times?
+r:"^キラキラを\n([0-9]+)消費して([0-9]+)回しょうたいします\nよろしいですか？$"=Consume $1 Glitter\nto summon $2 times?
 r:"^を([0-9]+)個購入しました$"=$1 Purchased
 r:"^受け取り日時：([0-9]+)/([0-9]+)/([0-9]+)　([0-9]+):([0-9]+)$"=Date received: $2/$3/$1 $4:$5
 r:"^「中盤戦([0-9]+)」$"="Midgame $1"
@@ -70,7 +70,7 @@ r:"^所持数([0-9]+)$"=Owned - $1
 r:"^所持数 ([0-9]+)$"=Owned - $1
 r:"^([0-9]+)体$"=$1 Defeats
 r:"^電池 ([0-9]+)$"=Batteries: $1
-r:"^([0-9]+)章([0-9]+)話クリアバトル\n開始$"=Chapter $1, Episode $2 Battle Clear/n Start
+r:"^([0-9]+)章([0-9]+)話クリアバトル\n開始$"=Chapter $1, Episode $2 Battle Clear\n Start
 r:"^メインストーリー\n([0-9]+)章([0-9]+)話クリア$"=Main Story\nChapter $1, Episode $2 cleared
 r:"^あと([0-9]+)回$"=$1 left
 r:"^ ([0-9]+)話 バトル([0-9]+) クリア$"= Episode $1 Battle $2 Cleared
@@ -245,7 +245,6 @@ r:"^梅雨応援(！)?$"=Rainy Season Support$1
 ネコ？フレンズ=Cat? Friends
 しょうたい=Invitation
 パーティ=Party
-
 リウキウ=Riukiu
 
 ---NON-MATERIAL ITEMS----
@@ -254,7 +253,6 @@ sr:"^共闘準備セット（?<colour>.{1,2}色）$"=Co-op Preparation Set (${co
 sr:"^(?<colour>.{1,2}色)の\s?アニマルラムネ(?<rarity>.{0,5})?$"=${colour} Animal Ramune ${rarity}
 sr:"^ジャパまん(?<attribute>（.+?）)(?<size>.)$"=Japari Bun ${attribute} ${size}
 sr:"^おもいでの石(?<rarity>.{1,5})$"=Memory Stone ${rarity}
-
 
 ----MATERIALS----
 sr:"^ステキな木の実(?<rarity>.{1,5})$"=Nice Nuts ${rarity}
@@ -533,7 +531,6 @@ r:"^「?なかよしLv\.([0-9]+)」?$"=Friendship Lv.$1
 ///sr:"^(?<stat>|レベル上限)\s*(?<number_i>[＋+\-0-9.%％]+)$"=${stat}　${number_i}
 r:"^なかよしレベル上限＋([0-9]+)$"=Friendship Level Cap+$1
 レベル上限=Level Cap
-
 達成=Achievement
 なかよしLv=Friendship Lv.
 
@@ -575,7 +572,6 @@ AND検索=AND Search
 OR検索=OR Search
 AND検索=AND Search
 
-
 ----------MENU TESTS----------
 限定=Limited
 結果=Confirm
@@ -598,6 +594,7 @@ r:"^探検隊レベルを([0-9]+)にしよう！$"=Let's raise the Expedition Te
 r:"^ミラクルLvをアップしよう　([0-9]+)回目！$"=Let's improve Miracle Levels $1 times!
 r:"^ちからくらべで「くんれんランク([0-9]+)」にはじめて到達！$"=Reach Training Rank $1 for the first time in Strength Comparison!
 r:"^ピクニックで「フレンズの小さな輝石」を([0-9]+)個獲得！$"=Obtain $1 Friends' Small Pyroxene at the picnic!
+r:"^ピクニックで「フレンズのSmall Pyroxene」を([0-9]+)個獲得！$"=Obtain $1 Friends' Small Pyroxene at the picnic!
 r:"^フレンズが加入！ ([0-9]+)人目！$"=$1 Friends joined!
 r:"^☆([0-9]+)のフレンズが加入！([0-9]+)人目！$"$2 ☆$1 Friends have joined!
 r:"^累計ログイン([0-9]+)日目！$"=Cumulative Login Day $1
@@ -649,6 +646,11 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 ステータス変化=Status Change
 ミラクル強化=Miracle Upgrade
 挑戦可能！=Challenge!
+デイリー=Daily
+ミッション=Missions
+トータル=Total
+編成へ=To Party
+編成=Organize
 
 ----------DATES AND QUESTS DATES----------
 ミラクルとっくん！=Miracle Quest!
@@ -894,7 +896,7 @@ Try!!{{A}}　+1.0%=Try!! {{A}}　+1.0%
 {{A}}・ワカイヤの野生解放の強化に使用します=Used to enhance {{A}}'s Wild Release.
 {{A}}完了={{A}} completed
 遊び=Play
-{{A}}/n{{B}}={{A}}/n{{B}}
+{{A}}\n{{B}}={{A}}\n{{B}}
 {{A}}へ={{A}}
 {{A}}{{B}}={{A}} {{B}}
 {{A}}編成してクリア=Clear with {{A}} in the party.
@@ -1186,11 +1188,11 @@ Exp 1.5倍=Exp 1.5x
 購入完了=Purchase Complete
 新フレンズ紹介の動画を再生します。=There is a video introducing the new Friend.
 \n\n再生しますか？=\n\nDo you want to play it?
- ※データのダウンロードが発生する場合がある為、\nWi-Fi環境など、通信の安定した状態を推奨します。=  ※Downloads will use data. We recommend using/nWifi or other stable internet connections.
+ ※データのダウンロードが発生する場合がある為、\nWi-Fi環境など、通信の安定した状態を推奨します。=  ※Downloads will use data. We recommend using\nWifi or other stable internet connections.
 ・個別表示している提供割合は表示上小数点第4位にて切り捨てしているため、全て合算しても100%にならない場合がございます\n・しょうたいは1回ごとに提供割合に基づいて抽選を行っております。そのため提供割合1%のアイテムが100回中1回、必ず排出される仕組みではございません=・The individual distribution rates are rounded down to the fourth decimal place, so they may not add up to 100%.\n・Each summoning is done by drawing lots based on the distribution rate. Therefore, it is not guaranteed that an item with a distribution rate of 1% will be drawn once in 100 draws.
 ピクニックにて交換=Exchanged at the Picnic
  / 必要数 1）= / 1 Map Key)=
-を1回交換しました\nプレゼントをご確認ください=has been exchanged one time./nPlease check your Giftbox.
+を1回交換しました\nプレゼントをご確認ください=has been exchanged one time.\nPlease check your Giftbox.
 パークスタッフ証=Park Staff ID
 …次のLvまで=…Until next Lv.
 今日はこのウィンドウを表示しない=Don't show this window again, today.
@@ -1234,7 +1236,6 @@ Exp 1.5倍=Exp 1.5x
 
 {{A}}\n\nで解放=Released by\n\n{{A}}
 {{B}}の\n{{C}}{{A}}={{B}}'s {{C}} {{A}}
-ホンド{{A}}1話クリア\n7/17 14:00 以降=Cleared episode 1 after 7/17 14:00
 
 
 

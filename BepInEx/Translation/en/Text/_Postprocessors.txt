@@ -1,4 +1,6 @@
-﻿
+﻿----------The Dreaded /n fix----------
+/n=\n
+
 ----------Term fixes------------
 Kaihi=Evasion
 kaihi=evasion
@@ -28,6 +30,14 @@ Establishment rate:=Activation rate:
 Tairyoku=HP
 TARIKU=HP
 tairyoku=HP
+TARIOKU=HP
+TARIKOKU=HP
+Tarikoku=HP
+tarikoku=HP
+tarioku=HP
+Tarioku=HP
+Tairyoku=HP
+TAIRYOKU=HP
 kougeki=Attack
 まもりmamori=Defense
 かいひkaifi=Evade
@@ -56,6 +66,7 @@ fanny frenzies=Funny Friends
 Friends at their own pace=Carefree Friends
 fanny friends=Funny Friends
 
+My Pace (Wed)=Carefree(Light-Blue)
 my pace (water)=Carefree(Light-Blue)
 Carefree (water)=Carefree(Light-Blue)
 Carefree(water)=Carefree(Light-Blue)
@@ -137,6 +148,9 @@ Nueh=Nue
 contiNue=continue
 ContiNue=Continue
 
+"Daily"'s="Daily"
+"'s="
+
 ----------Japari Bun Fixes (Upper and Lower case needed)----------
 Japa Man=Japari Buns
 japa Man=Japari Buns
@@ -153,6 +167,10 @@ Bar Gar=Burger
 Japan Man=Japari Bun
 Japanman=Japari Bun
 japanman=Japari Bun
+Japanese Buns=Japari Buns
+japanese buns=Japari Buns
+japanese Buns=Japari Buns
+Japanese buns=Japari Buns
 
 ----------Common Text Error Fixes----------
 MiraclesConfirmation=Miracles Confirmation
@@ -193,6 +211,8 @@ sanpaku=walking
 'd=ed
 
 ----------Translation Error Fixes----------
+
+M DZ={{A}}
 
 Mammcz={{A}}
 Mammdz={{B}}
