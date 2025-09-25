@@ -94,6 +94,64 @@ Beat!!!アップ=Beat!!! Up
 命中率=Accuracy
 命中=Accuracy
 
+相手ボーナス=Opponent Bonus
+ターンボーナス=Turn Bonus
+連勝ボーナス=Consecutive Bonus
+ボーナス=Bonus
+発動回数：∞=Activation Chance:∞
+
+ミラクルとっくん！=Miracle Quest!
+獲得スケジュール=Event Schedule
+レベルとっくん=Level Growth Quest
+野生解放とっくん=Wild Release Growth Quest
+けものミラクルとっくん=Kemono Miracle Growth Quest
+ゴールド=Gold
+けものミラクル=Miracle
+
+与えるダメージが減少=Reduced Damage Inflicted
+ダメージダウン=Damage Reduction
+ダウン=Down
+アップ=Up
+ダメージ=Damage
+オール=All
+
+フォトポケット=Photo Pocket
+イベントストーリー=Event Story
+野生解放=Wild Release
+
+ステータス=Status
+こうげき=Attack
+まもり=Defense
+ログ=Log
+味方=Ally
+自身=Self
+思い出=Memories
+どく=Poison
+げんき=Energy
+速い=Fast
+
+わくわく=Exciting
+むちゃ=Rough
+げきむず=Feeling Sore
+むずい=Difficult
+やさしい=Gentle
+ふつう=Normal
+もう一度=Play Again
+
+水色=Light Blue
+黄緑色=Yellow-Green
+桃色=Pink
+青色=Blue
+緑色=Green
+赤色=Red
+虹色=Rainbow-Colored
+
+ファニー=Funny
+フレンドリー=Friendly
+リラックス=Relaxed
+ラブリー=Lovely
+アクティブ=Active
+マイペース=Carefree
 
 </color>= 
 <color=990000FF>= 

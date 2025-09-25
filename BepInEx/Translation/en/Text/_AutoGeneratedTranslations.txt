@@ -1,5 +1,6 @@
 ﻿-----REGEX-----
 r:"^「序盤戦([0-9]+)」$"="Early $1"
+r:"^ふつう　その([0-9]+)のバトル([0-9]+)をクリア$"=Normal: Clear Battle $2 of Part $1
 r:"^序盤戦([0-9]+)$"=Early $1
 r:"^「すぺしゃる([0-9]+)」$"="Special $1"
 r:"^すぺしゃる([0-9]+)$"=Special $1
@@ -1238,6 +1239,7 @@ Exp 1.5倍=Exp 1.5x
 {{B}}の\n{{C}}{{A}}={{B}}'s {{C}} {{A}}
 
 
+【けものミラクル発動に関わらず得られる効果】\n自身が{{B}}状態になる\nけものミラクル発動時、1回発動分以上のMPを獲得している場合\n獲得している全てのMPを消費して発動する\n\n【けものミラクル発動時の効果】\n相手全体に14%×4と21%×8のダメージを与え\n自身のMPが毎ターン10増加する(3回)\nさらにギブアップ状態でない相手が1人の場合\n代わりに相手単体に28%×4と84%×8のダメージを与える\n\n【1回発動分以上のMPを追加で消費した場合に得られる効果】\n追加で消費するMPが5増加するごとに\n自身の与ダメージが2%増加し{{D}}が2%減少する(3ターン)\nまた、追加でMPを40消費した場合\n高確率で相手全体の{{C}}(高)を減少させ(1ターン)\n追加でMPを80消費した場合\n自身が{{A}}状態になる(99ターン)\n\n※1回発動分以上のMPを追加で消費した場合に得られる効果は\n　それぞれカウントされ重複発動もする=[Effects that can be obtained regardless of the activation of Kemono Miracle] When you activate Kemono Miracle, which becomes {{B}}, if you have acquired MPs of 1 or more, you will consume all the MPs you have acquired.\n[Effect when activated by Kemono Miracle] Deals 14% x 4 and 21% x 8 damage to all opponents and increases her\nMP by 10 per turn (3 times). Furthermore, if there is one opponent who is not giving up, deals 28% x 4 and 84% x 8 damage to a single opponent instead.\n[Effects obtained when you consume MPs more than one activation] Every 5 additional MPs increase, your own Damage increases by 2% and {{D}} decreases by 2% (3 turns). Also, if you consume 40 additional MPs, there is a high probability that the opponent's {{C}} (high) is reduced (1 turn) if you consume 80 additional MPs, you will be in {{A}} state (99 turns)\n*The effects obtained when you consume more than one MP, each is counted and multiple activations will also occur.
 
 
 
