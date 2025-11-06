@@ -2,6 +2,7 @@
 /n=\n
 
 ----------Term fixes------------
+Small Trading Pyroxene=Trading Small Pyroxene
 Kaihi=Evasion
 kaihi=evasion
 Shotai=Invitation

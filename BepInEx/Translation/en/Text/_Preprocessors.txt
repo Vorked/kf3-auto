@@ -76,6 +76,7 @@ Beat!!!ダウン=Beat!!! Down
 回避ダウン=Evasion Down
 命中ダウン=Accuracy Down
 回避率ダウン=Evasion Rate Down
+小さな輝石=Small Pyroxene
 
 Action!ダメージアップ=Action! Damage Up
 Try!!ダメージアップ=Try!! Damage Up
@@ -107,6 +108,8 @@ Beat!!!アップ=Beat!!! Up
 けものミラクルとっくん=Kemono Miracle Growth Quest
 ゴールド=Gold
 けものミラクル=Miracle
+変換=Trade
+所持数=Owned
 
 与えるダメージが減少=Reduced Damage Inflicted
 ダメージダウン=Damage Reduction
