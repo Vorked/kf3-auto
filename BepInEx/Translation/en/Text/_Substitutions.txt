@@ -908,7 +908,7 @@ Kari=Kari
 私たちのプライド=Our Pride
 おひさまの下でわたしとダンス！=Dance with me under the sun!
 なないろにきらめく☆=Sparkling Rainbow☆
-夏の日の思い出は毒とともに=Memories of Summer Poison
+夏の日の思い出は毒とともに=Mids ummer Poison
 仲間といっしょに、笑顔の一歩=Take a step with a smile,\ntogether with friends
 楽しい砂漠で遊びましょう=Let's play in the fun desert!
 あなたとわたしでサンドイッチ♪=Sandwiches for you and me ♪
@@ -1413,6 +1413,12 @@ Kari=Kari
 
 
 ----------BEATS AND STANDBY----------
+深海より現れし狙撃手=Sea Sniper Emerging
+思いを背負う血統=Powerful Bloodline's Legacy
+声援を受けて一等賞！=First Prize With Cheers!
+ファンのみんなといっしょに！=Together With My Fans!
+笑顔とワクワクを届けるよ！=Smiles And Excitement!
+はやわざサマーソルト=Summersalt Kick
 旅で見たまぶしい景色=Dazzling Scenery In My Travels
 どこまでも雲を追いかけて=Chasing Clouds to the Ends
 ツノはきれいに♪=My Beautiful Horns♪
@@ -2306,6 +2312,8 @@ MP増加量半減=MP increase halved
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
 ----------ALT FRIEND TEXT----------
+ゴールまで一直線！=Cross The Goal!
+今日から神様らしい！=Like A God!
 さいきょーあいどる！=Best Idol!
 自然の音とリズムにのせて=Sound of Nature
 青い瞳の迷い猫=Blue-Eyed Stray
@@ -2631,7 +2639,6 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 週間=Week
 ログインボーナス=Login Bonus
 確定!チケットしょうたい=Confirmed Ticket Invitation!
-リスト=List
 状態変化=State Change
 家具配置=Arrange Furniture
 ふれあい=Contact
@@ -2710,6 +2717,8 @@ N・ハイランドワイルドドッグ=Highland Wild Dog
 オーストラリアデビル=Australian Devil
 ピーチパンサー=Peach Panther
 ミーアキャット=Meerkat
+ガラパゴスコバネウ=Galapagos Cormorant
+ガラパゴスペンギン=Galapagos Penguin
 ロイヤルペンギン=Royal Penguin
 オオフウチョウ=Greater Bird Of Paradise
 イワトビペンギン=Rockhopper Penguin
@@ -2728,6 +2737,7 @@ N・ハイランドワイルドドッグ=Highland Wild Dog
 オーロックス=Aurochs
 アラビアオリックス=Arabian Oryx
 麒麟=Kirin
+シンメ=Shinme
 シロサイ=White Rhinoceros
 アムールトラ=Amur Tiger
 ハシビロコウ=Shoebill
@@ -3170,6 +3180,7 @@ WAVE数= Waves
 はねかえしむし Reflect Small
 
 -------------------FRIEND FUTURE-PROOFING----------------------
+アンゴル＝モア=Angol Mois
 シロフクロウ=Snowy Owl
 サゴジョウ=Sagojo
 チョハッカイ=Chohakkai
@@ -3223,6 +3234,7 @@ WAVE数= Waves
 ヤブツカツクリ=Australian Brushturkey
 オーストラリアデビル=Australian Devil
 アクシスジカ=Axis Deer
+アナコンダ=Anaconda
 メキシコサラマンダー=Axolotl
 バイカルアザラシ=Baikal Seal
 ベアードバク=Baird's Tapir
@@ -3323,7 +3335,14 @@ WAVE数= Waves
 カグヤコウモリ=Fraternal Myotis
 エリマキトカゲ=Frilled Lizard
 ガチャピン=Gachapin
+ウミイグアナ=Marine Iguana
+ピンタゾウガメ=Pinta Tortoise
+サンクリストバルゾウガメ=Chatham Tortoise
+サンタクルスゾウガメ=Giant Tortoise
+ファウストガメ=Fausto Tortoise
 ガラパゴスゾウガメ=Galápagos Tortoise
+アオアシカツオドリ=Blue-Footed Booby
+アカアシカツオドリ=Red-Footed Booby
 アフリカオニネズミ=Gambian Rat
 ヤク=Gannan Yak
 ガウル=Gaur
