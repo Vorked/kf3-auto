@@ -358,6 +358,22 @@ ZMMOZ={{M}}
 ZMMPZ={{N}}
 ZMMQZ={{O}}
 ZMMRZ={{P}}
+
+JMCZ={{A}}
+JMDZ={{B}}
+JMEZ={{C}}
+JMFZ={{D}}
+JMGZ={{E}}
+JMHZ={{F}}
+JMIZ={{G}}
+JMJZ={{H}}
+JMKZ={{I}}
+JMLZ={{J}}
+JMMZ={{K}}
+JMNZ={{L}}
+JMOZ={{M}}
+JMPZ={{N}}
+
 ー=-
 }Z{=} {
 }Z =} 

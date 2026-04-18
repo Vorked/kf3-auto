@@ -2683,6 +2683,8 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル=Captain Skill
 
 ----------FRIENDS AND MISC
+アカウミガメ=Loggerhead Turtle
+アオウミガメ=Green Turtle
 マッコウクジラ=Sperm Whale
 ギュウマオウ=Gyumaou
 クラハシコウ=Saddlebill
@@ -4121,3 +4123,9 @@ HAW-206=HAW-206
 かんげー会=Welcome Party
 ホケンシツ=the Emergency Room
 レオ=Leo
+ぐるるるるるる！=Grrrrrr!
+ぐるるるるるる=Grrrrr
+ぐるるるるる！=Grrrrr!
+ぐるるるるる=Grrrrr
+ぐるるるる！=Grrrr!
+ぐるるるる=Grrr
