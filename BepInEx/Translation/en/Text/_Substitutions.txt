@@ -2682,6 +2682,10 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 隊長スキル発動！=Activation the Captain's Skill!
 隊長スキル=Captain Skill
 
+----------Stickers----------
+シールコレクション=Sticker Collection
+
+
 ----------FRIENDS AND MISC
 アカウミガメ=Loggerhead Turtle
 アオウミガメ=Green Turtle
@@ -2817,6 +2821,7 @@ G・ロードランナー=Greater Roadrunner
 カタカケフウチョウ=Greater Lophorina
 カンザシフウチョウ=Western Parotia
 デグー=Degu
+ニューギニアハイランドワイルドドッグ=New Guinea Highland Wild Dog
 チンチラ=Chinchilla
 テングコウモリ=Tube-Nosed Bat
 シロヘラコウモリ=White-Bellied Bat
@@ -4122,6 +4127,7 @@ HAW-206=HAW-206
 ▽・ω・▽なお犬=▽・ω・▽なお犬
 かんげー会=Welcome Party
 ホケンシツ=the Emergency Room
+おとどちゃん=Otodo-chan
 レオ=Leo
 ぐるるるるるる！=Grrrrrr!
 ぐるるるるるる=Grrrrr
