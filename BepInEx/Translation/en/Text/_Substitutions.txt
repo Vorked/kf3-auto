@@ -2992,7 +2992,6 @@ G・ロードランナー=Greater Roadrunner
 海上=Sea
 決定/終了=Accept
 フレンズの服=Default Clothing
-ジャージ=Tracksuit
 カフェ制服＜リウキウ・イエロー＞=Yellow Cafe Uniform
 カフェ制服=Cafe Uniform
 フィルターと一致するフレンズがいません\n※フィルターの設定を変更してください※=There is no Friend that matches the filter.\nPlease change the Filter settings.
@@ -3510,7 +3509,6 @@ HAW-206=HAW-206
 ミュールジカ=Mule Deer
 ジャコウウシ=Muskox
 イッカク=Narwhal
-
 ジャイアントペンギン=Giant Penguin
 ニルガイ=Nilgai
 キュウビキツネ=Nine-Tailed Fox
@@ -3859,6 +3857,8 @@ HAW-206=HAW-206
 さばく=Desert
 みずべ=Water Bank
 寒冷地=Arctic
+ガーンジー=Guernsey
+ジャージ=Tracksuit
 
 ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
 
