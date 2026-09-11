@@ -876,23 +876,226 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 みんな仲良くしてね=Everyone, please get along well.
 
 
+
+// ---------- move names moved here from earlier collections (cache / Miracles.txt) ----------
+みんなで歌おう！ワオーン♪=Everyone should sing together! Woof!♪
+わたしはここにいる～♪=I'm here～♪
+災難消除！ヒーゲーシ玉=Ward Off Misfortune! Heegesi Bead
+炎を退ける村落獅子=The Village Lion That Drives Away the Flames
+想いを受け取るハレの日=A Special Day to Receive Love
+アイドルに休みなし=Idols Never Get a Break
+お気に入りの島=Favorites Island
+うえからきーっく！=Kikku from Uekara!
+キラキラいちばん星よ！=The most sparkling star!
+ワクワクこうげき！=Exciting Attack!
+研究材料を探しに行くのです=I'm going to look for research materials.
+文武両道なのです=He excels in both academics and athletics.
+研究スケッチ=Research Sketch
+食の追求者=Food Enthusiast
+レッツ・ウォーミングアップ！=Let's warm up!
+愛はいずれ、毒をも打ち消す=Love will eventually defeat poison
+宝物だみゅ=It's a treasure, myu
+ヤンチャなだけじゃないみゅ=Miu Isn't Just a Little Mischievous
+月夜のハロウィン百鬼夜行=Halloween Procession of a Hundred Demons Under the Moon
+どこでもハロウィンシャワー=Halloween Shower Anywhere
+日輪のウィングボレー=Sunwheel's Wing Volley
+名将の眼光=The Eye of a Great General
+三才を照らす太陽=The Sun Shining on the Three Ages
+燃ゆる情熱の白き炎=The White Flame of Burning Passion
+アピールタイムちや！=Appeal time chiya!
+ハマスイの宣伝大使=Hamasui's Promotional Ambassador
+お祭り大好きはちきん娘=The Festival-Loving Hachikin Girl
+特大！　ずんだ玉なのだ！=Extra large! It's a zundadama!
+僕の声を聞け！　なのだ！=Hear my voice! That's it!
+ずんだチャージ=Zunda Charge
+ずんだのかおり=The Scent of Zunda
+一緒に体操するモン♪=Let's do some exercises together♪
+崖の上のスペシャリスト=The Cliff-Top Specialist
+壁登り？たのしいよね=Rock climbing? It's fun, isn't it?
+青い食べ物ある？=Are there any blue foods?
+反則じゃないからね！=It's not a foul!
+カチカチ甲羅ガード=Hard-Shell Guard
+冬はこれから=Winter is just beginning
+のほほん日光浴=A Relaxing Sunbath
+隠れて、近付いて…ぱくっ=Hide, approach... paku
+小さな英雄=Small Heroes
+面白いこと、探そう！=Let's look for something interesting!
+のんびりが一番=Taking it easy is best
+強く、たくましく？=Strong and resilient?
+みゃあみゃあアラート=Meow-Meow Alert
+風とひとつになりまして=I became one with the wind
+移ろう季節を感じて=Feeling the Changing Seasons
+オレ様、こわいだろぉ～！=You're so scary!
+みんなと一緒、楽しいね=It's fun with everyone
+リズムにのるよー♪=Let's get into the groove♪
+風清弊絶=A Fresh Start
+忍び寄る風音=The Sound of the Wind Creeping Up
+わたしが転ばせて=I made her fall
+みずしぶきをあげる♪=Splashing water♪
+かまみたいなおびれ=A belt shaped like a pot
+おせっかいやき=Meddlesome
+元気、補給していって=Stay well and keep replenishing yourself
+あなたを、守ります=I will protect you
+意外と速いんです=It's surprisingly fast
+黒狐誅伐=The Punishment of the Black Fox
+稲荷寿司はいかがですか？=Yes, how about some inari sushi?
+封じられし神使=The Sealed Divine Messenger
+ああ、なんという解放感♡=Ah, what a sense of release♡
+ガバーッとはしないわ=I won't go crazy
+高まりますわ♪=It's getting more exciting♪
+ふたりの愛の世界=The World of Their Love
+がおがお！ゴラリンあたーっく=Gaogao! golarin attack
+ゴラリン大回転=golarin giant slalom
+降妖宝杖・退魔の光=Ghost Treasure Wand/Light of Exorcism
+準備は入念に=Prepare Thoroughly
+トレーニングは裏切らない=Training never lets you down.
+徹底された血統=A Rigorous Pedigree
+自慢の脚力=My Proud Leg Strength
+落ち着かないなぁ…=I just can't seem to settle down...
+ブレない体幹=A Stable Core
+じまんの甲羅あたーっく=Proud Shell Attack!
+ごはん食べるの忘れてたー=I totally forgot to eat!
+やるときはやるんだよー=When I get going, I really go for it!
+のんびり日向ぼっこ…♪=Just relaxing in the sun...♪
+島での落ち着く暮らし=A Peaceful Life on the Island
+西側の姉貴分=The Big Sister from the West
+パークは広いな大きいな=The park is so large and spacious.
+どこまでも連れてって=Take me anywhere
+ちいさな勇気に幸あれ=May happiness come to small acts of courage
+タイミングを狙って=Timing it just right
+あこがれを胸に=With a Dream in My Heart
+みんなの力になりたいな=I'd like to be of help to everyone.
+神様の舞～雷こわいの段～=The Dance of the Gods: The "I'm Afraid of Thunder" Scene
+たまぐしほ～て～ん？=Tamagushi Ho-ten?
+もしかして雷落ちた！？=Maybe it was struck by lightning!?
+佐目毛のアハルテケ=The Akhal-Teke from Samegoe
+まろやかでコクのある味=A smooth, rich flavor
+これがオトナのタノシミでち…！=This is an adult Tanoshimi....!
+かっこよくかみつき！=Bite cool!
+は、はずかしいです！=Wow, that's embarrassing!
+タチコマ索敵中=Tachikoma Scanning for Targets
+人工知能=Artificial Intelligence
+個性の獲得？=Acquisition of a Sense of Self?
+タチコマ秘蔵オイル=Tachikoma's Secret Oil
+自律思考=Independent Thinking
+ゴーストのささやき？=A Ghost's Whisper?
+タマタマタマ…=Tama, tama, tama...
+究極のメイドさん=The Ultimate Maid
+あたたかな絵が伝え続ける=Warm, heartfelt illustrations that continue to inspire
+メモは欠かさずに=Be sure to take notes
+聡い化け狸=The Clever Raccoon Dog
+総大将の商魂=The Commander-in-Chief's Business Acumen
+かわいこちゃんさがし♪=Looking for a Cutie♪
+半人半豚の妖怪=A half-human, half-pig yokai
+天上の元天蓬元帥=The Celestial Marshal Yuan Tianpeng
+タダではすまないよ=You won't get away with this for free.
+パワフルキック=Powerful Kick
+わたしのお昼寝タイム=My Nap Time
+ちんたいはもらうよ=I'll take the Home rental.
+わらしべ長者=The Straw Millionaire
+とびっきりの個性=A Truly Unique Personality
+あーん…ばくっ、ごくり=Ah... baku, gokuri
+ランナーのスタミナ=A Runner's Stamina
+大草原の大警戒=Large Alert on the Great Plains
+立派なツノでしょ？=They're pretty impressive horns, aren't they?
+これも生きるチエなの=This, too, is a lesson in life.
+どんな崖もひょいひょいっと♪=Any cliff—I'll just hop right over it♪
+ぽこすか！アナグマぱんち！=Pokosuka! Badger Punch!
+秋ふかまる紅葉の舞=Autumn Deepens: The Dance of the Fall Foliage
+みんなに近づくなー！=Don't get close to everyone!
+ハチの巣どこかな？=Where's the beehive?
+お友達と力をあわせて=Work together with your Friends
+小さなハニーガイド=Small Honeyguide
+じゃましないでくれる？=Could you please not bother me?
+次はどうしてやろうかしら=I wonder what I should do next.
+一途な歪んだ愛=Single-Minded, Twisted Love
+たけのこ…みつけましたよ♪=Bamboo shoots... I found some! ♪
+ど、どいてくださ～い！=Please move away!
+今日は会えるかな？=I wonder if I'll get to see you today?
+緊張しない特訓です=This is a special training session to help you stay calm.
+みんなと、お話できるように=So that I can talk to everyone
+ふわモコ♪ヘアセット=Fluffy & Voluminous♪ Hairstyle
+おしょっちゃうじょう=The Little Castle
+やっぱり木の上がいい=I guess I do like being up in a Thu after all.
+幸せのおすそわけ=Sharing Happiness
+ピンクフェアリー=Pink Fairy
+幸せを集めましょう♪=Let's collect happiness♪
+西方の守護者=Guardian of the West
+レシピ考案中=Working on a recipe
+ひとりきりだったあの子=That girl who was all alone
+大切な今を守るために=To Protect the Precious Present
+好きなだけ、どうぞ=As much as you like, please
+今日は、いい天気…だね=It's nice weather today...
+ちょっとだけ、笑顔の練習=Just a little practice of smiling
+アイドルスマイル・H=Idol Smile H
+クックックー！=Cuckoo coo!
+ダークナイトハンター=The Dark Knight Hunter
+キケンの察知=Detecting Danger
+流れる日々の中で=Amid the Passing Days
+しゅばっとがぶがぶ=Gulp, gulp!
+ゆっくり待ちましょうかぁ=Shall we just wait patiently?
+おだやかな毎日がいちばん=A peaceful daily life is the best.
+怒りました！ぷくーっ=I got mad! Pfft!
+小さなお友達=Small Friends
+いつも、みんなのそばに=Always by everyone's side
+すわいぷ！すわいぷ！=Swaipu! Swaipu!
+まだまだこれからよ？=There's still a long way to go, right?
+スイーツめぐり=A Tour of Dessert Shops
+カフェのひとときをあなたに=A Moment at the Café, Just for You
+その潜行は深く、長く=Its depth is deep and long
+草木のかおりを運ぶ風=The breeze carrying the scent of plants
+仲間の声をよく聞いて=Listen carefully to what your teammates have to say
+熟したあまいの=Ripe and sweet
+小さくて丸い耳=Small, round ears
+警戒心=Caution
+特製バター茶=Special Butter Tea
+厳しい環境でも=Even in harsh environments
+小さな木登り上手=A Small Tree-Climbing Pro
+生きた化石…らしいねぇ？=A living fossil... or so they say, huh?
+太陽の道しるべ=The Sun's Guidepost
+いつかの花畑=A Flower Field from Long Ago
+幸せを呼ぶ一角獣=The Unicorn That Brings Happiness
+愛は永遠の歌=Love Is an Eternal Song
+オレンジ色の前歯=orange front teeth
+世界一の怖いもの知らず=The World's Most Fearless Person
+頼れるハニーハンター=The Reliable Honey Hunter
+カニさんみつけた♪=I found a crab! ♪
+砂のおやまづくり=Building a Sand Mountain
+親子の狩り=Parent-Girl Hunting
+新たな知識との出会い=Encountering New Knowledge
+幼い王者の風格=The Dignity of a Young King
+ねらって！ジャンプキック！=Aim! Jump kick!
+はげしくガブッてね！=Gulp it down hard!
+気合の入れどき=Time to Get Motivated
+おひさまのしたでぬっくぬく～=So cozy under the sun～
+森の幽霊なんてガラじゃない=A forest ghost isn't my style.
+運動神経バツグン！=Excellent motor skills!
+しっかり者のお姉ちゃん=My Responsible Older Sister
+ハイスペック中学生=High-Achieving Middle School Student
+新技…きりたん砲「改」ッ！！=New technique... Kiritan Cannon "Kai"!!
+きりたん砲逆噴射キック=Kiritan Cannon Reverse Thrust Kick
+ずんねえさまぁ…♡=Zunnee-sama...♡
+ふとももを愛する者=Lovers of Thighs
+お味噌仕立てのきりたんぽ鍋=Miso-Based Kiritanpo Hot Pot
+秘儀！連続口寄せ！=Mystery! Continuous kissing!
+除霊は専門外ですのに～！=Exorcism is not my specialty!
+お仕事の準備は念入りに=Prepare thoroughly for work
+首席卒業の金欠イタコ=The Top Graduate Who's Broke
+妹溺愛お姉ちゃん=The Big Sister Who Adores Her Little Sister
+光輝の羽ばたき=The Flutter of Radiance
+光る尾羽=Glowing Tail Feathers
+再生=Play
+
 // ---------- TODO: move names without a translation yet (fill in after '=' and delete the '// ') ----------
 // --- N・ハイランドワイルドドッグ
-// TODO Miracle	みんなで歌おう！ワオーン♪=
 // TODO Beat!!!	じゃんぷ！じゃーんぷ！=
-// TODO Standby	いないな〜い…ばぁ！=
+// TODO Standby	いないな～い…ばぁ！=
 // TODO Trait	かくれんぼはとくい！=
-// TODO Miracle Trait	わたしはここにいる〜♪=
 // --- 《村落獅子》シーサー・ライト
-// TODO Miracle	災難消除！ヒーゲーシ玉=
 // TODO Beat!!!	マジムンガブガブ！=
 // TODO Standby	ヒーゲーシーサー・ライト=
-// TODO Trait	炎を退ける村落獅子=
-// TODO Miracle Trait	想いを受け取るハレの日=
 // --- 【PPPのプリンセス】ロイヤルペンギン
 // TODO Standby	リズムに合わせて！=
-// TODO Trait	アイドルに休みなし=
-// TODO Miracle Trait	お気に入りの島=
 // --- 【いいこと思いつきました】スナネコ
 // TODO Beat!!!	砂遊びしましょう=
 // --- 【こっわーい悪魔だぞぉ！】タスマニアデビル
@@ -901,7 +1104,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	逆境にこそ牙は輝く=
 // --- 【さいきょーあいどる！】ホワイトサーバル
 // TODO Miracle	ぜったいあいどるびーむ！=
-// TODO Beat!!!	うえからきーっく！=
 // TODO Standby	せいしんとういつ …！=
 // TODO Trait	きんとれのせいか=
 // TODO Miracle Trait	ゆめみるひとみ=
@@ -910,17 +1112,14 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	ちょっぴりブレイクタイム=
 // TODO Trait	面白そうなもの発見ね♪=
 // TODO Miracle Trait	えんため隊活動開始！=
-// --- 【ひんやりクリーミーを求めて】ホワイトライオン
-// TODO Miracle	あつくても元気にいきましょ〜=
 // --- 【みんなでクールに】オオタカ
 // TODO Standby	私流の正義=
 // TODO Trait	冷静なまなざし=
 // TODO Miracle Trait	クールなハンター=
 // --- 【わたしを頼ってね！】アカギツネ
-// TODO Miracle	キラキラいちばん星よ！=
 // TODO Standby	高いところはどこかな=
 // TODO Trait	頼りになるでしょ？=
-// TODO Miracle Trait	アシュさがし〜♪=
+// TODO Miracle Trait	アシュさがし～♪=
 // --- 【わっふいわっふーい！】マイルカ
 // TODO Trait	波に乗って=
 // TODO Miracle Trait	わっふーーい！=
@@ -929,7 +1128,7 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	ワンポイント・アドバイス=
 // TODO Miracle Trait	オシャレは心から=
 // --- 【シマシマ伝道師】サバンナシマウマ
-// TODO Standby	シマゾエは楽しい〜=
+// TODO Standby	シマゾエは楽しい～=
 // TODO Trait	誰もわたしを止められない=
 // TODO Miracle Trait	新たなシマシマを求めて=
 // --- 【ジっとできない湿地のハンター】ハシビロコウ
@@ -940,7 +1139,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	機を待つ丸い瞳=
 // --- 【ハツラツなつっこ！】バンドウイルカ
 // TODO Miracle	やぁーとぉーそぉーーっれ！=
-// TODO Beat!!!	ワクワクこうげき！=
 // TODO Standby	わたしの十八番=
 // TODO Trait	今より、もっと強く=
 // TODO Miracle Trait	イルカはかっこいいの！=
@@ -957,23 +1155,13 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	見極め=
 // TODO Miracle Trait	友を守るチカラ=
 // --- 【優秀な助手の出番なのです】ワシミミズク
-// TODO Miracle	研究材料を探しに行くのです=
-// TODO Beat!!!	文武両道なのです=
-// TODO Standby	研究スケッチ=
-// TODO Trait	食の追求者=
 // TODO Miracle Trait	賢い助手とは、私ですよ=
-// --- 【努力は裏切らない】サラブレッドあおかげ
-// TODO Miracle	レッツ・ウォーミングアップ！=
 // --- 【占いのその先へ】ダチョウ
 // TODO Miracle Trait	ダチョウダッシュ！=
-// --- 【夏の日の思い出は毒とともに】コモドドラゴン
-// TODO Miracle	愛はいずれ、毒をも打ち消す=
 // --- 【大きな瞳の美人顔】サーバル
 // TODO Miracle	これがわたしのお家！=
 // TODO Beat!!!	サーバル☆パンチ=
-// TODO Standby	宝物だみゅ=
 // TODO Trait	イタズラしちゃう！=
-// TODO Miracle Trait	ヤンチャなだけじゃないみゅ=
 // --- 【天才博士が通りますよ】アフリカオオコノハズク
 // TODO Miracle Trait	どうも、知恵の象徴です=
 // --- 【天才発明家・Ｇ】ギンギツネ
@@ -984,8 +1172,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	何でも食べる！　どこでも行く！=
 // TODO Miracle Trait	みんなでアタックなのだ！=
 // --- 【楽しさマシマシ！ＡＣＴ．２！】ジャック・オー・ランタン
-// TODO Miracle	月夜のハロウィン百鬼夜行=
-// TODO Beat!!!	どこでもハロウィンシャワー=
 // TODO Standby	ケケケ♪開けてみて！=
 // TODO Trait	ハロウィンパワーで大変身！=
 // TODO Miracle Trait	エンドレス・パーティーナイト=
@@ -995,10 +1181,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	わたくしにお任せあれ=
 // --- 【神代の白き翼】ヤタガラス
 // TODO Miracle	万物を導く光・日照火輪弾=
-// TODO Beat!!!	日輪のウィングボレー=
-// TODO Standby	名将の眼光=
-// TODO Trait	三才を照らす太陽=
-// TODO Miracle Trait	燃ゆる情熱の白き炎=
 // --- 【私たちのプライド】ライオン
 // TODO Miracle	目覚めし獅子の雄たけび=
 // TODO Beat!!!	熟練の一手=
@@ -1016,7 +1198,7 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	悪魔の加護=
 // TODO Miracle Trait	闇と光を糧に=
 // --- 【青い瞳の迷い猫】マヌルネコ
-// TODO Miracle	ぉあ〜つぎは何しよう?=
+// TODO Miracle	ぉあ～つぎは何しよう?=
 // --- 【頼れる副隊長】ドール
 // TODO Miracle	みんなでGO！ワイルドハント=
 // TODO Standby	とっておきの計画=
@@ -1024,18 +1206,10 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	私の群れ=
 // --- おとどちゃん
 // TODO Miracle	GOGO！ハマスイ！=
-// TODO Beat!!!	アピールタイムちや！=
 // TODO Standby	金よ、来い=
-// TODO Trait	ハマスイの宣伝大使=
-// TODO Miracle Trait	お祭り大好きはちきん娘=
 // --- ずんだもん
-// TODO Miracle	特大！　ずんだ玉なのだ！=
-// TODO Beat!!!	僕の声を聞け！　なのだ！=
-// TODO Standby	ずんだチャージ=
-// TODO Trait	ずんだのかおり=
 // TODO Miracle Trait	八百万の神（自称）=
 // --- ちびくまモン
-// TODO Standby	一緒に体操するモン♪=
 // TODO Trait	サプライズ＆ハッピー！=
 // TODO Miracle Trait	熊本が大好き！=
 // --- でびるさま
@@ -1051,20 +1225,17 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	師の教え=
 // TODO Miracle Trait	悪魔の助け=
 // --- アイベックス
-// TODO Miracle	崖の上のスペシャリスト=
 // TODO Beat!!!	全力ぶんまわし！=
 // TODO Standby	登りたくなってきたなー！=
 // TODO Trait	山巡りでもいこうか！=
-// TODO Miracle Trait	壁登り？たのしいよね=
 // --- アオアシカツオドリ
 // TODO Miracle	大海原へとつげきダイブ！=
 // TODO Beat!!!	アオアシキック！=
 // TODO Standby	自慢の足、見て見て！=
-// TODO Trait	青い食べ物ある？=
 // TODO Miracle Trait	右、左、交互にステップ♪=
 // --- アオウミガメ
 // TODO Miracle	いろいろチャレンジしちゃえ！=
-// TODO Beat!!!	ばしゃーん！きんもちいい〜♪=
+// TODO Beat!!!	ばしゃーん！きんもちいい～♪=
 // TODO Standby	準備運動は欠かさずに！=
 // TODO Trait	なみのりビッグウェーブ=
 // TODO Miracle Trait	まあるいツルツル甲羅=
@@ -1076,14 +1247,9 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	ハート型のザラザラ甲羅=
 // --- アカカンガルー
 // TODO Miracle	いちに！とくだいキーーック！=
-// TODO Beat!!!	反則じゃないからね！=
 // TODO Standby	レッツボクシング！=
 // TODO Trait	ポッケの中には…♪=
 // TODO Miracle Trait	さらなる飛躍！=
-// --- アカミミガメ
-// TODO Standby	カチカチ甲羅ガード=
-// TODO Trait	冬はこれから=
-// TODO Miracle Trait	のほほん日光浴=
 // --- アゴヒゲアザラシ
 // TODO Miracle Trait	スーパーアイドルの意地=
 // --- アジアゴールデンキャット
@@ -1093,20 +1259,12 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	ツッコミたいワケじゃない！=
 // TODO Miracle Trait	マイ、プライベート=
 // --- アナコンダ
-// TODO Miracle	隠れて、近付いて…ぱくっ=
 // TODO Miracle Trait	水の中から、木の上から=
 // --- アフリカオオコノハズク
 // TODO Standby	コノハ・カムフラージュ=
 // TODO Trait	我々は賢いので・博士=
 // --- アフリカオニネズミ
 // TODO Miracle	怒濤の連撃、一分の隙もなし！=
-// TODO Miracle Trait	小さな英雄=
-// --- アフリカンゴールデンウルフ
-// TODO Standby	面白いこと、探そう！=
-// --- アミメキリン
-// TODO Miracle	アミアミスラ〜ッシュ！=
-// TODO Beat!!!	アミメキ〜ック=
-// TODO Miracle Trait	のんびりが一番=
 // --- アライグマ
 // TODO Miracle Trait	アライさんなのだ！=
 // --- アラスカラッコ
@@ -1129,7 +1287,7 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	ケロロ小隊のサポート役=
 // TODO Miracle Trait	アンゴル族の少女=
 // --- イイズナ
-// TODO Miracle	いくわ！真っ正面とつげき〜！=
+// TODO Miracle	いくわ！真っ正面とつげき～！=
 // TODO Beat!!!	このワザは野生仕込みよ=
 // TODO Standby	穴の中からひょっこり♪=
 // TODO Trait	口いっぱいにほおばって=
@@ -1155,8 +1313,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	おひげが…びんびんします！=
 // TODO Trait	水だってへっちゃらです=
 // TODO Miracle Trait	ジャパリカフェのお手伝い=
-// --- イロワケイルカ
-// TODO Standby	みてみて！ばら〜んす♪=
 // --- イワトビペンギン
 // TODO Miracle	全開！ロック魂！=
 // TODO Standby	今日も絶好調！=
@@ -1169,28 +1325,18 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	集中ステップ=
 // TODO Trait	拙僧に続け！=
 // TODO Miracle Trait	共に踊ろう=
-// --- インドシナウォータードラゴン
-// TODO Beat!!!	わたしのおも〜い一撃！=
-// TODO Miracle Trait	強く、たくましく？=
-// --- インドゾウ
-// TODO Miracle	魅惑のぱお〜んダンス=
 // --- ウィッチ
 // TODO Standby	素材発見！=
 // TODO Trait	ウィッチの秘薬=
 // TODO Miracle Trait	調合☆サンドスター=
 // --- ウサギコウモリ
 // TODO Standby	速くなる練習でしゅ=
-// --- ウミイグアナ
-// TODO Miracle	ひと休み〜♪はっくしょん！=
 // --- ウミウ
 // TODO Standby	大きく手を広げるだう！=
 // TODO Trait	ウミウのお手伝い=
 // TODO Miracle Trait	海の上をびゅんびゅん♪=
 // --- ウミネコ
 // TODO Beat!!!	がばり！&ぐいぐい！=
-// TODO Standby	みゃあみゃあアラート=
-// TODO Trait	風とひとつになりまして=
-// TODO Miracle Trait	移ろう季節を感じて=
 // --- ウンピョウ
 // TODO Standby	視線を感じる…！=
 // --- エジプトガン
@@ -1207,8 +1353,7 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	お姉ちゃんは譲らない！=
 // TODO Miracle Trait	あたしも足も今日は絶好調♪=
 // --- エダハヘラオヤモリ
-// TODO Beat!!!	オレ様、こわいだろぉ〜！=
-// TODO Trait	お〜い、気づいてよぉ…=
+// TODO Trait	お～い、気づいてよぉ…=
 // --- エトピリカ
 // TODO Standby	きれいな色でしょ？=
 // TODO Trait	みんないっしょに遊ぼー♪=
@@ -1228,8 +1373,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	でっかくいくわよ！=
 // TODO Trait	体温調節はお手のもの♪=
 // TODO Miracle Trait	奥の手でいくわ=
-// --- オオウミガラス
-// TODO Trait	みんなと一緒、楽しいね=
 // --- オオサイチョウ
 // TODO Standby	ビシッとクールに=
 // TODO Trait	ノイズをかき消す旋律=
@@ -1242,16 +1385,13 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	よく聞こえるの！=
 // TODO Miracle Trait	自然の音色=
 // --- オカピ
-// TODO Standby	リズムにのるよー♪=
 // TODO Trait	イケてるシマシマだゾッ！=
 // TODO Miracle Trait	スーパーすごいノリノリダンス！=
 // --- オグロスナギツネ
 // TODO Standby	わたしの大切な思い出=
-// TODO Trait	友達はみ〜んな宝物！=
+// TODO Trait	友達はみ～んな宝物！=
 // TODO Miracle Trait	家族や仲間のキズナ=
 // --- オグロヌー
-// TODO Miracle	クロスリバー・ぬ〜=
-// TODO Beat!!!	ぬぅ〜っと威嚇=
 // TODO Trait	ヌー・ナビゲーション=
 // --- オコジョ
 // TODO Standby	ふかふかしっぽのお手入れ=
@@ -1271,10 +1411,10 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	幸運のけもの=
 // --- カナダカワウソ
 // TODO Miracle	ツィーからのドボン！=
-// TODO Beat!!!	雪から〜ガブー！=
+// TODO Beat!!!	雪から～ガブー！=
 // TODO Standby	これがメープルシロップ！？=
 // TODO Trait	スペード型の大きな鼻=
-// TODO Miracle Trait	雪が降っててすずし〜=
+// TODO Miracle Trait	雪が降っててすずし～=
 // --- カマイタチ・切
 // TODO Standby	悪を滅する鎌=
 // TODO Trait	鋭利な鎌風=
@@ -1282,26 +1422,18 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // --- カマイタチ・転
 // TODO Miracle	一番手・疾風怒涛=
 // TODO Beat!!!	瓢風=
-// TODO Standby	風清弊絶=
-// TODO Trait	忍び寄る風音=
-// TODO Miracle Trait	わたしが転ばせて=
 // --- カマイルカ
 // TODO Miracle	せーのでぐるっとじゃんぷ！=
-// TODO Beat!!!	みずしぶきをあげる♪=
 // TODO Standby	わっかだいすき！=
-// TODO Trait	かまみたいなおびれ=
 // TODO Miracle Trait	ねーさんたちとあそびたい！！=
 // --- カムチャッカオオヒグマ
 // TODO Standby	ボクりん絶好調！=
 // TODO Trait	リスペクト即粉砕♡=
 // TODO Miracle Trait	おっきーから寒くないよん♪=
-// --- カラカル
-// TODO Miracle Trait	おせっかいやき=
 // --- カルガモ
-// TODO Miracle	おたすけ〜！擬傷大作戦！=
 // TODO Standby	案内しますよ！=
 // TODO Trait	頼れるカルガモお姉さん=
-// TODO Miracle Trait	はーい、列になって〜！=
+// TODO Miracle Trait	はーい、列になって～！=
 // --- カワウ
 // TODO Standby	陸でばたばた=
 // TODO Trait	ごくんっとまるのみ！=
@@ -1314,14 +1446,13 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	恐竜の子どもだぞっ！=
 // TODO Miracle Trait	くじけ知らずのチャレンジャー=
 // --- ガラパゴスコバネウ
-// TODO Miracle	わたしたちを照らしたまえ〜！=
+// TODO Miracle	わたしたちを照らしたまえ～！=
 // TODO Beat!!!	水かきキック！=
-// TODO Standby	おひさまあったか〜い♪=
+// TODO Standby	おひさまあったか～い♪=
 // TODO Trait	流行りを先取り！=
 // TODO Miracle Trait	ちっちゃくてかわいい羽=
 // --- ガーンジー
 // TODO Beat!!!	運ぶよーといてー！=
-// TODO Standby	元気、補給していって=
 // --- キタキツネ
 // TODO Beat!!!	ゲームでみたやつ=
 // --- キタコアリクイ
@@ -1341,8 +1472,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	ハローキティのぬいぐるみ=
 // TODO Miracle Trait	大切な友達との思い出=
 // --- キンイロジャッカル
-// TODO Miracle	あなたを、守ります=
-// TODO Beat!!!	意外と速いんです=
 // TODO Standby	お手伝いしたいです…=
 // TODO Trait	もっと頼ってください=
 // TODO Miracle Trait	キンコの勇気=
@@ -1371,15 +1500,11 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // --- クルペオギツネ
 // TODO Miracle	ぐりゃああぁあぁあ！！…きゅう=
 // TODO Beat!!!	ふんづけちゃう！=
-// TODO Standby	のうてんきにふんふんふ〜ん♪=
+// TODO Standby	のうてんきにふんふんふ～ん♪=
 // TODO Trait	おいしいごはんがあれば大丈夫！=
 // TODO Miracle Trait	どこでも誰とでも仲良し！=
 // --- クロイナリサマ
 // TODO Miracle	稲荷大結界・破魔の牢=
-// TODO Beat!!!	黒狐誅伐=
-// TODO Standby	稲荷寿司はいかがですか？=
-// TODO Trait	封じられし神使=
-// TODO Miracle Trait	ああ、なんという解放感♡=
 // --- クロテン
 // TODO Miracle	夕暮れのひとときですわ=
 // TODO Beat!!!	お任せください=
@@ -1411,16 +1536,12 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	「うちゅう」を夢見て=
 // --- コビトカバ
 // TODO Miracle	私の姿、ちゃんと見てちょうだい=
-// TODO Beat!!!	ガバーッとはしないわ=
 // TODO Standby	お肌はちゃんとケアしなきゃ=
 // TODO Trait	たまにはすいすい=
 // TODO Miracle Trait	黒くて凶暴なけもの？=
 // --- コモドドラゴン
-// TODO Standby	高まりますわ♪=
 // TODO Trait	愛のキズ、愛の毒=
-// TODO Miracle Trait	ふたりの愛の世界=
 // --- コンゴウインコ
-// TODO Beat!!!	ぐるり〜んダンス=
 // TODO Standby	じっとしてなんていられない！=
 // TODO Trait	いつだってお祭り騒ぎ=
 // TODO Miracle Trait	陽気なチャレンジャー=
@@ -1433,13 +1554,9 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	ゴルゴーンの眼=
 // TODO Miracle Trait	危険な香り=
 // --- ゴールデンライオンタマリン
-// TODO Miracle	がおがお！ゴラリンあたーっく=
-// TODO Beat!!!	ゴラリン大回転=
 // TODO Standby	かっこいいチャームポイント=
 // TODO Trait	ながーいしっぽ=
 // TODO Miracle Trait	実は働き者なんですよー=
-// --- サゴジョウ
-// TODO Beat!!!	降妖宝杖・退魔の光=
 // --- サバンナシマウマ
 // TODO Trait	挑戦・かくれんぼ！=
 // --- サビイロネコ
@@ -1448,35 +1565,21 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	あたちのこと見つけられる？=
 // TODO Trait	小っちゃなオトナ？=
 // TODO Miracle Trait	隠れながらしんちょーに=
-// --- サラブレッドあおかげ
-// TODO Standby	準備は入念に=
-// TODO Trait	トレーニングは裏切らない=
-// TODO Miracle Trait	徹底された血統=
 // --- サラブレッドあしげ
 // TODO Miracle	振り切って駆け抜けろ！=
-// TODO Beat!!!	自慢の脚力=
-// TODO Standby	落ち着かないなぁ…=
-// TODO Trait	ブレない体幹=
 // TODO Miracle Trait	足を溜めて、追い抜いて=
 // --- サラブレッドくりげ
 // TODO Standby	スタートダッシュ！=
 // TODO Trait	みんなで駆けっこ！=
 // TODO Miracle Trait	最速の血統=
 // --- サラブレッドしろげ
-// TODO Miracle	華麗に跳びま〜す！=
 // TODO Trait	自然体が1番=
 // --- サンクリストバルゾウガメ
 // TODO Miracle	みんなを守るためにーどりゃー！=
-// TODO Beat!!!	じまんの甲羅あたーっく=
 // TODO Standby	のんびりーすやすやー=
-// TODO Trait	ごはん食べるの忘れてたー=
-// TODO Miracle Trait	やるときはやるんだよー=
 // --- サンタクルスゾウガメ
 // TODO Miracle	カチコチシールドでドドーン！=
 // TODO Beat!!!	あたいがみんなを守るんだ！=
-// TODO Standby	のんびり日向ぼっこ…♪=
-// TODO Trait	島での落ち着く暮らし=
-// TODO Miracle Trait	西側の姉貴分=
 // --- サーバル？
 // TODO Standby	私にもやらせて！=
 // TODO Miracle Trait	未実装=
@@ -1484,16 +1587,9 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	剣虎の構え=
 // TODO Trait	挑戦の精神=
 // TODO Miracle Trait	サーベルカウンター=
-// --- シマハイイロギツネ
-// TODO Standby	パークは広いな大きいな=
-// TODO Trait	どこまでも連れてって=
-// TODO Miracle Trait	ちいさな勇気に幸あれ=
 // --- シマハイエナ
 // TODO Miracle	勇気出して、あの子みたいに=
 // TODO Beat!!!	こんなところで逃げないよ！=
-// TODO Standby	タイミングを狙って=
-// TODO Trait	あこがれを胸に=
-// TODO Miracle Trait	みんなの力になりたいな=
 // --- シマリス
 // TODO Standby	もぐもぐおやつたいむ=
 // TODO Trait	木の実あつめ=
@@ -1525,10 +1621,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	羽毛からのぞくかぎ爪=
 // TODO Miracle Trait	幸福の白い鳥=
 // --- シンメ
-// TODO Miracle	神様の舞〜雷こわいの段〜=
-// TODO Beat!!!	たまぐしほ〜て〜ん？=
-// TODO Standby	もしかして雷落ちた！？=
-// TODO Trait	佐目毛のアハルテケ=
 // TODO Miracle Trait	ヒヒーン！ブンブン！パカラッ！=
 // --- シヴァテリウム
 // TODO Standby	不思議な音色…=
@@ -1561,7 +1653,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	冬眠じゃないですよ？=
 // --- ジャック・オー・ランタン
 // TODO Beat!!!	トリック&トリック！！=
-// TODO Standby	あま〜い誘惑=
 // --- ジャングルキャット
 // TODO Standby	ひと遊びのいやし=
 // TODO Trait	またウソついちゃいました…=
@@ -1571,11 +1662,8 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Beat!!!	どっしーんですわ！=
 // TODO Standby	お飲みになりますわよね！=
 // TODO Trait	ジャージーミルク激推しお嬢様=
-// TODO Miracle Trait	まろやかでコクのある味=
 // --- ジュゴン
 // TODO Miracle	届け！マーメイドの歌声=
-// --- ジョフロイネコ
-// TODO Standby	これがオトナのタノシミでち…！=
 // --- スザク
 // TODO Standby	我の火が熱く燃えたぎる！=
 // TODO Trait	南方の守護者=
@@ -1586,21 +1674,19 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle	空に届け!わたしのジャンプ=
 // --- スマトラトラ
 // TODO Miracle	ざばっといくよ！がおー！=
-// TODO Beat!!!	かっこよくかみつき！=
 // TODO Standby	たてがみじまん！=
 // TODO Trait	ちっこくないもん！=
 // TODO Miracle Trait	わたしだってやるんだぞー！=
 // --- セイウチ
 // TODO Standby	ちゃぷちゃぷ貝探し=
 // TODO Trait	今日はごろごろ日和♪=
-// TODO Miracle Trait	一緒にごろ〜んとしませんか？=
+// TODO Miracle Trait	一緒にごろ～んとしませんか？=
 // --- セイリュウ
 // TODO Standby	静かなる呼吸=
 // TODO Trait	東方の守護者=
 // TODO Miracle Trait	四神獣の救済者=
 // --- セキショクヤケイ
 // TODO Miracle	優雅にお散歩…コ、コケー！？=
-// TODO Beat!!!	は、はずかしいです！=
 // TODO Standby	わたくしだって飛べます…！=
 // TODO Trait	あわてずにいきましょう…！=
 // TODO Miracle Trait	クックドゥードゥルドゥー！=
@@ -1608,14 +1694,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	うみやっと元気な暴れん坊=
 // --- タスマニアタイガー
 // TODO Miracle Trait	もう、ひとりじゃない=
-// --- タチコマ type-H
-// TODO Standby	タチコマ索敵中=
-// TODO Trait	人工知能=
-// TODO Miracle Trait	個性の獲得？=
-// --- タチコマ type-S
-// TODO Standby	タチコマ秘蔵オイル=
-// TODO Trait	自律思考=
-// TODO Miracle Trait	ゴーストのささやき？=
 // --- タテガミオオカミ
 // TODO Miracle	わたしなりに、できること=
 // TODO Beat!!!	普通なとくぎ=
@@ -1627,53 +1705,27 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // --- タママ
 // TODO Miracle	タママ流超秘奥義…嫉妬玉！=
 // TODO Beat!!!	タママインパクトォー！=
-// TODO Standby	タマタマタマ…=
-// TODO Trait	究極のメイドさん=
 // TODO Miracle Trait	キュートなニ等兵=
-// --- ターパン
-// TODO Miracle Trait	あたたかな絵が伝え続ける=
-// --- ダイトウオオコウモリ
-// TODO Trait	まったり♪木にぶら〜ん=
 // --- ダチョウ
 // TODO Standby	今日の占い！=
 // TODO Trait	タマゴのお告げ=
 // TODO Miracle Trait	見えました！=
-// --- ダンザブロウダヌキ
-// TODO Standby	メモは欠かさずに=
-// TODO Trait	聡い化け狸=
-// TODO Miracle Trait	総大将の商魂=
 // --- チベットスナギツネ
 // TODO Standby	お昼の待ちぼうけ=
 // TODO Trait	得意のかくれんぼ=
 // TODO Miracle Trait	神聖なる地の加護=
-// --- チャップマンシマウマ
-// TODO Miracle	ジグザグゼブラキ〜ック=
 // --- チョハッカイ
 // TODO Miracle	かっこいいトコ見せてやるべ！=
 // TODO Beat!!!	九刃・火炎旋風=
-// TODO Standby	かわいこちゃんさがし♪=
-// TODO Trait	半人半豚の妖怪=
-// TODO Miracle Trait	天上の元天蓬元帥=
 // --- ツシマヤマネコ
-// TODO Miracle	の〜んびり♪森林浴=
 // TODO Standby	しっぽ比べしよう=
 // TODO Trait	緑の世界でひとやすみ=
 // TODO Miracle Trait	自慢のしっぽ=
-// --- ツチブタ
-// TODO Miracle	タダではすまないよ=
-// TODO Beat!!!	パワフルキック=
-// TODO Standby	わたしのお昼寝タイム=
-// TODO Trait	ちんたいはもらうよ=
-// TODO Miracle Trait	わらしべ長者=
 // --- ツノサイチョウ
 // TODO Standby	ノリノリでWaWaWa！=
-// TODO Trait	とびっきりの個性=
 // TODO Miracle Trait	アタシとクロスオーヴァー！=
 // --- ツバメ
-// TODO Standby	おなかすいたぁ〜！=
 // TODO Trait	チュピチュピ声を出して！=
-// --- ティタノボア
-// TODO Beat!!!	あーん…ばくっ、ごくり=
 // --- ディアトリマ
 // TODO Standby	今日も元気に！=
 // TODO Trait	走るのは得意なんだ！=
@@ -1681,14 +1733,10 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // --- トド
 // TODO Miracle	荒波ボディーブレスダイブ！=
 // TODO Standby	譲れないごろごろ=
-// TODO Trait	暴れちゃうわよ〜=
+// TODO Trait	暴れちゃうわよ～=
 // TODO Miracle Trait	パワフルな頑張り屋=
-// --- トナカイ
-// TODO Miracle	みんな笑顔にな〜れっ！=
 // --- トムソンガゼル
 // TODO Standby	みてみてー！ すごいでしょ！=
-// TODO Trait	ランナーのスタミナ=
-// TODO Miracle Trait	大草原の大警戒=
 // --- トラ
 // TODO Standby	轟音の虎嘯=
 // TODO Trait	鍛錬の成果=
@@ -1699,15 +1747,10 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // --- ドラゴンサーバル
 // TODO Miracle	疾風怒濤·薮猫の龍爪=
 // TODO Trait	さいきょ一無敵の主人公！=
-// --- ドールシープ
-// TODO Standby	立派なツノでしょ？=
-// TODO Trait	これも生きるチエなの=
-// TODO Miracle Trait	どんな崖もひょいひょいっと♪=
 // --- ナミチスイコウモリ
 // TODO Miracle Trait	ヴァンパイア・パーティ=
 // --- ニホンアナグマ
-// TODO Miracle	ひっさつぅ！ばたんきゅ〜…？=
-// TODO Beat!!!	ぽこすか！アナグマぱんち！=
+// TODO Miracle	ひっさつぅ！ばたんきゅ～…？=
 // TODO Standby	ジャパまん探しですぅ=
 // TODO Trait	すごい穴のお家=
 // TODO Miracle Trait	お、おどろきませんよぉ！=
@@ -1718,14 +1761,12 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Trait	温泉でうっとり=
 // TODO Miracle Trait	湯けむりに惹かれて=
 // --- ニホンジカ
-// TODO Miracle	秋ふかまる紅葉の舞=
 // TODO Beat!!!	びしっといくよ！=
 // TODO Standby	じっとしてられないかも…！=
 // TODO Trait	おいしいもの、いただきます♪=
 // TODO Miracle Trait	今度はわたしと遊ぼう！=
 // --- ニホンツキノワグマ
 // TODO Miracle	くんくん…見つけたよ！=
-// TODO Beat!!!	みんなに近づくなー！=
 // TODO Standby	いっぱい食べるよー=
 // TODO Trait	おいしい果物探し=
 // TODO Miracle Trait	三日月みたいな模様=
@@ -1733,28 +1774,13 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	耳をすませて=
 // TODO Trait	よるのかげあそび=
 // TODO Miracle Trait	月ウサギのお手伝い=
-// --- ノドグロミツオシエ
-// TODO Standby	ハチの巣どこかな？=
-// TODO Trait	お友達と力をあわせて=
-// TODO Miracle Trait	小さなハニーガイド=
-// --- ハクビシン
-// TODO Beat!!!	ぎゃうがうぐるぐる〜！=
 // --- ハシボソガラス
 // TODO Miracle	アタシの想いは止められないわ！=
-// TODO Beat!!!	じゃましないでくれる？=
-// TODO Standby	次はどうしてやろうかしら=
-// TODO Trait	一途な歪んだ愛=
 // TODO Miracle Trait	ガァー…ガァー！=
 // --- バイソン
 // TODO Miracle Trait	諦めなければ必す勝てる=
 // --- バシロサウルス・イシス
 // TODO Miracle	裁きのとき 穿て、王の矢よ！=
-// --- バンテン
-// TODO Miracle	たけのこ…みつけましたよ♪=
-// TODO Beat!!!	ど、どいてくださ〜い！=
-// TODO Standby	今日は会えるかな？=
-// TODO Trait	緊張しない特訓です=
-// TODO Miracle Trait	みんなと、お話できるように=
 // --- バンドウイルカ
 // TODO Standby	私もやーるー！=
 // TODO Trait	半球睡眠・ドルカ=
@@ -1763,38 +1789,24 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	木の上が一番！=
 // --- ヒグマ
 // TODO Standby	挑戦者、求ム=
-// --- ヒツジ
-// TODO Standby	ふわモコ♪ヘアセット=
 // --- ヒメアリクイ
 // TODO Standby	ヒメ、がんばる！=
-// TODO Trait	おしょっちゃうじょう=
-// TODO Miracle Trait	やっぱり木の上がいい=
-// --- ヒメアルマジロ
-// TODO Standby	幸せのおすそわけ=
-// TODO Trait	ピンクフェアリー=
-// TODO Miracle Trait	幸せを集めましょう♪=
 // --- ヒメウォンバット
 // TODO Trait	とんねるは、ろまん=
-// --- ビャクダ
-// TODO Miracle	ふふっ、み〜つけた…♡=
 // --- ビャッコ
 // TODO Standby	我が武の真髄を見よ！=
-// TODO Trait	西方の守護者=
 // TODO Miracle Trait	四神獣の元気印=
 // --- ビントロング
 // TODO Miracle	そろり？しんちょうに…！=
 // TODO Beat!!!	たまにはいきおいよく=
 // TODO Standby	安全は大事です！=
 // TODO Trait	香ばしいにおい=
-// TODO Miracle Trait	しっぽでぶら〜ん♪=
+// TODO Miracle Trait	しっぽでぶら～ん♪=
 // --- ピューマ
 // TODO Trait	やぁ、アミーゴ！=
 // --- ピンタゾウガメ
 // TODO Miracle	さびしくなんか…ない！=
 // TODO Beat!!!	あわあわ…どっしーん！=
-// TODO Standby	レシピ考案中=
-// TODO Trait	ひとりきりだったあの子=
-// TODO Miracle Trait	大切な今を守るために=
 // --- ファウストガメ
 // TODO Miracle	どっちがワタシか、当ててみて=
 // TODO Beat!!!	甲羅でごっちん=
@@ -1809,10 +1821,6 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	これはもう私のもの=
 // TODO Trait	「お話」しましょう？=
 // TODO Miracle Trait	秘めきれないキモチ=
-// --- フクロオオカミ
-// TODO Miracle	好きなだけ、どうぞ=
-// TODO Standby	今日は、いい天気…だね=
-// TODO Trait	ちょっとだけ、笑顔の練習=
 // --- フクロネコ
 // TODO Standby	恐れおにょにょけ！だって！=
 // TODO Trait	おんぶしてあげる=
@@ -1820,18 +1828,9 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // --- フクロミツスイ
 // TODO Miracle	お花さんがいっぱいだあ♪=
 // TODO Standby	すてきな香りがする …！=
-// TODO Trait	お花畑で見るあま〜い夢♪=
-// --- フタコブラクダ
-// TODO Beat!!!	どいてぇ〜♪=
 // --- フンボルトペンギン
 // TODO Miracle	一緒に食べよ？=
-// TODO Trait	アイドルスマイル・H=
-// --- ブチハイエナ
-// TODO Standby	クックックー！=
 // --- ブラックサーバル
-// TODO Miracle	ダークナイトハンター=
-// TODO Standby	キケンの察知=
-// TODO Trait	流れる日々の中で=
 // TODO Miracle Trait	ナイト・ハイドアンドシーク=
 // --- ブラックジャガー
 // TODO Trait	戦闘態勢・黒=
@@ -1841,14 +1840,8 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	ちょっとしたジョーク=
 // --- ブームスラング
 // TODO Miracle	おくれてバタンキュー！=
-// TODO Beat!!!	しゅばっとがぶがぶ=
-// TODO Standby	ゆっくり待ちましょうかぁ=
-// TODO Trait	おだやかな毎日がいちばん=
-// TODO Miracle Trait	怒りました！ぷくーっ=
 // --- プロングホーン
 // TODO Standby	さぁ、走ろう！=
-// --- ホッキョクオオカミ
-// TODO Standby	小さなお友達=
 // --- ホッキョクギツネ
 // TODO Standby	ホッカイ名物・アイスジャパまん=
 // TODO Trait	憧れの絶対零度=
@@ -1859,32 +1852,21 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	永久凍土の洞窟=
 // --- ホルスタイン
 // TODO Trait	フリシアンは風の子！=
-// TODO Miracle Trait	いつも、みんなのそばに=
 // --- ホワイトカリブー
 // TODO Standby	頑張る皆さんに♪=
 // TODO Trait	雪中のかくれんぼ=
 // TODO Miracle Trait	ホワイトハッピープレゼンター=
-// --- ホワイトライオン
-// TODO Standby	お昼寝の時間ですねぇ〜=
 // --- ホンドタヌキ
-// TODO Standby	お芋おいしそ〜♪=
 // TODO Miracle Trait	幸福のまっしろなもんペ=
 // --- ホンドテン
 // TODO Miracle	木の上でおにごっこ！=
-// TODO Beat!!!	すわいぷ！すわいぷ！=
 // TODO Standby	右みて、左みて…=
 // TODO Trait	木から木にジャンプ！=
 // TODO Miracle Trait	あたたかな毛並み=
 // --- ボアコンストリクター
 // TODO Miracle	今日こそお縄をちようだいしろ！=
-// --- ボブキャット
-// TODO Standby	まだまだこれからよ？=
-// TODO Trait	スイーツめぐり=
-// TODO Miracle Trait	カフェのひとときをあなたに=
 // --- マイルカ
 // TODO Miracle Trait	わたし、がんばるよ！=
-// --- マッコウクジラ
-// TODO Miracle Trait	その潜行は深く、長く=
 // --- マナティー
 // TODO Miracle	乙女のいちげきー！なんだから=
 // TODO Beat!!!	かわいい尾びれでしょ？=
@@ -1893,18 +1875,12 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	のんびり泳ごうよ=
 // --- マネキネコ
 // TODO Miracle	手招き福よび、にゃベ♪=
-// --- マメジカ
-// TODO Standby	のんびりすごしたいの〜=
 // --- マルミミゾウ
 // TODO Miracle	森とのやくそく、種のいのり=
-// TODO Beat!!!	草木のかおりを運ぶ風=
-// TODO Standby	仲間の声をよく聞いて=
-// TODO Trait	熟したあまいの=
-// TODO Miracle Trait	小さくて丸い耳=
 // --- マンドリル
-// TODO Miracle	森の悪魔？違いますよ〜=
+// TODO Miracle	森の悪魔？違いますよ～=
 // TODO Beat!!!	おふざけはだめです=
-// TODO Standby	のびのびと〜♪=
+// TODO Standby	のびのびと～♪=
 // TODO Trait	色鮮やかな顔=
 // TODO Miracle Trait	にこっとスマイル♪=
 // --- マーゲイ
@@ -1927,8 +1903,9 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle Trait	大好きな友達との思い出=
 // --- ミーアキャット
 // TODO Standby	教育的指導！=
-// TODO Trait	警戒心=
 // TODO Miracle Trait	復習ですわ！=
+// --- ムック
+// TODO Trait	雪男の子どもですぞ～=
 // --- メガネカイマン
 // TODO Standby	ゆらゆら日光浴=
 // TODO Trait	結構荒いでしょう？=
@@ -1939,11 +1916,7 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Standby	お気に入りの食べ物=
 // TODO Trait	ぺったんこ、落ち着く=
 // TODO Miracle Trait	いろんな色=
-// --- モウコノウマ
-// TODO Miracle	チカラ仕事はお任せください〜=
 // --- ヤク
-// TODO Standby	特製バター茶=
-// TODO Trait	厳しい環境でも=
 // TODO Miracle Trait	半分食べて、２倍歩いて=
 // --- ヤタガラス
 // TODO Standby	美しき輝き=
@@ -1959,67 +1932,25 @@ L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
 // TODO Miracle	ウワサのかわいい寝顔=
 // TODO Beat!!!	あくろばてぃっくに！=
 // TODO Standby	くるんと丸まって…すぅ…=
-// TODO Trait	小さな木登り上手=
-// TODO Miracle Trait	生きた化石…らしいねぇ？=
-// --- ヤンバルクイナ
-// TODO Miracle Trait	太陽の道しるべ=
-// --- ユニコ
-// TODO Standby	いつかの花畑=
-// TODO Trait	幸せを呼ぶ一角獣=
-// TODO Miracle Trait	愛は永遠の歌=
-// --- ヨーロッパビーバー
-// TODO Trait	オレンジ色の前歯=
 // --- ライリュウ
 // TODO Trait	動物ヶ島の悪戲者=
 // --- ラーテル
 // TODO Standby	静かに燃えたぎれ！=
-// TODO Trait	世界一の怖いもの知らず=
-// TODO Miracle Trait	頼れるハニーハンター=
 // --- リュウキュウイノシシ
-// TODO Standby	カニさんみつけた♪=
-// TODO Trait	砂のおやまづくり=
 // TODO Miracle Trait	演奏の練習です！=
 // --- ルリコンゴウインコ
 // TODO Trait	だれの物真似でしょうか♪=
 // --- レオ
 // TODO Miracle	楽園を築く、その日まで=
-// TODO Beat!!!	親子の狩り=
-// TODO Standby	新たな知識との出会い=
 // TODO Trait	白いライオンの子=
-// TODO Miracle Trait	幼い王者の風格=
 // --- ロイヤルペンギン
 // TODO Trait	アイドルスマイル・P=
-// --- ワオキツネザル
-// TODO Miracle	ねらって！ジャンプキック！=
-// TODO Beat!!!	はげしくガブッてね！=
-// TODO Standby	気合の入れどき=
-// TODO Trait	おひさまのしたでぬっくぬく〜=
-// TODO Miracle Trait	森の幽霊なんてガラじゃない=
 // --- ワシミミズク
 // TODO Standby	ミミちゃん・カムフラージュ=
 // TODO Trait	我々は賢いので・助手=
 // --- 日向夏美
 // TODO Miracle	絶対防衛★夏美スペシャル=
-// TODO Beat!!!	運動神経バツグン！=
 // TODO Standby	かかってきなさい！=
-// TODO Trait	しっかり者のお姉ちゃん=
-// TODO Miracle Trait	ハイスペック中学生=
-// --- 東北きりたん
-// TODO Miracle	新技…きりたん砲「改」ッ！！=
-// TODO Beat!!!	きりたん砲逆噴射キック=
-// TODO Standby	ずんねえさまぁ…♡=
-// TODO Trait	ふとももを愛する者=
-// TODO Miracle Trait	お味噌仕立てのきりたんぽ鍋=
-// --- 東北イタコ
-// TODO Miracle	秘儀！連続口寄せ！=
-// TODO Beat!!!	除霊は専門外ですのに〜！=
-// TODO Standby	お仕事の準備は念入りに=
-// TODO Trait	首席卒業の金欠イタコ=
-// TODO Miracle Trait	妹溺愛お姉ちゃん=
-// --- 火の鳥
-// TODO Standby	光輝の羽ばたき=
-// TODO Trait	光る尾羽=
-// TODO Miracle Trait	再生=
 // --- 白龍
 // TODO Miracle	刻露清秀·秋の光華=
 // --- 真・青龍
