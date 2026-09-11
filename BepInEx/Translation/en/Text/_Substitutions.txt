@@ -1,6 +1,11 @@
-﻿「スペシャルデイリー」の\n報酬を受け取りました=Special Daily\nRewards Recieved!
+﻿// Substitutions: applied to EVERY string before lookup/regex/Google; each match becomes {{A}}, {{B}}...
+// Order matters: an earlier key that is a substring of a later key makes the later key unreachable.
+// Entries marked 'moved up' were relocated for that reason. Keep new long keys ABOVE any shorter key they contain.
 
-----------Friendship Level Up Quotes----------
+「スペシャルデイリー」の\n報酬を受け取りました=Special Daily\nRewards Recieved!
+©けものフレンズプロジェクト２Ｇ ©SEGA ©Appirits FCP=©Kemono Friends Project 2. G ©SEGA ©Appirits FCP
+
+// ---------- Friendship Level Up Quotes ----------
 アンタがいるところは、いっつも賑やかで楽しそうなんだよね\nだからオイラも、つい混ざりたくなっちゃうんだ=You always seem to be having so much fun in your\nzone that I just want to be a part of it.
 いつもお世話をしてくれてありがとう\nボクの気持ちをこめたやさい、あげる=Thank you for always taking care of me,\nI'll give you vegetables filled with my love!
 あなたといると、元気になる　離れると、さびしくなる\n…どうして？=When I'm with you, I feel energetic, when I'm\naway from you, I feel lonely... Why?
@@ -24,9 +29,11 @@
 日頃から私と向き合ってくれる礼にもっとキミを鍛えてやる\n…厳しくやるから、覚悟しとけよ？　ふふ=I'm going to train you more to thank you for dealing with me on a regular basis...\nand I'm going to do it hard, so be prepared, okay?
 隊長ちゃんとはながいお付き合いになりましたね～\nまだまだいっしょにいたいです～　ぎゅ～っ！=It's been a long relationship with Captain-chan～\nI want to be with you for a long time～ HUG～!
 みんなのことが大切だからって自分を犠牲にしちゃだめよ？\nでも、そんなあなただからこそ慕われてきたのよね=You can't sacrifice yourself just because you care about everyone,\nbut that's why people love you so much.
-倍！=x!
+// moved up from line 1408 so it is not shadowed by the shorter key `倍！` below
+なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship <size\=24><color\=#FFEE00>x2</color></size>!
+// removed: 倍！=x!  (handled by KF3_Rules.txt "X N倍！")
 
-----------MENU STUFF AGAIN (INFO BOXES, WARNINGS)----------
+// ---------- MENU STUFF AGAIN (INFO BOXES, WARNINGS) ----------
 スタースタンプ交換所=Star Stamp Exchange
 アニマルラムネマスター=Animal Ramune Master
 EXPの上限を超えた分の\nマジカルキャンディとゴールドは使用を取り消しました！=The amount of Magical Candy and Gold that exceeded the EXP limit has been returned!
@@ -43,11 +50,11 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 別の属性を選択してください=Please select a different Attribute
 すごいマップキー が1つ不足しています\n（所持数 0 / 必要数 1）=You are missing an Awesome Map Key.\n(0 Owned / 1 Required)
 すごいマップキー が1つ不足しています=You are missing an Awesome Map Key.\n
-（所持数 0 / 必要数 1）=(0 Owned / 1 Required)
-（所持数 =(
-（所持数=(
-  / 必要数 1）= Owned / 1 Required)
- / 必要数 1）= Owned / 1 Required)
+// removed (handled by KF3_Rules.txt 所持数/必要数 rules): （所持数 0 / 必要数 1）=(0 Owned / 1 Required)
+// removed (handled by KF3_Rules.txt 所持数/必要数 rules): （所持数 =(
+// removed (handled by KF3_Rules.txt 所持数/必要数 rules): （所持数=(
+// removed (handled by KF3_Rules.txt 所持数/必要数 rules):   / 必要数 1）= Owned / 1 Required)
+// removed (handled by KF3_Rules.txt 所持数/必要数 rules):  / 必要数 1）= Owned / 1 Required)
 ※「10回」の利用時、「フレンズ確定時」「★3以上確定時」を除いた8枠は通常の確率で抽選されます。=※When making a "10 pull" option, the 8 slots excluding "Confirmed Friends" and "★3 or higher Confirmed" will be drawn at normal probability.
 ・排出したフレンズが重複した場合、輝石に変換されます=If the Friend obtained is a duplicate, it will be converted to Pyroxene.
 ・個別表示している提供割合は表示上小数点第4位にて切り捨てしているため、全て合算しても100%にならない場合がございます=The individual percentages are rounted down to the 4th decimal, so they may not add up to 100%.
@@ -72,8 +79,7 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 獲得できる小さな輝石2倍!=Earn 2x Small Pyroxene!
 ※なかよしボーナスは全フレンズに共通で適用されます=※The Friendship Bonus applies to all Friends.
 
-
-----------Batch Upgrades----------
+// ---------- Batch Upgrades ----------
 マジカルキャンディ（オール）大=Magical Candy (All) Large
 マジカルキャンディ（オール）中=Magical Candy (All) Medium
 マジカルキャンディ（オール）小=Magical Candy (All) Small
@@ -82,47 +88,61 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 ※アイテムが不足する場合は、選択した項目でも強化/解放できない場=※You cannot Batch Upgrade if you lack needed items
 強化/解放したい項目を選択してください=Select the items you want to Batch Upgrade
 選択した項目を一括で強化/解放します=Batch Upgrade selected items
+// moved up from line 1923 so it is not shadowed by the shorter key `合があります` below
+「大成功」や「超成功」になり、獲得EXPが増加する場合があります。\nなお、その際にレベル上限を超過した分のジャパまんとゴールドは返還されます。=A Friend or Photo who obtains a "Great Success" or "Super Success" will have their gained EXP increased. At that time, the amount of Japari Buns and Gold that exceed what was needed will be returned.
+// moved up from line 1943 so it is not shadowed by the shorter key `合があります` below
+ストーリーを進めていくと解放されるクエストの1つです。\n過去に登場した難易度「むちゃ」のクエストや\n「太陽の恵み」クエストに挑戦することができます。\nまた、期間限定のクエストが出現する場合があります。=These are quests that are unlocked as you progress through the story. You can challenge past quests with new difficulty levels of "Excessive" and "Blessings of the Sun." In addition, limited-time quests may appear at times.
 合があります=Batch Upgrade
 強化/解放=Batch Upgrade
-強化項目=Upgrade Items
-上限解放項目=Release
 強化項目=Strengthen
+上限解放項目=Release
 けもの\nミラクル=Kemono\nMiracle
 なかよし\nレベル=Friendship\nLevel
 すべて選択=Select All
 一括強化=Batch Upgrade
-未解放=Tamed
 未解放=Unleashed
 すべて解除=Upgrade All
+// moved up from line 1385 so it is not shadowed by the shorter key `強化素材` below
+ミラクル強化素材を使ってけものミラクルを強化します=Use Miracle materials to enhance a Friends' Kemono Miracle!
+// moved up from line 1935 so it is not shadowed by the shorter key `強化素材` below
+※持ち主は決定後に変更することができないためご注意ください\n（持ち主が決定された後も強化素材として利用及び売却は可能です）=※Please note that the owner cannot be changed. (Even after the owner is determined, it can still be sold or used as enhancement material).
+// moved up from line 1936 so it is not shadowed by the shorter key `強化素材` below
+おしゃれアクセはフレンズが装備することで\n「ステータス上昇効果」と「見た目が変化する効果」があります。\nまた、同種のおしゃれアクセまたは対応するお手入れキットを強化素材として\n合成することでレベルを上昇させることができます。=When equipped by a Friend, accessories have a "Status Increase Effect" and an "Appearance Change Effect." In addition, you can raise the level by synthesizing the same kind of Accessory or the correspondingCare Kit.
 強化素材=Enhancing Material
 
-----------GAME LAUNCH GARBAGE TEXT----------
+// ---------- GAME LAUNCH GARBAGE TEXT ----------
+// moved up from line 186 so it is not shadowed by the shorter key `ああああああああああああああああああああああああああああああ` below
+あああああああああああああああ\rああああああああああああああああああああああああああああああ\rああああああああああああああああああああああああああああああ=Ahhhhhhhh!\rahhhhhhh!\rahhhhhhhhhhh!
 ああああああああああああああああああああああああああああああ=AAAAAAAAAAAAAAAAAAAAA
-ああああああああああああああああああああ=AAAAAAAAAA
+ああああああああああああああああああああ=ahhhhhhh!
 あああああああああああああああ=AAAAA
 あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ=ABCDEFGHIJKLMNOPQRSTUVQXYZ
-イベント「あいうえおかきくけこあいうえおかきくけこ」="ABCDEFGHIJKLMNOPQRSTUVQXYZ" Event
 イベント「あいうえおかきくけこあいうえおかきくけこ」=Event AFASFAF
-ダウンロード中　しばらくお待ちください。=Downloading, please wait.
+ダウンロード中　しばらくお待ちください。=Please Wait, Downloading.
 
-----------ShiServals Dojo Quotes----------
+// ---------- ShiServals Dojo Quotes ----------
 道場パーティ編成=Dojo Party Setup
 今日はこれだよー！\n頑張れ頑張れー！=This is it for today!\nDo your best, do your best!
+// moved up from line 114 so it is not shadowed by the shorter key `今日はこれだよー！` below
+じゃじゃーん！\n今日はこれだよー！=Ta-da! This is it for today!
+// moved up from line 2459 so it is not shadowed by the shorter key `今日はこれだよー！` below
+今日はこれだよー！\n準備はいいかなぁ？=This is it for today...\nAre you ready for it?
 今日はこれだよー！=This is it for today!
-準備はいいかなぁ？=Are you ready?
+// moved up from line 113 so it is not shadowed by the shorter key `準備はいいかなぁ？` below
 今日はこれだけど、\n準備はいいかなぁ？=This is it for today,\nbut I hope you're ready for it.
-じゃじゃーん！\n今日はこれだよー！=Tadaa! This is today's event!
-今日はこれだよー！=This is it for today!
+準備はいいかなぁ？=Are you ready?
 頑張れ頑張れー！=Do your best, do your best!
 大丈夫大丈夫！\nゆっくり行こうね！=No problem, no problem!\nLet's take it slow!
 はーい！\n今日の相手だよー！=Yes!\nHere is today's opponent!
 あ、きたきた！\n待ってたよー！=Oh, I'm here!\nI've been waiting!
 
-----------NEW IN-GAME COMBAT TEXT----------
+// ---------- NEW IN-GAME COMBAT TEXT ----------
 被ダメージ軽減解除=Damage Reduction Removed
 命中率ダウン=Hit Rate Down
 プラズムチャージ＋=Plasma Charge＋
 ルンルンきぶん解除=Joy Removed
+// moved up from line 3122 so it is not shadowed by the shorter key `回避率アップ` below
+回避率アップ解除=Evasion Rate Up Cancelled
 回避率アップ=Evasion Rate Up
 はねかえし解除=Reflect Removed
 はねかえしむし解除=Pierce Removed
@@ -145,13 +165,15 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 ちぐはぐリズム解除=Discord Removed
 ロストフラッグ解除=Lost Flag Removed
 
-----------PAID STORE TRANSLATIONS----------
+// ---------- PAID STORE TRANSLATIONS ----------
 月１個まで=1 per month
 おひとり様6個まで=Only 6 per
 おひとり様5個まで=Only 5 per
 おひとり様4個まで=Only 4 per
 おひとり様3個まで=Only 3 per
 おひとり様2個まで=Only 2 per
+// moved up from line 2369 so it is not shadowed by the shorter key `おひとり様1個` below
+おひとり様1個まで=One per person
 おひとり様1個=Once only
 毎日6個まで=6x daily
 毎日5個まで=5x daily
@@ -160,7 +182,7 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 毎日2個まで=2x daily
 毎日1個まで=Once daily
 
-----------Text displayed when game launches (Music and Misc)----------
+// ---------- Text displayed when game launches (Music and Misc) ----------
 その手の先には=At the end of her hand.
 こころの輝き=Brilliance of the Heart
 しょうりのハイタッチ！=Shori's high-five!
@@ -173,20 +195,24 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 危険な予感=A Dangerous Premonition
 手と手をつなごう=Hand in hand
 あたらしい出会い=New acquaintances
+// moved up from line 1368 so it is not shadowed by the shorter key `ワクワクけものバトル！` below
+ワクワクけものバトル！\n～クリスマスアレンジ～=Exciting Kemono Battle!\nChristmas Arrangement
 ワクワクけものバトル！=Exciting Kemono Battles!
+// moved up from line 1369 so it is not shadowed by the shorter key `強そうなの来たぁ～！` below
+強そうなの来たぁ～！\n～クリスマスアレンジ～=Here comes the strong one～\nChristmas Arrangement～!
 強そうなの来たぁ～！=Here comes the strong one!
 今日はどこに行こうか？=Where shall we go today?
 せーので飛び出せっ！=Let's jump out!
 準備運動、いち・に・さん！=Warmup exercise, one, two, three!
+// moved up from line 2400 so it is not shadowed by the shorter key `木漏れ日` below
+木漏れ日のなか=in the sunlight filtering through trees
 木漏れ日=God rays through trees
 次は何が起こるかな？=What happens next?
 タイトルが入るよ=There will be a title
 次の探検隊Lvまで=Until the next expedition lv.
 タイトルタイトルタイトル=Title title title
-あああああああああああああああ\rああああああああああああああああああああああああああああああ\rああああああああああああああああああああああああああああああ=Ahhhhhhhh!\rahhhhhhh!\rahhhhhhhhhhh!
-ああああああああああああああああああああ=ahhhhhhh!
 
-----------GACHA----------
+// ---------- GACHA ----------
 無料で10回しょうたいします\nよろしいですか？=I'll try 10 times for free.\nAre you sure?
 ピックアップ対象フレンズ=Friend Pick-Up
 ピックアップ対象フォト=Photo Pick-Up
@@ -197,15 +223,14 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 おまけゲット！=Bonus get!
 解放ボーナス=Release Bonus
 
-----------BATTLES, EVENTS, QUESTS MUSIC (unknown)----------
-ステキな運命=A Beautiful Destiny.
+// ---------- BATTLES, EVENTS, QUESTS MUSIC (unknown) ----------
 ステキな運命=Wonderful Fate
 『け・も・の・だ・も・の』アレンジ="Ke・Mo・No・Da・Mo" Arrangement
 
-----------ERROR CODES----------
+// ---------- ERROR CODES ----------
 メンテナンス中です\nタイトル画面に戻ります\n\nCODE:11=Return to title screen.\n\nCODE:11
 
-----------Friend Home Screen Speech----------
+// ---------- Friend Home Screen Speech ----------
 今日はおもいっきり眠れたので～\n幸せな気分です～=I slept well today- so I'm happy!
 どこかにお困りのフレンズさんは\nいないでしょうか…=I wonder if there are any Friends\nout there who are having trouble...
 じゃぱりぱあくはどこもかしこも修行できる場が\nあって飽きないぜ！　次はどこに行こっかな=Japari Park has training grounds\neverywhere, and I never get tired of it!
@@ -219,16 +244,20 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 なにか物を運びたいの？\n重たくっても大丈夫だよ=Do you want me to carry something,\neven if it's heavy?
 今日運んだ荷物はかなーり重かったけど…\n何が入っていたのかな？=The package we carried today was\nquite heavy... but what was in it?
 
-----------Loading Screen Tooltips----------
+// ---------- Loading Screen Tooltips ----------
 一緒に頑張るフレンズさんは誰にしますか？\nあとで変更もできますよ！=Who will you choose as your Friend to work with? You can always change it later!
 強化するフレンズ=Strengthening Friends
 フレンズやフォトが持つパッシブスキル\n野生解放を一段階達成することで解放されます=The passive Wild Release Skill will be unlocked when one stage is achieved by Friends or Photo.
 行動順が後ろのフレンズほど\n与えるダメージが上昇します=The further in the turn Order, the greater Damage a Friend will deal.
 フレンズの衣装を変更することが出来る\n特別な衣装は所持しているだけでステータスが上昇します=Special outfits can change the appearance of a Friend and will increase their stats by owning the.
 命中とかいひ=Hit and Evade
-攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。=The accuracy of an Attack is determined by the Attacker's Hit Rate and the Defender's Evasion.
-また、けものミラクルとセルリアンの大技は必ず命中します。=Additionally, Cerulean Big Attacks and Kemono Miracles will always hit.
-待機フレンズ設定=Standby Friend Settings
+// moved up from line 1911 so it is not shadowed by the shorter key `攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。` below
+攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。\n※かいひ率が100％でも攻撃側の攻撃命中率によっては攻撃を受けることがあります。=Hit Chance is figured by the Hit Rate of the attacker and the Evade of the Defender.  ※If the Evade is 100%, the attack may still hit depending on the Hit Rate.
+攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。=Hit Rate is determined by the Attacker's Accuracy and the Defender's Evasion.
+また、けものミラクルとセルリアンの大技は必ず命中します。=Kemono Miracles and Cerulean Big Attacks will always hit.
+// moved up from line 260 so it is not shadowed by the shorter key `待機フレンズ設定` below
+待機フレンズ設定時と解除時で\nホーム画面で聞けるボイスが変化します=The voices you can hear on the home screen will change depending on whether you set a Friend to standby or not. 
+待機フレンズ設定=Standby Friend Configuration
 たいきスキルのON/OFF切り替え\nパーティ編成画面の「たいきスキル設定」ボタンやバトル中のフレンズ枠下部「たいき」ボタンでたいきスキルのON/OFF状態を設定することができます=You can turn Standby Skills ON/OFF by using the button underneath their Friend Frame during battle.
 たいきスキルのON/OFF切り替え=Turning Standby Skills ON/OFF
 このメダルを持っているアナタは、きっととってもおしゃれさん！\n{{A}}=You must be a very fashionable person to have this medal!
@@ -242,41 +271,45 @@ EXPの上限を超えた分の\nジャパまんとゴールドは使用を取り
 今月あと1回=One more this month
 追加データのダウンロードが\n完了しました。=Full Game Data Download Complete.
 追加のダウンロードデータは\nありませんでした=No additional game data to download.
-セッションタイムアウト=Session Timed Out
+// moved up from line 246 so it is not shadowed by the shorter key `セッションタイムアウト` below
 セッションタイムアウトが発生しました\nタイトル画面に戻ります\n\nCODE:1003=Session timeout occured\nReturn to the title screen\nCODE: 1003
+セッションタイムアウト=Session Timed Out
 一括\n受け取り=Batch\nAccept
 一括受け取り=Batch Accept
 与ダメージ、攻撃命中率、かいひ、回復するたいりょくの量、増加するMPの量減少効果、被ダメージの増加効果を無効にする=Disables increased Damage, Accuracy, and Recovery from received Attacks. Disables MP, Defense, and Damage reduction effects gained.
 けも級アップ完了=Kemono Class Upgrade Completed
-「デイリー」ミッションの\n報酬を受け取りました="Daily" Mission rewards received.
+「デイリー」ミッションの\n報酬を受け取りました="Daily" Mission\n Rewards Received.
+// moved up from line 2984 so it is not shadowed by the shorter key `※所持数上限を超えた報酬はプレゼントボックスに移動しました` below
+「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\n*Rewards that exceeded the maximum number owned have been moved to the Present Box.
 ※所持数上限を超えた報酬はプレゼントボックスに移動しました=※Rewards that exceed limits moved to Present Box.
 かつやくポイント便にて獲得=Earned with Assist Points
-※所持数上限※=※Maximum amount owned※
+※所持数上限※=*Limit On The Number Owned*.
 ジャパまんフォト☆３=Japari Bun ☆３
-ミッションの報酬=Mission Rewards
 疲れてる時こそ、\n準備運動はしっかりね？=Do warm-up exercises even\nwhen you're tired, okay?
-じゃじゃーん！\n今日はこれだよー！=Ta-da! This is it for today!
+// moved up from line 1929 so it is not shadowed by the shorter key `エクストラバトル` below
+また、けものミラクルをLv.5にするとフレンズストーリーの「エクストラバトル」が解放\nできるようになります。\nさらに、フレンズストーリーEXをクリアすると『けものミラクル＋』が解放されます。=In addition, if you raise Miracle to level 5, you will be able to unlock the Friend Story events. In addition to this, the Miracle+ will be unlocked by clearing Friends Story EX. 
+// moved up from line 1951 so it is not shadowed by the shorter key `エクストラバトル` below
+フレンズストーリーの「エクストラバトル」をクリアするとけものミラクル+が解放されます。\nけものミラクル+は特定のフラッグが配られているときに発動するとスキルレベル+1の効果\nになります。\nまた、演出やキャラクターボイスにも少しの変化があります。=If you clear an "Extra Battle" (EX) of the Friends Story, the Friend's Kemono Miracle+ will be unlocked. Kemono Miracle+ will be a +1 Skill Effect when activating a Special Flag. In addition, there are some changes to the visuals and the Friend's voice.
 エクストラバトル=Extra Battle
-待機フレンズ設定時と解除時で\nホーム画面で聞けるボイスが変化します=The voices you can hear on the home screen will change depending on whether you set a Friend to standby or not. 
 Lv.強化=Lv. Enhancement
 ステータスアップ=Status Update
 
-----------RAINBOW TRAITS----------
+// ---------- RAINBOW TRAITS ----------
 野生と知性で最強なのです=Wildest and Most Intelligent
 アイコン解放！=Icon Unlock!
 強化されるステータス=Enhanced Status
 
-----------TRAITS----------
+// ---------- TRAITS ----------
 ボクの声、きいて！=Listen To My Voice!
 ふっかつ！=Revive!
 
-----------STANDBY----------
+// ---------- STANDBY ----------
 のんびり月光浴=Relaxing Moonlight Bathing
 
-----------Voice Actresses----------
+// ---------- Voice Actresses ----------
 村中知=Tomo Muranaka
 
-----------MIRACLES AND OTHER TRAITS/STANDBY----------
+// ---------- MIRACLES AND OTHER TRAITS/STANDBY ----------
 全部載せパワー！=All-In-One Power!
 疾風怒濤・藪猫の龍爪=Storm Rages・Dragon-Cat Claw
 さいきょー無敵の主人公！=Ultimate INvincible Protagonist!
@@ -338,11 +371,10 @@ Lv.強化=Lv. Enhancement
 ブチッとミラクルみせちゃうよ=Show You A Miracle
 たくみのいちげき=Skillful Blow
 木の葉のうた=Song of Leaves
-今のうちにほりほり…=Better Get Diggin'…
+今のうちにほりほり…=Dust it off...
 めくらまし、なのね！=Oh, A Diversion!
 自然の音のアンサンブル=Nature's Ensemble
 耳で気配を探って=Detect Presence With Your Ears
-今のうちにほりほり…=Dust it off...
 †内なる闇の波動†=†Inner Darkness Wave†
 夜のお散歩、あったかいひかり=Warm Night Walk
 自然の土、どうぞ♪=Nature's Soil Please♪
@@ -418,6 +450,8 @@ Lv.強化=Lv. Enhancement
 ぽやぽやマイペースに=At Your Own Pace
 豪脚に力を込めて=Full Strength With Powerful Legs
 ジャマする子はこうです=A Friend's Obstacle
+// moved up from line 860 so it is not shadowed by the shorter key `明鏡止水` below
+明鏡止水・一撃の構え=Mirrored Still Water・Strike Stance
 明鏡止水=Still, Clear Water
 未知に煌めく青い瞳=Blue Eyes Skarling
 もふもふシッポにゴチュウイ！=Touch My Fluffy Tail!
@@ -440,7 +474,7 @@ Lv.強化=Lv. Enhancement
 パンプアップ=Pump Up
 筋トレの成果=Muscle Training Results
 祖なる牛=Ancestral Cow
-ヒジュツ！かんてんぼーき！Aid! Technique!
+ヒジュツ！かんてんぼーき！=Aid! Technique!
 にんジュツ！ふうとんのジュツ！=Futon Technique!
 みならい忍者=Apprentice Ninja
 じまんのちょんまげ=Proud Topknot
@@ -509,12 +543,13 @@ Lv.強化=Lv. Enhancement
 仲間がいればだいじょうぶ=Fine With Friends
 寒い時のやり方=When It's Cold
 ハムハムタイム=Hamu Hamu Time
-お前ものむか？=Are You Here?
+お前ものむか？=You One Of Them?
 打たれてみっか？=Wanna Get Hit?
 オレは働き者=Habu's A Hard Worker
+// moved up from line 963 so it is not shadowed by the shorter key `たずねけもの` below
+永遠のたずねけもの=Eternal Kemono search
 たずねけもの=Wanted Beast
 目を食いしばれ！=Clinch Your Eyes!
-お前ものむか？=You One Of Them?
 伍長のプライド=Corporal's Pride
 戦いに備えて=Prepare For Battle
 頼れる大先輩=Reliable Senior
@@ -601,10 +636,10 @@ Lv.強化=Lv. Enhancement
 トラブル発生？あたしにお任せ！=Trouble? Leave it to me!
 ツイツイ♪ジャパまんだう？=Twi-twi♪ Japari Bun?
 うっうー！見つけたでう♪=Ooh! I found it♪
-疾風のワイルドハント=Wild Hunt In The Gale
+疾風のワイルドハント=Gale Wild Hunt
 ハイハーイ！ジャンプクロー=Hi Hiii! Jumping Claw
 灼熱砂漠のオアシス=Oasis In The Burning Desert
-ジャブジャブなのだ！=It's A Jab-Jab!
+ジャブジャブなのだ！=Washing Washing!
 悪魔のぎゃんぎゃんボイス=Devil's Loud Voice
 突撃！コツメアタック！=Assault! Kotsume Attack!
 ジャガー幻惑乱れ拳=Jaguar Phantom Turbulent Fist
@@ -619,7 +654,7 @@ Lv.強化=Lv. Enhancement
 クマクマ大回転ホームラン=Kuma's Spinning Home Run
 おやすみプリチーカウント=Good Night Pretty Count
 黒焔槍邪龍憑依=Dark Flame Lance, Evil Dragon Possessed
-おたからオープン！=Otakara Open!
+おたからオープン！=Grand Opening!
 封印されし悪魔のめざめ†=Sealed Devil's Awakening †
 おひとついかが？=Would You Like One?
 教えて！ミーア先生=Tell Me, Professor Meer!
@@ -688,7 +723,7 @@ Lv.強化=Lv. Enhancement
 頑張った自分へのご褒美=Reward Yourself For Working Hard!
 アタシのとっておきだし！=My Special Treat!
 癒しのエコロケーション=Healing Echolocation
-イッツ・ショータイム！=It's Show Time!
+イッツ・ショータイム！=It's・Showtime!
 ポイズン・キッス=Poison Kisses
 がぶっとひと息ですよ！=Take A Breather!
 ポカポカ甲羅パワー満タン！=Warm Shell's Full Power!
@@ -794,7 +829,7 @@ Kari=Kari
 ご機嫌メロディ=Good Mood Melody
 ドタバタエンターテインメント=Slapstick Entertainment
 聞こえない音はないんでしゅ！=There's No Sound You Can't Hear!
-天狗飛礫=Tengu Flying Stone
+天狗飛礫=Tengu Flying Stones
 木の葉のテントでひとやすみ♪=Take A Break In The Leaf Tent!
 無敵の防御壁…ですの…=Invincible Defensive Wall ...
 癒しのタテゴト演奏会=Healing Harp Concert
@@ -835,9 +870,6 @@ Kari=Kari
 烈風のスーパーサバンナクロー=Stormy Savanna Claw
 急降下！これが私の全速力！=Swoop! My Full Speed!
 じぐざぐホワイトクロー=Zig-Zag White Claw
-おたからオープン！=Grand Opening!
-イッツ・ショータイム！=It's・Showtime!
-ジャブジャブなのだ！=Washing Washing!
 アイドルは止まらない！=Idols Never Stop!
 すーぱー威嚇のポーズぅ！=Super Intimidation Pose!
 ちょっとの勇気…！=A Little Courage ...!
@@ -857,7 +889,6 @@ Kari=Kari
 ドキドキ☆わたしたちの思い！=Beating Hearts ☆ Our Thoughts!
 キラキラ☆お空にひとっ飛び！=Glittering ☆ Fly In The Sky!
 百錬成鋼・連撃の構え=Hundred Strike Steel Stance
-明鏡止水・一撃の構え=Mirrored Still Water・Strike Stance
 ちょっとご機嫌なわたし！=I'm In A Good Mood!
 お仕置き！ミーア先生=Punishment! Meer-Sensei
 その鳥は永遠を行く=The Bird Flies Forever
@@ -899,7 +930,7 @@ Kari=Kari
 夢のじゃぱり城だモン！=Japari Castle Of Dreams!
 サイキョーの石垣だモーン=Great Stone Wall Morn
 
-----------Friends Title----------
+// ---------- Friends Title ----------
 拍手喝采をお届け！=Applaud Me!
 ダンスへの想い=Passion For Dance
 集まれ！　情熱！=Gather Together! Passion!
@@ -960,7 +991,6 @@ Kari=Kari
 すべて置き去りにしてあげる！=I'll leave everything behind!
 共に走ろう、いつまでも=Let's run together forever
 激走！爆走！レッツGO！=Racing! Racing! Let's GO!
-永遠のたずねけもの=Eternal Kemono search
 ステキな旅をお約束します=We promise you a wonderful trip
 小さくてかわいいですねぇ…=It's small and cute...
 おっきーラブを{{A}}♡=Big love as a present♡
@@ -1047,11 +1077,11 @@ Kari=Kari
 キミの色で描く私の絵=My painting with your colors
 目指せ、パークのヒーロー！=Aim to be a hero of the park!
 
-----------TITLES----------
+// ---------- TITLES ----------
 再始動=Reset
 未所持=Unowned
 
-----------Scenarios----------
+// ---------- Scenarios ----------
 チュートリアル　Welcome! ジャパリパーク=Welcome To Japari Park! Tutorial
 セーバルぶらり旅=Cervals Journey
 ブラックジャガーパーク建設中！=Black Jaguar's Park Under Construction
@@ -1064,11 +1094,17 @@ Kari=Kari
 体力測定　デグー編=Physical Fitness Test: Degu Edition
 美味♡じゅるりバレンタイン=Delicious♡Slurp Valentines Day
 
-----------MENU AND TREEHOUSE CONTROLS (Another one)----------
+// ---------- MENU AND TREEHOUSE CONTROLS (Another one) ----------
 種類順=Sort By Type
 カメラ操作=Camera Use
 二本指スワイプ=Two-finger swipe
+// moved up from line 2007 so it is not shadowed by the shorter key `重ね置き` below
+敷物は３枚まで重ね置きができます。\n新たに設置する場合、一番上に配置されます=Up to 3 rugs can be stacked on top of each other. If you place a new rug, it will be placed on top.
+// moved up from line 2480 so it is not shadowed by the shorter key `重ね置き` below
+敷物の重ね置き=Stacking Rugs On Top Of Each Other
 重ね置き=Stacking
+// moved up from line 2378 so it is not shadowed by the shorter key `ダブルタップ` below
+ちょこっとVRを終了する場合、\n画面をダブルタップしてください=To exit Little VR, double-tap the screen.
 ダブルタップ=Double-tap
 インテリア回転=Interior Rotation
 ジャイロ操作=Gyro operation
@@ -1077,7 +1113,7 @@ Kari=Kari
 操作Tipsを今後表示しない=Operation Tips will not be displayed in the future.
 解放条件=Release Condition
 
-----------MISC MENU TRANSLATIONS----------
+// ---------- MISC MENU TRANSLATIONS ----------
 特定のアイテム排出時のおまけ=Bonus items when certain Friends are invited
 ☆3以上確定時=☆3 Confirmed 
 フレンズ選択=Friends Selection
@@ -1087,9 +1123,11 @@ Kari=Kari
 けものミラクルレベルが上がりました！=The Kemono Miracle level was increased!
 すごいマップキー=Amazing Map Key
 マップキー=Map Key
+// moved up from line 2038 so it is not shadowed by the shorter key `輝きの小瓶` below
+輝きの小瓶とアイテムを交換することができます。\n交換できるアイテムのラインナップは、随時追加されます。=You can exchange Viles of Radiance for Friends' Vials. The lineup of items that can be exchanged will increase with time.
 輝きの小瓶=Vials of Radiance
 まとめて\n解放=Multi\nRelease
-フレンズ成長 大・超成功率UP!=Friend Growth UP!
+フレンズ成長 大・超成功率UP!=Friends Level Rate UP!
 フォト整理(売却)=Sell Photos
 成長\n・\n強化=Growth\n・\nStrength
 クエスト選択=Quest Selection
@@ -1101,7 +1139,13 @@ Kari=Kari
 編成が変更されています=Selections have been changed.
 変更\n終了=Accept
 助っ人フレンズ変更=Helper Select
+// moved up from line 1956 so it is not shadowed by the shorter key `パーティ編成` below
+パーティ編成画面の「たいきスキル設定」ボタンやバトル中のフレンズ枠下部\n「たいき」ボタンでたいきスキルのON/OFF状態を設定することができます。=You can toggle Standby at the bottom of the Party screen or by using the button in the Friend's frame during battle.
+// moved up from line 1957 so it is not shadowed by the shorter key `パーティ編成` below
+プレイヤーターンの開始時に画面右の隊長スキルアイコンをタップ選択することで\n隊長スキルを使用することができます。\nバトルに持ち込む隊長スキルはパーティ編成画面で変更することができます。=You can use Captain Skills by using the Captin Skill icon on the right of the screen during your Turn. You can change the skill used on the party formation screen.
 パーティ編成=Party Organize
+// moved up from line 2630 so it is not shadowed by the shorter key `スタミナ回復速度2倍` below
+スタミナ回復速度2倍!=Doubled Stamina Recovery!
 スタミナ回復速度2倍=Recovery Doubled
 けものミラクル＋が解放されました！=Kemono Miracle+ Unlocked!
 新シーズン開始のお知らせ=New season begins!
@@ -1109,39 +1153,65 @@ Kari=Kari
 スマトラトラ=Sumatran Tiger
 の防衛結果= Defense Results
 次のクラスまで=Until Next Rank Up 
+// moved up from line 1115 so it is not shadowed by the shorter key `なないろとくせい解放` below
+なないろとくせい解放確認=Rainbow Trait Release Confirmation
 なないろとくせい解放=Rainbow Trait Release
 素材を使ってなないろとくせいを解放します=Use material to unlock Rainbow Trait!
 このフレンズのなないろとくせいは\n今後追加予定です=This Friend's Rainbow Trait will be\nunlocked later.
-なないろとくせい解放確認=Rainbow Trait Release Confirmation
+// moved up from line 2117 so it is not shadowed by the shorter key `ミッションの\n報酬を受け取りました` below
+「決定！　ジャパリパークの１等賞！」ミッションの\n報酬を受け取りました=Reward received for\n"First Prize at Japari Park!"
+// moved up from line 2269 so it is not shadowed by the shorter key `ミッションの\n報酬を受け取りました` below
+「ウィークリー」ミッションの\n報酬を受け取りました="Weekly missions"\nrewards received.
+// moved up from line 2304 so it is not shadowed by the shorter key `ミッションの\n報酬を受け取りました` below
+「スペシャルデイリー」ミッションの\n報酬を受け取りました="Daily Special" Mission\nRewards Recieved.
 ミッションの\n報酬を受け取りました=Mission\nReward Received.
+// moved up from line 1906 so it is not shadowed by the shorter key `ゴールド貯金箱` below
+ゴールド貯金箱とは=What is the Gold Piggy Bank?
 ゴールド貯金箱=Gold Piggy Bank
+// moved up from line 2288 so it is not shadowed by the shorter key `1日でクエスト1回クリア` below
+1日でクエスト1回クリア！=Clear 1 quest today!
 1日でクエスト1回クリア=Clear 1 Quest Today
+// moved up from line 2285 so it is not shadowed by the shorter key `1日でクエスト3回クリア` below
+1日でクエスト3回クリア！=Clear 3 quests today!
 1日でクエスト3回クリア=Clear 3 Quests Today
+// moved up from line 2292 so it is not shadowed by the shorter key `1日でクエスト5回クリア` below
+1日でクエスト5回クリア！=Clear 5 quest today!
 1日でクエスト5回クリア=Clear 5 Quests Today
+// moved up from line 2294 so it is not shadowed by the shorter key `1日でクエスト7回クリア` below
+1日でクエスト7回クリア！=Clear 7 quests today!
 1日でクエスト7回クリア=Clear 7 Quests Today
+// moved up from line 2295 so it is not shadowed by the shorter key `1日でクエスト8回クリア` below
+1日でクエスト8回クリア！=Clear 8 quests today!
 1日でクエスト8回クリア=Clear 7 Quests Today
+// moved up from line 2296 so it is not shadowed by the shorter key `1日でクエスト9回クリア` below
+1日でクエスト9回クリア！=Clear 9 quests today!
 1日でクエスト9回クリア=Clear 9 Quests Today
 
-----------Friend Upgrade Page----------
+// ---------- Friend Upgrade Page ----------
 輝石変換時の注意=Caution when converting Pyroxene
 変換後は元の輝石に戻すことができません=Converting Pyroxene cannot be undone.
+// moved up from line 1913 so it is not shadowed by the shorter key `すくすく成長ミッション` below
+ゲーム内で一定条件を満たすと報酬がもらえます。\nミッションにはトータルミッションの他に、\nデイリーミッション、ウィークリーミッション、\nすくすく成長ミッション、イベントミッションがあります。=If you meet certain expedition conditions, you will receive rewards. In addition, you'll earn Daily, Weekly, and Total Missions. There are Quick Growth Missions and Event Missions to do, as well.
 すくすく成長ミッション=Vigorous Growth Missions
 必要ミラクルレベル=Required Miracle Level
 必要野生解放数=Wild release amount required
 必要レベル=Required Level
 を 受け取りました=was recieved
+// moved up from line 1135 so it is not shadowed by the shorter key `使用アイテム` below
+使用アイテム個数選択=Select the number of items to use
+// moved up from line 1377 so it is not shadowed by the shorter key `使用アイテム` below
+使用アイテム選択=Select the items to use
 使用アイテム=Items used
 使用するアイテム=Items to be used
-使用アイテム個数選択=Select the number of items to use
 レベル上限解放確認=Level Cap Release Confirmation
-四神玉を使ってレベル上限を解放します=Use Shinjindama to increase the level cap
+四神玉を使ってレベル上限を解放します=Shijindama increases a Friend's level limit.
 フォトポケランクを5にしよう！=Let's make the Photo Pocket rank 5!
 ミラクルLvを5にしよう！=Let's make the Miracle Lv. 5!
 野生解放4段階目を解放しよう！=Let's release the fourth stage of Wild Release!
 レベルを99にしよう！=Let's get to level 99!
 レベルを90にしよう！=Let's get to level to 90!
 
-----------Events and Daily Quests---------
+// ---------- Events and Daily Quests ----------
 「みなさん、すばらしいですっ！」="You girls are amazing!"
 「むちゃ」=Mucha
 スケジュール=Schedule
@@ -1155,16 +1225,13 @@ Kari=Kari
 ミライさんセレクト=Mirai's Selection
 連戦！　連戦！=Continuous Battles!
 
-
-
-
 いずれかのクエストを80回クリア=Clear any quests 80 times
 いずれかのクエストを100回クリア=Clear any quests 100 times
 いずれかのクエストを150回クリア=Clear any quests 150 times
 いずれかのクエストを130回クリア=Complete any quests 130 times.
 いずれかのクエストを200回クリア=Complete any quests 200 times.
 
-----------Mission fixes attempt----------
+// ---------- Mission fixes attempt ----------
 「フレンズの小さな輝石」="Friends' Small Pyroxene"
 自主練の効果=Effects of Self-Training
 練習は大切=Practice is important
@@ -1173,35 +1240,43 @@ Kari=Kari
 フォローしますか？=Would you like to follow?
 使う数を選んでください=Choose the amount you want to use.
 
-----------Menu Fixes (again again)----------
+// ---------- Menu Fixes (again again) ----------
 限定クエスト\n挑戦可能！=Limited\n Time Quests!
 タッチして\n次のTipsへ=Touch.\nShow Next Tips
+// moved up from line 2970 so it is not shadowed by the shorter key `次のTipsへ` below
+タッチして\N次のTipsへ=Touch\NShow the Next Tip
 次のTipsへ=Next Tip
-大・超成功率UP！=Great/Super Rate Up!
+大・超成功率UP！=Success Rate Up!
 称号変更=Change Title
 助っ人変更=Change Helper
 助っ人フレンズ=Helper Friends
 ログインボーナス担当=Login Bonus Friend
-アシスタント変更=Change Assistant
+アシスタント変更=Assistant Change
 いきごみ変更=Change Spirit
+// moved up from line 1899 so it is not shadowed by the shorter key `アニマルガール` below
+アニマルガールたちの思い出が刻まれた結晶\nけものミラクルの強化に使用します=A crystal engraved with the memories of Animal Girls. Used to strengthen Kemono Miracle.
 アニマルガール=Animal Girl
 準備良し！=Ready!
 興味津々！=Very Interesting!
 アイテムが足りません=Not Enough Items
 フレームレート=Framerate
 同タブ内で=Within Quest Tab
-本日残り1回=1 Use left
+本日残り1回=1 Use Left
 太陽の恵みクエスト　なかよし！=Friendship Blessing Sun Quest!
+// moved up from line 2012 so it is not shadowed by the shorter key `有償` below
+しょうたい（ガチャ）で必要なアイテムは、\nしょうたい（ガチャ）画面の左下にある看板に表示されます。\n看板をタップすることで名称や説明を見ることができます。\n必要なアイテムがキラキラの場合は有償・無償の内訳も確認することができます。=Items required for the gacha are displayed at the bottom-left of the gacha screen. You can see the name and description by tapping the signtboard. If the item you need is Glitter, you can check the breakdown of Paid and Free Glitter.
+// moved up from line 2235 so it is not shadowed by the shorter key `有償` below
+有償キラキラ=Glitter (Paid)
+// moved up from line 2237 so it is not shadowed by the shorter key `有償` below
+キラキラ（有償）=Glitter (Paid)
 有償=Paid
 
-
-----------RAIDS----------
+// ---------- RAIDS ----------
 累計でイベントクエストを10回クリア=Cleared the Event Quest 10 times
 拠点ボスのHP=Boss' Base HP
 こんぷりーと=Concrete
 
-
-----------OUTFITS----------
+// ---------- OUTFITS ----------
 ライフセーバー水着=Lifeguard Swimwear
 沼津港深海水族館の服=Numazu Port Deep Sea Aquarium Outfit
 はなまるアニマル水着=Hanamaru Animal Swimsuit
@@ -1212,17 +1287,21 @@ Kari=Kari
 フリフリフリルPPPのビキニ=Frilly Ruffle PPP Bikini
 雨合羽=Raincoat
 
-----------ARTISTS----------
+// ---------- ARTISTS ----------
 タケチケイスケ=Takechi Keisuke
 
-----------Friendship Leveling----------
+// ---------- Friendship Leveling ----------
 あたいについて来れるなんて、\nあんたもなかなかやるじゃんか♪=You're pretty good at keeping up with me, aren't you?
 これからも隊長たんの面倒は\nこのジョフが見てやるでちよ！=I'll take care of you from now on!
 
-----------GACHA----------
+// ---------- GACHA ----------
 すぺしゃるWぴっくあっぷしょうたい=Special W Pickup Invitation
 
+// moved up from line 1235 so it is not shadowed by the shorter key `1月体力測定しょうたい` below
+11月体力測定しょうたい=November Physical Fitness Test Invitation
 1月体力測定しょうたい=January Physical Fitness Test Invitation
+// moved up from line 1236 so it is not shadowed by the shorter key `2月体力測定しょうたい` below
+12月体力測定しょうたい=December Physical Fitness Test Invitation
 2月体力測定しょうたい=February Physical Fitness Test Invitation
 3月体力測定しょうたい=March Physical Fitness Test Invitation
 4月体力測定しょうたい=April Physical Fitness Test Invitation
@@ -1232,10 +1311,12 @@ Kari=Kari
 8月体力測定しょうたい=August Physical Fitness Test Invitation
 9月体力測定しょうたい=September Physical Fitness Test Invitation
 10月体力測定しょうたい=October Physical Fitness Test Invitation
-11月体力測定しょうたい=November Physical Fitness Test Invitation
-12月体力測定しょうたい=December Physical Fitness Test Invitation
 
+// moved up from line 1248 so it is not shadowed by the shorter key `1月体力測定☆4確定！チケットしょうたい` below
+11月体力測定☆4確定！チケットしょうたい=November Physical Fitness Test ☆4 Confirmed Invitation
 1月体力測定☆4確定！チケットしょうたい=January Physical Fitness Test ☆4 Confirmed Invitation
+// moved up from line 1249 so it is not shadowed by the shorter key `2月体力測定☆4確定！チケットしょうたい` below
+12月体力測定☆4確定！チケットしょうたい=December Physical Fitness Test ☆4 Confirmed Invitation
 2月体力測定☆4確定！チケットしょうたい=Febraury Physical Fitness Test ☆4 Confirmed Invitation
 3月体力測定☆4確定！チケットしょうたい=March Physical Fitness Test ☆4 Confirmed Invitation
 4月体力測定☆4確定！チケットしょうたい=April Physical Fitness Test ☆4 Confirmed Invitation
@@ -1245,10 +1326,12 @@ Kari=Kari
 8月体力測定☆4確定！チケットしょうたい=August Physical Fitness Test ☆4 Confirmed Invitation
 9月体力測定☆4確定！チケットしょうたい=September Physical Fitness Test ☆4 Confirmed Invitation
 10月体力測定☆4確定！チケットしょうたい=October Physical Fitness Test ☆4 Confirmed Invitation
-11月体力測定☆4確定！チケットしょうたい=November Physical Fitness Test ☆4 Confirmed Invitation
-12月体力測定☆4確定！チケットしょうたい=December Physical Fitness Test ☆4 Confirmed Invitation
 
+// moved up from line 1261 so it is not shadowed by the shorter key `1月体力測定チケットしょうたい` below
+11月体力測定チケットしょうたい=November Physical Fitness Test Ticket Invitation
 1月体力測定チケットしょうたい=January Physical Fitness Test Ticket Invitation
+// moved up from line 1262 so it is not shadowed by the shorter key `2月体力測定チケットしょうたい` below
+12月体力測定チケットしょうたい=December Physical Fitness Test Ticket Invitation
 2月体力測定チケットしょうたい=Febraury Physical Fitness Test Ticket Invitation
 3月体力測定チケットしょうたい=March Physical Fitness Test Ticket Invitation
 4月体力測定チケットしょうたい=April Physical Fitness Test Ticket Invitation
@@ -1258,8 +1341,6 @@ Kari=Kari
 8月体力測定チケットしょうたい=August Physical Fitness Test Ticket Invitation
 9月体力測定チケットしょうたい=September Physical Fitness Test Ticket Invitation
 10月体力測定チケットしょうたい=October Physical Fitness Test Ticket Invitation
-11月体力測定チケットしょうたい=November Physical Fitness Test Ticket Invitation
-12月体力測定チケットしょうたい=December Physical Fitness Test Ticket Invitation
 
 すごい!!すぺしゃる10回しょうたい11=Wow!! Special 10 Time Invitation 11
 すごい!!すぺしゃる10回しょうたい12=Wow!! Special 10 Time Invitation 12
@@ -1288,15 +1369,23 @@ Kari=Kari
 冬応援！すてっぷあっぷしょうたい=Winter Cheer! Step-Up Invitation
 すごい!!なかよしクエスト=Amazing Friendship Quest
 
-----------STORE FIXES----------
+// ---------- STORE FIXES ----------
 対象フレンズ一覧=List of target Friends
 特商法について=About the Special\nCommercial Code
 お掃除開始！=Start cleaning!
 お掃除完了！=Cleaning is complete!
 大掃除に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for spring cleaning!
+// moved up from line 2368 so it is not shadowed by the shorter key `売り切れ` below
+このアイテムは\n売り切れです=SOLD OUT
+// moved up from line 2614 so it is not shadowed by the shorter key `売り切れ` below
+売り切れです=Sold Out
 売り切れ=Sold Out
 
+// moved up from line 1309 so it is not shadowed by the shorter key `1月前半!!どれすあっぷショップしょうたい` below
+11月前半!!どれすあっぷショップしょうたい=Early November!! Dress-up Store
 1月前半!!どれすあっぷショップしょうたい=Early January!! Dress-up Store
+// moved up from line 1310 so it is not shadowed by the shorter key `2月前半!!どれすあっぷショップしょうたい` below
+12月前半!!どれすあっぷショップしょうたい=Early December!! Dress-up Store
 2月前半!!どれすあっぷショップしょうたい=Early February!! Dress-up Store
 3月前半!!どれすあっぷショップしょうたい=Early March!! Dress-up Store
 4月前半!!どれすあっぷショップしょうたい=Early April!! Dress-up Store
@@ -1306,10 +1395,12 @@ Kari=Kari
 8月前半!!どれすあっぷショップしょうたい=Early August!! Dress-up Store
 9月前半!!どれすあっぷショップしょうたい=Early September!! Dress-up Store
 10月前半!!どれすあっぷショップしょうたい=Early October!! Dress-up Store
-11月前半!!どれすあっぷショップしょうたい=Early November!! Dress-up Store
-12月前半!!どれすあっぷショップしょうたい=Early December!! Dress-up Store
 
+// moved up from line 1322 so it is not shadowed by the shorter key `1月後半!!どれすあっぷショップしょうたい` below
+11月後半!!どれすあっぷショップしょうたい=Late November!! Dress-Up Invitation
 1月後半!!どれすあっぷショップしょうたい=Late January!! Dress-Up Invitation
+// moved up from line 1323 so it is not shadowed by the shorter key `2月後半!!どれすあっぷショップしょうたい` below
+12月後半!!どれすあっぷショップしょうたい=Late December!! Dress-Up Invitation
 2月後半!!どれすあっぷショップしょうたい=Late Febraury!! Dress-Up Invitation
 3月後半!!どれすあっぷショップしょうたい=Late March!! Dress-Up Invitation
 4月後半!!どれすあっぷショップしょうたい=Late April!! Dress-Up Invitation
@@ -1319,11 +1410,12 @@ Kari=Kari
 8月後半!!どれすあっぷショップしょうたい=Late August!! Dress-Up Invitation
 9月後半!!どれすあっぷショップしょうたい=Late September!! Dress-Up Invitation
 10月後半!!どれすあっぷショップしょうたい=Late October!! Dress-Up Invitation
-11月後半!!どれすあっぷショップしょうたい=Late November!! Dress-Up Invitation
-12月後半!!どれすあっぷショップしょうたい=Late December!! Dress-Up Invitation
 
+// moved up from line 1336 so it is not shadowed by the shorter key `1月前半!!すごい!!どれすあっぷしょうたい` below
+11月前半!!すごい!!どれすあっぷしょうたい=Early November!! Wow!! Dress-Up Invitation
 1月前半!!すごい!!どれすあっぷしょうたい=Early January!! Wow!! Dress-Up Invitation
-1月前半!!すごい!!どれすあっぷしょうたい=Early January!! Wow!! Dress-Up Invitation
+// moved up from line 1337 so it is not shadowed by the shorter key `2月前半!!すごい!!どれすあっぷしょうたい` below
+12月前半!!すごい!!どれすあっぷしょうたい=Early December!! Wow!! Dress-Up Invitation
 2月前半!!すごい!!どれすあっぷしょうたい=Early February!! Wow!! Dress-Up Invitation
 3月前半!!すごい!!どれすあっぷしょうたい=Early March!! Wow!! Dress-Up Invitation
 4月前半!!すごい!!どれすあっぷしょうたい=Early April!! Wow!! Dress-Up Invitation
@@ -1333,10 +1425,12 @@ Kari=Kari
 8月前半!!すごい!!どれすあっぷしょうたい=Early August!! Wow!! Dress-Up Invitation
 9月前半!!すごい!!どれすあっぷしょうたい=Early September!! Wow!! Dress-Up Invitation
 10月前半!!すごい!!どれすあっぷしょうたい=Early October!! Wow!! Dress-Up Invitation
-11月前半!!すごい!!どれすあっぷしょうたい=Early November!! Wow!! Dress-Up Invitation
-12月前半!!すごい!!どれすあっぷしょうたい=Early December!! Wow!! Dress-Up Invitation
 
+// moved up from line 1349 so it is not shadowed by the shorter key `1月前半!!すごい!!` below
+11月前半!!すごい!!=Early November!! Wow!!
 1月前半!!すごい!!=Early January!! Wow!!
+// moved up from line 1350 so it is not shadowed by the shorter key `2月前半!!すごい!!` below
+12月前半!!すごい!!=Early December!! Wow!!
 2月前半!!すごい!!=Early February!! Wow!!
 3月前半!!すごい!!=Early March!! Wow!!
 4月前半!!すごい!!=Early April!! Wow!!
@@ -1346,10 +1440,12 @@ Kari=Kari
 8月前半!!すごい!!=Early August!! Wow!!
 9月前半!!すごい!!=Early September!! Wow!!
 10月前半!!すごい!!=Early October!! Wow!!
-11月前半!!すごい!!=Early November!! Wow!!
-12月前半!!すごい!!=Early December!! Wow!!
 
+// moved up from line 1362 so it is not shadowed by the shorter key `1月後半!!すごい!!どれすあっぷしょうたい` below
+11月後半!!すごい!!どれすあっぷしょうたい=Late November!! Wow!! Dress-Up Invitation
 1月後半!!すごい!!どれすあっぷしょうたい=Late January!! Wow!! Dress-Up Invitation
+// moved up from line 1363 so it is not shadowed by the shorter key `2月後半!!すごい!!どれすあっぷしょうたい` below
+12月後半!!すごい!!どれすあっぷしょうたい=Late December!! Wow!! Dress-Up Invitation
 2月後半!!すごい!!どれすあっぷしょうたい=Late Febraury!! Wow!! Dress-Up Invitation
 3月後半!!すごい!!どれすあっぷしょうたい=Late March!! Wow!! Dress-Up Invitation
 4月後半!!すごい!!どれすあっぷしょうたい=Late April!! Wow!! Dress-Up Invitation
@@ -1359,22 +1455,17 @@ Kari=Kari
 8月後半!!すごい!!どれすあっぷしょうたい=Late August!! Wow!! Dress-Up Invitation
 9月後半!!すごい!!どれすあっぷしょうたい=Late September!! Wow!! Dress-Up Invitation
 10月後半!!すごい!!どれすあっぷしょうたい=Late October!! Wow!! Dress-Up Invitation
-11月後半!!すごい!!どれすあっぷしょうたい=Late November!! Wow!! Dress-Up Invitation
-12月後半!!すごい!!どれすあっぷしょうたい=Late December!! Wow!! Dress-Up Invitation
 
-----------MAIN Menu----------
+// ---------- MAIN Menu ----------
 最新話をアプリでチェック！=Check out the latest story!
 ～絶賛配信中～=～Streaming with rave reviews～!
-ワクワクけものバトル！\n～クリスマスアレンジ～=Exciting Kemono Battle!\nChristmas Arrangement
-強そうなの来たぁ～！\n～クリスマスアレンジ～=Here comes the strong one～\nChristmas Arrangement～!
 公式HP=Official HP
 あんいんちほーとせるりあん=Cerulean Tower
 
-----------SUITS CLOTHING----------
+// ---------- SUITS CLOTHING ----------
 イニシエヨリツタワルレトロナミズギ=Vintage Swimsuit
 
-----------FRIEND MENUS----------
-使用アイテム選択=Select the items to use
+// ---------- FRIEND MENUS ----------
 ジャパまん手作りセットを使ってなかよしレベル上限を解放します=Unlock the Friendship Level Cap by using Handmade Japari Bun Set!
 なかよしレベル上限は最大まで強化されています=Friendship Level Limit Reached
 選択したカテゴリで絞り込みができます=Filter your search by selecting categories
@@ -1382,37 +1473,36 @@ Kari=Kari
 ※アイコン長押しで一括選択ができます=Select a batch by pressing or holding an icon.
 野生解放素材を使ってフレンズのステータスを強化します=Use Wild Release materials to enhance a Friends' Status.
 小さな輝石を使ってフレンズのけも級(★)を上げます=Use Small Pyroxene to raise a Friend's Kemono Class(★)!
-ミラクル強化素材を使ってけものミラクルを強化します=Use Miracle materials to enhance a Friends' Kemono Miracle!
 輝石を使ってフォトポケランクを強化します=Use Pyroxene to increase a Friend's Photo Pocket Rank!
 ジャパまん手作りセット=Handmade Japari Bun Set
 フォトポケランクは最大まで強化されています=Photo Pocket Rank Limit Reached
-四神玉を使ってレベル上限を解放します=Shijindama increases a Friend's level limit.
 野生解放は最大まで強化されています=Wild Release Limit Reached
 けも級は最大まで強化されています=Kemo-Class Limit Reached
 けものミラクルは最大まで強化されています=Kemono Miracle Limit Reached
 挑戦回数が不足しています=Out of tries.
 対戦相手選択=Select Opponent
+// moved up from line 1944 so it is not shadowed by the shorter key `バトル中` below
+オーダーフラッグとは、バトル中にプレイヤーが行動を選択するコマンドカードです。\nターン開始時に所有者を問わずランダムなフレンズに配られます。=Order Flags are the Command Cards that players choose to Attack during battles. They are distributed at random at the start of the turn.
+// moved up from line 1945 so it is not shadowed by the shorter key `バトル中` below
+バトル中、同種のオーダーフラッグが2枚以上連続して選択されると発動します。=Chorus activates when 2 or more of the same type Flags are selected in order.
 バトル中=During Battle
 セーラー学生服=Sailor Student
 おそろい服=Matching Outfit
-フレンズ情報=Friend Info
+フレンズ情報=Friends Information
 フォト整理（売却）=Sell Photos
 
-----------IN-GAME CAPTAIN SKILL USES----------
+// ---------- IN-GAME CAPTAIN SKILL USES ----------
 本日残り3回=3 Uses Left
 本日残り2回=2 Uses Left
-本日残り1回=1 Use Left
 残り1=Uses: 1
 残り2=Uses: 2
 残り3=Uses: 3
-なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship<size\=24><color\=#FFEE00>x2</color></size>!
 倒した数=Kills
 
-----------FRIENDSHIP LEVEL----------
+// ---------- FRIENDSHIP LEVEL ----------
 隊長さんが入れるくらい大きな穴を掘ったの\nいっしょに入って、のんびりしよう=I dug a hole big enough for the captain and me,\nso let's go in together and relax.
 
-
-----------BEATS AND STANDBY----------
+// ---------- BEATS AND STANDBY ----------
 深海より現れし狙撃手=Sea Sniper Emerging
 思いを背負う血統=Powerful Bloodline's Legacy
 声援を受けて一等賞！=First Prize With Cheers!
@@ -1467,7 +1557,7 @@ Kari=Kari
 きらめく☆ドリームレイン=Sparkling☆Dream Rain
 ツイーッばしゃん！=Tweeting!
 ぱっくんでう！=So Full!
-ロック・オン！=Lock-On!
+ロック・オン！=Lock-on!
 サーバルジャンプ=Serval Jump
 ミラージュパンチ=Mirage Punch
 アライさんアタック=Arai-San Attack
@@ -1512,7 +1602,7 @@ Kari=Kari
 穴掘りスラッシュ=Digging Slash
 ヘヴィアタック=Heavy Attack
 ターンスピアー=Turn Spear
-い、威嚇ですぅ！="No= It's Intimidating!"
+い、威嚇ですぅ！=No, It's Intimidating!
 エレガント・ツイスト=Elegant Twist
 いっぱい手裏剣の術！=A Lot Of Shuriken Techniques!
 ばっさりハシビロウィンド=Bassari Shoebill Wind
@@ -1585,7 +1675,7 @@ Kari=Kari
 カラカルジャンプ=Caracal Jump
 ライトニング・ファング=Lightning Fang
 ユーカリ平葉打ち=Eucalyptus Flat Leaf Beating
-薔薇さん、ご一緒に♪="Bara-San= Come With Me♪"
+薔薇さん、ご一緒に♪=Bara-San, Come With Me♪
 じゃれ合いスイング=Playful Swing
 ワイルドヘッドバット=Wild Headbutt
 迷いを断ち切る！=Cut Off The Hesitation!
@@ -1619,7 +1709,7 @@ Kari=Kari
 オシャレ・アタック！=Fashionable Attack!
 コケコケきっく！=Moss Kick!
 アッツアツです！=It's Hot!
-ガオガオ・スクラッチ=Gaogao Scratch
+ガオガオ・スクラッチ=Gao Gao Scratch
 バリバリ・クロー=Bari-Bari Claw
 油断禁物ですよっ！=Don't Let Your Guard Down!
 フォックススタンプ=Fox Stamp
@@ -1627,7 +1717,7 @@ Kari=Kari
 目くらまし泥団子！=Dazzling Mud Balls!
 ほりほりアタック！=Hori Hori Attack!
 とつげきコンコン=Tsugeki Konkon
-ち、近いですっ！="Hey= It's Close!"
+ち、近いですっ！=Hey, It's Close!
 ご主人さまを守るの！=Protect Your Master!
 全力スイング=Full Swing
 極まりしワン・ツー！=Extreme One-Two!
@@ -1700,27 +1790,8 @@ kari=Kari
 ちょっと猛進！=A Little Rush!
 狙いを定めて=Take Aim
 ジャンピングうみゃみゃ=Jumping Umyamya
-デーモンボイス=Demon Voice
-滾れ黒焔槍！=Blazing Black Flame Spear!
-わたしのとっておき！=My Special!
-デーモン・スラップ=Demon Slap
-回ってテールキック=Turn And Tail Kick
-ブルーテールスラップ=Blue Tail Slap
-新たな一芸=A New Trick
-アライさんアタック=Arai-San Attack
-ミラージュパンチ=Mirage Punch
-ミラージュパンチ=Mirage Punch
-如意棒大乱舞=Nyoibo Great Ranbu
-どろろんの術！=Dororon No Jutsu!
-鋼鉄の尻尾=Steel Tail
-ホーク・ショット=Hawk Shot
-ガオガオ・スクラッチ=Gaogao Scratch
 アイドルのジャンプ=Idol Jump
 一撃ぱんち！=One Shot Punch!
-デーモンボイス=Demon Voice
-獅子三連=Three Lions
-滾れ黒焔槍！=Blazing Black Flame Spear!
-デーモン・スラップ=Demon Slap
 こっちはダメ！=This Is No Good!
 導け運命！=Destiny Guides Me!
 スマート・キック！=Smart Kick!
@@ -1741,7 +1812,6 @@ kari=Kari
 終わりにしよう=Trying To End
 すっごいくるくるジャンプ=Jump Round And Round
 これがお手本です=This Is The Model
-？？？？=? ? ? ?
 ？？？？=? ? ? ?
 紅炎=Red Flame
 とくいの頭突き！=A Special Headbutt!
@@ -1789,21 +1859,19 @@ kari=Kari
 ちゃぷちゃぷごくらく♪=Glamorous Splish Splash♪
 コイちゃんの本気！=Koi-chan's is Serious!
 
-----------STORY/MISSION FIXES----------
+// ---------- STORY/MISSION FIXES ----------
 後日公開！=Coming Soon!
 かがやき の ふるところ=The home of Sparkle
 私は…\nアライグマじゃないのさーっ！！=I'm... NOT ARAI-SAN!!
 お待ちしてました、隊長さん！=We've been waiting for you, Captain!
 
-----------FRIEND MOVE LISTS----------
----DHOLE---
-疾風のワイルドハント=Gale Wild Hunt
+// ---------- FRIEND MOVE LISTS ----------
+// ---------- DHOLE ----------
 相手単体に390％のダメージを与え\r\n与ダメージを10％減少させる (2ターン)=Deals 390% damage to a single opponent and reduces damage received by 10% (2 Turns).
 相手単体に429％のダメージを与え\r\n与ダメージを11％減少させる (2ターン)=Deals 429% damage to a single opponent and reduces damage received by 11% (2 Turns).
 相手単体に468％のダメージを与え\r\n与ダメージを12％減少させる (2ターン)=Deals 468% damage to a single opponent and reduces damage received by 12% (2 Turns).
 相手単体に507％のダメージを与え\r\n与ダメージを13％減少させる (2ターン)=Deals 507% damage to a single opponent and reduces damage received by 13% (2 Turns).
 相手単体に546％のダメージを与え\r\n与ダメージを14％減少させる (2ターン)=Deals 546% damage to a single opponent and reduces damage received by 14% (2 Turns).
-ロック・オン！=Lock-on!
 相手単体に120％のダメージを与える=Deal 120% damage to a single enemy.
 ヤマイヌの才=Yamainu's gifted
 与ダメージが7％増加する (3ターン)=Damage is increased by 7% (3 turnss) 
@@ -1813,7 +1881,7 @@ kari=Kari
 みんなでいきましょう！=Let's go together!
 味方全体の与ダメージが15％増加する=Increase damage dealt by allies by 15%
 
-----------ITEM DESCRIPTIONS----------
+// ---------- ITEM DESCRIPTIONS ----------
 様々な「経験」を含むという謎の鉱石。詳細は研究中。フレンズの新規加入やけも級アップで入手できます。探検！迷宮ゾーンでマスの解放に使用します=A mysterious ore said to contain "Experience." Details are under research. Can be obtained by gaining new Friends or increases Kemo-Class. Used for Mass Release in Labrynch Zone.
 破れた地図の紙片。組み合わせれば、もしかして…！シーサーバル道場で獲得したスターグラスとショップ交換し、探検！迷宮ゾーンでマスの解放に使用します=Torn pieces of a map. If combined, maybe... Can be obtained in the Store or in Shiserval Dojo. Used for Mass Release in the Labyrinth Zone!
 迷宮攻略の手がかりが書き記されている。誰のメモだろう…？\n探検！迷宮ゾーンでマスの解放に使用します=Clues to the Labyrinth's capture are written down...Who's notes are these? Time for EXPEDITION! Used for Mass Release in the Labyrinth Zone!
@@ -1835,6 +1903,8 @@ kari=Kari
 キンキンに冷えた１本をどうぞ　土に還るエコペットボトル採用\nピクニックであそべる時間を60分補充できます=Enjoy a refresingly cold drink using this eco-freindly PET bottle that returns to the soil. Replenishes 60 minutes of Picnic Play Time.
 フワッフワのパンに甘～いチョコがた～っぷり　形もキュートっ！\nピクニックであそべる時間を120分補充できます=This fluffy bread is filled with sweet chocolate and has a cute shape! Replenishes 120 minutes of Picnic Play Time.
 ずっしりみっしり何よりおいしい！　これがなくっちゃ始まらない！\nピクニックであそべる時間を240分補充できます="More delicious than anything else!" and "I can't start without this!" Replenishes 240 minutes of Picnic Play Time.
+// moved up from line 1847 so it is not shadowed by the shorter key `イベントショップで使用できます` below
+とくべつくんれんに参加するともらえるメダル\nイベントショップで使用できます=Medals that can be obtained by participating in the Special Training Event. Can be used in the Event Shop.
 イベントショップで使用できます=Can be used in the Event Shop.
 このメダルを持ってるなんて、あなたはなかなかおしゃれだね！\nショップで使用できます=You are very fasionable to have this Medal! Can be used in the shop.
 乗り物を動かすための電池　太陽光で充電します\nすぺしゃるクエストで使用します=Batteries for moving solar-powered vehicles. Used in Special Quests.
@@ -1844,9 +1914,9 @@ kari=Kari
 お日様の光を秘めた不思議な石　神々しさを感じる立派な佇まい\nわいわいツリーハウスで電池の充電に使用します=A mysterious stone that holds the light of the sun, its splendid appearance that feels divine! Used to charge Batteries at the Noisy Treehouse.
 特定のクエストをスキップできます=Allows you to skip certain quests to obtain their rewards.
 フォト所持枠が1つ増加する便利アイテム\n本アイテム1つにつき、フォトの所持枠が1つ増加します=A useful item that increases your total Photo Slots by 1.
-とくべつくんれんに参加するともらえるメダル\nイベントショップで使用できます=Medals that can be obtained by participating in the Special Training Event. Can be used in the Event Shop.
-しょうたい（ガチャ）で使用できます=Can be used to pull in the gacha.
+// moved up from line 1849 so it is not shadowed by the shorter key `しょうたい（ガチャ）で使用できます` below
 たくさん集めると☆４のフレンズが来てくれるそうです！\n対応するしょうたい（ガチャ）で使用できます=It seems that if you collect a lot of these, a 4-Star Friend will come to you! Can be used in the corresponding Invitation (gacha).
+しょうたい（ガチャ）で使用できます=Can be used to pull in gachas.
 ファニーなフレンズに愛される「ジャパリまんじゅう」通称ジャパまん\nLvの強化に使用します=Japari buns are loved by all Friends. These ones are beloved by Funny Friends!
 フレンドリーなフレンズに愛される「ジャパリまんじゅう」通称ジャパまん\nLvの強化に使用します=Japari buns are loved by all Friends. These ones are beloved by Friendly Friends!
 ラブリーなフレンズに愛される「ジャパリまんじゅう」通称ジャパまん\nLvの強化に使用します=Japari buns are loved by all Friends. These ones are beloved by Lovely Friends!
@@ -1896,21 +1966,15 @@ kari=Kari
 みんな大好きなお弁当、マイペースなフレンズにお勧めです\nけものミラクルの強化に使用します=Everyone's favorite beno, recommended for Carefree Friends. Used to strengthen Kemono Miracle.
 みんな大好きなお弁当、マイペースなフレンズにお勧めです\n一口食べればいつもの喜びを味わえます=Everyone's favorite bento, recommended for Carefree Friends. One bite is always a delight.
 みんな大好きなお弁当、マイペースなフレンズにお勧めです\n一口食べれば想像以上の喜びを味わえます=Everyone's favorite bento, recommended for Carefree Friends. One bite will give you more pleasure than you can imagine!
-アニマルガールたちの思い出が刻まれた結晶\nけものミラクルの強化に使用します=A crystal engraved with the memories of Animal Girls. Used to strengthen Kemono Miracle.
+// moved up from line 1903 so it is not shadowed by the shorter key `秘めた野性を解き放つ秘密の小瓶` below
+秘めた野性を解き放つ秘密の小瓶\nブラックジャガーの野生解放の強化に使用します=A secret vial that unleashes hidden wildness. Used to enhance Black Jaguar's Wild Release.
 秘めた野性を解き放つ秘密の小瓶=A secret vial that unleashes hidden wildness.
 アルパカ・ワカイヤの野生解放の強化に使用します=Used to enhance Huacaya Alpaca's Wild Release.
 アルパカ・ワカイヤの小瓶=Vial of Huacaya Alpaca
-秘めた野性を解き放つ秘密の小瓶\nブラックジャガーの野生解放の強化に使用します=A secret vial that unleashes hidden wildness. Used to enhance Black Jaguar's Wild Release.
 
-----------HELP MENUS----------
-ゴールド貯金箱とは=What is the Gold Piggy Bank?
-攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。=Hit Rate is determined by the Attacker's Accuracy and the Defender's Evasion.
-攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。=Hit Rate is determined by the Attacker's Accuracy and the Defender's Evasion.
+// ---------- HELP MENUS ----------
 ※かいひ率が100％でも攻撃側の攻撃命中率によっては攻撃を受けることがあります。=※100% Hit Rate may still miss depending on the Defender's Evasion.
-また、けものミラクルとセルリアンの大技は必ず命中します。=Also, Kemono Miracles and Cerulean Big Attacks will always hit.
-攻撃の命中判定は攻撃側の攻撃命中率と防御側のかいひ率によって行われます。\n※かいひ率が100％でも攻撃側の攻撃命中率によっては攻撃を受けることがあります。=Hit Chance is figured by the Hit Rate of the attacker and the Evade of the Defender.  ※If the Evade is 100%, the attack may still hit depending on the Hit Rate.
 装飾、絨毯、カーテンは「外す」を選択すると外すことができます。=Decorations, carpets, and curtains can be removed by selecting "Remove."
-ゲーム内で一定条件を満たすと報酬がもらえます。\nミッションにはトータルミッションの他に、\nデイリーミッション、ウィークリーミッション、\nすくすく成長ミッション、イベントミッションがあります。=If you meet certain expedition conditions, you will receive rewards. In addition, you'll earn Daily, Weekly, and Total Missions. There are Quick Growth Missions and Event Missions to do, as well.
 けも級はフレンズごとに星で表示されています。\nけも級を上げることでレベル上限を上げることができます。=The Kemo-Class is indicated by a Star for each Friend. You can raise the Friend's Level Cap by raising their Kemo-Class.
 また、けも級が上がるとフレンズのステータスや野生解放の上昇値がアップします。=In addition, when a Friend's Kemo-Class is increased, their Status and Wild Release will increase.
 フレンズは各野生解放段階ごとに6種類の素材アイテムを装備することができます。\n6種類のアイテムを全て装備すると野生解放段階がアップし、\n新たな6種のアイテムを装備可能となります。=Friends can equip 6 types of materials for each Wild Release stage. Equipping all 6 items will raise the Wild Release stage by 1.
@@ -1920,50 +1984,41 @@ kari=Kari
 フォトは、しょうたいやクエストで手に入れることができます。=Photos can be obtained through rewards and quests.
 フォトを素材にすることで強化するベースのフォトを強くすることができます。\n1回の強化で☆の数が同じ＆Lv.1のフォトを10枚素材にする毎に獲得EXPが増加します。=You can strengthen the selected base photo by using other photos as material. Acquired EXP will increase every time you use 10 photos with the same number of stars and level.
 フォトポケットとは、フレンズが持てるフォトの枠です。\n4つあるフォトポケットにはそれぞれレベルがあり、\nレベルに応じてセットしたフォトのステータスが上昇します。=A Photo Pocket is a photo that a Friend can hold. Each of the four Photo Pockets have a level, and the photo stats increase according to the Photo Pocket level.
-「大成功」や「超成功」になり、獲得EXPが増加する場合があります。\nなお、その際にレベル上限を超過した分のジャパまんとゴールドは返還されます。=A Friend or Photo who obtains a "Great Success" or "Super Success" will have their gained EXP increased. At that time, the amount of Japari Buns and Gold that exceed what was needed will be returned.
 ジャパまんを使用し、フレンズのレベルを上げられます。=You can raise the level of your Friends by using Japari Buns.
 レベルが90/90、93/93、96/96に達したフレンズは\n四神玉を使用することでレベルの上限を+3解放できます。=Friends who have reached levels 90/90, 93/93, and 96/96 can unlock their level cap by +3 by using a Shijindama.
 レベルが99/99、110/110、120/120、130/130、140/140に達したフレンズは、\n麒麟のめぐみを必要数使用することでレベルの上限を解放できます。\n（レベル99/99のみ＋11、他は+10）\nまた、レベル上限を解放するたびに星の色が変化します。=Friends who reached Levels 99/99, 110/110/, 120/120, 130/130, and 140/140 can use Kirin's Compassionto unlock the level limit. (+11 for level 99/99 only, +10 for all others). In addition, the color of the stars change each time the level limit is raised. 
 レベル100以上の強化ではバトルにおけるフレンズの特徴ごとに\n上昇するステータスが変化します。=At level 100 or higher, the stats will raise depending on the Friend's characteristics. 
 けものミラクル強化にはなかよしLv.を上げる必要があります。=It is necessary to raise a Friend's Friendship Lv. to strengthen their Miracle.
-また、けものミラクルをLv.5にするとフレンズストーリーの「エクストラバトル」が解放\nできるようになります。\nさらに、フレンズストーリーEXをクリアすると『けものミラクル＋』が解放されます。=In addition, if you raise Miracle to level 5, you will be able to unlock the Friend Story events. In addition to this, the Miracle+ will be unlocked by clearing Friends Story EX. 
 なかよしポイントはクエストクリア時にフレンズ達が獲得できるポイントです。\nなかよしLvを上げることで、ミラクル強化やフレンズストーリーの開放条件を\n満たすことができます。\nなかよしLvを6にすると、そのフレンズののぼりが獲得できます。=Friendship points are points that Friends earn when clearing quests. Raising the Friendship level will allow you to strengthen your Miracle and unlock more Friend Stories. If you reach Friendship level 6, you get that friend's banner.
 フレンズごとに設定されたミッションです。\nゲーム内で一定条件を満たすと報酬がもらえます。=Missions are set for each Friend. Meeting certain conditions will give you rewards on that Friend's page.
 けもステータスはフレンズのレベルやけも級を上げたり、\n野生解放にてアイテムを装備することで増やすことができます。\nまた、一部の着替えアイテム、「探検！迷宮ゾーン」で\nパラメータ上昇のマスを解放することで、けもステータスが増えます。=You can increase the stats of your Friends by raising their Level and Kemo-Class, or by equipping Photos and Accessories. In addition, clothing items will also increase stats.
 ※「探検！迷宮ゾーン」にてリセットを行うと「探検！迷宮ゾーン」で増加した分だけ、\n　けもステータスも減少します。=\n※If you reset Labyrinth Zone, Friend stats will decrease by the amount that the Labyrinth Zone increased them.
 おしゃれアクセはアイテム毎に「最初に装備したフレンズ」を「持ち主」として決定し、\n持ち主が決定されたおしゃれアクセは当該フレンズのみ装備できる状態となります。=Accessories given to a Friend will be locked to that Friend. Friends can only have one Accessory at a time.
-※持ち主は決定後に変更することができないためご注意ください\n（持ち主が決定された後も強化素材として利用及び売却は可能です）=※Please note that the owner cannot be changed. (Even after the owner is determined, it can still be sold or used as enhancement material).
-おしゃれアクセはフレンズが装備することで\n「ステータス上昇効果」と「見た目が変化する効果」があります。\nまた、同種のおしゃれアクセまたは対応するお手入れキットを強化素材として\n合成することでレベルを上昇させることができます。=When equipped by a Friend, accessories have a "Status Increase Effect" and an "Appearance Change Effect." In addition, you can raise the level by synthesizing the same kind of Accessory or the correspondingCare Kit.
 ※レベルが上昇するとステータス上昇効果が強化されます（見た目の変化には影響しません）=※As the level increases, the Status Increase Effect will be increased as well. (This does not affect the change in appearance.)
 章の最終話をクリアすると、その章の「ハード」が解放されます。\nシーズン2では特定の話をクリアすると、「ハード」が解放されます。=When you clear the final chapter of a story, the "Hard" mode will be unlocked. In season 2, if you clear a specific story, "Hard" mode will be released.
 けものフレンズ３のメインストーリーです。\nこのクエストを進めることでゲーム本編を進めることができ、\n新しいモードが解放されます。=The main story of Kemono Friends 3 is advanced by completing quests and proceeding through the story.
 ストーリーを進めていくと解放されるクエストの1つです。\nフレンズの成長に必要な素材を入手することができます。=This is one of the quests that unlock as you progress through the story. You can gather materials necessary for the growth of your Friends here.
 また、フレンズストーリー3話をクリアすることで、\nフレンズひとりひとりの特別なフォト「ワイルドフォト」が入手できます。=In addition, by clearing Episode 3 of a Friend's Story, you can get their special "Wild Photo."
 ストーリーを進めていくと解放されるクエストの1つです。\nフレンズたちの日常を覗くことができます。=This is one of the quests that are unlocked as you progress through the story. You can peek into the daily lives of your Friends!
-ストーリーを進めていくと解放されるクエストの1つです。\n過去に登場した難易度「むちゃ」のクエストや\n「太陽の恵み」クエストに挑戦することができます。\nまた、期間限定のクエストが出現する場合があります。=These are quests that are unlocked as you progress through the story. You can challenge past quests with new difficulty levels of "Excessive" and "Blessings of the Sun." In addition, limited-time quests may appear at times.
-オーダーフラッグとは、バトル中にプレイヤーが行動を選択するコマンドカードです。\nターン開始時に所有者を問わずランダムなフレンズに配られます。=Order Flags are the Command Cards that players choose to Attack during battles. They are distributed at random at the start of the turn.
-バトル中、同種のオーダーフラッグが2枚以上連続して選択されると発動します。=Chorus activates when 2 or more of the same type Flags are selected in order.
 Beat!!!コーラス：与ダメージがアップします。\n※同ターン内で後に発生した別フラッグのコーラスダメージもアップします。\nAction!コーラス：MPが増加します。\nTry!!コーラス：パーティの獲得プラズムチャージが増加します。=Beat!!! Chorus: Increases damage. *In addition, Increases Chorus damage of other flags within the same turn.\nAction! Chorus: Increases MP.\nTry!!: Increases the party's Plasma Charge.
 おかわりとは、1ターンに行えるフレンズの総行動回数を増加させることができる機能です。=Refill increases the total number of attacks Friends can perform in one turn.
-プラズムチャージは基本的に1回の行動で全て消費されます。=All Plasma Charges are consumed during the Turn.
+// moved up from line 1949 so it is not shadowed by the shorter key `プラズムチャージは基本的に1回の行動で全て消費されます。` below
 プラズムチャージは基本的に1回の行動で全て消費されます。\nまた、次ターンには持ち越されません。=Plasma Charges are all consumed with the Attack they're used with. In addition, it is not carried over to the next Turn.
+プラズムチャージは基本的に1回の行動で全て消費されます。=All Plasma Charges are consumed during the Turn.
 「Try!!」のオーダーフラッグを選択した時に貯まる数値です。=Plasma is the numerical value that accumulates when you select the "Try!!" Order Flags. 
-フレンズストーリーの「エクストラバトル」をクリアするとけものミラクル+が解放されます。\nけものミラクル+は特定のフラッグが配られているときに発動するとスキルレベル+1の効果\nになります。\nまた、演出やキャラクターボイスにも少しの変化があります。=If you clear an "Extra Battle" (EX) of the Friends Story, the Friend's Kemono Miracle+ will be unlocked. Kemono Miracle+ will be a +1 Skill Effect when activating a Special Flag. In addition, there are some changes to the visuals and the Friend's voice.
 MP（ミラクルポイント）が満タンまで溜まったフレンズは行動選択時に円形の部分を\nタッチすることで固有の必殺技であるけものミラクルを選択することができます。=Friends who filled their MP (Miracle Points) meter can perform a Kemono Miracle by touching the circular Action button when selecting an Attack.
 行動順が後ろのフレンズほど攻撃力が上昇します。\n回復の場合は、HP回復量が上昇します。=A Friend's attack power increases the later they are in the order of action. In the case of HP recovery, HP recovery increases as well.
 オーダーフラッグを使用しなかったフレンズが確率で発動するスキルです。\nただし、同じターンに2回以上行動したフレンズがいた場合は発動率が1/2になります。\nバトルの勝利が確定している場合、ターンエンドに発動するたいきスキルは発動しません。=Standby is a Skill that can activate if a Friend did not have an Order Flag used. If there are Friends who acted more than once in a turn, the Standby rate is halved.
 たいきスキルはフレンズごとに詳細画面にて確認することができます。=You can check Standby Skills on the Details page of each Friend.
-パーティ編成画面の「たいきスキル設定」ボタンやバトル中のフレンズ枠下部\n「たいき」ボタンでたいきスキルのON/OFF状態を設定することができます。=You can toggle Standby at the bottom of the Party screen or by using the button in the Friend's frame during battle.
-プレイヤーターンの開始時に画面右の隊長スキルアイコンをタップ選択することで\n隊長スキルを使用することができます。\nバトルに持ち込む隊長スキルはパーティ編成画面で変更することができます。=You can use Captain Skills by using the Captin Skill icon on the right of the screen during your Turn. You can change the skill used on the party formation screen.
 属性は以下の6種類があります。\nファニー（赤）\nフレンドリー（緑）\nリラックス（青）\nラブリー（桃）\nアクティブ（黄緑）\nマイペース（水）=There are six Attribute types for Friends and Ceruleans.\nFunny (Red)\nFriendly (Green)\nRelaxed (Blue)\nLovely (Pink)\nActive (Yellow-Green)\nCarefree (Light-Blue)
-サブ属性とは、フレンズが本来持っているメイン属性とは別に付いている属性のことです=A Sub-Attribute is separate from a Friends' attributes. 
-サブ属性が付いている場合、味方フレンズの該当する属性限定の効果=If the following are attached, Sub-Attributes can be gained:
+サブ属性とは、フレンズが本来持っているメイン属性とは別に付いている属性のことです=Sub-Attributes are separate from Main Attributes that Friends originally had.
+サブ属性が付いている場合、味方フレンズの該当する属性限定の効果=If an Ally Friend has a Sub-Attribute, the effect is limited to the following:
 ・属性相性における与ダメージ、被ダメージの増減\n・敵セルリアンや敵フレンズの属性限定の効果\n　（けものミラクル、とくいわざ、とくせい、キセキとくせい、フォトの全て）\n・各種画面における属性フィルター\n・属性毎の助っ人選択の表示\n・探検！迷宮ゾーンの属性ボーナス\n・ジャパまん等の成長アイテムで獲得できる経験値量\n・ちからくらべで対戦相手を選択しているときの有利/不利の表示\n・獲得できる「経験の鉱石」の属性=・Damage dealt/damage received based on Attribute Compatibility.\n・Enemy Cerulean and Enemy Friend Limited Attribute Effects.\n(Kemono Miracle, Special Moves, Attributes, Miracles, and Photos)\n・Attribute filters on various screens.\n・Display of helper section for each Attribute.\n・Labyrinth Zone Attribute Bonuses.\n・Amount of Experience gained with Growth Items such as Japari Buns.\n・Advantage/Disadvantage of opponents in Strength Contest.\n・Attributes gained by Experience Ore.\n
+// moved up from line 2054 so it is not shadowed by the shorter key `※メイン属性の「経験の鉱石」のみ獲得できます` below
+　※メイン属性の「経験の鉱石」のみ獲得できます=※You can only obtain Experience Ore from the main Attribute.
 ※メイン属性の「経験の鉱石」のみ獲得できます=※Only the main attribute "Experience Ore" can be acquired.\n
 とくせいとは、フレンズ・フォトが持つバトルの際に有効な効果を発揮するわざです。\nとくせいはフレンズ・フォトそれぞれの詳細画面にて確認することができます。=Attributes are effects in battle that are gained from Friends and Photos. Attributes can be checked in the Friends and Photos detail pages.
 キセキとくせいとは、特定のフレンズがフォトポケットを解放することによって\n効果を発揮するわざです。\nキセキとくせいを持つフレンズはフレンズ詳細画面にて確認することができます。=Miracle-Traits are moves that activate when Friends unlock certain Photo Pockets. You can check a Friend's Move List for their Miracle-Trait.
-※かいひ率が100％でも攻撃側の攻撃命中率によっては攻撃を受けることがあります。 ※Even if the Evade Rate is 100%, the attack may still hit depending on the Hit Rate.
-また、けものミラクルとセルリアンの大技は必ず命中します。=Kemono Miracles and Cerulean Big Attacks will always hit.
 くらくら状態中は、行動ができなくなります。\nパーティ全員が行動できない場合、自動的に相手のターンに移ります=During the Stun state, a Unit cannot act. If all party members are Stunned, your turn will be skipped.
 どく状態中は、ターン終了時にダメージを受けます=While Poisoned, Units will take extra damage at the end of the turn.
 すやすや状態中は行動ができなくなり、次に受けるダメージが上昇します。\nパーティ全員が行動できない場合、自動的に相手のターンに移ります=During this state, Units cannot act, and the next damage recieved is increased but will wake them up. If all party members are stunned are asleep, your turn will be skipped.
@@ -2004,12 +2059,10 @@ MP（ミラクルポイント）が満タンまで溜まったフレンズは行
 マスを解放することでフレンズのパラメータの上昇やアイテムの獲得ができます。\n解放に必要なアイテムはけも級アップやシーサーバル道場報酬のスターグラスを\nショップで交換することで獲得できます。=By unlocking the segments, you can increase the stats of Friends and acquire items. The items needed to unlock the Labyrinth can be obtained in the Star Glass shop and as a Shiserval Dojo reward.
 一部インテリアはタップすることでON/OFFを行うことができます。=Some decorations can be toggled on and off by tapping them.
 配置した天井照明はタップすることで照明のON/OFFを行うことができます。\n早朝、昼、夕方はデフォルトで照明がOFF、夜はデフォルトで照明がONとなります。=You can turn lights on and off by tapping them. Lights are turned off by default in the early morning, noon, and evening periods.
-敷物は３枚まで重ね置きができます。\n新たに設置する場合、一番上に配置されます=Up to 3 rugs can be stacked on top of each other. If you place a new rug, it will be placed on top.
 SSRインテリアを1個入手すると、スタミナの最大値が1アップします。\nスタミナ上昇の最大値は、100までです。=When you get 1 SSR Decoration, the maximum value of Stamina is increased by 1, to a maximum of 100.
 三脚付きカメラを設置すると、カメラモードを使用できます。=Camera Mode can be used when a Tripod Camera is placed.
 しょうたい（ガチャ）では、フレンズをしょうたいしたり、\nフォトやアイテムを入手したりすることができます。=Gachas let you invite Friends and get Photos.
 すでに加入しているフレンズを再度しょうたいした場合、\n自動的にそのフレンズの輝石に変換されます。=If you re-invite a Friend who has already joined, you'll get that Friend's Pyroxene.
-しょうたい（ガチャ）で必要なアイテムは、\nしょうたい（ガチャ）画面の左下にある看板に表示されます。\n看板をタップすることで名称や説明を見ることができます。\n必要なアイテムがキラキラの場合は有償・無償の内訳も確認することができます。=Items required for the gacha are displayed at the bottom-left of the gacha screen. You can see the name and description by tapping the signtboard. If the item you need is Glitter, you can check the breakdown of Paid and Free Glitter.
 なお、キラキラは無償分が優先して使用されます。=In addition, Free Glitter is always used before Paid Glitter.
 キラキラやしょうたい券を使用してフレンズをしょうたいしたり、\nフォトを入手することができます。\nしょうたい券は1回しょうたいにのみ使用することができます。=You can use Glitter and Gift Certificates to invite Friends and get photos. Gift Vouchers can only be used once, for a single gift.
 かつやくポイントを使用してフォトや強化アイテムを入手することができます。\nかつやくポイントは、助っ人に設定したフレンズが他のプレイヤーのバトルに\n参加することで入手できます。また、1日1回無料で10回しょうたいすることができます。=You can get power-up items and Photos by using Assist Points. Assist Points are obtained by participating in other players' battles with Helper Friends. You can also claim 10 pulls for free, once a day.
@@ -2035,7 +2088,6 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 ※☆6まで強化していなくても、☆6まで強化できる数以上の\n　小さな輝石を所持していれば、余剰分の小さな輝石を\n　フレンズ成長画面で輝きの欠片に変換することができます。=Even if a Friend has not been upgraded to ☆6, as long as they have enough Small Pyroxene to upgrade to ☆6, their surplus Small Pyroxene can still be converted.
 スターグラスと探検！迷宮ゾーン解放に必要なアイテムなどを交換することができます。\nスターグラスはシーサーバル道場で獲得できます。=Star Glass can be obtained in the Shiserval Dojo and exchanged for Labyrinth Zone items.
 輝きの結晶とアイテムを交換することができます。\n輝きの結晶は、フォトポケットを最大まで強化したフレンズの輝石を\nフレンズ成長画面で変換することなどで入手できます。=You can exchange Shining Crystals for Friends' Pyroxene. Friends' Pyroxene can be obtained by converting Friends' Pyroxene who have reached 4 Photo Pocket slots.
-輝きの小瓶とアイテムを交換することができます。\n交換できるアイテムのラインナップは、随時追加されます。=You can exchange Viles of Radiance for Friends' Vials. The lineup of items that can be exchanged will increase with time.
 ラッキーメダルとアイテムを交換することができます。\nアイテムは月に1回リセットされます。=You can exchange Lucky Beast Medals for items. These items reset once a month.
 くんれんメダルとアイテムを交換することができます。\nくんれんメダルは、ちからくらべで入手できます。\n隊長スキル以外のアイテムは月に1回リセットされます。=Training Medals can be exchanged for items. Training Medals can be obtained from various Training Modes. Items other than the Captain Skill items reset once a month.
 ☆２～３フレンズしょうたい状で任意の☆２、☆３のフレンズをしょうたいできます。\nしょうたい後はプレゼントで受け取ることができます。=☆２～３ Friends can be invited during events. You can also receive gifts instead of Friends.
@@ -2044,39 +2096,34 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 サブ属性は以下の影響を受けません。=Sub-Attributes are not affected by:
 ・属性相性における与ダメージ、被ダメージの増減=・Increase/Decrease in Damage Dealt/Received based on Attributes.
 ・敵セルリアンや敵フレンズの属性限定の効果=・Attribute-limited Effects from Ceruleans and enemy Friends.
-(けものミラクル、とくいわざ、とくせい、キセキとくせい、なないろとくせい、フォト全て)=(Kemono Miracle, Beat, Traits, Miracle Traits, Rainbow Traits, and Photos)
+(けものミラクル、とくいわざ、とくせい、キセキとくせい、なないろとくせい、フォト全て)=(Kemono Miracle, Traits,Rainbow Traits, and all Photos.)
 ・各種画面における属性フィルター=・Attribute filters in menus.
 ・属性毎の助っ人選択の表示=・Helper selection in menus.
 ・探検！迷宮ゾーンの属性ボーナス=・Expedition Labyrinth Zone bonuses.
 ・ジャパまん等の成長アイテムで獲得できる経験値量=・Amount of Experience gained from Growth Items such as Japari Buns.
 ・ちからくらべで対戦相手を選択しているときの有利/不利の表示=・Advantage/Disadvantage when selecting opponents.
 ・獲得できる「経験の鉱石」の属性=・Experience Ore gained from Friends.
-　※メイン属性の「経験の鉱石」のみ獲得できます=※You can only obtain Experience Ore from the main Attribute.
-サブ属性とは、フレンズが本来持っているメイン属性とは別に付いている属性のことです=Sub-Attributes are separate from Main Attributes that Friends originally had.
-サブ属性が付いている場合、味方フレンズの該当する属性限定の効果=If an Ally Friend has a Sub-Attribute, the effect is limited to the following:
-(けものミラクル、とくいわざ、とくせい、キセキとくせい、なないろとくせい、フォト全て)=(Kemono Miracle, Traits,Rainbow Traits, and all Photos.)
 
-
-----------PLAY----------
+// ---------- PLAY ----------
 てもちバルーン（オール）=Handheld Balloon (All)
+// moved up from line 2201 so it is not shadowed by the shorter key `虹色のてもちバルーン。風にのってふわふわ浮かぶよ。ピクニックであそぶことができる` below
+虹色のてもちバルーン。風にのってふわふわ浮かぶよ。ピクニックであそぶことができる。ジャパまん（オール）大が獲得できます=Rainbow-colored baloons that float in the wind. Lets you get Large Japari Buns (All) during your picnic!
 虹色のてもちバルーン。風にのってふわふわ浮かぶよ。ピクニックであそぶことができる=Rainbow colored balloons that float in the wind. Using this will drop Rainbow Japari Bun (All) Large. Can be used at Picnics.
 おでかけ (高山)=Outing (Alpines)
 みんなでいっしょに高山におでかけ! ピクニックであそぶことができる=Let's go to the Alpines and have a picnic!
-獲得量2倍=Rate x2
-げんきが最大値を超えて回復します\nこのままじゃぱりフードを使用してもよろしいですか？=Your energy will recover beyond the maximum value. Are you sure you want to continue using this Japari Food?
+獲得量2倍=Earn 2x
+げんきが最大値を超えて回復します\nこのままじゃぱりフードを使用してもよろしいですか？=Energy recovered beyond the maximum value.\nDo you still want to use the Japari Food?
+// moved up from line 2136 so it is not shadowed by the shorter key `プラズムチャージ` below
+プラズムチャージ増加=Increase Plasma Charge
 プラズムチャージ=Plasma Charge
 すこし不利=Slight disadvantage
 
-
-
-----------DOJO PARTY SELECT----------
+// ---------- DOJO PARTY SELECT ----------
 道場パーティ選択=Dojo Selection
-道場パーティ編成=Dojo Party Setup
 道場\nパーティ=Dojo Party
 道場パーティ=Dojo Party
 
-
-----------CLEAR CONDITIONS----------
+// ---------- CLEAR CONDITIONS ----------
 
 ギブアップ4人以内でクリア=Clear with less than 3 Friends giving up.
 ギブアップ3人以内でクリア=Clear with less than 3 Friends giving up.
@@ -2087,7 +2134,6 @@ SSRインテリアを1個入手すると、スタミナの最大値が1アップ
 パーティ全体のHP1%以上でクリア=Clear with all party's HP above 1%.
 3コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 3 or more.
 4コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 4 or more.
-3コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 3 or more.
 2コーラス以上のけもコーラスを発生させてクリア=Clear with a Chorus of 2 or more.
 1回以上おかわりしてクリア=Clear after using Refill at least once.
 1回以上けものミラクルを発動させてクリア=Clear by activating a Miracle at least once.
@@ -2112,15 +2158,17 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 パーティ全体のHP70％以上でクリア=Clear with the entire party at 70% or more HP.
 パーティ全体のHP90％以上でクリア=Clear with the entire party at 90% or more HP.
 
-----------Special Training----------
+// ---------- Special Training ----------
+// moved up from line 2123 so it is not shadowed by the shorter key `くんれんポイント` below
+・前シーズン結果に合わせて、ボーナスくんれんポイントが付与されました。=Bonus Training Points were assigned based on previous season.
 くんれんポイント=Training Points
-「決定！　ジャパリパークの１等賞！」ミッションの\n報酬を受け取りました=Reward received for\n"First Prize at Japari Park!"
 くんれんpt=Training pt.
+// moved up from line 2121 so it is not shadowed by the shorter key `くんれんクラス` below
+前シーズンのくんれんクラス=Previous Season Training Class
+// moved up from line 2122 so it is not shadowed by the shorter key `くんれんクラス` below
+・新シーズン開始に合わせて、くんれんクラスがリセットされました=New season begins, Training Classes reset.
 くんれんクラス=Training Class
 ボーナスくんれんPt.=Bonus Training Pt.
-前シーズンのくんれんクラス=Previous Season Training Class
-・新シーズン開始に合わせて、くんれんクラスがリセットされました=New season begins, Training Classes reset.
-・前シーズン結果に合わせて、ボーナスくんれんポイントが付与されました。=Bonus Training Points were assigned based on previous season.
 とくべつくんれん=Special Training
 獲得くんれんメダル=Earned Training Medals
 くんれんメダル=Training Medal
@@ -2133,7 +2181,6 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 いかく＆かくれみ減少=Threat and Camo Reduction
 状態異常付与=Remove Ailments
 おかわりゲージ増加=Increase Refill Gauge
-プラズムチャージ増加=Increase Plasma Charge
 与ダメージ＆命中率増加=Damage and Hit Rate Up
 作戦一覧=Operation List
 被ダメージ軽減=Damage Reduction
@@ -2144,49 +2191,42 @@ Action!で4コーラスを発生させてクリア=Clear with an Action Chorus o
 おうえんボーナス=Support Bonus
 輝石の変換=Trading Pyroxene
 
-----------DOJO BOSS ATTACK EFFECTS----------
+// ---------- DOJO BOSS ATTACK EFFECTS ----------
 ■ここに注意！=■Be careful here!
 ちくはぐリズム攻撃=Discord Attack
 MP減少攻撃（有利属性以外）=MP Reduction Attack (Disadvantaged Type)
 ルンルンきぶん攻撃=Joy Attack
-毎ターンMP減少攻撃=MP Reduction Attack Every Turn
+毎ターンMP減少攻撃=MP Reduction Every Turn
 MP減少攻撃=MP Reduction Attack
 あせあせ攻撃=Sweaty Attack
 毎ターンMP増加量半減=MP Halved each turn
 自動MP増加量半減=MP gain halved (Against all Types)
 詳細情報=Detailed Information
 どく攻撃=Poison Attack
-ズキンズキン攻撃=Throbbing Attack
+ズキンズキン攻撃=Pain Attack
 ロストフラッグ攻撃=Lost Flag Attack
 くらくら攻撃=Stun Attack
 すやすや攻撃=Sleep Attack
 くたくた攻撃=Exhaustion Attack
 ひやひや攻撃=Freeze Attack
-ズキンズキン攻撃=Pain Attack
 からげんき攻撃=Bravado Attack
 ぼんやりうっかり攻撃=Amnesia Attack
 しょんぼりきぶん攻撃=Gloom Attack
 びりびり攻撃=Paralysis Attack
 ばてばてヒリヒリ攻撃=Overheat Attack
 ちぐはぐリズム攻撃=Discord Attack
-ルンルンきぶん攻撃=Joy Attack
 はねかえし攻撃=Reflect Attack
 はねかえしむし攻撃=Pierce Attack
 かばう攻撃=Guard Attack
 いかく攻撃=Threat Attack
 かくれみ攻撃=Camo Attack
-どく攻撃=Poison Attack
-からげんき攻撃=Bravado Attack
-毎ターンMP減少攻撃=MP Reduction Every Turn
-かいひ強化=Increase Evade
-ぼんやりうっかり攻撃=Amnesia Attack
-全体大ダメージ攻撃=High Damage Attack-All
 かいひ強化=Increased Evasion
+全体大ダメージ攻撃=High Damage Attack-All
 MP増加量半減=MP increase halved
 ルンルンきぶん=Joy
 ちくはぐリズム=Discord
 
-----------DOJO PERSONAL BEST----------
+// ---------- DOJO PERSONAL BEST ----------
 バトル\n開始=Start\nBattle
 達成時のパーティ=Personal Best Party
 木曜日ベストスコア=Thursday's Top Score
@@ -2194,16 +2234,13 @@ MP増加量半減=MP increase halved
 自己ベストスコア= Personal Best Score
 与えたダメージ=Damage Dealt
 
-----------PICNIC----------
+// ---------- PICNIC ----------
 ピクニックアイテム獲得=Acquired Picnic Items
-あそびでアイテムを獲得しました=Acquired items while playing
+あそびでアイテムを獲得しました=Items were acquired from the picnic.
 以下のアイテムを獲得しました=Obtained the following items
-虹色のてもちバルーン。風にのってふわふわ浮かぶよ。ピクニックであそぶことができる。ジャパまん（オール）大が獲得できます=Rainbow-colored baloons that float in the wind. Lets you get Large Japari Buns (All) during your picnic!
 セット中=In Progress
-獲得量2倍=Earn 2x
 購入確認=Purchase Confirmation
-げんき補充=Energy Recharge
-げんきが最大値を超えて回復します\nこのままじゃぱりフードを使用してもよろしいですか？=Energy recovered beyond the maximum value.\nDo you still want to use the Japari Food?
+げんき補充=Energy Replenish
 ずっしりみっしり何よりおいしい！=It's hearty and delicious!
 これがなくっちゃ始まらない！=I can't start without it!
 フワッフワのパンに甘～いチョコがた～っぷり=Fluffy bread with plenty of sweet chocolate.
@@ -2220,7 +2257,7 @@ MP増加量半減=MP increase halved
 ピクニックであそべる時間を30分補充できます=You can refill your picnic time by 30 minutes.
 ピクニックであそべる時間を15分補充できます=You can refill your picnic time by 15 minutes.
 
-----------Passport and shop----------
+// ---------- Passport and shop ----------
 月間パスポートの購入が可能になりました。\nショップへ移動しますか？=Monthly Passports are now available for purchase.\nDo you want to go to the Shop?
 継続購入すると以下の特典が獲得できます。=You'll get the following benefits:
 【すごい!!!ごーじゃす】 ☆４フレンズしょうたいチケット×3=[Wow!!! Gorgeous] ☆4 Friend Invitation Ticket x3
@@ -2232,9 +2269,7 @@ MP増加量半減=MP increase halved
 なかよしPt増量=Friendship Bonus
 ピクニック　獲得量アップ効果=Picnic Rate Increased
 スペシャルデイリーミッション報酬=Special Daily Mission Rewards
-有償キラキラ=Glitter (Paid)
 キラキラ（無償）=Glitter (Free)
-キラキラ（有償）=Glitter (Paid)
 期間：30日＋1日=Lasts 30 +1 Days
 3つ\n獲得=Tier 3
 2つ\n獲得=Tier 2
@@ -2245,73 +2280,65 @@ MP増加量半減=MP increase halved
 『すごい!!すたんだーど』を購入しますか？=Would you like to purchase [Wow!! Standard]?
 ※『すごい!!すたんだーど』を購入した場合、\nほかのパスポートを重複購入することはできません。=※If you purchase [Wow!! Standard], you cannot purchase other Passports at the same time.
 
-----------Followings Menu----------
+// ---------- Followings Menu ----------
 フォロー解除確認=Stop Following Confirmation
 フォローを解除しますか？=Do you want to stop following?
-フォロー解除しました=You stopped following this user.
+フォロー解除しました=Stopped following.
 フォロワーを解除しますか？=Are you sure you want to remove this Follower?
 フォロワー解除確認=Remove Follower Confirmation
-フォロー解除しました=Stopped following.
 フォロワー解除しました=Follower removed.
 フォロー解除=Stop Following
 フォロワー解除=Remove Follower
 よろしくお願いします=Thank you
 
-----------SORTING ORDER FIXES----------
+// ---------- SORTING ORDER FIXES ----------
 なかよし順=Friendship
 フォトポケ2段階達成=Photo Pocket Level 2 Achieved
 フォトポケ順=Photo Pocket
 
-----------MIRACLES----------
-天狗飛礫=Tengu Flying Stones
+// ---------- MIRACLES ----------
 
-----------WEEKLY CHALLENGES----------
-「ウィークリー」ミッションの\n報酬を受け取りました="Weekly missions"\nrewards received.
+// ---------- WEEKLY CHALLENGES ----------
 1週間でクエスト50回クリア！=Clear 50 Quests this week!
-1週間でちからくらべに20回挑戦！=Challenge Power Comparison 20 times this week!
+1週間でちからくらべに20回挑戦！=Challenge Strength Comparison 20 times this week!
 1週間でシーサーバル道場に4回挑戦！=Challenge the Shiserval Dojo 3 times this week!
 1週間でシーサーバル道場に8回挑戦！=Challenge the Shiserval Dojo 8 times this week!
-1週間でちからくらべに20回挑戦！=Challenge Strength Comparison 20 times this week!
 1週間でフォトを1回強化しよう！=Strengthen a photo one time this week!
 1週間でフォトを10回強化しよう！=Strengthen photos 10 times this week!
 ピクニックから1週間で「小さな輝石」を5個獲得！=Get 5 Small Pyroxene from the Picnic this week!
 ピクニックから1週間で「小さな輝石」を10個獲得！=Get 10 Small Pyroxene from the Picnic this week!
 1週間でわくわく訪問のスタンプを15回送ろう！=Send 15 Exciting Visit Stamps this week!
-1週間でクエスト50回クリア！=Clear 50 Quests this week!
 
-----------DAILY CHALLENGES----------
+// ---------- DAILY CHALLENGES ----------
 1日でちからくらべに1回挑戦！=Challenge Strength Contest once today!
 1日でちからくらべに3回挑戦！=Challenge Strength Contest 3 times today!
-1日でクエスト3回クリア！=Clear 3 quests today!
 1日1回ホームにアクセス！=Access Home once today!
 シーサーバル道場に1回挑戦！=Challenge the Shiserval Dojo once today!
-1日でクエスト1回クリア！=Clear 1 quest today!
 1日でクエスト2回クリア！=Clear 2 quests today!
-1日でクエスト3回クリア！=Clear 3 quests today!
 1日でクエスト4回クリア！=Clear 4 quests today!
-1日でクエスト5回クリア！=Clear 5 quest today!
 1日でクエスト6回クリア！=Clear 6 quests today!
-1日でクエスト7回クリア！=Clear 7 quests today!
-1日でクエスト8回クリア！=Clear 8 quests today!
-1日でクエスト9回クリア！=Clear 9 quests today!
 好きなしょうたいで1日10回しょうたいしよう！=Make 10 Invitations today!
+// moved up from line 2523 so it is not shadowed by the shorter key `ジャパリパーク` below
+ジャパリパーク立ち入り禁止区域・解除開始=Japari Park Off-Limits Area
+// moved up from line 3795 so it is not shadowed by the shorter key `ジャパリパーク` below
+ジャパリパーク探検隊= Japari Park Expedition
+// moved up from line 3799 so it is not shadowed by the shorter key `ジャパリパーク` below
+ジャパリパーク警備隊=Japari Park Guard Force
 ジャパリパーク=Japari Park
 じゃぱりぱあく=Japari Park
 ジャパリバス=Japari Bus
 
-----------MESSAGE BOXES----------
+// ---------- MESSAGE BOXES ----------
 挑戦中のバトルがあります\nバトルを再開しますか？=You have a battle in progress, would you like to resume?
-「スペシャルデイリー」ミッションの\n報酬を受け取りました="Daily Special" Mission\nRewards Recieved.
-「デイリー」ミッションの\n報酬を受け取りました="Daily" Mission\n Rewards Received.
 メンテナンスエラー=Maintenance Error
 データ更新があったため\nタイトル画面に戻ります\n\nCODE:12=Data Update Available.\nReturning to the title screen.\n\nCODE:12
 消費スタミナ減少！=Stamina Cost Down!
-なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship <size\=24><color\=#FFEE00>x2</color></size>!
 正常にアクセスできませんでした\nタイトル画面に戻ります=Failed to access the network.\nReturning to the title screen.
 クエスト情報=Quest Info
 共闘に備えるためのおいしいラムネセット！=A delicious ramune set to prepare for joint battles!
 
-----------ALT FRIEND TEXT----------
+// ---------- ALT FRIEND TEXT ----------
+努力は裏切らない=Hard Work Pays Off
 ゴールまで一直線！=Cross The Goal!
 今日から神様らしい！=Like A God!
 さいきょーあいどる！=Best Idol!
@@ -2340,7 +2367,7 @@ PPPのプリンセス=PPP's Princess
 ブームの予感ですよ？=Trend-Sense... Tingling?
 頼られちゃ仕方ない=I guess I'll help...
 ぷろげーまー=Pro Gamer
-キセキとくせい=Miracle Trait
+キセキとくせい=Miracle-Trait
 正義の家庭教師=Tutor of Justice
 一撃の極意=Single-Strike Style
 解き放たれしダークネスホーン=Horn of Darkness
@@ -2355,26 +2382,23 @@ PPPのプリンセス=PPP's Princess
 どこでも突撃！えんため隊=Charge Anywhere!
 天才博士が通りますよ=Genius Doctor Coming Through
 
-
-----------GACHA AND REAL MONEY STORE ITEMS----------
+// ---------- GACHA AND REAL MONEY STORE ITEMS ----------
 を6個交換しました=Exchanged for 6 items.
 を5個交換しました=Exchanged for 5 items.
 を4個交換しました=Exchanged for 4 item.
 を3個交換しました=Exchanged for 3 items.
 を2個交換しました=Exchanged for 2 items.
 を1個交換しました=Exchanged for 1 item.
-しょうたい（ガチャ）で使用できます=Can be used to pull in gachas.
-このアイテムは\n売り切れです=SOLD OUT
-おひとり様1個まで=One per person
 購入する=Buy Now
 アライグマショップしょうたい券パック=Arai-san Invitation Ticket
 アライグマショップしょうたい券付き！=Comes with an Arai-san Shop Ticket!
 アライグマショップしょうたい券=Arai-san Shop Invitation Ticket
 しょうたい券=Invitation Ticket
+// moved up from line 2601 so it is not shadowed by the shorter key `すてっぷあっぷしょうたい` below
+集合すてっぷあっぷしょうたい=Meeting Step Up
 すてっぷあっぷしょうたい= Step-Up Invitation
 
-----------NOISY TREEHOUSE----------
-ちょこっとVRを終了する場合、\n画面をダブルタップしてください=To exit Little VR, double-tap the screen.
+// ---------- NOISY TREEHOUSE ----------
 カメラ\nリセット=Center\nCamera
 インテリア\n回転=Interior\nRotation
 グリッド\n回転=Grid\nRotation
@@ -2396,7 +2420,6 @@ PPPのプリンセス=PPP's Princess
 つよくなる！=Become stronger!
 近づくなにか=Something approaching
 秘めたる輝き=Hidden brilliance
-木漏れ日のなか=in the sunlight filtering through trees
 時はゆったりと=Time is relaxing
 こっちのターン！=Our turn!
 よくない気配=Not a good sign
@@ -2407,9 +2430,10 @@ PPPのプリンセス=PPP's Princess
 ロックマイク=Rock Microphone
 イースターエッグスタンドミラー=Easter egg stand mirror
 
-----------Status Effect Descriptions----------
+// ---------- Status Effect Descriptions ----------
+// moved up from line 2441 so it is not shadowed by the shorter key `与えるダメージが上昇` below
+リラックス属性の相手に与えるダメージが上昇=Increased Damage dealt to Relaxed Attributes.
 与えるダメージが上昇=Increases Damage Dealt
-被ダメージ軽減=Damage Reduction
 受けるダメージを軽減=Reduceses Damage Received
 毎ターンＭＰ増加=Increases MP Each Turn
 プレイヤーターン開始時にＭＰが増加する=MP increases at the start of the Player Turn
@@ -2429,39 +2453,39 @@ PPPのプリンセス=PPP's Princess
 すやすや耐性アップ=Sleep Resistance Up
 すやすや耐性が上昇= Increased Sleep Resistance
 びりびり耐性アップ=Paralysis Resistance Up
+// moved up from line 2437 so it is not shadowed by the shorter key `びりびり耐性が上昇` below
+どく、すやすや、くたくた、びりびり耐性が上昇=Increased Resistance to Poison, Sleep, and Exhaustion.
 びりびり耐性が上昇=Increased Poison Resistance
 ズキンズキン耐性アップ=Pain Resistance Up
 ズキンズキン耐性が上昇=Increased Pain Resistance
 各耐性アップ=Multi-Resistance Up
-どく、すやすや、くたくた、びりびり耐性が上昇=Increased Resistance to Poison, Sleep, and Exhaustion.
 Action!フラッグのダメージ上昇=Increased Action! Flag Damage
 Try!!フラッグのダメージ上昇=Increased Try!! Flag Damage
 Beat!!!フラッグのダメージ上昇=Increased Beat!!! Flag Damage
-リラックス属性の相手に与えるダメージが上昇=Increased Damage dealt to Relaxed Attributes.
-どく、すやすや、くたくた、びりびり耐性が上昇=Increased Resistance to Poison, Sleep, and Exhaustion.
 
-----------MENU FIXES----------
+// ---------- MENU FIXES ----------
 同一クエストタブ=Same Quest Tab
 クエスト\nスキップ=Quest\nSkip
 グラフィック描画のクオリティを設定します=Configure in-game graphics quality.
 無料あり！=Free Pull!
-高画質=HD
+高画質=High Resolution
 データ復旧=Data Recovery
 （無償）=(Free)
 とくせい情報=Card Info
-所持ゴールド=Owned Gold
+所持ゴールド=Gold Owned
 必要ゴールド=Gold Needed
 選択中フォト=Selected Photos
+// moved up from line 2981 so it is not shadowed by the shorter key `フォト強化` below
+フォト強化 大・超成功率UP!=Photo Level Rate UP!
 フォト強化=Strengthen Photos
 昇順=Asc.
 降順=Desc.
-今日はこれだよー！\n準備はいいかなぁ？=This is it for today...\nAre you ready for it?
 準備\nOK=Ready, GO!
 素材のフォトを選んでください=Select other photos to strengthen this photo.
 強化するベースとなるフォトを選んでください=Choose a base photo to strengthen.
 クエストモード選択=Quest Mode Select
 属性相性=Attribute Compatibility
-サブ属性-Sub-Attribute
+サブ属性=Sub-Attribute
 けものミラクル強化=Strengthen Kemono Miracles
 家具を外す=Removing Furniture
 Lv.上限解放（Lv.150まで）=Lv. Limit Release (up to Lv. 150)
@@ -2469,6 +2493,8 @@ Lv.上限解放（Lv99まで）=Lv. Limit Release (up to Lv. 99)
 コチョコチョマスター=Tickle Master
 コチョコチョとは=What is Tickle Event?
 ちゃんぴおん=Champion
+// moved up from line 2638 so it is not shadowed by the shorter key `を受け取りました` below
+報酬を受け取りました=Rewards Recieved.
 を受け取りました=Received
 スキップして次へ進みますか？=Skip and continue?
 文章でストーリーを読んで次へ進む=Read the story log and exit
@@ -2476,7 +2502,6 @@ Lv.上限解放（Lv99まで）=Lv. Limit Release (up to Lv. 99)
 強敵について=About Shiserval Bosses
 電源のON/OFFができるインテリア=Decorations That Can Turn Off
 天井照明=Ceiling Lights
-敷物の重ね置き=Stacking Rugs On Top Of Each Other
 電池と充電=Charging Batteries
 SSRインテリアボーナス=SSR Interior Bonus
 三脚付きカメラ=Tripod Camera
@@ -2487,9 +2512,8 @@ SSRインテリアボーナス=SSR Interior Bonus
 編集\n完了=Done
 編集\nキャンセル=Cancel
 雑貨=General
-収納=Dresser
+収納=Dressers
 家具効果=Furniture Effect
-あそびでアイテムを獲得しました=Items were acquired from the picnic.
 片づけ=Remove
 獲得報酬=Mode
 3倍モード=3x Mode
@@ -2498,20 +2522,22 @@ SSRインテリアボーナス=SSR Interior Bonus
 なかよしポイント=Friendship Points
 章变更=Chapter Select
 マップ地点選択=Map Select
-ちょこっとアニメ=Little Anime
+// moved up from line 2503 so it is not shadowed by the shorter key `ちょこっとアニメ` below
 【最新】ちょこっとアニメ=[Latest] Little Anime
-すごい！=Wow!
-すごい！！=Wow!!
+ちょこっとアニメ=Little Anime
+// moved up from line 2505 so it is not shadowed by the shorter key `すごい！` below
+// moved up from line 2506 so it is not shadowed by the shorter key `すごい！！` below
 すごい！！！=Wow!!!
+すごい！！=Wow!!
+すごい！=Wow!
 限界突破=Limit Break
 ソート順の設定=Configure Sorting Order
 整理(売却)=Sell Photos
 巫女服=Shrine Maiden
 探検隊Lv.=Expdn Lv.
 麒麟のめぐみ=Kirin's Blessings
-結果報告=Quest Report
+結果報告=Report Results
 ステップの状態確認=Step Confirmation
-待機フレンズ設定=Standby Friend Configuration
 待機フレンズに設定されたフレンズは\nホーム画面で固定で登場するようになります\n設定しますか？=Friends set as Standby Friends\nwill appear permanently on the home screen.\nWould you like to set them?
 プロフィール設定=Profile
 おでかけようの服=Going Out Clothes
@@ -2519,11 +2545,9 @@ SSRインテリアボーナス=SSR Interior Bonus
 着替え=Change\nClothes
 ガチャピン=Gachapin
 不正な起動です=Launch the game with DMM Player.
-ジャパリパーク立ち入り禁止区域・解除開始=Japari Park Off-Limits Area
 野生大解放チャレンジ=Wild Release Challenge
 自己ベスト\nスコア=Personal\nBest
 獲得\n報酬=Earned\nReward
-バチバチ百幻脚=Hundred Phantom Legs
 フレンズプロフィールから確認できます=You can see it in Friend Details!
 リトライしますか？=Would you like to retry?
 通信エラーです=Communication Error.
@@ -2551,7 +2575,6 @@ SSRインテリアボーナス=SSR Interior Bonus
 5倍になる=5 times.
 装着フォト一括解除=Remove All Photos
 準備OK=Ready
-げんき補充=Energy Replenish
 道場ミッション=Dojo Mission
 シーサーバル道場=Shiserval Dojo
 強敵詳細=Enemy Info
@@ -2563,14 +2586,17 @@ SSRインテリアボーナス=SSR Interior Bonus
 大丈夫大丈夫=Okay okay okay
 ゆっくり行こうね!=Let's go slowly!
 獲得ゴールド=Gold Earned
+// moved up from line 2631 so it is not shadowed by the shorter key `獲得アイテム` below
+獲得アイテム<Size\=24><Color\=#Ffee00>1.5</Color></Size>倍=Acquired Items<Size\=24><Color\=#Ffee00>1.5</Color></Size>Doubling
 獲得アイテム=Items Earned
 通信エラーが発生しました=A communication Error has occured
 電波状況をご確認いただき=Please check your signal status
 再度お試しください=Please Try Again
+// moved up from line 3173 so it is not shadowed by the shorter key `フレンズ成長` below
+フレンズ成長 大=Friend Growth
 フレンズ成長=Friend Growth
 シーサーバル・レフティ=Shiserval Lefty
 シーサーバル・ライト=Shiserval Right
-結果報告=Report Results
 パーティ名変更=Party Name
 たいきスキル設定=Standby
 隊長スキル変更=Captain Skill
@@ -2579,6 +2605,10 @@ SSRインテリアボーナス=SSR Interior Bonus
 1日1回無料=Free once Daily
 敵の情報=Enemy Info
 エクストラクエストのむちゃをクリア=Clear The Extra Quest
+// moved up from line 3046 so it is not shadowed by the shorter key `挑戦回数` below
+挑戦回数が全回復した際に通知します。=Notification will be given when the challenges have been fully restored.
+// moved up from line 3047 so it is not shadowed by the shorter key `挑戦回数` below
+挑戦回数回復=Challenge Recovery
 挑戦回数=# of Tries
 しょうたい確認=Invitation Confirmation
 無料で10回しょうたいします=Try 10 Times For Free.
@@ -2590,14 +2620,28 @@ SSRインテリアボーナス=SSR Interior Bonus
 なかよしpt獲得量アップ=Friendship Exp\nRate Up!
 なかよしpt=Friendship Pt.
 獲得量アップ！=Drop Rate Up!
-助っ人フレンズ=Helper Friends
 フレンズ確定時=Friend Rate
 エクストラ=Extra
-わくわく訪問のスタンプ+Exciting Visit Stamp
+わくわく訪問のスタンプ=Exciting Visit Stamp
+// moved up from line 3736 so it is not shadowed by the shorter key `セルリアン` below
+ダイオウセルリアン=Daioh Cerulean
+// moved up from line 3743 so it is not shadowed by the shorter key `セルリアン` below
+ラジカセセルリアン=Radica Cerulean
+// moved up from line 3757 so it is not shadowed by the shorter key `セルリアン` below
+黒デカセルリアン=Black Dekkai Cerulean
+// moved up from line 3759 so it is not shadowed by the shorter key `セルリアン` below
+ファージセルリアン=Phage Cerulean
+// moved up from line 3760 so it is not shadowed by the shorter key `セルリアン` below
+白セルリアン=White Cerulean
+// moved up from line 3761 so it is not shadowed by the shorter key `セルリアン` below
+巨大セルリアン=Giant Cerulean
+// moved up from line 3762 so it is not shadowed by the shorter key `セルリアン` below
+変異種セルリアン=Mutant Cerulean
+// moved up from line 3766 so it is not shadowed by the shorter key `セルリアン` below
+セルリアン女王=Cerulean Queen
 セルリアン=Cerulean
 トラフレンズ=Tiger Friends 
 集合PU確定チケットしょうたい=Gathering PU Confirm Ticket
-集合すてっぷあっぷしょうたい=Meeting Step Up
 バレンタイン=Valentine's 
 哺乳綱ネズミ目チンチラ科=Mammalia Rodentia Chinchilla
 チンチラ属チンチラ=Family Chinchilla Genus Chinchilla
@@ -2610,7 +2654,6 @@ PPPパーカー=PPP Hoodie
 学園制服=School Uniform
 サクラのネックレス=Cherry Blossom Necklace
 ネックレス=Necklace
-売り切れです=Sold Out
 フード購入=Buy Food
 フォト交換所=Photo Exchange
 敵の属性=Attributes
@@ -2626,15 +2669,12 @@ Wave数=Waves
 次の探検隊lvまで=To The Next Level
 スタミナ全回復まで=Full Recovery Stamina
 Ssrインテリアボーナス=Ssr Interior Bonus
-スタミナ回復速度2倍!=Doubled Stamina Recovery!
-獲得アイテム<Size\=24><Color\=#Ffee00>1.5</Color></Size>倍=Acquired Items<Size\=24><Color\=#Ffee00>1.5</Color></Size>Doubling
 フォトタイプ=Photo Type
 ☆の数=Number Of ☆
 閉じる=Close
 「スペシャルデイリー」="Special Daily" 
 「デイリー」="Daily"
 ミッションの=Mission
-報酬を受け取りました=Rewards Recieved.
 回送ろう=Send
 週間=Week
 ログインボーナス=Login Bonus
@@ -2648,12 +2688,11 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 楽曲変更=Change Music
 楽曲一覧=Music List
 ボタン\N非表示=Button\Nhide
-アフリカオオコノハズク=Northern White-Faced Owl
-アルパカ・スリ=Alpaca Suri
+アフリカオオコノハズク=White-Faced Owl
+アルパカ・スリ=Suri Alpaca
 コツメカワウソ=Small-Clawed Otter
 ウミネコ=Black-Tailed Gull
 カーテン=Curtains
-収納=Dressers
 家電=Electronics
 絨毯=Carpet
 椅子=Chair
@@ -2666,27 +2705,24 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 通算=Total
 ためこみ上手=MP Hoard
 
-----------Captain Skill Menu----------
+// ---------- Captain Skill Menu ----------
 
 交換するフラッグを選んでください=Please select the flag you wish to exchange.
 コンティニューする=Continue
 プラズムをチャージ=Charge Plasma
-プラズムチャージ=Plasma Charge
 行動順バフ=Order of Action Buff
 獲得ＭＰ=Gained MP
 ＭＰ増加=MP Increase
 獲得ポイント２.０倍=2.0x Points Earned
 ミラクルポイントを獲得=Earn Miracle Points
 バトル情報=Battle Information
-フレンズ情報=Friends Information
 隊長スキル発動！=Activation the Captain's Skill!
 隊長スキル=Captain Skill
 
-----------Stickers----------
+// ---------- Stickers ----------
 シールコレクション=Sticker Collection
 
-
-----------FRIENDS AND MISC
+// ---------- FRIENDS AND MISC ----------
 アカウミガメ=Loggerhead Turtle
 アオウミガメ=Green Turtle
 マッコウクジラ=Sperm Whale
@@ -2697,7 +2733,7 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 N・ハイランドワイルドドッグ=Highland Wild Dog
 エゾユキウサギ=Ezo Mountain Hare
 シロクジャク=White Peafowl
-ゴルゴプスカバ=Gorgops Hippo
+ゴルゴプスカバ=Hippopotamus Gorgops
 バンドウイルカ=Bottlenose Dolphin
 マナティー=Manatee
 再起動=Restart
@@ -2711,10 +2747,14 @@ N・ハイランドワイルドドッグ=Highland Wild Dog
 インドシナウォータードラゴン=Chinese Water Dragon
 シンリンオオカミ=Eastern Wolf
 イエイヌ（シベリアンハスキー）=Siberian Husky
-ワシミミズク=Eurasian Eagle Owl
+ワシミミズク=Eurasian Eagle-Owl
+// moved up from line 3673 so it is not shadowed by the shorter key `キタキツネ` below
+シロイキタキツネ=White Ezo Red Fox
 キタキツネ=Ezo Red Fox
 ギンギツネ=Silver Fox
-キンシコウ=Golden Snub-Nose Monkey
+キンシコウ=Golden Snub-Nosed Monkey
+// moved up from line 3614 so it is not shadowed by the shorter key `ヒツジ` below
+ユキヒツジ=Snow Sheep
 ヒツジ=Sheep
 リョコウバト=Passenger Pigeon
 ブラックバック=Blackbuck
@@ -2726,19 +2766,19 @@ N・ハイランドワイルドドッグ=Highland Wild Dog
 ガラパゴスコバネウ=Galapagos Cormorant
 ガラパゴスペンギン=Galapagos Penguin
 ロイヤルペンギン=Royal Penguin
-オオフウチョウ=Greater Bird Of Paradise
+オオフウチョウ=Greater Bird-Of-Paradise
 イワトビペンギン=Rockhopper Penguin
 ジェンツーペンギン=Gentoo Penguin
 サバンナシマウマ=Plains Zebra
 トムソンガゼル=Thomson's Gazelle
 マレーバク=Malayan Tapir
-インドゾウ=Asian Elephant
+インドゾウ=Indian Elephant
 キングコブラ=King Cobra
-ミナミコアリクイ=Southern Tamandua
-ブラッザグエノン=Brazza Monkey
+ミナミコアリクイ=Tamandua
+ブラッザグエノン=De Brazza's Monkey
 オカピ=Okapi
 ツチノコ=Tsuchinoko
-アメリカビーバー=American Beaver
+アメリカビーバー=North American Beaver
 オグロプレーリードッグ=Black-Tailed Prairie Dog
 オーロックス=Aurochs
 アラビアオリックス=Arabian Oryx
@@ -2755,32 +2795,35 @@ N・ハイランドワイルドドッグ=Highland Wild Dog
 タイリクオオカミ=Gray Wolf
 アミメキリン=Reticulated Giraffe
 リカオン=African Wild Dog
-マンモス=Mammoth
+ケナガマンモス=Woolly Mammoth
+マンモス=Woolly Mammoth
 ホワイトタイガー=White Tiger
 セーバル=Cerval
 オオフラミンゴ=Greater Flamingo
 ホンドタヌキ=White Tanuki
 タヌキ=Raccoon Dog
-クロヒョウ=Black Panther
+クロヒョウ=Black Leopard
 ハヤブサ=Peregrine Falcon
 シロナガスクジラ=Blue Whale
 ジャイアントペンギン=Giant Penguin
 アオツラカツオドリ=Masked Booby
 ヒトコブラクダ=Dromedary
 フタコブラクダ=Bactrian Camel
+// moved up from line 3534 so it is not shadowed by the shorter key `ダチョウ` below
+獣王ダチョウ=Ostrich (Beast King)
 ダチョウ=Ostrich
 トナカイ=Reindeer
 クロサイ=Black Rhinoceros
 カンジキウサギ=Snowshoe Hare
 ユキウサギ=Mountain Hare
 ホッキョクウサギ=Arctic Hare
-シナウスイロイルカ=Humpback Dolphin
+シナウスイロイルカ=Chinese White Dolphin
 カリフォルニアアシカ=California Sea Lion
 コモドドラゴン=Komodo Dragon
-アカミミガメ=Slider Turtle
+アカミミガメ=Red-Eared Slider
 アゴヒゲアザラシ=Bearded Seal
-アフリカゾウ=African Elephant
-アフリカニシキヘビ=African Python
+アフリカゾウ=African Bush Elephant
+アフリカニシキヘビ=African Rock Python
 アメリカレア=Greater Rhea
 オオセンザンコウ=Giant Pangolin
 サバンナセンザンコウ=Savannah Pangolin
@@ -2797,23 +2840,29 @@ G・ロードランナー=Greater Roadrunner
 ニホンオオカミ=Japanese Wolf
 バーバリライオン=Barbary Lion
 ハシブトガラス=Jungle Crow
-ヒョウ=Panther
+// moved up from line 3335 so it is not shadowed by the shorter key `ヒョウ` below
+ヒョウモンナメラ=European Ratsnake
+// moved up from line 3477 so it is not shadowed by the shorter key `ヒョウ` below
+ヒョウモンガメ=Leopard Tortoise
+// moved up from line 3613 so it is not shadowed by the shorter key `ヒョウ` below
+ユキヒョウ=Snow Leopard
+ヒョウ=Leopard
 ブラックジャガー=Black Jaguar
 ホッキョクグマ=Polar Bear
 メキシコサラマンダー=Axolotl
-ムック=Mook
+ムック=Mukku
 マサイキリン=Masai Giraffe
 ロバ=Donkey
 ヤブノウサギ=European Hare
 レッサーパンダ=Red Panda
-チャップマンシマウマ=Chapman Zebra
+チャップマンシマウマ=Chapman's Zebra
 ニワトリ=Chicken
 ホワイトライオン=White Lion
 ジョフロイネコ=Geoffroy's Cat
 エゾヒグマ=Ezo Brown Bear
-アデリーペンギン=Adelie Penguin
+アデリーペンギン=Adélie Penguin
 オグロヌー=Blue Wildebeest
-オジロヌー=Black Wildabeest
+オジロヌー=Black Wildebeest
 ヤマバク=Mountain Tapir
 ケープペンギン=African Penguin
 クズリ=Wolverine
@@ -2824,83 +2873,98 @@ G・ロードランナー=Greater Roadrunner
 ニューギニアハイランドワイルドドッグ=New Guinea Highland Wild Dog
 チンチラ=Chinchilla
 テングコウモリ=Tube-Nosed Bat
-シロヘラコウモリ=White-Bellied Bat
+シロヘラコウモリ=Honduran White Bat
 タテゴトアザラシ=Harp Seal
 ウンピョウ=Clouded Leopard
 おでかけ日和=Ideal Weather
+// moved up from line 2976 so it is not shadowed by the shorter key `輝きの欠片` below
+輝きの欠片交換所=Sparkling Shard Exchange
 輝きの欠片=Sparkle Shard
 マカミ=Makami
 シマハイイロギツネ=Island Fox
 セイウチ=Walrus
 カムチャッカオオヒグマ=Bergman's Bear
-サラブレッドくりげ=Thoroughbred Chestnut
-サラブレッドあおかげ=Thoroughbred Horse
-マーモット=Marmot
+サラブレッドくりげ=Chestnut Horse
+サラブレッドあおかげ=Seal Brown Horse
+マーモット=Alpine Marmot
 ナミチスイコウモリ=Vampire Bat
-ウサギコウモリ=Long-Eared Bat
-ひぐまモン=Brown Bear
-でびるさま=Prodigy
+ウサギコウモリ=Brown Long-Eared Bat
+ひぐまモン=Higumamon
+でびるさま=Debiru-sama
 カニクイアライグマ=Crab-Eating Raccoon
-でびるさま=Deviru
-ちびくまモン=Kumamon
+ちびくまモン=Chibi Kumamon
 ボアコンストリクター=Red-Tailed Boa
 アマゾンツリーボア=Amazon Tree Boa
 アイアイ=Aye-Aye
-アフリカタテガミヤマアラシ=African Porcupine
-アフリカオニネズミ=Giant Pouched Rat
+アフリカタテガミヤマアラシ=Crested Porcupine
+アフリカオニネズミ=Gambian Rat
 アルパカ・ワカイヤ=Huacaya Alpaca
-アリサ＝サザンクロス=Alisa Southern Cross
+アリサ＝サザンクロス=Alisa Southern cross
 イエネコ=Domestic Cat
 イエイヌ（雑種）=Mixed-Breed Dog
 イエイヌ（シバイヌ）=Shiba Inu
 アードウルフ=Aardwolf
 イッカク=Narwhal
+ダイイヌガミギョウブ=Dai Inugami
 イヌガミギョウブ=Inugami Gyoubu
-インドサイ=Great One-Horned Rhinoceros
+インドサイ=Indian Rhinoceros
 インドオオカミ=Indian Wolf
 ウィッチ=Witch
 オオアリクイ=Giant Anteater
-オイナリサマ=Oinari
+オイナリサマ=Oinari-sama
 エメラルドツリーボア=Emerald Tree Boa
 オオサイチョウ=Great Hornbill
 オオウミガラス=Great Auk
-オジロスナギツネ=Sand Fox
+オジロスナギツネ=Rüppell's Fox
 オコジョ=Stoat
 オオミミギツネ=Bat-Eared Fox
+// moved up from line 3273 so it is not shadowed by the shorter key `オランウータン` below
+ボルネオオランウータン=Bornean Orangutan
 オランウータン=Orangutan
-カグヤコウモリ=Kaguya Bat
+カグヤコウモリ=Fraternal Myotis
 カコミスル=Ringtail
+// moved up from line 3412 so it is not shadowed by the shorter key `カバ` below
+獣王カバ=Hippopotamus (Beast King)
+コビトカバ=Pygmy Hippopotamus
+アメリカバイソン=American Bison
 カバ=Hippo
-カマイタチ・切=Kamaitachi 2
-カマイタチ・転=Kamaitachi 10
-カマイタチ・治=Kamaitachi 3
+カマイタチ・切=Kamaitachi (Setsu)
+カマイタチ・転=Kamaitachi (Ten)
+カマイタチ・治=Kamaitachi (Chi)
 カルガモ=Spot-Billed Duck
 カラカル=Caracal
 キュウビキツネ=Nine-Tailed Fox
 キジ=Green Pheasant
+// moved up from line 3807 so it is not shadowed by the shorter key `ケロロ` below
+ケロロ小隊=Keroro Platoon
 ケロロ=Keroro
 ケルベロス=Cerberus
 ケツァール=Resplendent Quetzal
 キングペンギン=King Penguin
 コウテイペンギン=Emperor Penguin
+// moved up from line 3536 so it is not shadowed by the shorter key `コアラ` below
+// moved up from line 3537 so it is not shadowed by the shorter key `パルコアライサン` below
+パルコアライサン2号=Palcoarai-san2
+パルコアライサン=Palcoarai-san
+// moved up from line 3666 so it is not shadowed by the shorter key `コアラ` below
+バルコアラ=Valcoara
 コアラ=Koala
 ゲンブ=Genbu
-ゴルゴプスカバ=Gorgops Hippo
 コウノトリ=Oriental Stork
-ショウジョウトキ=Scarlet Ibis
+ショウジョウトキ=Scarlet Toki
 キンシャチ=Kinshachi
 シャチ=Orca
-シマリス=Chipmunk
+シマリス=Siberian Chipmunk
 スペインオオヤマネコ=Iberian Lynx
-シベリアオオヤマネコ=Siberian Lynx
+シベリアオオヤマネコ=Eurasian Lynx
 サーベルタイガー=Saber-Toothed Tiger
 シーサー・ライト=Shisa Right
 シヴァテリウム=Sivatherium
 スザク=Suzaku
 ジャングルキャット=Jungle Cat
-ジャック・オー・ランタン=Jack-O'-Lantern
+ジャック・オー・ランタン=Jack-o'-Lantern
 ドラゴンサーバル=Dragon Serval
-シーサー・レフティ=Serval Lefty
+シーサー・レフティ=Shisa Lefty
 ソンゴクウ=Son Goku
 真・青龍=Shin Seiryu
 セイリュウ=Seiryu
@@ -2910,15 +2974,14 @@ G・ロードランナー=Greater Roadrunner
 タチコマ Type-H=Tachikoma Type-H
 タスマニアデビル=Tasmanian Devil
 チベットスナギツネ=Tibetan Sand Fox
-ダンザブロウダヌキ=Danzaburo-Danuki
+ダンザブロウダヌキ=Danzaburou-Tanuki
 タチコマ Type-S=Tachikoma Type-S
 ディアトリマ=Gastornis
 ツノサイチョウ=Rhinoceros Hornbill
-ツシマヤマネコ=Leopard Cat
+ツシマヤマネコ=Tsushima Leopard Cat
 ヒグマ=Brown Bear
 パンサーカメレオン=Panther Chameleon
-バンドウイルカ=Bottlenose Dolphin
-ノドグロミツオシエ=Honeyguide
+ノドグロミツオシエ=Greater Honeyguide
 ニホンノウサギ=Japanese Hare
 ニホンザル=Japanese Macaque
 ニホンカワウソ=Japanese River Otter
@@ -2930,31 +2993,30 @@ G・ロードランナー=Greater Roadrunner
 フォッサ=Fossa
 ビャッコ=Byakko
 ボブキャット=Bobcat
-ホワイトカリブー=White Caribou
-ホルスタイン=Holstein Cow
+ホワイトカリブー=White Reindeer
+ホルスタイン=Holstein
 ホロホロチョウ=Helmeted Guineafowl
-バーバリライオン=Barbary Lion
 ケープライオン=Cape Lion
-ホラアナライオン=Cave Lion
-マサイライオン=East African Lion
+ホラアナライオン=European Cave Lion
+マサイライオン=Masai Lion
 トランスバールライオン=Transvaal Lion
 ホッキョクギツネ=Arctic Fox
 ホッキョクオオカミ=Arctic Wolf
-ヘビクイワシ=Secretary Bird
+ヘビクイワシ=Secretarybird
 ブチハイエナ=Spotted Hyena
 シマハイエナ=Striped Hyena
 マヌルネコ=Pallas's cat
 マルタタイガー=Maltese Tiger
 マントヒヒ=Hamadryas Baboon
 ユニコ=Unico
-ヤマタノオロチ=Yamata No Orochi
+ヤマタノオロチ=Yamata no Orochi
 ヤタガラス様=Yatagarasu-sama
 ヤタガラス=Yatagarasu
 メガネカイマン=Spectacled Caiman
 ミミィサーバル=Mimmy Serval
-人面魚=Human-Faced Carp
-ラーテル=Honey badger
-ライジュウ=Raiju
+人面魚=Jinmengyo
+ラーテル=Honey Badger
+ライジュウ=Raijū
 火の鳥=Phoenix
 ステージ情報=Stage Info
 獲得したアイテム=Acquired Items
@@ -2962,43 +3024,36 @@ G・ロードランナー=Greater Roadrunner
 シナリオ=Scenario
 ヘラジカ=Moose
 タッチして次へ=Touch...
-※所持数上限※=*Limit Reached*.
 アイテム獲得履歴=Item History
+// moved up from line 3002 so it is not shadowed by the shorter key `おしゃれアクセ` below
+フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\nPlease Change Your Filter Settings.
+// moved up from line 3003 so it is not shadowed by the shorter key `おしゃれアクセ` below
+おしゃれアクセを所持していません\R\N※おしゃれアクセは「すぺしゃるクエスト」などで獲得できます※=Does Not Possess A Fashionable Accessory\nFashionable Accessories Can Be Obtained Through The "Supesharu Quest" And Other Means.
 おしゃれアクセ=Accessories
-タッチして\N次のTipsへ=Touch\NShow the Next Tip
-ホワイトライオン=White Lion
 おかわり=Refill
 四神玉=Shijindama
-所持ゴールド=Gold Owned
 けも級=Kemo-Class
-輝きの欠片交換所=Sparkling Shard Exchange
 小さな輝石獲得= Gain Small Pyroxene
 フォトポケット解放=Photo Release
-大・超成功率UP！=Success Rate Up!
-フレンズ成長 大・超成功率UP!=Friends Level Rate UP!
-フォト強化 大・超成功率UP!=Photo Level Rate UP!
 フレンズ 大・超成功率UP!=Friends Rate UP!
 
-「デイリー」ミッションの\N報酬を受け取りました\N※所持数上限を超えた報酬はプレゼントボックスに移動しました=The reward for the "Daily" mission has been received.\n*Rewards that exceeded the maximum number owned have been moved to the Present Box.
-※所持数上限※=*Limit On The Number Owned*.
 輝きの結晶交換所=Pyroxene Exchange
-もう一度回す=Pull Again
 フレンズへ=Friends List
 バトルメニュー=Battle Menu
 アプリを終了しますか？=Are you sure you want to close the App?
 アプリ終了確認=Confirm Close
+// moved up from line 2999 so it is not shadowed by the shorter key `フィルター` below
+フィルターと一致するフレンズがいません\n※フィルターの設定を変更してください※=There is no Friend that matches the filter.\nPlease change the Filter settings.
+// moved up from line 3000 so it is not shadowed by the shorter key `フィルター` below
+フィルターと一致するフレンズがいません\R\N※フィルターの設定を変更してください※\N=There Are No Friends That Match The Filter \nPlease Change The Filter Settings.
+// moved up from line 3001 so it is not shadowed by the shorter key `フィルター` below
+フィルターと一致するフォトがありません\N※フィルターの設定を変更してください※=No Photos Match The Filter.\nPlease Change The Filter Settings.
 フィルター=Filter
-ダウンロード中　しばらくお待ちください。=Please Wait, Downloading.
 海上=Sea
 決定/終了=Accept
 フレンズの服=Default Clothing
 カフェ制服＜リウキウ・イエロー＞=Yellow Cafe Uniform
 カフェ制服=Cafe Uniform
-フィルターと一致するフレンズがいません\n※フィルターの設定を変更してください※=There is no Friend that matches the filter.\nPlease change the Filter settings.
-フィルターと一致するフレンズがいません\R\N※フィルターの設定を変更してください※\N=There Are No Friends That Match The Filter \nPlease Change The Filter Settings.
-フィルターと一致するフォトがありません\N※フィルターの設定を変更してください※=No Photos Match The Filter.\nPlease Change The Filter Settings.
-フィルターと一致するおしゃれアクセがありません\R\N※フィルターの設定を変更してください※=There Is No Fashionable Accessory That Matches Your Filter\nPlease Change Your Filter Settings.
-おしゃれアクセを所持していません\R\N※おしゃれアクセは「すぺしゃるクエスト」などで獲得できます※=Does Not Possess A Fashionable Accessory\nFashionable Accessories Can Be Obtained Through The "Supesharu Quest" And Other Means.
 表示サイズ=Size
 オーダーフラッグ=Order Flag
 どうぶつの姿=Animal Photo
@@ -3006,12 +3061,8 @@ G・ロードランナー=Greater Roadrunner
 ©けものフレンズプロジェクト２Ｇ　©SEGA ©Appirits=©Kemono Friends Project 2G ©SEGA, ©Appirits
 小さな【大きな瞳の='s Small Pyroxene
 小輝石=Small Pyroxene
-SSRインテリアボーナス=SSR Interior Bonus
 プロフィール=Profile
-ガオガオ・スクラッチ=Gao Gao Scratch
-キセキとくせい=Miracle-Trait
 ページ=Page
-フォトアルバム=Photo Album
 選択中アイテム=Selected Item(s)
 ☆順=Star Order
 画面をタップすると終了します=Tap the screen to exit.
@@ -3019,34 +3070,39 @@ SSRインテリアボーナス=SSR Interior Bonus
 アシスタント=Assistant
 いきごみ=Spirit
 IDをコピー=Copy ID
-いきごみ変更=Change Spirit
 名前変更=Change Name
-アシスタント変更=Assistant Change
 ランダム=Random
 お問い合わせ=Contact Us
 登録年齢変更=Age Verification
 データ連携・引き継ぎ=Data Transfer
 追加ダウンロード=Full Downloads
-所持アイテム一覧=Item Log
+所持アイテム一覧=Your Items
 データ連携=Data Linking
 年齢認証が必要です=Age Verification Required.
 オプション=Settings
+// moved up from line 3090 so it is not shadowed by the shorter key `ランキング` below
+けもステランキング=Kemo Stellar Ranking
+// moved up from line 3091 so it is not shadowed by the shorter key `ランキング` below
+前回ランキング=Previous Ranking
+// moved up from line 3092 so it is not shadowed by the shorter key `ランキング` below
+ランキングポイント=Ranking Points
 ランキング=Ranking
 画面の向き=Screen Orientation
+// moved up from line 3048 so it is not shadowed by the shorter key `通知` below
+スタミナが全回復した際に通知します。=Notifies when Stamina is fully restored.
+// moved up from line 3049 so it is not shadowed by the shorter key `通知` below
+げんきが不足した際に通知します。=Notifies you when there is a shortage of raw materials.
 通知=Notice
 画面表示=Graphics
 グラフィック=Graphics Quality
 左側を上=Left Side Up
 右側を上=Right Side Up
 軽量=Lightweight
-高画質=High Resolution
 スタミナ回復=Stamina Recovery
-挑戦回数が全回復した際に通知します。=Notification will be given when the challenges have been fully restored.
-挑戦回数回復=Challenge Recovery
-スタミナが全回復した際に通知します。=Notifies when Stamina is fully restored.
-げんきが不足した際に通知します。=Notifies you when there is a shortage of raw materials.
 げんき不足=Lack of Energy
 交流=Exchange
+// moved up from line 3083 so it is not shadowed by the shorter key `ムービー` below
+OPムービー=OP Movie
 ムービー=Movie
 サウンド=Sound
 自動=Auto
@@ -3075,19 +3131,14 @@ IDをコピー=Copy ID
 けも消し=Kemo-Erase
 スターグラス=Star Glass
 ラッキーメダル=Lucky Medal
-所持アイテム一覧=Your Items
 キラキラが足りません=Not Enough Glitter.
 キラキラを購入=Buy Glitter
-OPムービー=OP Movie
 ストーリー回想=Story Recollection
 資金決済法=Payment Method
 特定商取引法=Transaction Laws
 権利表記=Rights Notation
 クレジット=Credits
 プライバシーポリシー=Privacy Policy
-けもステランキング=Kemo Stellar Ranking
-前回ランキング=Previous Ranking
-ランキングポイント=Ranking Points
 デイリーミッション=Daily Missions
 トータルミッション=Total Missions
 ウィークリーミッション=Weekly Missions
@@ -3095,8 +3146,9 @@ OPムービー=OP Movie
 新着順=Arrival order
 とくいわぎ=Beat-Skill
 たいきスキル=Standby
-とくさい=Unique Traits
+// moved up from line 3101 so it is not shadowed by the shorter key `とくさい` below
 キセキとくさい=Miracle Traits
+とくさい=Unique Traits
 くらくら=Stun
 すやすや=Sleep
 くたくた=Exhaustion
@@ -3109,15 +3161,14 @@ OPムービー=OP Movie
 ばてばてヒリヒリ=Overheat
 ちぐはぐリズム=Discord
 ロストフラッグ=Lost Flag
-ルンルンきぶん=Joy
-はねかえし=Reflect
+// moved up from line 3116 so it is not shadowed by the shorter key `はねかえし` below
 はねかえしむし=Pierce
+はねかえし=Reflect
 かばう=Guard
 いかく=Threat
 かくれみ=Camo
 全状態異常耐性=Resist All Ailments
 パラメータ=Parameter
-回避率アップ解除=Evasion Rate Up Cancelled
 ラプラス=Laplace
 グール=Ghoul
 とりすたん=Tristan
@@ -3144,20 +3195,19 @@ OPムービー=OP Movie
 排出率=Drop Rate
 
 WAVE数= Waves
-ヘラジカ=Elk
 通信エラー=Communication Error
-閉じる=Close
 げきせん=Fierce
 はくねつ=Heat
 てあわせ=Bout
 シーズン=Season
-ランキング=Ranking
 スコア=Score
 自己ベスト=Personal best
 報酬=Reward
 全曜日共通=All Days Of The Week
 オート=Auto
 通常=General
+// moved up from line 3172 so it is not shadowed by the shorter key `ステップ1` below
+ステップ10=Step 10
 ステップ1=Step 1
 ステップ2=Step 2
 ステップ3=Step 3
@@ -3167,25 +3217,16 @@ WAVE数= Waves
 ステップ7=Step 7
 ステップ8=Step 8
 ステップ9=Step 9
-ステップ10=Step 10
-フレンズ成長 大=Friend Growth
 超成功率UP=Rate Up
 補充=Replenish
 そらとぶ！=I'm Flyin!
 カコ=Kako
 
-
-
-
-
-
-----------ATTACKS (SIMPLSTIC NAME)----------
+// ---------- ATTACKS (SIMPLSTIC NAME) ----------
 ねらいうち=Marked
 あせあせ=Sweaty
-はねかえし=Reflect
-はねかえしむし Reflect Small
 
--------------------FRIEND FUTURE-PROOFING----------------------
+// ---------- FRIEND FUTURE-PROOFING ----------
 アンゴル＝モア=Angol Mois
 シロフクロウ=Snowy Owl
 サゴジョウ=Sagojo
@@ -3201,146 +3242,67 @@ WAVE数= Waves
 ツチブタ=Aardvark
 タスマニアタイガー=Tasmanian Tiger
 アリゾナジャガー=Arizona Jaguar
-シーサー・レフティ=Shisa Lefty
-シーサー・ライト=Shisa Right
-シーサーバル・レフティ=Shiserval Lefty
-シーサーバル・ライト=Shiserval Right
 シーサーバル=Shiserval
 ゴシンギュウサマ=Goshingyu
-ガチャピン=Gachapin
 ヒカリ=Hikari
-アードウルフ=Aardwolf
 ドングリキツツキ=Acorn Woodpecker
-アデリーペンギン=Adélie Penguin
-アフリカゾウ=African Bush Elephant
 マルミミゾウ=African Forest Elephant
 アフリカンゴールデンウルフ=African Golden Wolf
-ケープペンギン=African Penguin
-アフリカニシキヘビ=African Rock Python
-リカオン=African Wild Dog
-アリサ＝サザンクロス=Alisa Southern cross
 エイリやん=Aliyan
 ワニガメ=Alligator Snapping Turtle
 アイベックス=Nubian Ibex
-マーモット=Alpine Marmot
-アマゾンツリーボア=Amazon Tree Boa
 ミシシッピーワニ=American Alligator
 バイソン=American Bison
 ミナミキリン=Angolan Giraffe
-アラビアオリックス=Arabian Oryx
-ホッキョクギツネ=Arctic Fox
-ホッキョクウサギ=Arctic Hare
 キョクアジサシ=Arctic Tern
-ホッキョクオオカミ=Arctic Wolf
 アジアゴールデンキャット=Asian Golden Cat
 カナダカワウソ=Canadian River Otter
-コツメカワウソ=Small-Clawed Otter
 ニシツノメドリ=Atlantic Puffin
-オーロックス=Aurochs
 ヤブツカツクリ=Australian Brushturkey
-オーストラリアデビル=Australian Devil
 アクシスジカ=Axis Deer
 アナコンダ=Anaconda
-メキシコサラマンダー=Axolotl
 バイカルアザラシ=Baikal Seal
 ベアードバク=Baird's Tapir
-ハクトウワシ=Bald Eagle
 バンテン=Banteng
-バーバリライオン=Barbary Lion
 メンフクロウ=Barn Owl
-オオミミギツネ=Bat-Eared Fox
-アゴヒゲアザラシ=Bearded Seal
-カムチャッカオオヒグマ=Bergman's Bear
 ビントロング=Binturong
-ブラックジャガー=Black Jaguar
-クロヒョウ=Black Leopard
 ブラックマンバ=Black Mamba
-クロサイ=Black Rhinoceros
 コクチョウ=Black Swan
-オジロヌー=Black Wildebeest
 エリマキキツネザル=Black-And-White Ruffed Lemur
 セグロジャッカル=Black-Backed Jackal
 クロトキ=Black Toki
-オグロプレーリードッグ=Black-Tailed Prairie Dog
-ブラックバック=Blackbuck
-シロナガスクジラ=Blue Whale
-オグロヌー=Blue Wildebeest
 ルリコンゴウインコ=Blue-and-Yellow Macaw
-ボブキャット=Bobcat
 ブームスラング=Boomslang
-ボルネオオランウータン=Bornean Orangutan
 ボルネオゾウ=Borneo Elephant
 オマキヤマアラシ=Brazilian Porcupine
 オオガラゴ=Brown Greater Galago
-ウサギコウモリ=Brown Long-Eared Bat
 バビルサ=Buru Babirusa
-ビャッコ=Byakko
-カリフォルニアアシカ=California Sea Lion
-アリツカゲラ=Campo Flicker
 カナダオオヤマネコ=Canada Lynx
-ケープライオン=Cape Lion
-カピバラ=Capybara
-カラカル=Caracal
-ケルベロス=Cerberus
-チャップマンシマウマ=Chapman's Zebra
-サラブレッドくりげ=Chestnut Horse
 ヒメマメジカ=Chevrotain
-ちびくまモン=Chibi Kumamon
-ニワトリ=Chicken
-シナウスイロイルカ=Chinese White Dolphin
-ヒゲペンギン=Chinstrap Penguin
 イワシャコ=Chukar Partridge
-ウンピョウ=Clouded Leopard
 タイパン=Coastal Taipan
 クビワペッカリー=Collared Peccary
 イロワケイルカ=Commerson's Dolphin
-バンドウイルカ=Bottlenose Dolphin
 フクロギツネ=Brushtail Possum
 チンパンジー=Chimpanzee
 ハイイロリングテイル=Ringtail Possum
-ナミチスイコウモリ=Vampire Bat
-カニクイアライグマ=Crab-Eating Raccoon
-アフリカタテガミヤマアラシ=Crested Porcupine
 クランチーロール姫=Crunchyroll-Hime
 クルペオギツネ=Culpeo
 ダイトウオオコウモリ=Daito Fruit Bat
 ドールシープ=Dall Sheep
-ダンザブロウダヌキ=Danzaburou-Tanuki
-ブラッザグエノン=De Brazza's Monkey
-でびるさま=Debiru-sama
 イボイノシシ=Desert Warthog
-ダイアウルフ=Dire Wolf
-イエネコ=Domestic Cat
 イエイヌ=Domestic Dog
-ロバ=Donkey
 ドロロ=Dororo
-ヒトコブラクダ=Dromedary
 ジュゴン=Dugong
-フクロネコ=Quoll
-カルガモ=Spot-Billed Duck
-シンリンオオカミ=Eastern Wolf
 エジプトガン=Egyptian Goose
 獣王ゾウ=Elephant (Beast King)
-エメラルドツリーボア=Emerald Tree Boa
-コウテイペンギン=Emperor Penguin
 エミュー=Emu
 ヨーロッパビーバー=Eurasian Beaver
-ワシミミズク=Eurasian Eagle-Owl
-シベリアオオヤマネコ=Eurasian Lynx
 ユーラシアカワウソ=Eurasian Otter
-ホラアナライオン=European Cave Lion
-ヤブノウサギ=European Hare
-ヒョウモンナメラ=European Ratsnake
-エゾヒグマ=Ezo Brown Bear
-エゾユキウサギ=Ezo Mountain Hare
-キタキツネ=Ezo Red Fox
-フェネック=Fennec Fox
+フェネック=Fennec
 マレーヤマネコ=Flat-Headed Cat
 モリコキンメフクロウ=Forest Owlet
-フォッサ=Fossa
-カグヤコウモリ=Fraternal Myotis
 エリマキトカゲ=Frilled Lizard
-ガチャピン=Gachapin
 ウミイグアナ=Marine Iguana
 ピンタゾウガメ=Pinta Tortoise
 サンクリストバルゾウガメ=Chatham Tortoise
@@ -3349,87 +3311,48 @@ WAVE数= Waves
 ガラパゴスゾウガメ=Galápagos Tortoise
 アオアシカツオドリ=Blue-Footed Booby
 アカアシカツオドリ=Red-Footed Booby
-アフリカオニネズミ=Gambian Rat
 ヤク=Gannan Yak
 ガウル=Gaur
-ゲンブ=Genbu
-ジェンツーペンギン=Gentoo Penguin
-ジョフロイネコ=Geoffroy's Cat
 インドガビアル=Gharial
-オオアリクイ=Giant Anteater
-オオアルマジロ=Giant Armadillo
 モリイノシシ=Giant Forest Hog
-オオカワウソ=Giant Otter
 ジャイアントパンダ=Giant Panda
 獣王キリン=Giraffe (Beast King)
-ギロロ=Giroro
 ゴジラ=Godzilla
 キクイタダキ=Goldcrest
 イヌワシ=Golden Eagle
 キンイロジャッカル=Golden Jackal
 ゴールデンライオンタマリン=Golden Lion Tamarin
-キンシコウ=Golden Snub-Nosed Monkey
-ゴールデンタビータイガー=Golden Tiger
 獣王ゴリラ=Gorilla (Beast King)
 御神牛様=Goshingyu-sama
 ホオジロカンムリヅル=Gray Crowned Crane
 ハイイロギツネ=Gray Fox
-タイリクオオカミ=Gray Wolf
-オオウミガラス=Great Auk
-オオサイチョウ=Great Hornbill
 モモイロペリカン=Great White Pelican
 ミミナガバンディクート=Greater Bilby
-オオフウチョウ=Greater Bird-Of-Paradise
-オオフラミンゴ=Greater Flamingo
 フクロムササビ=Greater Glider
-ノドグロミツオシエ=Greater Honeyguide
-カタカケフウチョウ=Greater Lophorina
-アメリカレア=Greater Rhea
 オオミチバシリ=Greater Roadrunner
-キジ=Green Pheasant
 ハイイログマ=Grizzly Bear
 グリズリー=Grizzly
 グレビーシマウマ=Grévy's Zebra
 グアダルーペカラカラ=Guadalupe Caracara
 グアナコ=Guanaco
 ガンジー=Guernsey Cattle
-マントヒヒ=Hamadryas Baboon
-タテゴトアザラシ=Harp Seal
 オウギワシ=Harpy Eagle
 HAW-206=HAW-206
 ヘルベンダー=Hellbender
 キティサーバル=Kitty Serval
-ミミィサーバル=Mimmy Serval
-ホロホロチョウ=Helmeted Guineafowl
-火の鳥=Phoenix
 ヒゲじい=Higejii
-ひぐまモン=Higumamon
-テングコウモリ=Tube-Nosed Bat
 ヒマラヤタール=Himalayan Tahr
 ヒッパリオン=Hipparion
-獣王カバ=Hippopotamus (Beast King)
-ゴルゴプスカバ=Hippopotamus Gorgops
 エゾオオカミ=Hokkaido Wolf
-ホルスタイン=Holstein
-シロヘラコウモリ=Honduran White Bat
-ラーテル=Honey Badger
 ズキンアザラシ=Hooded Seal
-アルパカ・ワカイヤ=Huacaya Alpaca
 フンボルトペンギン=Humboldt Penguin
 ヒラコテリウム=Hyracotherium
 インパラ=Impala
-インドゾウ=Indian Elephant
-クジャク=White Peafowl
-クジャク=Indian Peafowl
-インドサイ=Indian Rhinoceros
+クジャク=Peafowl
 インドホシガメ=Indian Star Tortoise
-インドオオカミ=Indian Wolf
 インドリ=Indri
-イヌガミギョウブ=Inugami Gyoubu
 イリオモテヤマネコ=Iriomote Cat
-シマハイイロギツネ=Island Fox
 イタリアオオカミ=Italian Wolf
-ジャック・オー・ランタン=Jack-o'-Lantern
 ジャクソンカメレオン=Jackson's Chameleon
 ジャガー=Jaguar
 ジャガランディ=Jaguarundi
@@ -3438,206 +3361,122 @@ HAW-206=HAW-206
 ニホンイノシシ=Japanese Boar
 ウグイス=Japanese Bush Warbler
 オオサンショウウオ=Japanese Giant Salamander
-ニホンノウサギ=Japanese Hare
-ニホンザル=Japanese Macaque
 ホンドテン=Japanese Marten
-ニホンカワウソ=Japanese River Otter
 ニホンリス=Japanese Squirrel
-ニホンオオカミ=Japanese Wolf
 ジャージー=Jersey Cattle
-人面魚=Jinmengyo
-ジャングルキャット=Jungle Cat
 かばん=Kaban
-カマイタチ・治=Kamaitachi (Chi)
-カマイタチ・切=Kamaitachi (Setsu)
-カマイタチ・転=Kamaitachi (Ten)
 カマイタチ=Kamaitachi
-ケロロ=Keroro
 キングチーター=King Cheetah
 チーター=Cheetah
-キングコブラ=King Cobra
-キングペンギン=King Penguin
 トキイロコンドル=King Vulture
 金鯱=Kinshachi
-キリン=Kirin
-コアラ=Koala
-コディアックヒグマ=Kodiak Bear
+// moved up from line 3467 so it is not shadowed by the shorter key `キリン` below
 キタキリン=Kordofan Giraffe
+// moved up from line 3579 so it is not shadowed by the shorter key `キリン` below
+ロスチャイルドキリン=Rothschild's Giraffe
+// moved up from line 3615 so it is not shadowed by the shorter key `キリン` below
+ケープキリン=South African Giraffe
+キリン=Kirin
 クルル=Kururu
 キュウシュウフクロウ=Kyushu Owl
 キュウシュウムササビ=Kyūshū Flying Squirrel
 ミミヒダハゲワシ=Lappet-Faced Vulture
-ハシブトガラス=Jungle Crow
 ジェネット=Large-Spotted Genet
 イイズナ=Weasel
 ドルドン=Dorudon
-ヒョウ=Leopard
-ヒョウモンガメ=Leopard Tortoise
 フタユビナマケモノ=Two-Toed Sloth
-ライオン=Lion
+// moved up from line 3480 so it is not shadowed by the shorter key `ライオン` below
 獣王ライオン=Beast King Lion
+// moved up from line 3500 so it is not shadowed by the shorter key `ライオン` below
+マーライオン=Merlion
+ライオン=Lion
 ロジコマ=Logikoma
-チンチラ=Chinchilla
 エナガ=Long-Tailed Tit
-マカミ=Makami
-マレーバク=Malayan Tapir
 マンドリル=Mandrill
 タテガミオオカミ=Maned Wolf
 マーブルキャット=Marbled Cat
-マーゲイ=Margay
 マーコール=Markhor
 ゴマバラワシ=Martial Eagle
 オナガラケットハチドリ=Marvelous Spatuletail
-マサイキリン=Masai Giraffe
-マサイライオン=Masai Lion
-アオツラカツオドリ=Masked Booby
 ハクビシン=Masked Palm Civet
 チチュウカイモンクアザラシ=Mediterranean Monk Seal
 ダーウィンフィンチ=Medium Tree Finch
-ミーアキャット=Meerkat
-マーライオン=Merlion
 メキシコオオカミ=Mexican Wolf
 チュウゴクオオカミ=Mongolian Wolf
 獣王マングース=Mongoose (Beast King)
-ヘラジカ=Moose
 ムフロン=Mouflon
 シロイワヤギ=Mountain Goat
-ユキウサギ=Mountain Hare
-ヤマバク=Mountain Tapir
 ヤマシマウマ=Mountain Zebra
-ムック=Mukku
 ミュールジカ=Mule Deer
 ジャコウウシ=Muskox
-イッカク=Narwhal
-ジャイアントペンギン=Giant Penguin
 ニルガイ=Nilgai
-キュウビキツネ=Nine-Tailed Fox
-アメリカビーバー=North American Beaver
 ジャイアントモア=North Island Giant Moa
 ドワーフサイレン=Dwarf Siren
 キタオットセイ=Fur Seal
-オオタカ=Goshawk
 アラスカラッコ=Alaskan Sea Otter
 キタコアリクイ=Tamandua
-アフリカオオコノハズク=White-Faced Owl
 フクロアリクイ=Numbat
 オセロット=Ocelot
-オイナリサマ=Oinari-sama
-オカピ=Okapi
 ヤンバルクイナ=Okinawa Rail
 ハブ=Habu
 獣王ハゲワシ=Old World Vulture (Beast King)
 ハゲワシ=Vulture
-コウノトリ=Oriental Stork
-獣王ダチョウ=Ostrich (Beast King)
 ヤブワラビー=Pademelon
-パルコアライサン=Palcoarai-san
-パルコアライサン2号=Palcoarai-san2
 オグロスナギツネ=Pale Fox
 ミユビナマケモノ=Pale-Throated Sloth
-パンサーカメレオン=Panther Chameleon
-パラケラテリウム=Paraceratherium
-リョコウバト=Passenger Pigeon
 パタスザル=Patas Monkey
-ピーチパンサー=Peach Panther
-ハヤブサ=Peregrine Falcon
-ヒメアルマジロ=Pink Fairy Armadillo
 コシベニペリカン=Pink-Backed Pelican
-サバンナシマウマ=Plains Zebra
 カモノハシ=Platypus
-ホッキョクグマ=Polar Bear
-プロングホーン=Pronghorn
 モウコノウマ=Przewalski's Horse
 シフゾウ=Père David's Deer
 クアッガ=Quagga
 ラビット・ユキネ=Rabbit Yukine
-タヌキ=Raccoon Dog
-ライジュウ=Raijū
 アカギツネ=Red Fox
 セキショクヤケイ=Red Junglefowl
 アカカンガルー=Red Kangaroo
-レッサーパンダ=Red Panda
 タンチョウ=Red-Crowned Crane
-アカミミガメ=Red-Eared Slider
 アカアシガメ=Red-Footed Tortoise
-トナカイ=Reindeer
-ケツァール=Resplendent Quetzal
-アミメキリン=Reticulated Giraffe
 リムガゼル=Rhim Gazelle
-ツノサイチョウ=Rhinoceros Hornbill
 ワオキツネザル=Ring-Tailed Lemur
 ワモンアザラシ=Ringed Seal
-カコミスル=Ringtail
 カワラバト=Rock Dove
 イワハイラックス=Bush Hyrax
 ライチョウ=Rock Ptarmigan
 ノロジカ=Roe Deer
 ヒメクビワカモメ=Ross's Gull
-ヒメクビワカモメ=Ross's Gull
-ロスチャイルドキリン=Rothschild's Giraffe
-ロイヤルペンギン=Royal Penguin
 リュウキュウイノシシ=Ryukyu Boar
 リュウキュウケン=Ryukyu Ken
-オジロスナギツネ=Rüppell's Fox
-サーベルタイガー=Saber-Toothed Tiger
 クロテン=Sable
 セーブルアンテロープ=Sable Antelope
 サイガ=Saiga Antelope
-イリエワニ=Saltwater Crocodile
-スナネコ=Sand Cat
 エダハヘラオヤモリ=Leaf-Tailed Gecko
 オポッサムモドキ=Scaly-Tailed Possum
-ショウジョウトキ=Scarlet Toki
-コンゴウインコ=Scarlet Macaw
 コンゴウインコ=Macaw
 ションブルクジカ=Schomburgk's Deer
-サラブレッドあおかげ=Seal Brown Horse
-ヘビクイワシ=Secretarybird
-ヒツジ=Sheep
 ツバメ=Swallow
-ハシビロコウ=Shoebill
 カマイルカ属カマイルカ=White-Sided Dolphin
 カマイルカ=White-Sided Dolphin
 マイルカ=Short-Beaked Dolphin
-シマリス=Siberian Chipmunk
 シベリアン・ハスキー=Siberian Husky
-アムールトラ=Amur Tiger
 ニホンジカ=Sika Deer
-ヒメアリクイ=Silky Anteater
-ギンギツネ=Silver Fox
-シヴァテリウム=Sivatherium
-スカイフィッシュ=Skyfish
 スローロリス=Slow Loris
-ユキヒョウ=Snow Leopard
-ユキヒツジ=Snow Sheep
-ケープキリン=South African Giraffe
 ブラジルバク=South American Tapir
 アモイトラ=South China Tiger
 ブラウンキーウィ=Brown Kiwi
 ヒクイドリ=Cassowary
 プーズー=Pudu
-イワトビペンギン=Rockhopper Penguin
-ミナミコアリクイ=Tamandua
 メガネグマ=Spectacled Bear
-メガネカイマン=Spectacled Caiman
 メガネウサギワラビー=Spectacled Hare-Wallaby
 メガネフクロウ=Spectacled Owl
-ブチハイエナ=Spotted Hyena
 スプリングボック=Springbok
 オブトフクロモモンガ=Squirrel Glider
 ステラーカイギュウ=Steller's Sea Cow
-オコジョ=Stoat
-フォークランドカラカラ=Striated Caracara
 シマスカンク=Striped Skunk
 クロクスクス=Sulawesi Bear Cuscus
 スマトラゾウ=Sumatran Elephant
 スマトラサイ=Sumatran Rhinoceros
-スマトラトラ=Sumatran Tiger
 マレーグマ=Sun Bear
-ソンゴクウ=Son Goku
 コトドリ=Superb Lyrebird
-アルパカ・スリ=Suri Alpaca
-スザク=Suzaku
 タチコマ type-A=Tachikoma Type-A
 タチコマ type-B=Tachikoma Type-B
 タチコマ type-C=Tachikoma Type-C
@@ -3646,83 +3485,64 @@ HAW-206=HAW-206
 ターキン=Takin
 タママ=Tamama
 ターパン=Tarpan
-タスマニアデビル=Tasmanian Devil
-トムソンガゼル=Thomson's Gazelle
 フクロオオカミ=Thylacine
 チルー=Tibetan Antelope
-チベットスナギツネ=Tibetan Sand Fox
-トランスバールライオン=Transvaal Lion
-ツチノコ=Tsuchinoko
 ツクヨミノシンシ=Tsukuyomino Shinshi
-ツシマヤマネコ=Tsushima Leopard Cat
 エトピリカ=Tufted Puffin
 パフィン=Puffin
 コハクチョウ=Tundra Swan
 ツンドラオオカミ=Tundra Wolf
 ウチコマ=Uchikoma
-ユニコ=Unico
-バルコアラ=Valcoara
 アカホエザル=Red Howler
 ビクーニャ=Vicuna
-セイウチ=Walrus
 キバノロ=Water Deer
-カンザシフウチョウ=Western Parotia
 マダラスカンク=Spotted Skunk
-シロイキタキツネ=White Ezo Red Fox
 サラブレッドしろげ=White Horse
-ホワイトライオン=White Lion
-シロクジャク=White Peafowl
-ホワイトカリブー=White Reindeer
-シロサイ=White Rhinoceros
 ホワイトサーバル=White Serval
 シュバシコウ=White Stork
-ホワイトタイガー=White Tiger
 フクロミツスイ=Honey Possum
 シロミミオポッサム=White-Eared Opossum
 マナヅル=White-Naped Crane
-フタコブラクダ=Bactrian Camel
 獣王ヌー=Beast King Wildebeest
-クズリ=Wolverine
-マンモス=Woolly Mammoth
-ヤマタノオロチ=Yamata no Orochi
 エゾシカ=Yezo Sika Deer
 獣王シマウマ=Beast King Zebra
 シベリアンハスキー=Siberian Husky
 シバイヌ=Shiba Inu
 シーラカンス=Coelacanth
 メンダコ=Mendako
-クジャク=Peafowl
 ギンカク=Ginkaku
 
-----------TIGER FIXES----------
+// ---------- TIGER FIXES ----------
 オーストラリア=Australia
+// moved up from line 3826 so it is not shadowed by the shorter key `セントラル` below
+パークセントラル=Park Central
 セントラル=Central
 
-----------NAME FIXES MUST BE AT THE END----------
+// ---------- NAME FIXES MUST BE AT THE END ----------
 リタイア=Retire
 トキ=Toki
-ヒョウ=Leopard
-ジャガー=Jaguar
 鳥綱=Birds
 ペリカン=Pelican
 ソンサーバル=Son Serval
 サーバル=Serval
 コンコン =Kon-Kon 
+// moved up from line 3773 so it is not shadowed by the shorter key `アルマ` below
+アルマー=Arma
 アルマ=Arma
-アライグマ=Raccoon
+アライグマ=Arai
 アライさん=Arai-san
 ミライ=Mirai
-アライグマ=Arai
-フェネック=Fennec
 アライ=Arai
-ヒグマ=Brown Bear
+ニシローランドゴリラ=Western Lowland Gorilla
+ニシゴリラ=Western Gorilla
 ゴリラ=Gorilla
 ナナ=Nana
 リトライ=Retry
+マカロニペンギン=Macaroni Penguin
+オウサマペンギン=King Penguin
 ペンギン=Penguin
 カレンダ=Calenda
 がおーっ！=Roar!
-ジャガー=Jaguar
 ぴっくあっぷ=Pickup
 ドール=Dhole
 なないろとくせい=Rainbow
@@ -3731,14 +3551,12 @@ HAW-206=HAW-206
 フリッキー=Flicky
 冬樹=Fuyuki
 バラリアン=Baralien
-ダイオウセルリアン=Daioh Cerulean
 マリー=Marie
 ネブラ=Nevula
 ダディ=Daddy
 ひげにょろりあん=Hige Nyorolien
 ボールボールX=Ball Ball X
 スズナリトゲリアン=Suzunari Togelien
-ラジカセセルリアン=Radica Cerulean
 ファングセル=Fangcell
 ティルセル=Tailcell
 ハンターセル=Huntercell
@@ -3752,23 +3570,15 @@ HAW-206=HAW-206
 ヤバセル=Yabacell
 タチリアン=Tachilien
 スマホリアン=Smapholien
-黒デカセルリアン=Black Dekkai Cerulean
 マジムン=Majimun
-ファージセルリアン=Phage Cerulean
-白セルリアン=White Cerulean
-巨大セルリアン=Giant Cerulean
-変異種セルリアン=Rulercell
 ぶちょリアン=Bucholien
-変異種セルリアン=Mutant Cerulean
 ユメリアン=Yumelien
-セルリアン女王=Cerulean Queen
 コウテイ=Koutei
 フルル=Hululu
 ジェーン=Gean
 イワビー=Iwabi
 ロイヤル=Royal
 センちゃん=Sen-chan
-アルマー=Arma
 マルカ=Malka
 ドルカ=Dolka
 ナルカ=Nalka
@@ -3780,6 +3590,8 @@ HAW-206=HAW-206
 ルル=Lulu
 ラビラビ=Rabi Rabi
 タマちゃん=Tama-chan
+// moved up from line 3984 so it is not shadowed by the shorter key `ヒメ` below
+ヒメウォンバット=Wombat
 ヒメ=Hime
 フリシアン=Friesian
 ルビー=Ruby
@@ -3790,19 +3602,18 @@ HAW-206=HAW-206
 ケープ=Cape
 バリー=Barry
 アプー=Apu
-ジャパリパーク探検隊= Japari Park Expedition
-ジャパリ団=Japari Dan
+// moved up from line 3797 so it is not shadowed by the shorter key `ジャパリ団` below
 ばってんジャパリ団=Batten Japari Dan
+ジャパリ団=Japari Dan
 警備隊=Guard Force
-ジャパリパーク警備隊=Japari Park Guard Force
+// moved up from line 3802 so it is not shadowed by the shorter key `ダブルスフィア` below
+チームダブルスフィア=Team Double Sphere
 ダブルスフィア=Double Sphere
 チーム姫騎士=Team Princess Knight
-チームダブルスフィア=Team Double Sphere
 チームジャスティス=Team Justice
 チームがおがおコンコン=Team Gaogaokonkon
 チームさいきょー=Team Saikyo
 チーム・デッカイキャッツ=Team Big Cat
-ケロロ小隊=Keroro Platoon
 四神=Four Gods
 守護けもの=Guardian Kemono
 チホー=Region
@@ -3819,9 +3630,8 @@ HAW-206=HAW-206
 東北ずん子=Tohoku Zunko
 ずんだもん=Zundamon
 
-----------Locations----------
+// ---------- Locations ----------
 チリ北部=Northern Chile
-パークセントラル=Park Central
 リクホク=Rihoku
 アント=An'to
 アンヨ=An'yo
@@ -3860,19 +3670,18 @@ HAW-206=HAW-206
 ガーンジー=Guernsey
 ジャージ=Tracksuit
 
----------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END----------
+// ---------- SINGLE WORD MENU ASSETS THAT MUST BE AT THE END ----------
 
 おまけ付き！=Extra!
 すてっぷあっぷ=Step-Up
 カメラ切替=Change View
 
-
-----------GAME MECHANIC TERMS THAT MUST BE AT END----------
+// ---------- GAME MECHANIC TERMS THAT MUST BE AT END ----------
 動物画像提供元=Animal photography courtesy of
 効果対象=Who is effected
 効果内容=Effects
 発動条件=Activation Conditions
-耐性=Resistence
+耐性=Resistance
 攻撃命中率=Hit Accuracy
 敵全体=All Enemies
 敵単体=One Enemy
@@ -3881,22 +3690,18 @@ HAW-206=HAW-206
 たいりょく条件=HP Condition
 被ダメージ=Damage Taken
 野口衣織=Iori Noguchi
-準備良し！=Ready!
-興味津々！=Very Interesting!
-アイテムが足りません=Not Enough Items
 成長=Growth
 隊長=Captain
 その他=Misc.
 たしかに…=Certainly...
 限定=Limited
 
-----------TERMS AND ONOMOTOPEA MUST BE AT THE END----------
+// ---------- TERMS AND ONOMOTOPEA MUST BE AT THE END ----------
 …えへへ=…ehehe
 えへへ…=ehehe…
-はっ！AH!
+はっ！=AH!
 くんくんくん=sniff sniff sniff
 くんくん=sniff sniff
-アルル=Alulu
 しょっぴんぐせんた=Shopping Center
 わっふーい=Wahui
 みゃ〜お=mya～o
@@ -3907,11 +3712,12 @@ HAW-206=HAW-206
 あっ、=Oh,
 前兆=Omen
 えーと…=Uuhh…
+// moved up from line 3916 so it is not shadowed by the shorter key `えっと…` below
+え、えっと…=U-um…
 えっと…=Uuh…
 …あ…=…Oh…
 …あ！=…OH!
 へ～=Eh～
-え、えっと…=U-um…
 いっぱい頼ってね！=Count on me!
 ごくらくごくらく=Absolute heaven
 ごくらく、ごくらくぅ=Absolute heaven
@@ -3929,6 +3735,8 @@ HAW-206=HAW-206
 ワカイヤ=Huacaya
 やんちゃ=Naughty
 トド=Steller Sea Lion
+ツメナシカワウソ=African Clawless Otter
+カワウソ=Otter
 カワウ=Great Cormorant
 ウミウ=Japanese Cormorant
 カァッ=Kaah
@@ -3937,7 +3745,6 @@ HAW-206=HAW-206
 マメジカ=Chevrotain
 スキップ=Skip
 オカエリ=Welcome Home
-ハブ=Habu
 えくすとら=Extra
 職場のポーズぅ=Intimidation Pose
 感謝のポーズぅ=Gratitute Pose
@@ -3969,35 +3776,30 @@ HAW-206=HAW-206
 オシオキされ=punished
 入手方法=Where To Get
 けもコーラス=Kemo-Chorus
-ライオン=Lion
 アリゲーター=Alligator
 ラッキービースト=Lucky Beast
 トミー=Tommy
 トピ=Topi
 カッコウ=Cuckoo
-デグー=Degu
 エランド=Eland
 カモメ=Gull
-ダチョウ=Ostrich
-ヒメウォンバット=Wombat
 ピューマ=Cougar
-コヨーテ=Coyote
 ヌートリア=Coypu
 ドードー=Dodo
 ディンゴ=Dingo
 ブタ=Pig
-----------ATTEMPTED FIX Golgopus HippopotamusOF DEEPL REPEATING LINES----------
+// ---------- ATTEMPTED FIX Golgopus HippopotamusOF DEEPL REPEATING LINES ----------
 いやいや=No no
 な、な、何=Wh-wh-what
 カンザシ=Kanzashi
 カタカケ=Katakake
 
-----------SLANG----------
+// ---------- SLANG ----------
 ガマン=patient
 じゅるり=Gulp
 ホクホク=Roasted Potato
 
-----------NPC Names------------
+// ---------- NPC Names ----------
 ハンチョウ=Hancho
 ハートのゆびわ=Heart Ring
 皓皓=Growth
@@ -4059,6 +3861,8 @@ HAW-206=HAW-206
 ユタ(NPC)=Utah(NPC)
 ういろう(NPC)=Uiro (NPC)
 アヤネ(NPC)=Ayane(NPC)
+// moved up from line 4104 so it is not shadowed by the shorter key `クレア(NPC)` below
+エクレア(NPC)=Eclair(NPC)
 クレア(NPC)=Claire(NPC)
 摩周湖(NPC)=Lake Mashu(NPC)
 レモン(NPC)=Lemon(NPC)
@@ -4099,7 +3903,6 @@ HAW-206=HAW-206
 チョコレート(NPC)=Chocolate(NPC)
 勅使河原(NPC)=Teshigahara(NPC)
 椿(NPC)=Tsubaki(NPC)
-エクレア(NPC)=Eclair(NPC)
 アツヒコ(NPC)=Atsuhiko(NPC)
 よしお(NPC)=Yoshio (NPC)
 ワカ(NPC)=Waka(NPC)
@@ -4128,6 +3931,8 @@ HAW-206=HAW-206
 かんげー会=Welcome Party
 ホケンシツ=the Emergency Room
 おとどちゃん=Otodo-chan
+エボシカメレオン=Veiled Chameleon
+カメレオン=Chameleon
 レオ=Leo
 ぐるるるるるる！=Grrrrrr!
 ぐるるるるるる=Grrrrr
@@ -4135,3 +3940,18 @@ HAW-206=HAW-206
 ぐるるるるる=Grrrrr
 ぐるるるる！=Grrrr!
 ぐるるるる=Grrr
+
+// ---------- rarity letters: full-width -> ASCII so translators stop spacing them (S S R) ----------
+Ｃ＆ＵＣ＆Ｒ=C&UC&R
+ＳＳＲ=SSR
+ＳＲ=SR
+ＵＣ=UC
+// ---------- used inside many item names ----------
+シール=Sticker
+
+％=%
+村落獅子=Village Lion
+華麗に舞いま～す=Dance Beautifully～
+華麗に舞いま〜す=Dance Beautifully～
+神代の白き翼=The White Wings of the Ancient Age
+楽しさマシマシ！ＡＣＴ．２=Double the Fun! ACT. 2

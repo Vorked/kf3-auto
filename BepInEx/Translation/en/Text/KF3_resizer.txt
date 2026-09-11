@@ -1,0 +1,15 @@
+// XUnity UI resize commands (file name must end in resizer.txt). Applied after XUnity sets the translated text,
+// so they override TextFitting.dll's best-fit shrinking. Paths come from EnableTextPathLogging=True in the config.
+// Commands: AutoResize(enabled, minSize, maxSize) ; UGUI_HorizontalOverflow(wrap|overflow) ; UGUI_VerticalOverflow(truncate|overflow)
+//           ChangeFontSize(n) ; ChangeFontSizeByPercentage(0.9) ; UGUI_ChangeLineSpacingByPercentage(0.9)
+// A command on a path applies to EVERYTHING below it - target the exact text object (Txt_Info), not its parent,
+// or narrow fields like Num_Mp / Num_Lv get the same treatment.
+
+// Friend info -> Move List descriptions: wrap, and turn best-fit OFF so Text.preferredHeight reflects the English text
+// and the card grows with it (the cards are laid out from the text height; best-fit was hiding the real height).
+/MainCanvasOverlay/WindowPanel/GUI_CharaInfo(Clone)/All/RightBase/Info_Skill/ScrollView/Viewport/Content/CharaInfo_List_Skill_01/Txt_Info=UGUI_HorizontalOverflow(wrap);AutoResize(false);UGUI_VerticalOverflow(overflow)
+/MainCanvasOverlay/WindowPanel/GUI_CharaInfo(Clone)/All/RightBase/Info_Skill/ScrollView/Viewport/Content/CharaInfo_List_Skill_02/Txt_Info=UGUI_HorizontalOverflow(wrap);AutoResize(false);UGUI_VerticalOverflow(overflow)
+/MainCanvasOverlay/WindowPanel/GUI_CharaInfo(Clone)/All/RightBase/Info_Skill/ScrollView/Viewport/Content/CharaInfo_List_Skill_03/Txt_Info=UGUI_HorizontalOverflow(wrap);AutoResize(false);UGUI_VerticalOverflow(overflow)
+/MainCanvasOverlay/WindowPanel/GUI_CharaInfo(Clone)/All/RightBase/Info_Skill/ScrollView/Viewport/Content/CharaInfo_List_Skill_04/Txt_Info=UGUI_HorizontalOverflow(wrap);AutoResize(false);UGUI_VerticalOverflow(overflow)
+/MainCanvasOverlay/WindowPanel/GUI_CharaInfo(Clone)/All/RightBase/Info_Skill/ScrollView/Viewport/Content/CharaInfo_List_Skill_05_kiseki/Txt_Info=UGUI_HorizontalOverflow(wrap);AutoResize(false);UGUI_VerticalOverflow(overflow)
+/MainCanvasOverlay/WindowPanel/GUI_CharaInfo(Clone)/All/RightBase/Info_Skill/ScrollView/Viewport/Content/CharaInfo_List_Skill_06_nanairo/Txt_Info=UGUI_HorizontalOverflow(wrap);AutoResize(false);UGUI_VerticalOverflow(overflow)

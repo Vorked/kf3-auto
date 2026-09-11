@@ -1,0 +1,2026 @@
+﻿// KF3_Moves.txt — Miracle / Beat / Try / Action / Wild Release names and one-line flavour text collected from play.
+// Hand-edit these so they fit the combat boxes; this file is never regenerated and every entry is protected
+// (tools\check_protected.py). Plain entries only match when the whole string equals the key.
+
+// ---------- from More-Whatevers-1.txt ----------
+平穏の光が差す方へ=Toward the Light of Peace
+半人半竜の人気者=The Popular Half-Human, Half-Dragon
+美少女ナンバーワン=Number One Pretty Girl
+すいすいーって泳ぐの=Swimming along smoothly
+ぎゅうぎゅうってしめちゃうよぉ=I'm gonna squeeze you really tight!
+おかし…おかし食べなきゃ…=Snacks... I've got to eat some snacks...
+あーん…ばくっ=Aaaah... chomp!
+ごくり=Gulp
+ひきこもりゲーム日和=A Perfect Day for Gaming While Staying Indoors
+この噛み心地…至福=That chewy texture... pure bliss
+ハロウィンは終わらない=Halloween Never Ends
+パーティの準備=Party Preparations
+あま～い誘惑=A Sweet Temptation
+その潜行は深く=That descent was deep
+長く=For a long time
+{{C}}の{{A}}{{B}}={{C}}'s {{A}} {{B}}
+絶海を旅する巨影=A Giant Shadow Traveling Across the Open Seas
+両手に収まる英知=Wisdom That Fits in Both Hands
+跳ねのける波濤=Surging Waves
+戦場の赤い悪魔=The Red Devil of the Battlefield
+城を守護する刑部=Gyobu, the Guardian of the Castle
+四国の大妖怪=The Large Yokai of Shikoku
+じゃれつき狸=Playful Raccoon Dog
+とくと味わえ=Savour it to the fullest
+八百八狸大夜行=The Large Night Procession of 808 Raccoon Dogs
+ウマ=Horse
+ほんわか笑顔でおでむかえ=Welcomed with a warm, gentle smile
+それでは始めます♪=Well then, let's get started♪
+メイド・イン・ピンク=Made in Pink
+おつかえいたします=I'll be happy to help.
+湯上りMAX牛乳=Post-Shower MAX Milk
+いつも=Always
+みんなのそばに=By Everyone's Side
+{{A}}は風の子={{A}} Is a Girl of the Wind
+{{A}}の元気お届けサービス={{A}}'s "Delivering Cheer" Service
+特製☆愛情もーりもりMAX牛乳=Special☆Love-Packed MAX Milk
+ウシ=Cow
+城を守りし刑部=Gyobu, the Defender of the Castle
+これでも{{A}}の長なんよ=And yet, she's still the head of {{A}}.
+釣りは楽しいねえ=Fishing is so much fun, eh?
+活殺自在=Life and Death at Will
+補給はこまめに=Replenish frequently
+遥か遠くから響く遠吠え=A howl echoing from far away
+次はどいつだい？=Who's next?
+落雷に現る黒い影=A Black Shadow Appears in the Lightning
+イノシシ=Wild Boar
+ボクは{{A}}=I am {{A}}
+抜群の運動神経=Outstanding athletic ability
+調べもの=Research
+帝座より客星を砕かん=From the Imperial Throne, I Shall Shatter the Visiting Star
+強く=Strongly
+たくましく？=Resilient?
+ちょっと驚いただけよ=I was just a little surprised.
+ゆっくり過ごすのが好き=I like to take it easy
+わたしのおも～い一撃=My Huuuuge Blow
+よそ見は厳禁=Do not look away under any circumstances
+危険な秘薬=A Dangerous Potion
+どんなときでもおしとやかに=Be demure at all times
+愛のムチをあなたへ=A Little Tough Love for You
+愛はいずれ=Love Will Come Someday
+毒をも打ち消す=It even neutralizes poison
+コモドオオトカゲ=Komodo Dragon
+元気=Energetic
+栄養たっぷりゴールデンミルク=Nutrient-Rich Golden Milk
+頑丈なカラダ=A Strong Body
+補給していって=Keep restocking
+運ぶよーどいてー=I'm carrying this—move out of the way!
+ミルク缶ゴロゴロパニック=The Rolling Milk Can Panic
+鍛え続ける血統=A Bloodline That Continues to Be Refined
+無尽蔵のスタミナ=Endless Stamina
+腿上げ１００回=100 leg lifts
+トレーニングの成果=Training Results
+レッツ=Let's
+ウォーミングアップ=Warm-Up
+ガツンとお仕置き♡=A Good Spanking♡
+赤い汗=Red Sweat
+縄張り防衛態勢=Territorial Defense Posture
+機嫌よし=In a good mood
+魅惑の油揚げ=Enchanting Fried Tofu Pockets
+(黄緑)=(Yellow-Green)
+お手製パップまん=Homemade Papp Man
+いっぱい頼ってくださいね=Please feel free to ask me for help anytime.
+甘えられ上手=Good at being spoiled
+慈愛のココロ=A Compassionate Heart
+クールなワイルドランナー=The Cool Wild Runner
+ファミリーに囲まれて=Surrounded by my family
+喉の調子はどう？=How's your throat?
+武人としての礼節=Etiquette for Warriors
+武芸の礼節=Etiquette in the Martial Arts
+鍛錬の成果だ=It's the result of my training.
+気合の呼吸=Breathing of Determination
+せーたいけーえんじにあ=Seitaikei Engenia
+オレンジ色=Orange
+前歯=Front teeth
+珍しいモノあるかなー？=I wonder if there's anything rare here?
+ターゲットを無視する=Ignore the target
+がじがじするよー=I'm gonna gnaw on it!
+自身の状態に関わらず、自身=Regardless of the state of `Self`, `Self`
+どどーん、じまんのコレクション=Ta-da! My pride and joy collection
+頼れる「おやかた」=A Trustworthy "Boss"
+仕事人気質のヒーローラット=Hero Rat, the Workaholic
+英雄=Hero
+縁の下の力持ち=The unsung hero
+トレーニングは欠かさずに=Don't skip your workouts
+とっておきのアイデア=A Special Idea
+どんなものも自給自足=Self-sufficiency in everything
+最高の葉っぱね♪=These are the best leaves ever♪
+ツカ蹴りよ=Kick the handle!
+レッツ！自慢のお家づくり♪=Let's Build a Home You'll Be Proud Of!♪
+ダチに手出しはさせないよ=I won't let anyone lay a finger on my Friends.
+ダチ思いのアツいヤツ=A passionate girl who cares about her Friends
+ふらふら夜遊び=Wandering Around at Night
+全力で応援するゼ=I'll cheer you on with all my might!
+海の終わりを探して=In Search of the End of the Sea
+風にのって遠くまで=Carried by the wind, far away
+お日様はきらきら=The Sun is shining brightly
+クゥクゥスピン=Kuku Spin
+もっと高く！大空の向こうへ=High! Beyond the sky!
+冥界の番犬=Guardian Dog of the Underworld
+お仕事モード=Work Mode
+ボクの大好物♪=My favorite thing ever♪
+願いは今も輝いて=My Wish Still Shines Today
+跳んで走って木に登る=Jumping, Running, and Climbing Thu
+わたしも…やる=I'll... do it, too.
+ようこそ砂の海へ=Welcome to the Sea of Sand
+ピンチは付き物=Tough times are part of life
+様子見かなー=I guess I'll just wait and see.
+あたしの勇気は仲間のために=My courage is for my Friends
+もう=Already
+ひとりじゃない=You're Not Alone
+いつか夢みた仲間との再会=A Reunion with Friends I Once Dreamed Of
+まだ慣れない姿=A sight I'm still not used to
+子どもたちといっしょ=Together with the Girls
+ちょっとだけ=Just a little bit
+笑顔の練習=Practicing Smiling
+今日は=Today
+いい天気…だね=It's nice weather... isn't it?
+勇気ある叫び=A Cry of Courage
+好きなだけ=As much as you like
+どうぞ=Please
+ステージの時間が夜のとき=When the show is in the evening, it lasts for hours
+皆既月食=Total Lunar Eclipse
+叡智覚醒=Awakening of Wisdom
+終焉奏鳴曲=Sonata of the End
+ジャワ{{A}}=Java {{A}}
+森の外へいっぽ=One step out of the forest
+みんなを守るための力=The Power to Protect Everyone
+ばてばてひりひり{{A}}=Exhausted and Stinging {{A}}
+コンブは栄養満点=Kelp is packed with nutrients
+あたたかでヘイワなとき=A Warm and Peaceful Time
+よわい子は守るよ=I'll protect the weak ones.
+マーメイド戦士=Mermaid Warrior
+ここに参上♡=Here I am♡
+アジアゾウ=Asian Elephant
+守りの誓い=Oath of Protection
+みんなの森=Everyone's Forest
+森と共に=With the Forest
+王たる威厳=The Dignity of a King
+スペシャルマッサージ=Special Massage
+おすすめ商品をご紹介=Introducing Our Recommended Products
+カンペキな身だしなみ♪=Perfect Appearance♪
+まごころをどうぞ♪=Here's a little something from the heart♪
+クロススラップ=Cross Slap
+みんなでザッブーン=Everyone let's go for a splash!
+あたしの好きな場所=My Favorite Place
+赤道直下のすみか=A Home Right on the Equator
+暑い時は両手を広げて=When it's hot, spread your arms wide
+みんなのプライド=Everyone's Pride
+北の大地より=From the Northern Lands
+ゴールデンモンキー=Golden Monkey
+左目のうずき=A tingling sensation in my left eye
+なにかあるかな？=Is there anything going on?
+私の領域サバンナ=My Territory: The Savannah
+ひっくり返って休憩タイム=Flip Over for a Break
+俺の声に驚け=Be surprised by my voice
+驚異的な適応=Remarkable Adaptability
+怖いだろぉ？=It's scary, isn't it?
+恐れおにょにょけ=Be afraid, O-nyo-nyo-ke!
+強くてすごい百獣の王=The Strong and Wow King of Beasts
+雪の導き=Guidance from the Snow
+ステージ=Stage
+レアアイテムはっけん=Rare Item Found
+鼓舞=Inspiration
+天の利=Divine Favor
+百戦あやうからず=A hundred battles, yet never defeated
+研鑽の成果=The Results of Diligent Study
+生息域確保=Habitat Conservation
+未来への兆し=Signs of the Future
+同胞の救済=Rescue of Our Fellow Countrymen
+忍道を極めるでござる=I shall master the Way of the Ninja.
+上が一番=The top one is the best
+隠れ身の極意=The Secrets of Hiding
+秘湯さがし=In Search of Hidden Hot Springs
+ほっこりぬくぬく=Cozy and Warm
+マルっとなんかしてない=I haven't done anything round-shaped
+ニャギ顔威嚇=Threatening "Nyagi" Face
+寒さ対策はバッチリ=We're all set to beat the cold
+何かいたわね=I think I saw something.
+寒さはご勘弁=Please spare me the cold
+ちょっと一息=Time for a quick break
+精神集中=Concentration
+この探究はだれにも止められない=No one can stop this inquiry.
+おたずねもの=Wanted Items
+幻と共に=Along with the Illusion
+ちぃとでーも必要です=It's absolutely necessary.
+まっしろふわふわ=Pure white and fluffy
+極寒仕様=Extreme Cold Specifications
+冬支度=Preparing for Winter
+エナジーちゅるちゅる=Energy Churu Churu
+キボシ{{A}}=Kiboshi {{A}}
+かわいい笑顔と熱いプロ根性=A cute smile and a passionate professional spirit
+その依頼=That Request
+私にお任せを=Leave it to me.
+鋭いウロコ=Sharp Scales
+{{A}}の名にかけて=In the name of {{A}}
+川底のたからもの=Treasures at the Bottom of the River
+友だちと=With Friends
+ずっと=All the time
+キツネ代表だもの♪=I am the fox representative, after all♪
+たくさんのアシュ=Lots of Ash
+類稀なる記憶力=An Exceptional Memory
+袈裟懸け模様=Kesa-kake Pattern
+スポーツ大好き=I love sports
+狙いをさだめて=Set your sights on...
+準備も怠らないこと=Don't neglect your preparations.
+大・回・転=Large Turnaround
+あなたもいっちにっさーん♪=You too—one, two, three!♪
+おすそわけ=Sharing
+きょろきょろ警戒中=Looking around warily
+お空のご機嫌いかが=How's the weather up there?
+ぎゅむっとひとおし=A firm press
+きょうも元気にほりほり=Digging away energetically again today
+冷たい風をあげるよ=I'll send you a cold breeze.
+北の空に舞う天使=An Angel Dancing in the Northern Sky
+諦めないぞ=I won't give up.
+いつでもこーい=Bring it on anytime!
+ジャンプ力勝負=A Contest of Jumping Power
+ひとりかくれんぼ=Hide-and-Seek Alone
+どっちがいいかな？=Which one do you think is better?
+推理タイム=Mystery Time
+スーパーアイドルの意地 =The Pride of a Super Idol 
+{{A}}スマイル♥={{A}} Smile♥
+ステップ練習中♪=Practicing my step moves♪
+一万年の修行を経て=After ten thousand years of training
+妖艶なる美の化身=The Embodiment of Enchanting Beauty
+愛してあげるわ=I'll love you.
+九尾のお手入れ=Caring for the Nine-Tailed Fox
+川のヤベーやつ=That Crazy Guy by the River
+姉貴分に任せな=Leave it to the big sis.
+ズバッと鋭いツッコミ役=The character who delivers sharp, to-the-point comebacks
+鋭くツッコミ=Sharp comebacks
+熱いお笑い魂=A Passion for Comedy
+やけ食いや=Eating to cope with stress, or...
+ちからくらべしようぜ=Let's have a Strength Contest!
+うまいモノはパワーのみなもと=Delicious food is the source of energy.
+L♡Lベアーズの頼れるリーダー=The Trusted Leader of the L♡L Bears
+新記録を目指して=Aiming for a New Record
+売られたケンカは買うよ=If someone picks a fight with me, I'll take it on.
+自慢のスペシャルボディ=Our Proud Special Body
+イリエ式シャイニングアッパー=Irie-Style Shining Upper
+ふりふりぺちん=Shake-shake, pat-pat
+みてみて！ばら～んす♪=Look, look! Balance～♪
+パンダににてる…？=Does it look like a panda...?
+小さくてもいつかおっきく=Even if it's small now, it will grow big someday
+吸血コウモリ=Blood-sucking Bats
+パーティー=Party
+ヴァンパイア=Vampire
+闇満ちるときはイタズラどき=When darkness falls, it's time for mischief
+最高のショーで笑顔をお届け=Bringing Smiles Through the Highest Shows
+みんなでおしくらまんじゅう=Everyone Should Play "Oshikura Manju"
+ヘリコニアの下で=Under the Heliconia
+白い子とモコモコキャンプ=The White Kid and the Fluffy Camp
+ちょこっとお休み中=Taking a little break
+ろまん=Romance
+とんねるは=The tunnel is
+おやつはポケットの中=Snacks in My Pocket
+トンネル、使いたい子はどうぞ=Tunnel—feel free to use it if you want.
+ちょっと気になるものが…=There's something that's been on my mind...
+大人のかんろくがほしい=I want to be more mature.
+幼く見えるだけだよ=I just look young, that's all.
+{{A}}ダッシュ={{A}} Dash
+タマゴの加護=The Protection of the Egg
+幸多からんことを=May you have much happiness
+{{A}}なのだ=It's {{A}}
+何でも食べる=Eats anything
+アンコールだなんて照れるわね=An encore? That's kind of embarrassing.
+ばくはつのいいわけ=Excuses for the Explosion
+悩んでも仕方ない=There's no point in worrying about it.
+すこし眩しい外の世界=The outside world, which is a little bright
+月の力マシマシのマジ神使=The Ultimate Divine Messenger with Supercharged Mon Power
+どうも=Hi there
+いっしょうけんめい=With all my might
+{{A}}におまかせ=Leave it to {{A}}
+知恵の象徴です=It is a symbol of wisdom.
+最高のアイデア=The Best Idea
+腹ごしらえです=Time to grab a bite to eat.
+博士の鉄槌=The Doctor's Iron Fist
+月への祈りに応えて=In Response to a Prayer to the Moon
+夜を照らす光=The Light That Illuminates the Night
+玉兎の望月=The Full Moon with the Jade Rabbit
+夜のオアシス=Oasis at Night
+熱砂の切れ者=The Sharp-Witted One of the Scorching Sands
+またはアクティブ=or Active
+見切り=Cut-off
+雨神演舞=Rain God Dance
+疲れ知らずの喉=A Throat That Never Gets Tired
+朝を告げる歌声=A Song That Heralds the Morning
+{{A}}パワーで解決=Solve It with {{A}} Power
+どこでも行く=I'll go anywhere
+たいちょーの務め=The Captain's Duties
+私を敬うのです=You must respect me.
+天才コノハ博士の素晴らしい作戦=The Brilliant Plan of the Genius Dr. Konoha
+我々は賢いので=Since we're smart,
+博士=Ph. D.
+お前を超える=Surpass You
+美味たるものを求めて=In Search of Delicious Food
+ピンチはチャンス=Every Cloud Has a Silver Lining
+素敵な毛皮=Beautiful Fur
+発声練習=Vocal Exercises
+深淵の契り=The Pact of the Abyss
+跳躍回避=Leap Evasion
+反逆=Rebellion
+封印解除=Unseal
+歯応えが大事=Texture is important
+もっと素敵なパフォーマンスを=An even better performance
+カタいイシ=Hard Stone
+パークを守るウシウシ３=Ushiushi 3: Protecting the Park
+まばゆい太陽と共に=Along with the Dazzling Sun
+従者たるもの=As a servant, one must...
+どきどき興味深々=Excited and Curious
+じぃーっくり警戒中=Staring intently, on high alert
+愛され真っ白モフモフ=Beloved, Pure White, and Fluffy
+快適な空の旅をお楽しみください=We hope you enjoy a pleasant flight.
+アテンションプリーズ=Attention, please
+おっきいことは良いことだ=Bigger is better.
+あたしが来たよ=I'm here!
+みんなと背比べ=Comparing Heights with Everyone
+長い耳でなんでもわかっちゃうの=With those long ears, I can figure out anything.
+どんなときでもあわてずに=Don't panic, no matter what happens.
+気楽な過ごし方=A Relaxed Way to Spend Your Time
+目指すはトップ声優っ=My goal is to become a top voice actor!
+テンション最高潮=Excitement at Its High Point
+昨日の私をも越えて=Going Beyond Even Yesterday's Me
+一突きのために=For a single thrust
+これは特別サービス=This is a special service
+極上のいやし=The Ultimate in Relaxation
+溢れ出るカリスマ=Overflowing Charisma
+天才ミミちゃん助手の完璧な作戦=The Perfect Plan by Mimi-chan, the Genius Assistant
+助手=Assistant
+新たな発明品=A New Invention
+雪の教え=The Lesson of Snow
+論理的思考=Logical Thinking
+ひらめいたっ=I just had an idea!
+ミミちゃん=Mimi-chan
+カリスマちょきちょき=Charismatic Snip-Snip
+戦闘態勢=Combat Readiness
+臨戦態勢=On High Alert
+遊び足りない=I haven't had enough play
+器用な手先=Dexterous hands
+砂漠の心得=Tips for the Desert
+冷静な判断=Cool-headed judgment
+{{A}}ちゃんのために=For {{A}}-chan
+息抜きも大事だよ=It's important to take a break, too.
+忘れ物はございませんか？=Did you leave anything behind?
+羽休めといたしましょう♪=Let's take a little break♪
+もうオトナだもん=I'm a grown-up now, after all
+ハープ・{{A}}・ハープ=Harp, {{A}}, Harp
+更なるサイキョー=Even More Awesome
+嵐の予感=A Premonition of a Storm
+ラッコ=Sea otter
+海のベッドでおやすみ=Good Night in the Ocean Bed
+みんなと輝くステージへ=Everyone on the Stage Where We Shine Together
+冠のかがやき=The Radiance of the Crown
+見惚れるアピール=A Look That Captivates
+お気に入りの石=My Favorites Stone
+だって=After all...
+{{A}}だもの=It's {{A}}, after all
+カメラに写る思い出=Memories Captured on Camera
+白黒迷彩模様=Black-and-White Camouflage Pattern
+歌でファンサービス♪=Fan Service Through Song♪
+シロクロツンツン！です=It's "Black and White Prickly!"
+防御だけじゃありません=It's not just about defense
+相手を逃がさない観察眼=A keen eye that never lets the opponent get away
+クラッタリング=Clattering
+超集中=Ultra Focus
+どんな依頼もササッと解決=We'll handle any request in a flash
+やっぱりアリツカ=It's Aritsuka, after all
+全部お家です=All of them are at home.
+ハイイロ連盟=The Gray Alliance
+ケナガ{{A}}=Kenaga {{A}}
+次のお家は…=The next house is...
+便利屋の直感=The Handyman's Intuition
+{{A}}の意地={{A}}'s Pride
+スポットライトの裏側で=Behind the Spotlight
+プリティ{{A}}プロデューサー=Pretty {{A}} Producer
+気になりまーす=I'm curious about that!
+{{A}}日和={{A}} Days
+楽しいね=This is fun, isn't it?
+しっかり準備運動♪=Make sure to warm up properly♪
+我が姫のために=For My Princess
+ここは私が=This is where I...
+私に触れてください♪=Please touch me♪
+ピュアな響き=A Pure Sound
+敏腕P=Talented Producer
+元祖イメージトレーニング=The Original Visualization Technique
+気配り上手=Thoughtful
+機をうかがえ=Wait for the right moment
+芸の腕を磨くわ=I'm going to hone my skills.
+バランスはお手の物=Balance is a piece of cake
+目が離せない=I can't take my eyes off it
+心酔パフォーマンス=A Mesmerizing Performance
+勇敢なこころざし=A Courageous Aspiration
+正義の風が吹いているわ=The winds of justice are blowing.
+善は急げ=Strike while the iron is hot
+お姉ちゃんの底力=My Big Sister's Hidden Strength
+ビシバシツッコミ=Sharp, Biting Comebacks
+にゃあにゃあ毛繕い=Meow, meow—grooming
+正義のために飛べ=Fly for Justice
+ターゲットロックを無視する=Ignore Target Lock
+恥ずかしがり屋のジレンマ=The Shy Person's Dilemma
+ゆっくり深呼吸=Take a slow, deep breath
+おもてなしの気持ち=The Spirit of Hospitality
+お困りですか？=Are you having trouble?
+天使の祝福=Angel's Blessing
+砂掘り=Digging in the Sand
+とてつもない自信=Unbelievable confidence
+集中=Concentration
+{{A}}トレーニング={{A}} Training
+危機察知=Crisis Detection
+裏があるんでしょ？=There's something else going on, isn't there?
+なんでもできちゃうの=It can do just about anything
+けっこーすごい嗅覚=A pretty amazing sense of smell
+{{A}}パワー={{A}} Power
+空腹は最高の調味料=Hunger is the best seasoning.
+ゆらゆらタイム=Swaying Time
+サイキョーの自負=Saikyo's Pride
+想いに応える奇跡の虎=The Miraculous Tiger That Fulfills Wishes
+尊い贈り物=A Precious Gift
+瞳にわたしを映して=Reflect Me in Your Eyes
+水中の妖精=The Water Fairy
+めいっぱいの背伸び=Stretching as Far as I Can
+アメリ{{A}}イソン=Ameli {{A}} Ison
+{{A}}はオトナでちから♪={{A}} is all about being grown-up and strong♪
+コチョコチョ発生率=Tickle Incidence Rate
+成功率=Success Rate
+これがオトナのタノシミでち…=This is what adults enjoy...
+ほ、褒めても何もないよ="H-hey, you won't get anything out of complimenting me."
+恐れ知らずな暴れん坊=A Fearless Rascals
+自慢の爪=My Pride and Joy: My Nails
+どんなときも=No matter what
+笑顔が大事=A smile is important
+ちょっぴり本気=Just a Little Serious
+リウキウの輝き=The Radiance of Riukiu
+南国心地=A Tropical Feel
+火なんか食べない=I don't eat Tue.
+おともだちのために強く=Be Strong for Your Friends
+迷っちゃったかも…？=I might be feeling a little lost...?
+ぶら下がり心地の調査=Survey on the Comfort of Hanging
+やま=Mountain
+日頃のパトロール=Routine Patrols
+早くなる練習でしゅ=This is practice to get faster
+憧れのまなざし=A Look of Admiration
+深緑の森の番人=Guardian of the Deep Green Forest
+視線を感じる…=I feel like someone's watching me...
+書記官鳥に恥じない記録を=Let’s keep records worthy of the “Recorder Bird”
+不届き者にはお仕置き=A Lesson for the Naughty
+手の内はお見通し=I can see right through your game
+まぁるくふくらんで…{{A}}…=Round and plump... {{A}}...
+冬は真っ白なんです=In winter, everything is pure white.
+足を休ませましょう=Let's give our feet a rest.
+もふもふキーック=Fluffy Kick
+落雷注意？のほほんお散歩中=Watch Out for Lightning? Just Taking a Leisurely Stroll
+記録させていただきましょう=Let me take note of that.
+さらなる速さを求めて =In Pursuit of Greater Fastness 
+共に高め合おう=Let's help each other grow
+みんながいれば怖くない=Everyone is here, so I'm not afraid.
+ヒトの世界への憧れ=Longing for the Human World
+だれの物真似でしょうか♪ =Who do you think this is an impression of? ♪ 
+ぽかぽか日向ぼっこ=Basking in the Warm Sun
+森を守る者=The Guardian of the Forest
+フルーツをみんなに=Fruit for Everyone
+絶対に勝ーつ=We're definitely going to win!
+駆けっこの特訓です=This is special training for the race.
+いい調子ですよ=You're doing great.
+危ない時は水中へ=If you're in danger, get into the water.
+じっくり観察中=Taking a close look
+世界最速のハンター=The World's Fastest Hunter
+はやさくらべ=Speed Comparison
+加速飛行=Accelerated Flight
+ラストスパート=Final Push
+生粋のランナー=A True Runner
+さぁ=Well then
+走ろう=Let's go for a run!
+越冬=Overwintering
+危なくないかな…？=Isn't that a little dangerous...?
+のんびりと平和に=Leisurely and peacefully
+近づかないで=Don't come near me.
+平和を乱すなら…吹っ飛ばす=If you disturb the peace... I'll blow you away
+ゆったりいこうよー=Let's take it easy, okay?
+ゆらゆらドリーム=Swaying Dream
+大切なファミリーのために=For Your Loved Ones
+ハグハグぎゅっと♪=Hug, hug, squeeze tight♪
+最後の作戦=The Final Operation
+しとやかジャンパー=Elegant Jumper
+完璧な血統=A Perfect Pedigree
+みんながいるから寂しくないよ=I don't feel lonely because Everyone's here.
+トップスピードで羽ばたいて=Flying at top speed
+じっと見つめて…=Staring intently...
+木登りも泳ぎもまかせて=Leave the tree-climbing and swimming to me
+私とあそぼ♪木登り一等賞=Let's Play Together♪ First Prize in Thu Climbing
+オオブチ{{A}}=Obuchi {{A}}
+親愛なる私のおともだちへ=To My Dear Friend
+華麗なる舞台の開演=The Curtain Rises on a Magnificent Performance
+エレガントなエレファント=The Elegant Elephant
+休憩ターイム=Break Time
+砂浴びリフレッシュ=Refreshing Sand Bath
+うちなーパワー=Okinawan Power
+なつかしのドーナツ=Nostalgic Donuts
+ぶっきらぼうであまのじゃく=Brusque and contrary
+メタルで一息=A Metal Break
+敏腕コーディネーター=Skilled Coordinator
+かくれんぼ=Hide-and-Seek
+癒しのシマ数え=Healing Island Counting
+天使の奮起=The Angel's Resurgence
+麗しき踊り子=The Beautiful Dancer
+視線は釘付け=All eyes were on her
+気ままにひとり旅=A Spontaneous Solo Trip
+もう一歩=One more step
+踏み出さんと…=I've got to take the first step...
+誇りにかけて=For the sake of my pride
+ゆっくり休憩=Take a leisurely break
+{{A}}の采配={{A}}'s Tactics
+巧みな狩り=Skillful Hunting
+ヘマなんかしないわ=I'm not going to mess up.
+ショー・マスト・ゴー・オン=The Show Must Go On
+自由と富の象徴=A Symbol of Freedom and Wealth
+ゆったりのんびり=Relaxed and leisurely
+癒しのひと時=A Moment of Relaxation
+雪原の甘えんぼう=The Snowfield's Little Sweetheart
+ごろんとひと休み=Flopping Down for a Break
+危ない気がする=I have a feeling this is dangerous.
+お気に入りのマフラー=My Favorites Scarf
+大きくガオーッ=Large ROAR!
+アブよけファッション=Fashion Tips to Keep Flies Away
+お姉ちゃんのように=Just like my big sister
+黒い毛皮=Black Fur
+にゃんにゃん毛繕い=Meow Meow Grooming
+やぁ=Hey
+アミーゴ=Amigo
+そのときを待つ=Waiting for that moment
+狙ったら逃がさない=Once I set my sights on something, I won't let it get away
+見てて！これが狩りのお手本よ=Watch this! This is how you hunt.
+狼の遠吠え=The Howl of a Wolf
+みんなで行くよ=Everyone will go together.
+見張りは任せて=Leave the watch to me
+オオヤマネコ=Eurasian Lynx
+大空は私のテリトリー=The Sky Is My Territory
+いつだってクールに=Always Cool
+能ある鷹=A skilled hawk
+新しいことたくさん=So Many New Things
+面白いこと=Something Interesting
+探そう=Let's look for it
+元気満点クロー=Kuro, Full of Energy
+ちょうちょ見つけましたよっ=I found a butterfly!
+自然体が一番=Being yourself is best
+合間のケア=Care in Between
+一時休憩=Short Break
+美しき黄金の旋律に=To the Beautiful Golden Melody
+挑戦者=Challenger
+求ム=Wanted
+こうやるのかな？=Is this how you do it?
+いっぱい集中=Focus Hard
+ダンスをキワめるの=Mastering Dance
+シックにキめるの=Go for a chic look
+楽園のマント=The Cloak of Paradise
+踊りの準備=Preparing for the Dance
+とっておきの小石=A Special Small Pebble
+ゆうめいな{{A}}=The Famous {{A}}
+パタパタ足踏み=Stomping My Feet
+濡烏=Wet Crow
+身繕い=Personal Grooming
+守るために=To Protect
+優しき守護者=The Gentle Guardian
+アイドルスマイル=Idol Smile
+アイドリング=Idling
+とっておきの爪=My Special Nails
+英気を養え=Recharge Your Energy
+大切な友達のために=For a dear Friend
+誉れ高き武勇=Renowned Feats of Valor
+ちょっとだけ威嚇=Just a little bit of a scare
+コノハ=Konoha
+カムフラージュ=Camouflage
+ご意見ご要望にお応えします=We’ll Respond to Your Comments and Requests
+遠吠え=Howl
+日記と絵とともだちと=Diary, Drawings, and Friends
+ラリー=Rally
+お鼻を出しましょう=Let's stick out our noses
+彩られた狼=The Colorful Wolf
+{{A}}の期待のルーキー={{A}}'s promising rookie
+海のオウム=sea parrot
+穏やかな未来=peaceful future
+その先へ=Beyond that
+野生解放１段階目達成=Achieved the first stage of Wild Release
+探求心はとまらない=The spirit of exploration never stops
+未来の先の未知のため=For the unknown beyond the future
+まだ見ぬ先を目指して=Aiming for the unseen destination
+孔雀茶屋でお待ちしています=I'll be waiting for you at Kujaku Chaya.
+極彩色=Richly colored
+飾り羽=decorative feathers
+祈りのちから=The power of prayer
+お手入れ=Care
+インド{{A}}=India {{A}}
+ひんやりしよ？=Is it cool?
+今日のわたし=me today
+どうかな？=What do you think?
+ヘアケアは大事よ=Hair care is important
+自慢の脚=proud legs
+あなたを{{A}}♡={{A}} you♡
+ねぇ=Hey
+{{A}}の素質={{A}}'s Potential
+
+// ---------- from More-Whatevers-1.txt ----------
+バスなみの大きさ？=About the size of a large bus?
+これは栄養補給なの…=Is this for nutritional supplementation...?
+お願いだから逃げないで=Please, don't run away.
+隠れて=Hidden
+近付いて…ぱくっ=Come closer... munch!
+上から=From the top
+水の中から=From Underwater
+試練の蛇神=The Serpent God of Trials
+洪水の化身=The Incarnation of the Flood
+至高の一杯=The High Cup
+なわばりを守るため=To protect their territory
+ユニット結成=Formation of the Group
+マントひらーり♪=Cape fluttering♪
+みんなといっしょに大冒険=A Great Adventure with Everyone
+主人公が通りまーす=Here comes the main character!
+トラブルメーカー=Troublemaker
+はりきり{{A}}=Go for It, {{A}}!
+キレイにしましょー=Let's clean up!
+天上の元捲簾大将=General Yuan Juanlian of Heaven
+カッパじゃあらへん=It's not a kappa.
+寝とるわけとちゃうで？=It's not like I'm sleeping, is it?
+降妖宝杖=Demon-Subduing Magic Staff
+退魔の光=The Light of Exorcism
+水底にアテンションや=Keep an eye on the bottom, or...
+頼ってくれるみんなのために=For everyone who counts on me
+白銀の誇り=Silver Pride
+親分の威厳=The Boss' s Dignity
+やすらぎのドラミング=Soothing Drumming
+いちばんの愛を手に入れたわ=I've found the greatest love.
+見ての通り怖いのよ？=As you can see, it's scary, isn't it?
+たまには日光浴=Sunbathing once in a while
+じっくり待つわぁ=I'll wait patiently.
+悪いの悪いのあっちいけー="Bad, bad! Go away!"
+ちょこっと開放=A Little Bit Open
+南国気分=Tropical Vibes
+立ち向かって見せろ=Show us what you're made of.
+ここは私のテリトリーだ=This is my turf.
+ベスト=Best
+コンディション=Condition
+トモダチのために=For a Friend
+{{A}}はにんきもの={{A}} is a popular character
+セーバリアー=Safety Barrier
+一飯之恩は今も胸に=I still cherish the kindness shown to me over a single meal
+遥かなる旅路をのぞむ=Looking Forward to a Long Journey
+天下無双の暴れん坊=The Unrivaled Hooligan
+筋斗雲もお手の物=He can even ride a cloud with ease
+かつてのけものの王=The Former King of the Beasts
+繁栄の願い=Wishes for Prosperity
+雄大なる景色=Large Scenery
+静かな風のごとく=Like a Gentle Breeze
+ゴールデンな私の出番なのさ=It's my golden moment!
+ジャブジャブぴかぴか=Splash, splash, shiny, shiny
+わくわくおもちゃ=Exciting Toys
+いたずら好きな悪魔の使い=A Mischievous Devil's Messenger
+お～い=Hey...
+気づいてよぉ…=Please notice me...
+もぐもぐきゅうけい=Munch, Munch, Break
+オレ様="Me, the Boss"
+こわいだろぉ～=That's scary, isn't it?
+今宵、あなたを頂戴します♡=Tonight, I'm going to take you ♡
+信頼される王を目指して=Striving to Be a Trusted King
+一咬みの毒=One Bite of Poison
+神聖なる蛇=The Sacred Serpent
+右に左に=Back and forth
+はぁー…推しって最高だわ=Sigh... My favorite idol is the best.
+いいわねそれ=That sounds great.
+高まれ妄想力=High Imagination
+オトコロブス=Otokorobus
+大きな目でじーっと=Staring intently with large eyes
+まったり♪木にぶら～ん=Chilling out♪ Hanging from a Thu～
+ぱぱっとお手入れ=Quick and Easy Care
+大きいの注意=Caution: Large Item
+{{A}}フルーツパラダイス={{A}} Fruit Paradise
+クビワオオコウモリ=Ring-necked Bat
+海藻を食べてのんびり=Eating seaweed and taking it easy
+ステージの時間が夜ではない場合=If the performance isn't during the evening hours
+やっぱり日光浴がいちばん♪=Sunbathing really is the best♪
+しっぽでお見舞い=A Get-Well Gift from Tails
+ひと休み～♪はっくしょん=Time for a break～♪ Achoo!
+日々自己研鑽=Daily Self-Improvement
+闇夜の一突き=A Stab in the Dark of Night
+黒=Black
+献身的なサポート=Dedicated Support
+ ベストを尽くすため = To do my best 
+海氷の実力者=A Powerhouse in Sea Ice
+最善の一手=The Best Move
+いつでもいけるぞ=I can go anytime.
+いちにのさんでぐっすり♪=One, two, three—sleep tight♪
+ぽかぽかの草原で=On a warm, sunny meadow
+あったかウール=Warm Wool
+ふわモコ♪ヘア=Fluffy & Soft♪ Hair
+おいしいもの=Delicious Food
+全部くださーい=I'll take them all, please!
+受け継がれる名前=A Namef Passed Down Through Generations
+優しく見守る先輩=A Senior Who Watches Over Us with Kindness
+みんなと一緒=Together with Everyone
+騎士の決意=A Knight's Resolve
+黒き鉄壁=The Black Fortress
+広がる幸せの音=The Sound of Happiness Spreading
+激走！サバンナを駆け抜けろ=Full Speed Ahead! Race Across the Savannah
+最速への想い=The Pursuit of Speed
+勝負しようよ=Let's have a go!
+準備万端=All set
+長い腕の賢人=The Sage with Long Arms
+友好的なワクワクダンサー=Friendly, Exciting Dancer
+あいさつをしたらお友達=Say hello, and you'll make Friends
+北国育ちのウサちゃんスマイル=Usa-chan's Smile: Raised in the North
+ひかりかがやくほうへ=Toward the Shining Light
+みんなで手をつなご♪=Everyone should hold hands♪
+あこがれのあの子みたいに=Just like that girl I admire
+困ってたら助け合い=If you're in trouble, help each other out
+長旅の極意=The Secrets to Long-Distance Travel
+砂漠はおまかせ=Leave the desert to us
+いつか立派なリーダーに=To become a great leader someday
+あなたと私はもう友達♪=You and I are Friends now♪
+お水発見=Water Found
+石を壊す鳴き声？=A cry that shatters rocks?
+べ、別に寂しがってねーし=I'm... not feeling lonely or anything.
+オシャレ道に終わりはないわ♪=There's no end to the path of style♪
+最高のてんてん=The Best Tenten
+シマシマ数えは永遠です=Counting stripes is timeless.
+マイペースなストライプガール=The Carefree Striped Girl
+挑戦=Challenge
+お嬢様の優雅な休息=The Young Lady's Elegant Rest
+白き閃耀=White Radiance
+旅に出発ぅ～=Off on a trip～
+自由の旅=A Journey of Freedom
+荷物もへっちゃら=Luggage is no problem at all
+最後は優雅にキメっ=Finish with a touch of elegance
+小さいものへ大きいラブ=Large Love for Small Things
+とっておきの食べもの=Special Treats
+アタシがささえるの=I'll be there for you
+セカイをカザるの=Adorn the World
+楽園の{{A}}={{A}} in Paradise
+虹色ステップ=Rainbow-Colored Steps
+褒められ上手な元気印=A Cheerful Person Who Knows How to Accept Compliments
+不器用な頑張り屋=A Clumsy Hard Worker
+小さくたって人気者=Small but Popular
+負けず嫌いの頑張り屋=A hard worker who hates to lose
+小さくないもん=It's not that small, you know.
+とびっきりのおしゃれモード♪=Super Stylish Mode♪
+自慢のかげ縞=My Pride and Joy: Shadow Stripes
+幻惑迷彩=Illusionary Camouflage
+背中=Back
+想いをカタチに=Bringing Ideas to Life
+寝入りません=I can't fall asleep
+{{A}}寝入り={{A}} Falling Asleep
+たよれる見習いガイドさん=A Reliable Trainee Guide
+灰色=Gray
+わたしだけの強さ=My Own Strength
+お部屋に何を置こうかな=What should I put in my room?
+ちょっと考えごと=Just thinking about something
+はじめが大事…=The beginning is what counts...
+ひっさつ！{{A}}の教え=The Ultimate Move! The Teachings of {{A}}
+しとしと雨の匂い=The scent of a steady drizzle
+ヌー=Gnu
+ナビゲーション=Navigation
+みんなでいれば怖くない=Everyone is safe when they are together
+毎日=Every day
+の～んびりと♪=At a leisurely pace♪
+足の黒いアフリカン{{A}}=African {{A}} with Black Legs
+{{A}}とそっくり=Looks just like {{A}}
+あったかいのが好き=I like things that are warm
+{{A}}スマイル？={{A}} Smile?
+いっしょに手を繋いで=Let's hold hands together
+ほどよい温度が好き=I like moderate temperatures
+{{A}}といっしょに楽しい散歩=A Fun Walk with {{A}}
+降り積もる雪の中で=Amid the falling snow
+夜空で繋いだ光=Lights Connected in the Night Sky
+みんなで星絵です♪=Everyone should draw stars! ♪
+勇気の一歩=A Step of Courage
+危ないときは木の上へ=When in danger, climb a Thu
+がんばるよ=I'll do my best.
+{{A}}メの一撃={{A}}'s Single Strike
+入念な準備=Thorough Preparation
+試行錯誤=Trial and error
+縄張り警告=Territory Warning
+地面観察中=Observing the ground
+半球睡眠=Hemispheric Sleep
+お助けコミュニケーション=Helpful Communication
+最速の誇り=The Pride of Being the Fastest
+このへんかなぁ？=Is this about right?
+狩りの準備=Preparing for the Hunt
+九死に一生=A narrow escape
+威嚇=Intimidation
+星を見に行こう=Let's go stargazing
+天体観測=Astronomy
+ひとりで静かに=Alone and Quiet
+お友達=Friends
+わたし=Me
+わくわく海あそび=Exciting Beach Fun
+鋭い眼光=Piercing gaze
+甘いひとときを求めて=In Search of a Sweet Moment
+匠のワザ=Artistry of the Master Craftsman
+ものづくりの達人=Master Craftsman
+とぎすまされた技=Refined Skills
+気持ちはオオカミのように=My spirit is like that of a wolf
+みんなを守る丈夫なお家=A Sturdy Home to Protect Everyone
+便利で楽しいおかいもの=Convenient and Fun Shopping
+以心伝心ジェスチャー=Gestures That Speak Volumes
+ミステリアスな三日月=The Mysterious Crescent Moon
+まったりしてるだけじゃないかも=Maybe it's not just about taking it easy.
+スリちゃんと最高の美容室づくり=Creating the Best Hair Salon with Suri-chan
+しっぽで見分けるの=You can tell them apart by their tails
+みんなといっしょなら=If I'm with everyone...
+みんなで大{{A}}=Let's Everyone Do the Large {{A}}!
+群れの一員=A Member of the Group
+もふもふボディ=Fluffy Body
+癒しのもふもふ=Soothing Fufu
+お茶の時間です=It's time for tea.
+それ以外=Other than that
+サバンナの狩人=Hunters of the Savannah
+疾風のように駆ける=Running like the wind
+
+// ---------- from More-Whatevers-2-extra.txt ----------
+寒さなんてへっちゃら=The cold doesn't bother me at all
+銀世界を駆け回ろう=Let's race through the snowy landscape!
+しあわせをお届け♪=Bringing You Happiness♪
+あなたに贈る歌=A Song for You
+可憐な一輪の花=A single, delicate flower
+胸を張って堂々と=With your chest out and head held high
+
+// ---------- from More-Whatevers-1.txt ----------
+怪獣みたいな見た目=It looks like a monster
+
+// ---------- move names moved here from the cache ----------
+ロックに身をゆだねて=Surrendering to Rock
+未来へつむぐ我が力=Our Strength, Weaving a Future
+退屈だな…失せろ=This is boring... Get lost.
+創られし未知の伝承=The Unknown Legends That Were Created
+遊んでやろう=Let's have some fun.
+呼び覚まされし太古の記憶=Ancient Memories Awakened
+返事しちゃったね？=I guess I replied, didn't I?
+蓮華洞の魔王=The Demon King of Renge Cave
+金炉を守る童子=The Boy Guarding the Gold Furnace
+ただの宴会芸ですよ=It's just a party trick.
+こっち…いやあっちですかね=This way... or maybe that way?
+…お腹がすいてきました=...I’m starting to get hungry.
+西海の龍神の子=The Girl of the Dragon God of the Western Sea
+キン兄の良さを知らしめるには…=To show everyone what makes Kin-nii so great...
+狐狸精の血筋=The Bloodline of the Fox Spirit
+銀炉を守る童子=The Girl Guardian of the Silver Furnace
+夜のまきばに輝く月=Mon shining over the pasture at night
+健脚落ち葉はき=A Stroll Through the Fall Leaves
+風を感じて=Feeling the Breeze
+素朴ながんばりや=A simple, hardworking person
+月に照らされて=Bathed in Moonlight
+チームワークは大事よ=Teamwork is important.
+みんな仲良くしてね=Everyone, please get along well.
+
+
+// ---------- TODO: move names without a translation yet (fill in after '=' and delete the '// ') ----------
+// --- N・ハイランドワイルドドッグ
+// TODO Miracle	みんなで歌おう！ワオーン♪=
+// TODO Beat!!!	じゃんぷ！じゃーんぷ！=
+// TODO Standby	いないな〜い…ばぁ！=
+// TODO Trait	かくれんぼはとくい！=
+// TODO Miracle Trait	わたしはここにいる〜♪=
+// --- 《村落獅子》シーサー・ライト
+// TODO Miracle	災難消除！ヒーゲーシ玉=
+// TODO Beat!!!	マジムンガブガブ！=
+// TODO Standby	ヒーゲーシーサー・ライト=
+// TODO Trait	炎を退ける村落獅子=
+// TODO Miracle Trait	想いを受け取るハレの日=
+// --- 【PPPのプリンセス】ロイヤルペンギン
+// TODO Standby	リズムに合わせて！=
+// TODO Trait	アイドルに休みなし=
+// TODO Miracle Trait	お気に入りの島=
+// --- 【いいこと思いつきました】スナネコ
+// TODO Beat!!!	砂遊びしましょう=
+// --- 【こっわーい悪魔だぞぉ！】タスマニアデビル
+// TODO Standby	山盛りアイス…ごくり=
+// TODO Trait	恐ろしいだろぉ？=
+// TODO Miracle Trait	逆境にこそ牙は輝く=
+// --- 【さいきょーあいどる！】ホワイトサーバル
+// TODO Miracle	ぜったいあいどるびーむ！=
+// TODO Beat!!!	うえからきーっく！=
+// TODO Standby	せいしんとういつ …！=
+// TODO Trait	きんとれのせいか=
+// TODO Miracle Trait	ゆめみるひとみ=
+// --- 【どこでも突撃！えんため隊】カラカル
+// TODO Beat!!!	カラカルクロー=
+// TODO Standby	ちょっぴりブレイクタイム=
+// TODO Trait	面白そうなもの発見ね♪=
+// TODO Miracle Trait	えんため隊活動開始！=
+// --- 【ひんやりクリーミーを求めて】ホワイトライオン
+// TODO Miracle	あつくても元気にいきましょ〜=
+// --- 【みんなでクールに】オオタカ
+// TODO Standby	私流の正義=
+// TODO Trait	冷静なまなざし=
+// TODO Miracle Trait	クールなハンター=
+// --- 【わたしを頼ってね！】アカギツネ
+// TODO Miracle	キラキラいちばん星よ！=
+// TODO Standby	高いところはどこかな=
+// TODO Trait	頼りになるでしょ？=
+// TODO Miracle Trait	アシュさがし〜♪=
+// --- 【わっふいわっふーい！】マイルカ
+// TODO Trait	波に乗って=
+// TODO Miracle Trait	わっふーーい！=
+// --- 【オシャレリーダー】チャップマンシマウマ
+// TODO Standby	いつかの花冠=
+// TODO Trait	ワンポイント・アドバイス=
+// TODO Miracle Trait	オシャレは心から=
+// --- 【シマシマ伝道師】サバンナシマウマ
+// TODO Standby	シマゾエは楽しい〜=
+// TODO Trait	誰もわたしを止められない=
+// TODO Miracle Trait	新たなシマシマを求めて=
+// --- 【ジっとできない湿地のハンター】ハシビロコウ
+// TODO Miracle	ヒジュツ！かんてんぽーき！=
+// --- 【ニャギっとスタイリッシュ】マヌルネコ
+// TODO Standby	華麗なる猫パンチ=
+// TODO Trait	ふっくらモフモフ=
+// TODO Miracle Trait	機を待つ丸い瞳=
+// --- 【ハツラツなつっこ！】バンドウイルカ
+// TODO Miracle	やぁーとぉーそぉーーっれ！=
+// TODO Beat!!!	ワクワクこうげき！=
+// TODO Standby	わたしの十八番=
+// TODO Trait	今より、もっと強く=
+// TODO Miracle Trait	イルカはかっこいいの！=
+// --- 【ブームの予感ですよ？】チベットスナギツネ
+// TODO Standby	日頃の積み重ねが大切ですよ？=
+// TODO Trait	無敵のにらめっこ=
+// TODO Miracle Trait	目立っても、目立たずとも=
+// --- 【一撃のポーズぅ！】ミナミコアリクイ
+// TODO Standby	強気の威嚇のポーズぅ！=
+// TODO Trait	自己防衛本能=
+// TODO Miracle Trait	あたしが守るんだ！=
+// --- 【一撃の極意】ブラックジャガー
+// TODO Standby	雨神演舞・威嚇の姿勢=
+// TODO Trait	見極め=
+// TODO Miracle Trait	友を守るチカラ=
+// --- 【優秀な助手の出番なのです】ワシミミズク
+// TODO Miracle	研究材料を探しに行くのです=
+// TODO Beat!!!	文武両道なのです=
+// TODO Standby	研究スケッチ=
+// TODO Trait	食の追求者=
+// TODO Miracle Trait	賢い助手とは、私ですよ=
+// --- 【努力は裏切らない】サラブレッドあおかげ
+// TODO Miracle	レッツ・ウォーミングアップ！=
+// --- 【占いのその先へ】ダチョウ
+// TODO Miracle Trait	ダチョウダッシュ！=
+// --- 【夏の日の思い出は毒とともに】コモドドラゴン
+// TODO Miracle	愛はいずれ、毒をも打ち消す=
+// --- 【大きな瞳の美人顔】サーバル
+// TODO Miracle	これがわたしのお家！=
+// TODO Beat!!!	サーバル☆パンチ=
+// TODO Standby	宝物だみゅ=
+// TODO Trait	イタズラしちゃう！=
+// TODO Miracle Trait	ヤンチャなだけじゃないみゅ=
+// --- 【天才博士が通りますよ】アフリカオオコノハズク
+// TODO Miracle Trait	どうも、知恵の象徴です=
+// --- 【天才発明家・Ｇ】ギンギツネ
+// TODO Miracle	ばちばちドッカンV=
+// TODO Beat!!!	グルグルデールX=
+// --- 【時代が来たのだ！】アライグマ
+// TODO Standby	たいちょーの勤め=
+// TODO Trait	何でも食べる！　どこでも行く！=
+// TODO Miracle Trait	みんなでアタックなのだ！=
+// --- 【楽しさマシマシ！ＡＣＴ．２！】ジャック・オー・ランタン
+// TODO Miracle	月夜のハロウィン百鬼夜行=
+// TODO Beat!!!	どこでもハロウィンシャワー=
+// TODO Standby	ケケケ♪開けてみて！=
+// TODO Trait	ハロウィンパワーで大変身！=
+// TODO Miracle Trait	エンドレス・パーティーナイト=
+// --- 【正義の家庭教師】ミーアキャット
+// TODO Standby	お仕置き準備=
+// TODO Trait	講座・見張りについて=
+// TODO Miracle Trait	わたくしにお任せあれ=
+// --- 【神代の白き翼】ヤタガラス
+// TODO Miracle	万物を導く光・日照火輪弾=
+// TODO Beat!!!	日輪のウィングボレー=
+// TODO Standby	名将の眼光=
+// TODO Trait	三才を照らす太陽=
+// TODO Miracle Trait	燃ゆる情熱の白き炎=
+// --- 【私たちのプライド】ライオン
+// TODO Miracle	目覚めし獅子の雄たけび=
+// TODO Beat!!!	熟練の一手=
+// TODO Standby	見極め時=
+// TODO Trait	のんびりお昼寝日和=
+// TODO Miracle Trait	これも、私の役目だからね=
+// --- 【華麗に舞いま〜す！】サラブレッドしろげ
+// TODO Miracle	私の踊りをご覧あれ！=
+// TODO Beat!!!	魅惑のラウンドキック！=
+// TODO Standby	振り付け確認中=
+// TODO Trait	エスカラムサとの出会い=
+// TODO Miracle Trait	新たに挑戦する血統=
+// --- 【隻眼の悪魔†】オーストラリアデビル
+// TODO Standby	特製アイス、おいしいね♪=
+// TODO Trait	悪魔の加護=
+// TODO Miracle Trait	闇と光を糧に=
+// --- 【青い瞳の迷い猫】マヌルネコ
+// TODO Miracle	ぉあ〜つぎは何しよう?=
+// --- 【頼れる副隊長】ドール
+// TODO Miracle	みんなでGO！ワイルドハント=
+// TODO Standby	とっておきの計画=
+// TODO Trait	ヤマイヌの口笛=
+// TODO Miracle Trait	私の群れ=
+// --- おとどちゃん
+// TODO Miracle	GOGO！ハマスイ！=
+// TODO Beat!!!	アピールタイムちや！=
+// TODO Standby	金よ、来い=
+// TODO Trait	ハマスイの宣伝大使=
+// TODO Miracle Trait	お祭り大好きはちきん娘=
+// --- ずんだもん
+// TODO Miracle	特大！　ずんだ玉なのだ！=
+// TODO Beat!!!	僕の声を聞け！　なのだ！=
+// TODO Standby	ずんだチャージ=
+// TODO Trait	ずんだのかおり=
+// TODO Miracle Trait	八百万の神（自称）=
+// --- ちびくまモン
+// TODO Standby	一緒に体操するモン♪=
+// TODO Trait	サプライズ＆ハッピー！=
+// TODO Miracle Trait	熊本が大好き！=
+// --- でびるさま
+// TODO Standby	至福の一杯=
+// TODO Trait	おそろしい悪魔=
+// TODO Miracle Trait	小さな悪魔の魂=
+// --- ひぐまモン
+// TODO Standby	熊本のスイカ、おいしいモーン=
+// TODO Trait	みんなにエールを=
+// TODO Miracle Trait	郷土愛はサイキョーだモン！=
+// --- アイアイ
+// TODO Standby	精神統一=
+// TODO Trait	師の教え=
+// TODO Miracle Trait	悪魔の助け=
+// --- アイベックス
+// TODO Miracle	崖の上のスペシャリスト=
+// TODO Beat!!!	全力ぶんまわし！=
+// TODO Standby	登りたくなってきたなー！=
+// TODO Trait	山巡りでもいこうか！=
+// TODO Miracle Trait	壁登り？たのしいよね=
+// --- アオアシカツオドリ
+// TODO Miracle	大海原へとつげきダイブ！=
+// TODO Beat!!!	アオアシキック！=
+// TODO Standby	自慢の足、見て見て！=
+// TODO Trait	青い食べ物ある？=
+// TODO Miracle Trait	右、左、交互にステップ♪=
+// --- アオウミガメ
+// TODO Miracle	いろいろチャレンジしちゃえ！=
+// TODO Beat!!!	ばしゃーん！きんもちいい〜♪=
+// TODO Standby	準備運動は欠かさずに！=
+// TODO Trait	なみのりビッグウェーブ=
+// TODO Miracle Trait	まあるいツルツル甲羅=
+// --- アカウミガメ
+// TODO Miracle	これがパイプマスターの実力！=
+// TODO Beat!!!	ザブンとクイックターン=
+// TODO Standby	水分補給は欠かさずにね=
+// TODO Trait	テクニカルサーファー=
+// TODO Miracle Trait	ハート型のザラザラ甲羅=
+// --- アカカンガルー
+// TODO Miracle	いちに！とくだいキーーック！=
+// TODO Beat!!!	反則じゃないからね！=
+// TODO Standby	レッツボクシング！=
+// TODO Trait	ポッケの中には…♪=
+// TODO Miracle Trait	さらなる飛躍！=
+// --- アカミミガメ
+// TODO Standby	カチカチ甲羅ガード=
+// TODO Trait	冬はこれから=
+// TODO Miracle Trait	のほほん日光浴=
+// --- アゴヒゲアザラシ
+// TODO Miracle Trait	スーパーアイドルの意地=
+// --- アジアゴールデンキャット
+// TODO Miracle	これは乙女のシークレットよ！=
+// TODO Beat!!!	すごいのおみまい！=
+// TODO Standby	わたしだけが知っている=
+// TODO Trait	ツッコミたいワケじゃない！=
+// TODO Miracle Trait	マイ、プライベート=
+// --- アナコンダ
+// TODO Miracle	隠れて、近付いて…ぱくっ=
+// TODO Miracle Trait	水の中から、木の上から=
+// --- アフリカオオコノハズク
+// TODO Standby	コノハ・カムフラージュ=
+// TODO Trait	我々は賢いので・博士=
+// --- アフリカオニネズミ
+// TODO Miracle	怒濤の連撃、一分の隙もなし！=
+// TODO Miracle Trait	小さな英雄=
+// --- アフリカンゴールデンウルフ
+// TODO Standby	面白いこと、探そう！=
+// --- アミメキリン
+// TODO Miracle	アミアミスラ〜ッシュ！=
+// TODO Beat!!!	アミメキ〜ック=
+// TODO Miracle Trait	のんびりが一番=
+// --- アライグマ
+// TODO Miracle Trait	アライさんなのだ！=
+// --- アラスカラッコ
+// TODO Miracle	てやってやっシェルラッシュ！=
+// TODO Beat!!!	気合なんですっ！=
+// TODO Standby	どれがいいですかね…？=
+// TODO Trait	海でぷかぷかゆらゆら=
+// TODO Miracle Trait	ぴかぴかの石探し！=
+// --- アリサ=サザンクロス
+// TODO Miracle	ダディ、私はニンゲンになるよ=
+// TODO Standby	ダディ、機嫌よさそうだね=
+// TODO Trait	夜闇のダークハンター=
+// TODO Miracle Trait	金木犀の香り=
+// --- アリゾナジャガー
+// TODO Beat!!!	はじめが大事…！=
+// --- アンゴル=モア
+// TODO Miracle	黙示録撃！１００万分の１！=
+// TODO Beat!!!	自動追尾ルシファースピア=
+// TODO Standby	おじさまラブラブ♡=
+// TODO Trait	ケロロ小隊のサポート役=
+// TODO Miracle Trait	アンゴル族の少女=
+// --- イイズナ
+// TODO Miracle	いくわ！真っ正面とつげき〜！=
+// TODO Beat!!!	このワザは野生仕込みよ=
+// TODO Standby	穴の中からひょっこり♪=
+// TODO Trait	口いっぱいにほおばって=
+// TODO Miracle Trait	かけっこ勝負の負けず嫌い=
+// --- イエイヌ（シバイヌ）
+// TODO Beat!!!	ご主さまを守るの！=
+// TODO Standby	夢中でホリホリ…=
+// TODO Trait	番犬のプライド=
+// TODO Miracle Trait	ホントはだいすきなの=
+// --- イエイヌ（雑種）
+// TODO Standby	待て待てー！=
+// TODO Trait	雑種強勢=
+// TODO Miracle Trait	あなたと一緒に！=
+// --- イエネコ
+// TODO Standby	くしくしタイム♪=
+// TODO Trait	狩りの気分！=
+// TODO Miracle Trait	みんながんばれー=
+// --- イッカク
+// TODO Standby	私の誇り=
+// TODO Trait	氷の海にて=
+// TODO Miracle Trait	ウニコールの角=
+// --- イリオモテヤマネコ
+// TODO Standby	おひげが…びんびんします！=
+// TODO Trait	水だってへっちゃらです=
+// TODO Miracle Trait	ジャパリカフェのお手伝い=
+// --- イロワケイルカ
+// TODO Standby	みてみて！ばら〜んす♪=
+// --- イワトビペンギン
+// TODO Miracle	全開！ロック魂！=
+// TODO Standby	今日も絶好調！=
+// TODO Trait	アイドルスマイル・I=
+// --- インドオオカミ
+// TODO Standby	ヨーガでひとやすみ♪=
+// TODO Trait	冷静な戦術=
+// TODO Miracle Trait	内なる威厳=
+// --- インドサイ
+// TODO Standby	集中ステップ=
+// TODO Trait	拙僧に続け！=
+// TODO Miracle Trait	共に踊ろう=
+// --- インドシナウォータードラゴン
+// TODO Beat!!!	わたしのおも〜い一撃！=
+// TODO Miracle Trait	強く、たくましく？=
+// --- インドゾウ
+// TODO Miracle	魅惑のぱお〜んダンス=
+// --- ウィッチ
+// TODO Standby	素材発見！=
+// TODO Trait	ウィッチの秘薬=
+// TODO Miracle Trait	調合☆サンドスター=
+// --- ウサギコウモリ
+// TODO Standby	速くなる練習でしゅ=
+// --- ウミイグアナ
+// TODO Miracle	ひと休み〜♪はっくしょん！=
+// --- ウミウ
+// TODO Standby	大きく手を広げるだう！=
+// TODO Trait	ウミウのお手伝い=
+// TODO Miracle Trait	海の上をびゅんびゅん♪=
+// --- ウミネコ
+// TODO Beat!!!	がばり！&ぐいぐい！=
+// TODO Standby	みゃあみゃあアラート=
+// TODO Trait	風とひとつになりまして=
+// TODO Miracle Trait	移ろう季節を感じて=
+// --- ウンピョウ
+// TODO Standby	視線を感じる…！=
+// --- エジプトガン
+// TODO Standby	ベスト・コンディション=
+// --- エジプトルーセットオオコウモリ
+// TODO Miracle	楽しいゲームにしようか！=
+// TODO Beat!!!	かっこよく配っちゃうよ=
+// TODO Trait	経験と計画=
+// TODO Miracle Trait	エコーロケーション・ディーラー=
+// --- エゾユキウサギ
+// TODO Miracle	はしれ！ぴょんと逃走劇！=
+// TODO Beat!!!	ぐるぐるっと☆ぱんち=
+// TODO Standby	ぴょんぴょーん♪=
+// TODO Trait	お姉ちゃんは譲らない！=
+// TODO Miracle Trait	あたしも足も今日は絶好調♪=
+// --- エダハヘラオヤモリ
+// TODO Beat!!!	オレ様、こわいだろぉ〜！=
+// TODO Trait	お〜い、気づいてよぉ…=
+// --- エトピリカ
+// TODO Standby	きれいな色でしょ？=
+// TODO Trait	みんないっしょに遊ぼー♪=
+// TODO Miracle Trait	おやつの交換っこ=
+// --- エナガ
+// TODO Miracle	ふわふわ♪　ふれふれ♪=
+// TODO Beat!!!	ぼいぽいっと♪=
+// TODO Standby	ぶるぶるおていれ=
+// TODO Trait	ぴこぴこ尾羽=
+// TODO Miracle Trait	ならんでおしくらまんじゅう=
+// --- エメラルドツリーボア
+// TODO Standby	木の上のまどろみ=
+// TODO Trait	新ネタ発見=
+// TODO Miracle Trait	のんびりボケっと=
+// --- エリマキトカゲ
+// TODO Miracle	か、かみついちゃうわよ！=
+// TODO Standby	でっかくいくわよ！=
+// TODO Trait	体温調節はお手のもの♪=
+// TODO Miracle Trait	奥の手でいくわ=
+// --- オオウミガラス
+// TODO Trait	みんなと一緒、楽しいね=
+// --- オオサイチョウ
+// TODO Standby	ビシッとクールに=
+// TODO Trait	ノイズをかき消す旋律=
+// TODO Miracle Trait	熱いハートのニューウェイヴ=
+// --- オオセンザンコウ
+// TODO Trait	ダブルスフィアの名にかけて！=
+// TODO Miracle Trait	鋭い鱗=
+// --- オオミミギツネ
+// TODO Standby	耳をすますのね=
+// TODO Trait	よく聞こえるの！=
+// TODO Miracle Trait	自然の音色=
+// --- オカピ
+// TODO Standby	リズムにのるよー♪=
+// TODO Trait	イケてるシマシマだゾッ！=
+// TODO Miracle Trait	スーパーすごいノリノリダンス！=
+// --- オグロスナギツネ
+// TODO Standby	わたしの大切な思い出=
+// TODO Trait	友達はみ〜んな宝物！=
+// TODO Miracle Trait	家族や仲間のキズナ=
+// --- オグロヌー
+// TODO Miracle	クロスリバー・ぬ〜=
+// TODO Beat!!!	ぬぅ〜っと威嚇=
+// TODO Trait	ヌー・ナビゲーション=
+// --- オコジョ
+// TODO Standby	ふかふかしっぽのお手入れ=
+// TODO Trait	お茶をお入れしますね=
+// TODO Miracle Trait	勇猛果敢な妖精=
+// --- オジロヌー
+// TODO Trait	みんなで大移動！=
+// --- オセロット
+// TODO Miracle Trait	だって、オセロットだもの=
+// --- カグヤコウモリ
+// TODO Standby	お月様の光=
+// TODO Trait	なよ竹のおヒメさま=
+// TODO Miracle Trait	月光の輝き=
+// --- カコミスル
+// TODO Standby	自然に任せるのだ=
+// TODO Trait	前を向いて進むのだ=
+// TODO Miracle Trait	幸運のけもの=
+// --- カナダカワウソ
+// TODO Miracle	ツィーからのドボン！=
+// TODO Beat!!!	雪から〜ガブー！=
+// TODO Standby	これがメープルシロップ！？=
+// TODO Trait	スペード型の大きな鼻=
+// TODO Miracle Trait	雪が降っててすずし〜=
+// --- カマイタチ・切
+// TODO Standby	悪を滅する鎌=
+// TODO Trait	鋭利な鎌風=
+// TODO Miracle Trait	俺が切り刻む！=
+// --- カマイタチ・転
+// TODO Miracle	一番手・疾風怒涛=
+// TODO Beat!!!	瓢風=
+// TODO Standby	風清弊絶=
+// TODO Trait	忍び寄る風音=
+// TODO Miracle Trait	わたしが転ばせて=
+// --- カマイルカ
+// TODO Miracle	せーのでぐるっとじゃんぷ！=
+// TODO Beat!!!	みずしぶきをあげる♪=
+// TODO Standby	わっかだいすき！=
+// TODO Trait	かまみたいなおびれ=
+// TODO Miracle Trait	ねーさんたちとあそびたい！！=
+// --- カムチャッカオオヒグマ
+// TODO Standby	ボクりん絶好調！=
+// TODO Trait	リスペクト即粉砕♡=
+// TODO Miracle Trait	おっきーから寒くないよん♪=
+// --- カラカル
+// TODO Miracle Trait	おせっかいやき=
+// --- カルガモ
+// TODO Miracle	おたすけ〜！擬傷大作戦！=
+// TODO Standby	案内しますよ！=
+// TODO Trait	頼れるカルガモお姉さん=
+// TODO Miracle Trait	はーい、列になって〜！=
+// --- カワウ
+// TODO Standby	陸でばたばた=
+// TODO Trait	ごくんっとまるのみ！=
+// TODO Miracle Trait	あたしのかわうぃー羽=
+// --- カンジキウサギ
+// TODO Trait	今日のわたし、どうかな？=
+// TODO Miracle Trait	ねぇ、ひんやりしよ？=
+// --- ガチャピン
+// TODO Standby	わくわくリサーチ♪=
+// TODO Trait	恐竜の子どもだぞっ！=
+// TODO Miracle Trait	くじけ知らずのチャレンジャー=
+// --- ガラパゴスコバネウ
+// TODO Miracle	わたしたちを照らしたまえ〜！=
+// TODO Beat!!!	水かきキック！=
+// TODO Standby	おひさまあったか〜い♪=
+// TODO Trait	流行りを先取り！=
+// TODO Miracle Trait	ちっちゃくてかわいい羽=
+// --- ガーンジー
+// TODO Beat!!!	運ぶよーといてー！=
+// TODO Standby	元気、補給していって=
+// --- キタキツネ
+// TODO Beat!!!	ゲームでみたやつ=
+// --- キタコアリクイ
+// TODO Miracle	今がイザというとき！=
+// TODO Beat!!!	自慢のツメなの=
+// TODO Standby	きみも食べる？=
+// TODO Trait	木の上からこんにちは=
+// TODO Miracle Trait	かわいいだけじゃないよ=
+// --- キットギツネ
+// TODO Miracle	お困りかい？ボクが来たよ！=
+// TODO Beat!!!	狙い通りのチャンス！=
+// TODO Standby	たまには休まないとね=
+// TODO Trait	正体はバレないように=
+// TODO Miracle Trait	小さくても、できること=
+// --- キティサーバル
+// TODO Standby	特製アップルパイ=
+// TODO Trait	ハローキティのぬいぐるみ=
+// TODO Miracle Trait	大切な友達との思い出=
+// --- キンイロジャッカル
+// TODO Miracle	あなたを、守ります=
+// TODO Beat!!!	意外と速いんです=
+// TODO Standby	お手伝いしたいです…=
+// TODO Trait	もっと頼ってください=
+// TODO Miracle Trait	キンコの勇気=
+// --- キンカク
+// TODO Miracle	ヒャハハ！両断されちゃいな！=
+// TODO Standby	アタシがバズるためには！=
+// --- キングチーター
+// TODO Standby	ストレッチは大事よ=
+// TODO Trait	風よりも速く=
+// TODO Miracle Trait	キングの名に恥じないように=
+// --- ギョクリュウ
+// TODO Miracle	龍の本気、だしますかー=
+// --- ギンカク
+// TODO Miracle	おい！…　返事をしたな？=
+// TODO Beat!!!	この程度、造作もない=
+// --- ギンギツネ
+// TODO Miracle	かまくらホッコーリG=
+// --- クジャク
+// TODO Miracle Trait	極彩色の飾り羽=
+// --- クビワペッカリー
+// TODO Miracle	ふわり香るすてきなにおい=
+// TODO Beat!!!	前に気を付けて=
+// TODO Standby	お散歩日和だね=
+// TODO Trait	わたしの大切なクビワ=
+// TODO Miracle Trait	あなたについていきたい♪=
+// --- クルペオギツネ
+// TODO Miracle	ぐりゃああぁあぁあ！！…きゅう=
+// TODO Beat!!!	ふんづけちゃう！=
+// TODO Standby	のうてんきにふんふんふ〜ん♪=
+// TODO Trait	おいしいごはんがあれば大丈夫！=
+// TODO Miracle Trait	どこでも誰とでも仲良し！=
+// --- クロイナリサマ
+// TODO Miracle	稲荷大結界・破魔の牢=
+// TODO Beat!!!	黒狐誅伐=
+// TODO Standby	稲荷寿司はいかがですか？=
+// TODO Trait	封じられし神使=
+// TODO Miracle Trait	ああ、なんという解放感♡=
+// --- クロテン
+// TODO Miracle	夕暮れのひとときですわ=
+// TODO Beat!!!	お任せください=
+// TODO Standby	自慢の毛並みですの=
+// TODO Trait	まだ見ぬ場所=
+// TODO Miracle Trait	連れ出してくださるのですか？=
+// --- ケロロ
+// TODO Beat!!!	ケロボール-隊長の証-=
+// --- ケープペンギン
+// TODO Miracle Trait	フルルとそっくり！=
+// --- ケープライオン
+// TODO Miracle	勇往邁進 覇者の一撃=
+// TODO Beat!!!	先手必勝！=
+// TODO Standby	そういうけものにオレはなりたい=
+// TODO Trait	極められし見切り=
+// TODO Miracle Trait	武術の達人=
+// --- ゲンブ
+// TODO Standby	我が心は不動なり=
+// TODO Trait	北方の守護者=
+// TODO Miracle Trait	四神獣の守護の要=
+// --- コウテイペンギン
+// TODO Standby	イメージトレーニング=
+// TODO Trait	アイドルスマイル・K=
+// TODO Miracle Trait	エンペラーの激励=
+// --- コウノトリ
+// TODO Miracle	カタカタ♪夜のリサイタル=
+// TODO Standby	大事なさがしもの=
+// TODO Trait	カスタネットの音色=
+// TODO Miracle Trait	「うちゅう」を夢見て=
+// --- コビトカバ
+// TODO Miracle	私の姿、ちゃんと見てちょうだい=
+// TODO Beat!!!	ガバーッとはしないわ=
+// TODO Standby	お肌はちゃんとケアしなきゃ=
+// TODO Trait	たまにはすいすい=
+// TODO Miracle Trait	黒くて凶暴なけもの？=
+// --- コモドドラゴン
+// TODO Standby	高まりますわ♪=
+// TODO Trait	愛のキズ、愛の毒=
+// TODO Miracle Trait	ふたりの愛の世界=
+// --- コンゴウインコ
+// TODO Beat!!!	ぐるり〜んダンス=
+// TODO Standby	じっとしてなんていられない！=
+// TODO Trait	いつだってお祭り騒ぎ=
+// TODO Miracle Trait	陽気なチャレンジャー=
+// --- ゴシンギュウサマ
+// TODO Standby	よく寝てよく働く！=
+// TODO Trait	なでなでご利益=
+// TODO Miracle Trait	運を開く撫牛=
+// --- ゴルゴプスカバ
+// TODO Standby	じっくり観察=
+// TODO Trait	ゴルゴーンの眼=
+// TODO Miracle Trait	危険な香り=
+// --- ゴールデンライオンタマリン
+// TODO Miracle	がおがお！ゴラリンあたーっく=
+// TODO Beat!!!	ゴラリン大回転=
+// TODO Standby	かっこいいチャームポイント=
+// TODO Trait	ながーいしっぽ=
+// TODO Miracle Trait	実は働き者なんですよー=
+// --- サゴジョウ
+// TODO Beat!!!	降妖宝杖・退魔の光=
+// --- サバンナシマウマ
+// TODO Trait	挑戦・かくれんぼ！=
+// --- サビイロネコ
+// TODO Miracle	うずうず♪かくれんぽ！=
+// TODO Beat!!!	葉っぱのかげから…えいっ！=
+// TODO Standby	あたちのこと見つけられる？=
+// TODO Trait	小っちゃなオトナ？=
+// TODO Miracle Trait	隠れながらしんちょーに=
+// --- サラブレッドあおかげ
+// TODO Standby	準備は入念に=
+// TODO Trait	トレーニングは裏切らない=
+// TODO Miracle Trait	徹底された血統=
+// --- サラブレッドあしげ
+// TODO Miracle	振り切って駆け抜けろ！=
+// TODO Beat!!!	自慢の脚力=
+// TODO Standby	落ち着かないなぁ…=
+// TODO Trait	ブレない体幹=
+// TODO Miracle Trait	足を溜めて、追い抜いて=
+// --- サラブレッドくりげ
+// TODO Standby	スタートダッシュ！=
+// TODO Trait	みんなで駆けっこ！=
+// TODO Miracle Trait	最速の血統=
+// --- サラブレッドしろげ
+// TODO Miracle	華麗に跳びま〜す！=
+// TODO Trait	自然体が1番=
+// --- サンクリストバルゾウガメ
+// TODO Miracle	みんなを守るためにーどりゃー！=
+// TODO Beat!!!	じまんの甲羅あたーっく=
+// TODO Standby	のんびりーすやすやー=
+// TODO Trait	ごはん食べるの忘れてたー=
+// TODO Miracle Trait	やるときはやるんだよー=
+// --- サンタクルスゾウガメ
+// TODO Miracle	カチコチシールドでドドーン！=
+// TODO Beat!!!	あたいがみんなを守るんだ！=
+// TODO Standby	のんびり日向ぼっこ…♪=
+// TODO Trait	島での落ち着く暮らし=
+// TODO Miracle Trait	西側の姉貴分=
+// --- サーバル？
+// TODO Standby	私にもやらせて！=
+// TODO Miracle Trait	未実装=
+// --- サーベルタイガー
+// TODO Standby	剣虎の構え=
+// TODO Trait	挑戦の精神=
+// TODO Miracle Trait	サーベルカウンター=
+// --- シマハイイロギツネ
+// TODO Standby	パークは広いな大きいな=
+// TODO Trait	どこまでも連れてって=
+// TODO Miracle Trait	ちいさな勇気に幸あれ=
+// --- シマハイエナ
+// TODO Miracle	勇気出して、あの子みたいに=
+// TODO Beat!!!	こんなところで逃げないよ！=
+// TODO Standby	タイミングを狙って=
+// TODO Trait	あこがれを胸に=
+// TODO Miracle Trait	みんなの力になりたいな=
+// --- シマリス
+// TODO Standby	もぐもぐおやつたいむ=
+// TODO Trait	木の実あつめ=
+// TODO Miracle Trait	ぷっくりは元気の印！=
+// --- シャチ
+// TODO Standby	あなたが気になる…=
+// TODO Trait	冷たい海をどこまでも=
+// TODO Miracle Trait	オルカアタック=
+// --- シュバシコウ
+// TODO Miracle	幸せをあなたのもとへ=
+// TODO Beat!!!	あやしてあげる=
+// TODO Standby	即興リサイタル=
+// TODO Trait	屋根の上から見守るわ=
+// TODO Miracle Trait	遠くの空まで旅をしましょう=
+// --- ショウジョウトキ
+// TODO Standby	出番はまだですか！？=
+// TODO Trait	猩猩の舞=
+// TODO Miracle Trait	天は二物を与えましたね！=
+// --- シロクジャク
+// TODO Miracle	みなさん、ごきげんよう=
+// TODO Beat!!!	純白のツバサ=
+// TODO Standby	じっくりお手入れ=
+// TODO Trait	優雅にいきましょう=
+// TODO Miracle Trait	美しさは内面から=
+// --- シロフクロウ
+// TODO Miracle	音無き雪原の狩人=
+// TODO Beat!!!	ぴゃー！…です=
+// TODO Standby	次のねらいは…=
+// TODO Trait	羽毛からのぞくかぎ爪=
+// TODO Miracle Trait	幸福の白い鳥=
+// --- シンメ
+// TODO Miracle	神様の舞〜雷こわいの段〜=
+// TODO Beat!!!	たまぐしほ〜て〜ん？=
+// TODO Standby	もしかして雷落ちた！？=
+// TODO Trait	佐目毛のアハルテケ=
+// TODO Miracle Trait	ヒヒーン！ブンブン！パカラッ！=
+// --- シヴァテリウム
+// TODO Standby	不思議な音色…=
+// TODO Trait	優しき破壊の力=
+// TODO Miracle Trait	シヴァの獣=
+// --- シーサーバル・ライト
+// TODO Trait	リウキウの輝き・R=
+// --- シーサーバル・レフティ
+// TODO Trait	リウキウの輝き・L=
+// TODO Miracle Trait	ちょこっと解放=
+// --- シーサー・ライト
+// TODO Standby	おもてなシーサー・ライト=
+// TODO Trait	常夏のお祭り日和=
+// TODO Miracle Trait	招福の助言=
+// --- シーサー・レフティ
+// TODO Standby	おもてなシーサー･レフティ=
+// TODO Trait	常夏のお祭り騒ぎ=
+// TODO Miracle Trait	厄除けの助言=
+// --- シーラカンス
+// TODO Miracle	永遠より深く=
+// TODO Standby	あこがれの地よ=
+// TODO Trait	深淵からつかんだ光=
+// TODO Miracle Trait	幸福をおくろう=
+// --- ジェンツーペンギン
+// TODO Trait	アイドルスマイル・G=
+// --- ジャイアントパンダ
+// TODO Miracle	睡眠大熊猫崩=
+// TODO Standby	いっぱい食べる！=
+// TODO Trait	いっぱい寝る！=
+// TODO Miracle Trait	冬眠じゃないですよ？=
+// --- ジャック・オー・ランタン
+// TODO Beat!!!	トリック&トリック！！=
+// TODO Standby	あま〜い誘惑=
+// --- ジャングルキャット
+// TODO Standby	ひと遊びのいやし=
+// TODO Trait	またウソついちゃいました…=
+// TODO Miracle Trait	ジャングルのお勉強ノート=
+// --- ジャージー
+// TODO Miracle	なんでもジャージーミルク！=
+// TODO Beat!!!	どっしーんですわ！=
+// TODO Standby	お飲みになりますわよね！=
+// TODO Trait	ジャージーミルク激推しお嬢様=
+// TODO Miracle Trait	まろやかでコクのある味=
+// --- ジュゴン
+// TODO Miracle	届け！マーメイドの歌声=
+// --- ジョフロイネコ
+// TODO Standby	これがオトナのタノシミでち…！=
+// --- スザク
+// TODO Standby	我の火が熱く燃えたぎる！=
+// TODO Trait	南方の守護者=
+// TODO Miracle Trait	四神獣の努力家=
+// --- ステラーカイギュウ
+// TODO Miracle	マーメイド戦士、ここに参上♡=
+// --- スプリングボック
+// TODO Miracle	空に届け!わたしのジャンプ=
+// --- スマトラトラ
+// TODO Miracle	ざばっといくよ！がおー！=
+// TODO Beat!!!	かっこよくかみつき！=
+// TODO Standby	たてがみじまん！=
+// TODO Trait	ちっこくないもん！=
+// TODO Miracle Trait	わたしだってやるんだぞー！=
+// --- セイウチ
+// TODO Standby	ちゃぷちゃぷ貝探し=
+// TODO Trait	今日はごろごろ日和♪=
+// TODO Miracle Trait	一緒にごろ〜んとしませんか？=
+// --- セイリュウ
+// TODO Standby	静かなる呼吸=
+// TODO Trait	東方の守護者=
+// TODO Miracle Trait	四神獣の救済者=
+// --- セキショクヤケイ
+// TODO Miracle	優雅にお散歩…コ、コケー！？=
+// TODO Beat!!!	は、はずかしいです！=
+// TODO Standby	わたくしだって飛べます…！=
+// TODO Trait	あわてずにいきましょう…！=
+// TODO Miracle Trait	クックドゥードゥルドゥー！=
+// --- ソンサーバル
+// TODO Trait	うみやっと元気な暴れん坊=
+// --- タスマニアタイガー
+// TODO Miracle Trait	もう、ひとりじゃない=
+// --- タチコマ type-H
+// TODO Standby	タチコマ索敵中=
+// TODO Trait	人工知能=
+// TODO Miracle Trait	個性の獲得？=
+// --- タチコマ type-S
+// TODO Standby	タチコマ秘蔵オイル=
+// TODO Trait	自律思考=
+// TODO Miracle Trait	ゴーストのささやき？=
+// --- タテガミオオカミ
+// TODO Miracle	わたしなりに、できること=
+// TODO Beat!!!	普通なとくぎ=
+// TODO Standby	やりたいことはたくさんあるの=
+// TODO Trait	お友だちとおでかけ日和=
+// TODO Miracle Trait	きらきらのヘアブラシ=
+// --- タテゴトアザラシ
+// TODO Miracle	癒やしのタテゴト演奏会=
+// --- タママ
+// TODO Miracle	タママ流超秘奥義…嫉妬玉！=
+// TODO Beat!!!	タママインパクトォー！=
+// TODO Standby	タマタマタマ…=
+// TODO Trait	究極のメイドさん=
+// TODO Miracle Trait	キュートなニ等兵=
+// --- ターパン
+// TODO Miracle Trait	あたたかな絵が伝え続ける=
+// --- ダイトウオオコウモリ
+// TODO Trait	まったり♪木にぶら〜ん=
+// --- ダチョウ
+// TODO Standby	今日の占い！=
+// TODO Trait	タマゴのお告げ=
+// TODO Miracle Trait	見えました！=
+// --- ダンザブロウダヌキ
+// TODO Standby	メモは欠かさずに=
+// TODO Trait	聡い化け狸=
+// TODO Miracle Trait	総大将の商魂=
+// --- チベットスナギツネ
+// TODO Standby	お昼の待ちぼうけ=
+// TODO Trait	得意のかくれんぼ=
+// TODO Miracle Trait	神聖なる地の加護=
+// --- チャップマンシマウマ
+// TODO Miracle	ジグザグゼブラキ〜ック=
+// --- チョハッカイ
+// TODO Miracle	かっこいいトコ見せてやるべ！=
+// TODO Beat!!!	九刃・火炎旋風=
+// TODO Standby	かわいこちゃんさがし♪=
+// TODO Trait	半人半豚の妖怪=
+// TODO Miracle Trait	天上の元天蓬元帥=
+// --- ツシマヤマネコ
+// TODO Miracle	の〜んびり♪森林浴=
+// TODO Standby	しっぽ比べしよう=
+// TODO Trait	緑の世界でひとやすみ=
+// TODO Miracle Trait	自慢のしっぽ=
+// --- ツチブタ
+// TODO Miracle	タダではすまないよ=
+// TODO Beat!!!	パワフルキック=
+// TODO Standby	わたしのお昼寝タイム=
+// TODO Trait	ちんたいはもらうよ=
+// TODO Miracle Trait	わらしべ長者=
+// --- ツノサイチョウ
+// TODO Standby	ノリノリでWaWaWa！=
+// TODO Trait	とびっきりの個性=
+// TODO Miracle Trait	アタシとクロスオーヴァー！=
+// --- ツバメ
+// TODO Standby	おなかすいたぁ〜！=
+// TODO Trait	チュピチュピ声を出して！=
+// --- ティタノボア
+// TODO Beat!!!	あーん…ばくっ、ごくり=
+// --- ディアトリマ
+// TODO Standby	今日も元気に！=
+// TODO Trait	走るのは得意なんだ！=
+// TODO Miracle Trait	トリのみんなはすごい！=
+// --- トド
+// TODO Miracle	荒波ボディーブレスダイブ！=
+// TODO Standby	譲れないごろごろ=
+// TODO Trait	暴れちゃうわよ〜=
+// TODO Miracle Trait	パワフルな頑張り屋=
+// --- トナカイ
+// TODO Miracle	みんな笑顔にな〜れっ！=
+// --- トムソンガゼル
+// TODO Standby	みてみてー！ すごいでしょ！=
+// TODO Trait	ランナーのスタミナ=
+// TODO Miracle Trait	大草原の大警戒=
+// --- トラ
+// TODO Standby	轟音の虎嘯=
+// TODO Trait	鍛錬の成果=
+// TODO Miracle Trait	精一杯のありがとう=
+// --- トランスバールライオン
+// TODO Beat!!!	ダブル・スクラッチ=
+// TODO Standby	ちょっとだけきゆーけー=
+// --- ドラゴンサーバル
+// TODO Miracle	疾風怒濤·薮猫の龍爪=
+// TODO Trait	さいきょ一無敵の主人公！=
+// --- ドールシープ
+// TODO Standby	立派なツノでしょ？=
+// TODO Trait	これも生きるチエなの=
+// TODO Miracle Trait	どんな崖もひょいひょいっと♪=
+// --- ナミチスイコウモリ
+// TODO Miracle Trait	ヴァンパイア・パーティ=
+// --- ニホンアナグマ
+// TODO Miracle	ひっさつぅ！ばたんきゅ〜…？=
+// TODO Beat!!!	ぽこすか！アナグマぱんち！=
+// TODO Standby	ジャパまん探しですぅ=
+// TODO Trait	すごい穴のお家=
+// TODO Miracle Trait	お、おどろきませんよぉ！=
+// --- ニホンカワウソ
+// TODO Miracle Trait	友だちと、ずっと=
+// --- ニホンザル
+// TODO Standby	ぷはーっと一息=
+// TODO Trait	温泉でうっとり=
+// TODO Miracle Trait	湯けむりに惹かれて=
+// --- ニホンジカ
+// TODO Miracle	秋ふかまる紅葉の舞=
+// TODO Beat!!!	びしっといくよ！=
+// TODO Standby	じっとしてられないかも…！=
+// TODO Trait	おいしいもの、いただきます♪=
+// TODO Miracle Trait	今度はわたしと遊ぼう！=
+// --- ニホンツキノワグマ
+// TODO Miracle	くんくん…見つけたよ！=
+// TODO Beat!!!	みんなに近づくなー！=
+// TODO Standby	いっぱい食べるよー=
+// TODO Trait	おいしい果物探し=
+// TODO Miracle Trait	三日月みたいな模様=
+// --- ニホンノウサギ
+// TODO Standby	耳をすませて=
+// TODO Trait	よるのかげあそび=
+// TODO Miracle Trait	月ウサギのお手伝い=
+// --- ノドグロミツオシエ
+// TODO Standby	ハチの巣どこかな？=
+// TODO Trait	お友達と力をあわせて=
+// TODO Miracle Trait	小さなハニーガイド=
+// --- ハクビシン
+// TODO Beat!!!	ぎゃうがうぐるぐる〜！=
+// --- ハシボソガラス
+// TODO Miracle	アタシの想いは止められないわ！=
+// TODO Beat!!!	じゃましないでくれる？=
+// TODO Standby	次はどうしてやろうかしら=
+// TODO Trait	一途な歪んだ愛=
+// TODO Miracle Trait	ガァー…ガァー！=
+// --- バイソン
+// TODO Miracle Trait	諦めなければ必す勝てる=
+// --- バシロサウルス・イシス
+// TODO Miracle	裁きのとき 穿て、王の矢よ！=
+// --- バンテン
+// TODO Miracle	たけのこ…みつけましたよ♪=
+// TODO Beat!!!	ど、どいてくださ〜い！=
+// TODO Standby	今日は会えるかな？=
+// TODO Trait	緊張しない特訓です=
+// TODO Miracle Trait	みんなと、お話できるように=
+// --- バンドウイルカ
+// TODO Standby	私もやーるー！=
+// TODO Trait	半球睡眠・ドルカ=
+// TODO Miracle Trait	泳ぎなら負けないよ！=
+// --- パンサーカメレオン
+// TODO Miracle Trait	木の上が一番！=
+// --- ヒグマ
+// TODO Standby	挑戦者、求ム=
+// --- ヒツジ
+// TODO Standby	ふわモコ♪ヘアセット=
+// --- ヒメアリクイ
+// TODO Standby	ヒメ、がんばる！=
+// TODO Trait	おしょっちゃうじょう=
+// TODO Miracle Trait	やっぱり木の上がいい=
+// --- ヒメアルマジロ
+// TODO Standby	幸せのおすそわけ=
+// TODO Trait	ピンクフェアリー=
+// TODO Miracle Trait	幸せを集めましょう♪=
+// --- ヒメウォンバット
+// TODO Trait	とんねるは、ろまん=
+// --- ビャクダ
+// TODO Miracle	ふふっ、み〜つけた…♡=
+// --- ビャッコ
+// TODO Standby	我が武の真髄を見よ！=
+// TODO Trait	西方の守護者=
+// TODO Miracle Trait	四神獣の元気印=
+// --- ビントロング
+// TODO Miracle	そろり？しんちょうに…！=
+// TODO Beat!!!	たまにはいきおいよく=
+// TODO Standby	安全は大事です！=
+// TODO Trait	香ばしいにおい=
+// TODO Miracle Trait	しっぽでぶら〜ん♪=
+// --- ピューマ
+// TODO Trait	やぁ、アミーゴ！=
+// --- ピンタゾウガメ
+// TODO Miracle	さびしくなんか…ない！=
+// TODO Beat!!!	あわあわ…どっしーん！=
+// TODO Standby	レシピ考案中=
+// TODO Trait	ひとりきりだったあの子=
+// TODO Miracle Trait	大切な今を守るために=
+// --- ファウストガメ
+// TODO Miracle	どっちがワタシか、当ててみて=
+// TODO Beat!!!	甲羅でごっちん=
+// TODO Standby	ワタシはここにいません…=
+// TODO Trait	島の外ってどんな場所？=
+// TODO Miracle Trait	東側の妹分=
+// --- フォッサ
+// TODO Standby	油断はしないさ=
+// TODO Trait	お飾りであろうとも=
+// TODO Miracle Trait	真の王への道=
+// --- フォークランドカラカラ
+// TODO Standby	これはもう私のもの=
+// TODO Trait	「お話」しましょう？=
+// TODO Miracle Trait	秘めきれないキモチ=
+// --- フクロオオカミ
+// TODO Miracle	好きなだけ、どうぞ=
+// TODO Standby	今日は、いい天気…だね=
+// TODO Trait	ちょっとだけ、笑顔の練習=
+// --- フクロネコ
+// TODO Standby	恐れおにょにょけ！だって！=
+// TODO Trait	おんぶしてあげる=
+// TODO Miracle Trait	いつでも冷静に=
+// --- フクロミツスイ
+// TODO Miracle	お花さんがいっぱいだあ♪=
+// TODO Standby	すてきな香りがする …！=
+// TODO Trait	お花畑で見るあま〜い夢♪=
+// --- フタコブラクダ
+// TODO Beat!!!	どいてぇ〜♪=
+// --- フンボルトペンギン
+// TODO Miracle	一緒に食べよ？=
+// TODO Trait	アイドルスマイル・H=
+// --- ブチハイエナ
+// TODO Standby	クックックー！=
+// --- ブラックサーバル
+// TODO Miracle	ダークナイトハンター=
+// TODO Standby	キケンの察知=
+// TODO Trait	流れる日々の中で=
+// TODO Miracle Trait	ナイト・ハイドアンドシーク=
+// --- ブラックジャガー
+// TODO Trait	戦闘態勢・黒=
+// --- ブラックマンバ
+// TODO Standby	照れ隠しの威嚇=
+// TODO Trait	慎重な警戒=
+// TODO Miracle Trait	ちょっとしたジョーク=
+// --- ブームスラング
+// TODO Miracle	おくれてバタンキュー！=
+// TODO Beat!!!	しゅばっとがぶがぶ=
+// TODO Standby	ゆっくり待ちましょうかぁ=
+// TODO Trait	おだやかな毎日がいちばん=
+// TODO Miracle Trait	怒りました！ぷくーっ=
+// --- プロングホーン
+// TODO Standby	さぁ、走ろう！=
+// --- ホッキョクオオカミ
+// TODO Standby	小さなお友達=
+// --- ホッキョクギツネ
+// TODO Standby	ホッカイ名物・アイスジャパまん=
+// TODO Trait	憧れの絶対零度=
+// TODO Miracle Trait	一緒に遊びましょう♪=
+// --- ホラアナライオン
+// TODO Standby	オレも絵を描いてみる！=
+// TODO Trait	神秘の絵=
+// TODO Miracle Trait	永久凍土の洞窟=
+// --- ホルスタイン
+// TODO Trait	フリシアンは風の子！=
+// TODO Miracle Trait	いつも、みんなのそばに=
+// --- ホワイトカリブー
+// TODO Standby	頑張る皆さんに♪=
+// TODO Trait	雪中のかくれんぼ=
+// TODO Miracle Trait	ホワイトハッピープレゼンター=
+// --- ホワイトライオン
+// TODO Standby	お昼寝の時間ですねぇ〜=
+// --- ホンドタヌキ
+// TODO Standby	お芋おいしそ〜♪=
+// TODO Miracle Trait	幸福のまっしろなもんペ=
+// --- ホンドテン
+// TODO Miracle	木の上でおにごっこ！=
+// TODO Beat!!!	すわいぷ！すわいぷ！=
+// TODO Standby	右みて、左みて…=
+// TODO Trait	木から木にジャンプ！=
+// TODO Miracle Trait	あたたかな毛並み=
+// --- ボアコンストリクター
+// TODO Miracle	今日こそお縄をちようだいしろ！=
+// --- ボブキャット
+// TODO Standby	まだまだこれからよ？=
+// TODO Trait	スイーツめぐり=
+// TODO Miracle Trait	カフェのひとときをあなたに=
+// --- マイルカ
+// TODO Miracle Trait	わたし、がんばるよ！=
+// --- マッコウクジラ
+// TODO Miracle Trait	その潜行は深く、長く=
+// --- マナティー
+// TODO Miracle	乙女のいちげきー！なんだから=
+// TODO Beat!!!	かわいい尾びれでしょ？=
+// TODO Standby	あっちへ行ってみようよ=
+// TODO Trait	みーんな友だち！=
+// TODO Miracle Trait	のんびり泳ごうよ=
+// --- マネキネコ
+// TODO Miracle	手招き福よび、にゃベ♪=
+// --- マメジカ
+// TODO Standby	のんびりすごしたいの〜=
+// --- マルミミゾウ
+// TODO Miracle	森とのやくそく、種のいのり=
+// TODO Beat!!!	草木のかおりを運ぶ風=
+// TODO Standby	仲間の声をよく聞いて=
+// TODO Trait	熟したあまいの=
+// TODO Miracle Trait	小さくて丸い耳=
+// --- マンドリル
+// TODO Miracle	森の悪魔？違いますよ〜=
+// TODO Beat!!!	おふざけはだめです=
+// TODO Standby	のびのびと〜♪=
+// TODO Trait	色鮮やかな顔=
+// TODO Miracle Trait	にこっとスマイル♪=
+// --- マーゲイ
+// TODO Trait	もう限界よわよわ擬態ボイス=
+// --- マーモット
+// TODO Standby	見張りはばっちり=
+// TODO Trait	ソワソワなんてしてないしぃ=
+// TODO Miracle Trait	警戒のホイッスル=
+// --- ミナミキリン
+// TODO Miracle	すやすや…なんてね=
+// TODO Beat!!!	じまんのマフラー=
+// TODO Standby	ボクってかわいいでしょ=
+// TODO Trait	ボクと背比べしよっか=
+// TODO Miracle Trait	クリーム色の模様=
+// --- ミナミコアリクイ
+// TODO Standby	威嚇のポーズぅ！=
+// --- ミミィサーバル
+// TODO Standby	ころりん毛糸玉=
+// TODO Trait	ハローミミィのぬいぐるみ=
+// TODO Miracle Trait	大好きな友達との思い出=
+// --- ミーアキャット
+// TODO Standby	教育的指導！=
+// TODO Trait	警戒心=
+// TODO Miracle Trait	復習ですわ！=
+// --- メガネカイマン
+// TODO Standby	ゆらゆら日光浴=
+// TODO Trait	結構荒いでしょう？=
+// TODO Miracle Trait	自慢のメガネなんです=
+// --- メンダコ
+// TODO Miracle	深海へようこそ=
+// TODO Beat!!!	パラシュートアタック=
+// TODO Standby	お気に入りの食べ物=
+// TODO Trait	ぺったんこ、落ち着く=
+// TODO Miracle Trait	いろんな色=
+// --- モウコノウマ
+// TODO Miracle	チカラ仕事はお任せください〜=
+// --- ヤク
+// TODO Standby	特製バター茶=
+// TODO Trait	厳しい環境でも=
+// TODO Miracle Trait	半分食べて、２倍歩いて=
+// --- ヤタガラス
+// TODO Standby	美しき輝き=
+// TODO Trait	天・地・人=
+// TODO Miracle Trait	太陽の化身=
+// --- ヤマシマウマ
+// TODO Miracle	私の大好きな空=
+// TODO Beat!!!	山育ちの強心臓=
+// TODO Standby	好き好きしたいなぁ=
+// TODO Trait	はしごみたいなシマシマ=
+// TODO Miracle Trait	お昼はゆっくりしよう=
+// --- ヤマネ
+// TODO Miracle	ウワサのかわいい寝顔=
+// TODO Beat!!!	あくろばてぃっくに！=
+// TODO Standby	くるんと丸まって…すぅ…=
+// TODO Trait	小さな木登り上手=
+// TODO Miracle Trait	生きた化石…らしいねぇ？=
+// --- ヤンバルクイナ
+// TODO Miracle Trait	太陽の道しるべ=
+// --- ユニコ
+// TODO Standby	いつかの花畑=
+// TODO Trait	幸せを呼ぶ一角獣=
+// TODO Miracle Trait	愛は永遠の歌=
+// --- ヨーロッパビーバー
+// TODO Trait	オレンジ色の前歯=
+// --- ライリュウ
+// TODO Trait	動物ヶ島の悪戲者=
+// --- ラーテル
+// TODO Standby	静かに燃えたぎれ！=
+// TODO Trait	世界一の怖いもの知らず=
+// TODO Miracle Trait	頼れるハニーハンター=
+// --- リュウキュウイノシシ
+// TODO Standby	カニさんみつけた♪=
+// TODO Trait	砂のおやまづくり=
+// TODO Miracle Trait	演奏の練習です！=
+// --- ルリコンゴウインコ
+// TODO Trait	だれの物真似でしょうか♪=
+// --- レオ
+// TODO Miracle	楽園を築く、その日まで=
+// TODO Beat!!!	親子の狩り=
+// TODO Standby	新たな知識との出会い=
+// TODO Trait	白いライオンの子=
+// TODO Miracle Trait	幼い王者の風格=
+// --- ロイヤルペンギン
+// TODO Trait	アイドルスマイル・P=
+// --- ワオキツネザル
+// TODO Miracle	ねらって！ジャンプキック！=
+// TODO Beat!!!	はげしくガブッてね！=
+// TODO Standby	気合の入れどき=
+// TODO Trait	おひさまのしたでぬっくぬく〜=
+// TODO Miracle Trait	森の幽霊なんてガラじゃない=
+// --- ワシミミズク
+// TODO Standby	ミミちゃん・カムフラージュ=
+// TODO Trait	我々は賢いので・助手=
+// --- 日向夏美
+// TODO Miracle	絶対防衛★夏美スペシャル=
+// TODO Beat!!!	運動神経バツグン！=
+// TODO Standby	かかってきなさい！=
+// TODO Trait	しっかり者のお姉ちゃん=
+// TODO Miracle Trait	ハイスペック中学生=
+// --- 東北きりたん
+// TODO Miracle	新技…きりたん砲「改」ッ！！=
+// TODO Beat!!!	きりたん砲逆噴射キック=
+// TODO Standby	ずんねえさまぁ…♡=
+// TODO Trait	ふとももを愛する者=
+// TODO Miracle Trait	お味噌仕立てのきりたんぽ鍋=
+// --- 東北イタコ
+// TODO Miracle	秘儀！連続口寄せ！=
+// TODO Beat!!!	除霊は専門外ですのに〜！=
+// TODO Standby	お仕事の準備は念入りに=
+// TODO Trait	首席卒業の金欠イタコ=
+// TODO Miracle Trait	妹溺愛お姉ちゃん=
+// --- 火の鳥
+// TODO Standby	光輝の羽ばたき=
+// TODO Trait	光る尾羽=
+// TODO Miracle Trait	再生=
+// --- 白龍
+// TODO Miracle	刻露清秀·秋の光華=
+// --- 真・青龍
+// TODO Miracle	桃紅柳緑·春の舞=
