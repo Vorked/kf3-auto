@@ -1356,3 +1356,7 @@ TAIRIKI=HP
 
 // ---------- rarity letters the translator spaced out ----------
 S S R=SSR
+
+// no space between a number and its percent sign
+ %=%
+ ％=%
