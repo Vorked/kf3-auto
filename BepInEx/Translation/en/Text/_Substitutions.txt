@@ -2225,6 +2225,7 @@ MP減少攻撃=MP Reduction Attack
 MP増加量半減=MP increase halved
 ルンルンきぶん=Joy
 ちくはぐリズム=Discord
+ばてばてひりひり=Overheat
 
 // ---------- DOJO PERSONAL BEST ----------
 バトル\n開始=Start\nBattle

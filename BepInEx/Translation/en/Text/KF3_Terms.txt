@@ -294,6 +294,7 @@ MP増加量=MP gain
 亜種=subspecies
 
 // ---------- additions from More-Whatevers-1 ----------
+ばてばてひりひり=Overheat
 カメレオン科=Family Chamaeleonidae
 ミツヅノカメレオン亜属=Subgenus Trioceros
 フサエカメレオン属=Genus Furcifer
