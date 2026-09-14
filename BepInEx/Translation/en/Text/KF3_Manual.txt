@@ -2,7 +2,14 @@
 // Remember: any key containing a _Substitutions.txt key can never match (substitutions run first).
 
 // ---------- REGEX ----------
-// DISABLED: regex has no capture group but the value uses $1 — cannot work as written  |  r:"^[ ]から受け取りました.$"=Accepted from $1.
+// DISABLED: regex has no capture group but the value uses $1, cannot work as written  |  r:"^[ ]から受け取りました.$"=Accepted from $1.
+
+----------USES----------
+あと<size\=32>●回</size>=Uses: <size\=32>●Left</size>
+<size\=22>あと</size>    回=<size\=18>Left: </size>  
+sr:"^発動回数：([0-9]+)$"=Uses: $1
+r:"^あと<size\=([0-9]+)>([0-9]+)</size>回$"=Uses:<size\=$1>$2</size> left
+残り=Uses:
 
 // ---------- Store name first half ----------
 がおーっ！ライオン=Roar! Lion

@@ -165,6 +165,11 @@ sr:"^(?<lead_i>\\s*)(?:残り[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,�
 sr:"^(?<lead_i>\\s*)(?:本日[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,。]?(?<trail_i>\\s*)$"=${lead_i}Today: ${x}${trail_i}
 sr:"^(?<lead_i>\\s*)(?:本日あと[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,。]?(?<trail_i>\\s*)$"=${lead_i}Today: ${x} left${trail_i}
 sr:"^(?<lead_i>\\s*)(?:本日残り[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,。]?(?<trail_i>\\s*)$"=${lead_i}Today: ${x} remaining${trail_i}
+// the use counter on skill icons (残り3 / 残り3回)
+sr:"^(?<lead_i>\\s*)(?:残り[ 　]*(?<n_i>[0-9０-９]+(?:[.．][0-9０-９]+)?)回?)[、,。]?(?<trail_i>\\s*)$"=${lead_i}${n_i} Uses${trail_i}
+// same with <size> tags around the number
+sr:"^(?<lead_i>\\s*)(?:残り[ 　]*(?<a_i>(?:<[^>]+>)*)(?<n_i>[0-9０-９]+(?:[.．][0-9０-９]+)?)(?<b_i>(?:</[^>]+>)*)回?)[、,。]?(?<trail_i>\\s*)$"=${lead_i}${a_i}${n_i}${b_i} Uses${trail_i}
+sr:"^(?<lead_i>\\s*)(?:本日残り[ 　]*(?<n_i>[0-9０-９]+(?:[.．][0-9０-９]+)?)回?)[、,。]?(?<trail_i>\\s*)$"=${lead_i}${n_i} Uses Left${trail_i}
 sr:"^(?<lead_i>\\s*)(?:今回残り[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,。]?(?<trail_i>\\s*)$"=${lead_i}This time: ${x} remaining${trail_i}
 sr:"^(?<lead_i>\\s*)(?:今週[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,。]?(?<trail_i>\\s*)$"=${lead_i}This week: ${x}${trail_i}
 sr:"^(?<lead_i>\\s*)(?:今月[ 　]*(?<x>(?:<[^>]+>)*[0-9０-９][^\\n]*))[、,。]?(?<trail_i>\\s*)$"=${lead_i}This month: ${x}${trail_i}

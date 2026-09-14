@@ -32,6 +32,9 @@
 // moved up from line 1408 so it is not shadowed by the shorter key `倍！` below
 なかよしPt<size\=24><color\=#FFEE00>2</color></size>倍！=Friendship <size\=24><color\=#FFEE00>x2</color></size>!
 // removed: 倍！=x!  (handled by KF3_Rules.txt "X N倍！")
+きみのあしおとがまたきこえた=I heard your footsteps, again.
+野生解放アイテムが獲得できますよ\n今日も張り切っていきましょう！=You can earn Wild Release items! Let's give it our all today!
+けものミラクルの強化アイテムが\n獲得できますよ\n今日も張り切っていきましょう！=You can earn Miracle power-up items! Let's give it our all again today!
 
 // ---------- MENU STUFF AGAIN (INFO BOXES, WARNINGS) ----------
 スタースタンプ交換所=Star Stamp Exchange
