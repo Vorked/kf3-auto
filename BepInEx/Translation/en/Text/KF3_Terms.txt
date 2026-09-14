@@ -384,3 +384,5 @@ MP減少=MP decrease
 不利属性=disadvantaged attribute
 満タン=full
 回避率=Evade rate
+する=.
+し=, and
