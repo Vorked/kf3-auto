@@ -354,3 +354,6 @@ r:"^フリー([0-9]+)をクリア$"=Clear Free Ep. $1
 // Try!!/Action! damage-up lines (were r: rules; ％ is now a substitution so they must be splitters, which see the original text)
 sr:"^Try!! ダメージアップ＋(?<n_i>[0-9]+(?:\.[0-9]+)?)[%％]$"=Try! Damage increase +${n_i}%.
 sr:"^Action! ダメージアップ＋(?<n_i>[0-9]+(?:\.[0-9]+)?)[%％]$"=Action! Damage increase +${n_i}%.
+// rich-text dialogs whose red span is half a sentence: translate the whole sentence, keep the tags (splitters run before the rich-text parser)
+sr:"^(?<l_i>\\s*)クエストをプレイする際に\\s*(?<t_i><color[^>]*>)一度見たストーリーを再生しない設定(?<e_i></color>)に変更します。?(?<r_i>\\s*)$"=${l_i}When playing a Quest,\n${t_i}Stories you have already seen will no longer be replayed${e_i}.${r_i}
+sr:"^(?<l_i>\\s*)クエストをプレイする際に\\s*(?<t_i><color[^>]*>)一度見たストーリーを再生する設定(?<e_i></color>)に変更します。?(?<r_i>\\s*)$"=${l_i}When playing a Quest,\n${t_i}Stories you have already seen will be replayed again${e_i}.${r_i}
