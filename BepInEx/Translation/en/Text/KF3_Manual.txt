@@ -1428,3 +1428,6 @@ PPPブローチ=PPP Brooch
 // ---------- collab characters (Friends list wiki) ----------
 アンゴル\=モア=Angol Mois
 アリサ\=サザンクロス=Alisa Southerncross
+
+// picnic roster labels (exact entries so the parser is not run per icon)
+編成できません=Can't be Organized
