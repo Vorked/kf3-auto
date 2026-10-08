@@ -3,6 +3,13 @@
 // (tools\check_protected.py). Plain entries only match when the whole string equals the key.
 
 // ---------- from More-Whatevers-1.txt ----------
+超越けものたちの力=Transcendence Beast Power
+超越=Transcendence
+けものたちの力=Power of Beasts
+みんなを守るために…=To protect everyone...
+ドールを超えたドール=The Dhole Beyond Dhole
+ワイルドハント=The Wild Hunt
+群れのみんなとＧＯ=Let's GO with the whole group!
 平穏の光が差す方へ=Toward the Light of Peace
 半人半竜の人気者=The Popular Half-Human, Half-Dragon
 美少女ナンバーワン=Number One Pretty Girl
