@@ -1,6 +1,10 @@
 ﻿// Preprocessors: plain text replacements applied ONLY to the text sent to Google (never to manual translations).
 // Use for Japanese terms Google mistranslates (たいりょく=HP). Latin-only keys are almost always pointless here.
 
+プロアイルルス=Proailurus
+モスマン=Mothman
+チュパカブラ=Chupacabra
+
 ジャパリまんじゅう=Japari Bun
 ジャパリ=Japari
 

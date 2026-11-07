@@ -2727,6 +2727,8 @@ Ssrインテリアボーナス=Ssr Interior Bonus
 シールコレクション=Sticker Collection
 
 // ---------- FRIENDS AND MISC ----------
+プロアイルルス=Proailurus
+プロアイルルス=Proailurus
 アカウミガメ=Loggerhead Turtle
 アオウミガメ=Green Turtle
 マッコウクジラ=Sperm Whale
@@ -2781,6 +2783,7 @@ N・ハイランドワイルドドッグ=Highland Wild Dog
 ミナミコアリクイ=Tamandua
 ブラッザグエノン=De Brazza's Monkey
 オカピ=Okapi
+シロツチノコ=White Tsuchinoko
 ツチノコ=Tsuchinoko
 アメリカビーバー=North American Beaver
 オグロプレーリードッグ=Black-Tailed Prairie Dog
@@ -3960,3 +3963,5 @@ HAW-206=HAW-206
 華麗に舞いま〜す=Dance Beautifully～
 神代の白き翼=The White Wings of the Ancient Age
 楽しさマシマシ！ＡＣＴ．２=Double the Fun! ACT. 2
+モスマン=Mothman
+チュパカブラ=Chupacabra

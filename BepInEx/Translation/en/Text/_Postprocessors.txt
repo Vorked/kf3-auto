@@ -3,7 +3,7 @@
 
 // ---------- The Dreaded /n fix ----------
 /n=\n
-
+Pro-Eye Lulu S=Proailurus
 // ---------- Term fixes ----------
 Small Trading Pyroxene=Trading Small Pyroxene
 Kaihi=Evasion
@@ -66,6 +66,7 @@ taichô=Captain
  's='s
  :=:
  ;=;
+,,=,
 Frends=friends
 // ---------- Fix friend type ----------
 fanny frenzies=Funny Friends
