@@ -1,0 +1,12 @@
+// KF3_Cleanup.txt - last-pass fixes applied to the finished ENGLISH by KF3TextFit ([Cleanup] FixList).
+// DO NOT MOVE THIS INTO YOUR TRANSLATION FILE
+
+Ba nana=banana
+Ba Nana=banana
+ba Nana=banana
+A Lulu=Alulu
+a Lulu=Alulu
+a lulu=Alulu
+
+// Add more as you meet them. To find candidates, look for a capitalised Friend name sitting as its own word
+// inside what should be one word; the fragment before it is usually one or two syllables of kana.
